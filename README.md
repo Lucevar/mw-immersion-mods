@@ -39,7 +39,12 @@ Guide to a lore-friendly, rp-rich Morrowind experience.
 
 # Skills
 
+# Magic
+* No-Glo
+* Cantrips
+
 # Levelling & Attribute System
+* Mort's Solstheim & Bloodmoon rebalances
 
 # NPCs, Pets & Companions
 * Animated Morrowind
@@ -51,6 +56,8 @@ Guide to a lore-friendly, rp-rich Morrowind experience.
 # Environment
 * Graphic Herbalism - MWSE Edition
 * Glow in the Dahrk
+* [R-Zero's Chimney Smoke Fix](https://www.nexusmods.com/morrowind/mods/44025)
+* Those bastard rope fences
 
 # Religion
 * Shrines of the Seven Graces
@@ -58,6 +65,8 @@ Guide to a lore-friendly, rp-rich Morrowind experience.
 * [Temples with Shrines](https://www.nexusmods.com/morrowind/mods/45535)
 
 # Disease
+* Blight Bounties
+* Corprus Progression
 
 # Addiction
 
@@ -71,5 +80,8 @@ Guide to a lore-friendly, rp-rich Morrowind experience.
 * Ajira's Reports
 
 # Sounds & Music
+* [Cave Drips](https://www.nexusmods.com/morrowind/mods/43488) - adds visual drips to accompany the vanilla cave drip sounds.  
+* [Flies](https://www.nexusmods.com/morrowind/mods/43481) - adds swarms of flies wherever the vanilla flies sound plays.  
+* Kirel's Interior Weather Sounds
 
 # Misc

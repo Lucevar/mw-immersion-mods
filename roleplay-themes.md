@@ -1,3 +1,8 @@
+# Alternate Chargen
+* Royal Chargen
+* Midgetalien's Solstheim Chargen
+*
+
 # Roleplay - Barbarian
 * Illiterate
 * Lock-bashing
@@ -8,6 +13,8 @@
 # Roleplay - Wizard
 * UL
 * Scripted Spells
+* Caldera Mages Guild Expanded
+* Wolverine Hall overhaul
 
 # Roleplay - Ordinary Joe
 * MD's Job Agency
@@ -33,3 +40,15 @@
 # Ashlander
 
 # Archer
+
+# Bard
+* Danae's Bard mod
+
+# Healer
+
+# Farmer
+
+# Sailor
+
+# Alchemist
+* [A Strange Plant](https://www.nexusmods.com/morrowind/mods/42009)
