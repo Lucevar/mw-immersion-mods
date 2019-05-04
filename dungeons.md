@@ -373,7 +373,7 @@ Drive head first into another dwemer dungeon only this time its bigger and bette
 **Falensarano** - [Falensarano - The Ruined Stronghold](https://www.nexusmods.com/morrowind/mods/44244) by *CarrotFerret*  
 **Hlormaren** - [MRenewal - Hlormaren](https://www.nexusmods.com/morrowind/mods/46648)  
 **Indoranyon**  
-**Kogoruhn** - DD, [Kogoruhn Expanded](https://www.nexusmods.com/morrowind/mods/46098) by *Team Drama Kwama*, [Kogoruhn Ruins](https://www.nexusmods.com/morrowind/mods/44034) by *Langusteer*  
+**Kogoruhn** - DD, [Kogoruhn Expanded](https://www.nexusmods.com/morrowind/mods/46098), [Kogoruhn Ruins](https://www.nexusmods.com/morrowind/mods/44034)  
 **Marandus** - [LGNPC Pax Redoran](http://lgnpc.org/downloads)  
 **Rotheran**  
 **Telasero**  
@@ -385,24 +385,24 @@ Drive head first into another dwemer dungeon only this time its bigger and bette
 **Arkngthunch-Sturdumz** - DRP  
 **Bethamez** - DRP  
 **Bthanchend**  
-**Bthuand** - [Bthuand Expanded](https://www.nexusmods.com/morrowind/mods/46055) by *Jsp25*  
+**Bthuand** - [Bthuand Expanded](https://www.nexusmods.com/morrowind/mods/46055)  
 **Bthungthumz**  
-**Dagoth Ur** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544) by *Darknut*  
+**Dagoth Ur** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544)  
 **Druscashti**  
-**Endusal** - [Endusal Redone](https://www.nexusmods.com/morrowind/mods/43399) by *Trainwiz*  
+**Endusal** - [Endusal Redone](https://www.nexusmods.com/morrowind/mods/43399)  
 **Galom Daeus**  
 **Mudan**  
 **Mzahnch** - DRP  
 **Mzanchend**  
 **Mzuleft** - DRP  
-**Nchardahrk**  - DRP
-**Nchardumz** - [Aetherium Forging](https://www.nexusmods.com/morrowind/mods/44436) by *Grond1911*  
+**Nchardahrk**  - DRP  
+**Nchardumz** - [Aetherium Forging](https://www.nexusmods.com/morrowind/mods/44436)  
 **Nchuleft** - DRP, [Nchuleft Dwemer Home](http://mw.modhistory.com/download-98-12765)  
 **Nchuleftingth**  
 **Nchurdamz**  
-**Odrosal** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544) by *Darknut*  
-**Tureynulal** - [Tureynulal Redone](https://www.nexusmods.com/morrowind/mods/43399) by *Trainwiz*  
-**Vemynal** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544) by *Darknut*  
+**Odrosal** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544)  
+**Tureynulal** - [Tureynulal Redone](https://www.nexusmods.com/morrowind/mods/43399)  
+**Vemynal** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544)  
 
 ## <a name="grottos"></a>Grottos
 **Akimaes Grotto** - M&C  
