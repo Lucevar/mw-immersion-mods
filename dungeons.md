@@ -1,7 +1,7 @@
 ---
 Title: Dungeons
 ---
-**Updated**: 23/12/2018
+**Updated**: 2019/05/04
 
 **Contents:**
 - [General Replacers](#replacers)
@@ -102,10 +102,39 @@ Adds a new dungeon underneath Caldera mine.
 [**Crooked Tower**](http://mw.modhistory.com/download-56-8638) by *Noirgrim*  
 This old, rundown Imperial Bastion has seen better days and many  strange and unique "things" have managed to place themselves here.  Besides  being a fun and intriguing adventure, 31 new scripts add realism to this  new land.   Assassination attempts, nobles rising from the dead, and a wondering, walking  wall whom wonders the corridors fill this tower along with many other fascinating sights. The adventure begins in Balmora when you are confronted by a messenger who  leaves after the mission starts, as not to clutter Balmora any further.  
 
+[**The Banished Cells**](https://www.nexusmods.com/morrowind/mods/46620) by Tel Shadow  
+Explore the old and forgotten ruined fortress home to many of the damned, a long dead evil await true death.  
+
+[**Elden Hollow**](https://www.nexusmods.com/morrowind/mods/46622) by Tel Shadow  
+Explore the overgrown ruin, consumed with many things, safety is not one of them, be on your gaurd.. Elden Hollow is an underground Dungeon that lay under Tel Vos, once a mine has now turned into a overgrown husk for the trees around it,as you would think nothing of such a place, but the Thalmor think differently and have taken Elden Hollow.  
+
+[**King of Worms**](https://www.nexusmods.com/morrowind/mods/46611) by Tel Shadow and Caeris  
+A new adventure awaits any noble Mages Guild members ready to face the king of worms.  
+
+[**Sthomrond's Workshop**](https://www.nexusmods.com/morrowind/mods/46635) by Tel Shadow  
+Explore Sthomronds Workshop.. A dwemer dungeon in dagon fel, explore the many rooms as well as the loot.. but it will not be as easy as that.
+
+[**Darkshade Caverns**](https://www.nexusmods.com/morrowind/mods/46662) by Tel Shadow  
+A long forgotten eggmine. filled with things to kill and chests to find... Uncover the Darkshade Caverns the ruins of the long dead dwemer lay in the egg mins depths...
+
+[**Fungal Grotto**](https://www.nexusmods.com/morrowind/mods/46660) by Tel Shadow  
+A secret cave hidden in front of the people of sadrith mora now the home to.. runaway slaves and bandits.. this infected cave of mushroom spores consumes anyone that enters..
+
+[**Jirtes Fort**](https://www.nexusmods.com/morrowind/mods/46681) by Tel Shadow  
+Explore a small and left in ruin dwemer ruin.. many things are hidden in its stone walls..
+
+[**Sthonbric Ruin**](https://www.nexusmods.com/morrowind/mods/46682) by Tel Shadow  
+Sthonbric Ruin is a large under ground dwemer ruin you will find more then enough to fill your bags. watch out for hidden chests and the dwemer that guard the ruin..  
+
+[**Vernheim**](https://www.nexusmods.com/morrowind/mods/46683) by Tel Shadow  
+Drive head first into another dwemer dungeon only this time its bigger and better.. filled to the jar with goodies... well if you make it to them..
+
+
+
 ## <a name="tombs"></a>Ancestral Tombs
 **Alas Ancestral Tomb** - [Nyarlathotep](https://www.nexusmods.com/morrowind/mods/44284) by *Rankless Corgi*  
 **Alen Ancestral Tomb**  
-**Andalen Ancestral Tomb**  
+**Andalen Ancestral Tomb**  - [Zebabi Expanded](https://www.nexusmods.com/morrowind/mods/46276)
 **Andalor Ancestral Tomb**  
 **Andas Ancestral Tomb**  
 **Andavel Ancestral Tomb**  
@@ -286,7 +315,7 @@ This old, rundown Imperial Bastion has seen better days and many  strange and un
 **Zainsipilu** - M&C  
 **Zaintirari** - M&C  
 **Zanabi**  
-**Zebabi**  
+**Zebabi** - [Zebabi Expanded](https://www.nexusmods.com/morrowind/mods/46276)
 **Zenarbael** - M&C  
 
 ## <a name="daedric"></a>Daedric Shrines - Malacath
@@ -338,11 +367,11 @@ This old, rundown Imperial Bastion has seen better days and many  strange and un
 **Shrine of Mephala** - [The Shrine of Mephala](http://mw.modhistory.com/download-112-11326) by *Westly*  
 
 ## <a name="dunmer"></a>Dunmer Strongholds
-**Andasreth**  
+**Andasreth**  - [Andasreth Stronghold](https://www.nexusmods.com/morrowind/mods/46604)
 **Berandas**  
-**Falasmaryon**  
+**Falasmaryon**  - [Falasmaryon Overhaul](https://www.nexusmods.com/morrowind/mods/46460)
 **Falensarano** - [Falensarano - The Ruined Stronghold](https://www.nexusmods.com/morrowind/mods/44244) by *CarrotFerret*  
-**Hlormaren**  
+**Hlormaren** - [MRenewal - Hlormaren](https://www.nexusmods.com/morrowind/mods/46648)
 **Indoranyon**  
 **Kogoruhn** - DD, [Kogoruhn Expanded](https://www.nexusmods.com/morrowind/mods/46098) by *Team Drama Kwama*, [Kogoruhn Ruins](https://www.nexusmods.com/morrowind/mods/44034) by *Langusteer*  
 **Marandus** - [LGNPC Pax Redoran](http://lgnpc.org/downloads)  
@@ -366,7 +395,7 @@ This old, rundown Imperial Bastion has seen better days and many  strange and un
 **Mzahnch** - DRP  
 **Mzanchend**  
 **Mzuleft** - DRP  
-**Nchardahrk**  
+**Nchardahrk**  - DRP
 **Nchardumz** - [Aetherium Forging](https://www.nexusmods.com/morrowind/mods/44436) by *Grond1911*  
 **Nchuleft** - DRP, [Nchuleft Dwemer Home](http://mw.modhistory.com/download-98-12765)  
 **Nchuleftingth**  

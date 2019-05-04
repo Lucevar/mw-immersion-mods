@@ -1,5 +1,5 @@
 # MGE/MWSE Mods List
-**Updated**: 2018/12/21
+**Updated**: 2019/05/04
 
 First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) and the most recent version of [**MWSE**](https://nullcascade.com/mwse/mwse-dev.zip) and the [**Morrowind Code Patch (MCP)**](https://www.nexusmods.com/morrowind/mods/19510) for good measure.  
 
@@ -7,7 +7,92 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.  
 
-## New since last update (2018/09/11-2018/12/21)  
+## New since update on 2019/12/21 (2018/12/21-2019/05/04)  
+[**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Melchior Dahrk and Greatness7  
+The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
+
+[**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
+Realistic Repair overhauls the repair mechanic, by making it so that repair hammers can only be used by activating an anvil, and prongs used by activating a forge.
+
+[**Switchable Scriptures**](https://www.nexusmods.com/morrowind/mods/46680) by Stuporstar and NullCascade  
+Lets you open or close any book or scroll in the game. A perfect companion to Perfect Placement!
+
+[**Give a Gift**](https://www.nexusmods.com/morrowind/mods/46661) by NullCascade  
+The player can now also bribe NPCs with items, instead of just gold.
+
+[**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
+Bed Buddies prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.  
+
+[**Smart Map**](https://www.nexusmods.com/morrowind/mods/46634) by abot  
+If you like to have the in game map open and pinned, you may find this mod useful. Basically it tries to automatically smart-switch between local and world map view.
+
+[**HUD Hider**](https://www.nexusmods.com/morrowind/mods/46642) by NullCascade  
+Adds a simple configurable keybind that turns the main HUD on/off.
+
+[Gizmo the Guar Fabricant Companion](https://www.nexusmods.com/morrowind/mods/46587) by Melchior Dahrk
+Adds a Fabricant Guar companion named Gizmo. Gizmo comes with many new features including petting him, giving him treats and folding into an anuic entanglement matrix.  
+
+[**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
+Now works with OpenMW! MWSE Graphic Herbalism harnesses the power of lua and mesh switchnodes, allowing this mod to be run without an esp or standard scripts. This dramatically optimizes performance compared to older graphic herbalism mods. It also comes with an mod configuration menu to allow you to change settings.
+
+[**Illiterate**](https://www.nexusmods.com/morrowind/mods/46600) by Petethegoat  
+Read is hard. Me not read until me brain get bigger. Me like pictures, no need read.  
+
+[**Wings of Will**](https://www.nexusmods.com/morrowind/mods/46626) by sataniel  
+In the base game, the levitation speed is based on the Speed attribute. This never made much sense to me. You can levitate faster by being a great runner? Now levitation is based on the Willpower attribute (just as the Alteration skill is) with other calculations remaining the same.
+
+[**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade  
+Enables picking up books by default, instead of opening them. This can be disabled by holding shift. The behavior can be inverted using the mod config menu.  
+
+[**Perfect Placement**](https://www.nexusmods.com/morrowind/mods/46562) by Hrnchamd  
+Adds interactive placement, rotation and wall mounting of items. Arrange gear, books and anything else you can pick up.
+- Perfect Placement places the item exactly on top of surfaces in horizontal mode, and auto-aligns the item against vertical surfaces while in vertical mode.
+- Items in Vertical Mode can be mounted to walls just by placing them against a wall.
+- Rotation Snap lets you line up books precisely.
+- Copy Last Rotation causes the held item to match the rotation of the last item you placed.
+- Carry your stuff around anywhere, but you will drop it if you have to ready your weapons or magic!
+
+
+[**Companion Health Bars**](https://www.nexusmods.com/morrowind/mods/46136) by mesafoo
+Companion Health Bars is an MWSE lua mod that will add health bars for your companions and summoned creatures to the Morrowind HUD.  
+
+[**Easy MCM**](https://www.nexusmods.com/morrowind/mods/46427) by Merlord  
+A library that makes creating mod configuration menus a lot easier. Now merged into MWSE2.1+ itself - no need to download separately!  
+
+[**GMST Menu**](https://www.nexusmods.com/morrowind/mods/46428) by Merlord  
+Edit literally every GMST in the game, while you're in the game!  
+
+[**Frostfire Morrowind Overhaul**](https://www.nexusmods.com/morrowind/mods/45514) by efrost  
+Wide-ranging set of balance changing, with MWSE requirements for the Stealth and Marksman modules.  
+
+[**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade  
+Puts optional restrictions on jumping, including a cooldown and/or minimum fatigue.  
+
+[**Better Music System Redone - For Vanilla and MUSE**](https://www.nexusmods.com/morrowind/mods/46312) by Morthrug  
+An alternative to BTB's Edit of Xiran's Better Music System mod, with custom immersive music tracks, redone battle music and simplified categorisation. Comes with a MUSE-compatible setup.  
+
+[**Di.Still.ed Lights**](https://www.nexusmods.com/morrowind/mods/46291?) by multiple  
+Removes flicker effect from all light sources except fire flames, rationalises light radii to make them more consistent, and overall darkens interiors.  
+
+[**MWSE Clock Block**](https://www.nexusmods.com/morrowind/mods/46292?) by Al3ister  
+Adds clock to UI that displays either game world time or real time (depending on settings)  
+
+[**Retroactive Health**](https://www.nexusmods.com/morrowind/mods/46277?tab=description) by HunterSpark  
+This is working Retroactive Health, based on Vanilla Calculation for Health. This means that your Maximum Health is recalculated every time your Strength, Endurance or Level changes.  
+
+[**MWSE Unique Item Tooltips**](https://www.nexusmods.com/morrowind/mods/46122) by anumaril21  
+Provides helpful tooltips/flavor texts for all Quest Items, Unique Items, and some Artifacts within Morrowind, Tribunal, Bloodmoon, and the Official Plugins.  
+
+[**QuickLoot**](https://www.nexusmods.com/morrowind/mods/46283) by Mort  
+Adds a Fallout 4-style loot menu to Morrowind.  
+
+[**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
+This mod uses MWSE Lua to modify movement speeds when strafing or backpedalling so that they are more realistic. NPCs and player alike will no longer be able to fire volleys of arrows while running backwards to safety. Movement direction is now tactically important. These changes automatically apply to the player and any NPCs / Creatures (modded or vanilla) without using a plugin or altering your savegame.  
+
+[**MWSE Arms and Armor Tooltips**](https://www.nexusmods.com/morrowind/mods/46285) by anumaril21  
+MWSE Arms & Armor Tooltips adds flavor text descriptions to all basic and generic enchanted Weapons and Armor within the game, its expansions, and the official plugins. These are written to be both immersive and lore-friendly.
+
+## New since update on 2018/09/11 (2018/09/11-2018/12/21)  
 [**Morrowind Graphics Guide Shaders**](https://www.nexusmods.com/morrowind/mods/46158) by DassiD (editing existing MGE shaders)  
 A set of MGE XE shaders tweaked to work well with the [Morrowind Graphic Guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide).
 
