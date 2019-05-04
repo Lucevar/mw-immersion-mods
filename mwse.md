@@ -8,6 +8,9 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.  
 
 ## New since update on 2019/12/21 (2018/12/21-2019/05/04)  
+[**The Last Witness**](https://www.nexusmods.com/morrowind/mods/46684) by NullCascade  
+This mod allows you to kill all the witnesses of a crime to remove the bounty. The player must be quick though, as word spreads fast.
+
 [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Melchior Dahrk and Greatness7  
 The radius of a handheld light will gradually diminish and eventually go out when the light extinguishes.
 

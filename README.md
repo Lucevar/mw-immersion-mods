@@ -118,6 +118,7 @@ Guide to a lore-friendly, rp-rich Morrowind experience.
 
 # Crime and Justice
 * [Inquisitive Guards](https://www.nexusmods.com/morrowind/mods/46538)
+* [The Last Witness](https://www.nexusmods.com/morrowind/mods/46684)
 
 # Disease
 * Blight Bounties
