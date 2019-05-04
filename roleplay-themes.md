@@ -17,6 +17,10 @@
 # Witchhunter
 
 # Daedra Worshipper
+## Sheogorath
+* [Throwable Eggs](https://www.nexusmods.com/morrowind/mods/46446)
+* Immersive Madness
+* [Kwama Eggshell Helmet](https://www.nexusmods.com/morrowind/mods/46366)
 
 # Assassin
 

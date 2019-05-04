@@ -46,6 +46,7 @@ Guide to a lore-friendly, rp-rich Morrowind experience.
 * Starfires
 * MCA
 * Children of Morrowind
+* [Actual Big Head](https://www.nexusmods.com/morrowind/mods/44042)
 
 # Environment
 * Graphic Herbalism - MWSE Edition
@@ -53,7 +54,8 @@ Guide to a lore-friendly, rp-rich Morrowind experience.
 
 # Religion
 * Shrines of the Seven Graces
-* Holidays of Tamriel
+* Holidays Across Tamriel
+* [Temples with Shrines](https://www.nexusmods.com/morrowind/mods/45535)
 
 # Disease
 
@@ -69,3 +71,5 @@ Guide to a lore-friendly, rp-rich Morrowind experience.
 * Ajira's Reports
 
 # Sounds & Music
+
+# Misc
