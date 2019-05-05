@@ -5,7 +5,11 @@ First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) and the 
 
 This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mods. Unless otherwise stated I don't vouch for quality or compatibility.  
 
-If a mod requires both MGE and MWSE I usually categorise it under MWSE.  
+If a mod requires both MGE and MWSE I usually categorise it under MWSE.
+
+## New since 2019/05/04
+[Limited Intervention](https://www.nexusmods.com/morrowind/mods/46687) by Merlord  
+This mod limits the number of times you can cast Divine and ALMSIVI Intervention, based on your ranks in the Divine Cult and Tribunal Temple, respectively. MCM settings allow you to choose how many interventions are granted to you per rank. Scrolls and enchantments are not affected. 
 
 ## New since update on 2019/12/21 (2018/12/21-2019/05/04)  
 [**The Last Witness**](https://www.nexusmods.com/morrowind/mods/46684) by NullCascade  
