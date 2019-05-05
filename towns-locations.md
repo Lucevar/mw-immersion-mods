@@ -25,6 +25,7 @@
 * [Wolverine Hall Overhaul](https://www.nexusmods.com/morrowind/mods/46672)
 * [Andasreth Stronghold](https://www.nexusmods.com/morrowind/mods/46604)
 * [MRenewal - Hlormaren](https://www.nexusmods.com/morrowind/mods/46648)
+* [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691/)
 
 * [The Island - Aln'Baldrahn](https://www.nexusmods.com/morrowind/mods/43187)
 * [Dwarven Head Landmark](https://www.nexusmods.com/morrowind/mods/46258)
