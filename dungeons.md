@@ -259,7 +259,7 @@ Allows the player to buy and run a mine.
 **Bensamsi** - [Salt Gems of Bensamsi](https://www.nexusmods.com/morrowind/mods/45126), [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
 **Cavern of the Incarnate** - [Cavern of the Incarnate Overhaul](https://www.nexusmods.com/morrowind/mods/42860), [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
 **Corprusarium**  
-**Dubdilla** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
+**Dubdilla** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720)  
 **Dun-Ahhe** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Ebonheart, Underground Caves**  
 **Habinbaes** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
