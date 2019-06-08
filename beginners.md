@@ -60,6 +60,9 @@ Alternatives:
 [**Westly's Pluginless Head Replacer**](https://download.fliggerty.com/download--874) by Westly  
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by Greatness7 & the community  
 
+## Towns  
+[**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk  
+
 ## Terrain & Nature
 [**Vanilla Land**](https://www.nexusmods.com/morrowind/mods/45953) by OtisGeo  
 [**Caverns Bump Mapped**](https://www.nexusmods.com/morrowind/mods/42412) by Lougian  
