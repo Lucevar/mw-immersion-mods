@@ -14,7 +14,7 @@ Note: included in MGE XE 0.11.0 installer.
 
 ## Utilities for Mod-Makers
 [**TES3 Construction Set**](https://www.nexusmods.com/morrowind/mods/42196) by Bethesda  
-The Construction Set for Steam users, since Steam doesn't include the CS in its download.
+The Construction Set for Steam users, since Steam doesn't include the CS in its download.  
 [**Quick Char**](http://mw.modhistory.com/download-44-7364) by Bink & Maximus  
 For quicker mod testing.  
 
