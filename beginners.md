@@ -8,6 +8,7 @@ These are listed in roughly the order you should install them.
 # Essential 3rd Party Utilities
 [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510) by Hrnchamd  
 [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) by Hrnchamd & MGE Team   
+Make sure to get [**DirectX 9.0c**](https://www.microsoft.com/en-us/download/details.aspx?id=35) as well - yes, future me reading this, it does have to be THIS version of DirectX.  
 [**MWSE 2.1**](https://nullcascade.com/mwse/mwse-dev.zip) by NullCascade & MWSE Team  
 Note: included in MGE XE 0.11.0 installer.  
 [**Wrye Mash (Polemos Fork) 2018**](https://www.nexusmods.com/morrowind/mods/45439) by Polemos & Wrye  
@@ -25,6 +26,8 @@ For quicker mod testing.
 [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228) by Half11  
 [**Fix those bastard rope fences**](https://www.nexusmods.com/morrowind/mods/45741) by Petethegoat and EJ12  
 This colourfully named mod fixes player animations and rope meshes so that you get stuck much, much less often. It's an absolute lifesaver of a mod.  
+[**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade  
+Speaking of life-saving mods, this one fixes a bug where Morrowind will often hang when you try to exit the game (or when you CTD). This will save you a LOT of time.  
 
 ## Performance Tweaks
 [**Morrowind Optimisation Patch**](https://www.nexusmods.com/morrowind/mods/45384) by Greatness7 and Remiros  
@@ -49,6 +52,9 @@ Alternatives:
 [**Illy's Solstheim Rumour Fix**](https://www.moddb.com/games/morrowind/addons/illys-solsteim-rumour-fix) by Illy  
 
 # Graphics Replacers
+## Magic Effects
+[**Pluginless No Glow**](http://mw.modhistory.com/download-4-11984) by Plangkye
+
 ## Character Models, Heads & Hair
 [**Better Bodies**](http://mw.modhistory.com/download-21-2406) by Psychodog Studios  
 [**Westly's Pluginless Head Replacer**](https://download.fliggerty.com/download--874) by Westly  
