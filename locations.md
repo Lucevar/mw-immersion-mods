@@ -12,3 +12,4 @@
 * [The Island - Aln'Baldrahn](https://www.nexusmods.com/morrowind/mods/43187)
 * [Dwarven Head Landmark](https://www.nexusmods.com/morrowind/mods/46258)
 [**Omani Manor - Hlaalu Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/46147) 
+[**Shrine of Mount Assarnibi**](https://www.nexusmods.com/morrowind/mods/46858) by istreddify
