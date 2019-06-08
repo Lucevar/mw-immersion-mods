@@ -1,6 +1,6 @@
 # Towns
 # General
-Barabus's Fireplaces  
+[**Barabus's Fireplaces**](https://www.nexusmods.com/morrowind/mods/45766) by Barabus (update by PoodleSandwich)  
 [**Holidays Across Tamriel**](https://www.nexusmods.com/morrowind/mods/43131/) by Lord Berandas  
 [**Temples With Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
 
