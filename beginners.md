@@ -24,11 +24,11 @@ The Construction Set for Steam users, since Steam doesn't include the CS in its 
 [**Fix those bastard rope fences**](https://www.nexusmods.com/morrowind/mods/45741) by Petethegoat and EJ12  
 This colourfully named mod fixes player animations and rope meshes so that you get stuck much, much less often. It's an absolute lifesaver of a mod.  
 
-# Performance Tweaks
+## Performance Tweaks
 [**Morrowind Optimisation Patch**](https://www.nexusmods.com/morrowind/mods/45384) by Greatness7 and Remiros  
 [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by Project Atlas Team  
 
-# Dialogue Fixes
+## Dialogue Fixes
 [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
 [**VGreetings**](http://mw.modhistory.com/download-42-13335) by TheOtherFelix  
 
@@ -49,7 +49,29 @@ Alternatives:
 # Graphics Replacers
 ## Character Models, Heads & Hair
 [**Better Bodies**](http://mw.modhistory.com/download-21-2406) by Psychodog Studios  
-[**Westly's Pluginless Head Replacer**](https://download.fliggerty.com/download--874) by Westly
+[**Westly's Pluginless Head Replacer**](https://download.fliggerty.com/download--874) by Westly  
+[**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by Greatness7 & the community  
 
-## Terrain
-[**Vanilla Land**](https://www.nexusmods.com/morrowind/mods/45953) by OtisGeo
+## Terrain & Nature
+[**Vanilla Land**](https://www.nexusmods.com/morrowind/mods/45953) by OtisGeo  
+[**Caverns Bump Mapped**](https://www.nexusmods.com/morrowind/mods/42412) by Lougian  
+[**Graphic Herbalism**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar & Greatness7  
+
+### Bitter Coast
+While I'll leave most of my location/landscape recommendations to another list, I find that the following mods make a huge difference to how well the Bitter Coast blends in with groundcover mods. Most of this list is optional, but this section is... superoptional or something.  
+
+[**Bitter Coast Redux I - Landscape**](https://www.nexusmods.com/morrowind/mods/45708) by CptJoker  
+[**Bitter Coast Redux II - Trees & Flora**](https://www.nexusmods.com/morrowind/mods/45762) by CptJoker  
+[**Scum Retexture - Alternative 2**](https://www.nexusmods.com/morrowind/mods/42582) by Lougian  
+
+### Groundcover
+There are four primary options for groundcover mods. Generally speaking groundcover mods are modular by region so you can pick and choose which options you like best for each region. 
+
+To use these, generate distant land with the grass esps included. **DO NOT** activate the esps in Morrowind Launcher/Wrye Mash etc. You will encounter terrible fps and collision problems if you try to play with the esps active. 
+
+[**Remiros Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros  
+- Includes groundcover for Tamriel Rebuilt  
+[**Aesthesia Groundcover**](https://www.nexusmods.com/morrowind/mods/46377) by Rytelier
+- Includes groundcover for Tamriel Rebuilt  
+[**Vurt's Groundcover**](https://www.nexusmods.com/morrowind/mods/31051) by Vurt - usually paired with [**Azura's Coast and Sheogorath Grass**](https://www.nexusmods.com/morrowind/mods/30788) by Muspila  
+[**Ozzy's Groundcover**](https://www.moddb.com/mods/ozzys-grass-merged-openmw-compatible/downloads/ozzys-grass-merged-103) by Ozzy  
