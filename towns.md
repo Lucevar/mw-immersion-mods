@@ -1,7 +1,14 @@
 # Towns
+# General
+Barabus's Fireplaces
 
 # Bitter Coast
 ## Seyda Neen
+There have been a lot of mods for Seyda Neen over the years. My recommendation is: 
+
+[**Immersive Seyda Neen**](https://www.nexusmods.com/morrowind/mods/44441) by DremoraLord98  
+
+Alternates include but are not limited to [**Seyda Neen Slums**](https://www.nexusmods.com/morrowind/mods/46837?tab=posts), [**More Detailed Places Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46231), [**Seyda Neen Tree Removal**](https://www.nexusmods.com/morrowind/mods/45990) for an expanded and treeless Seyda Neen, [**Lived Towns - Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46703), [**Seyda Neen Houseboat**](https://www.nexusmods.com/morrowind/mods/43364), and [**Trancemaster's New Seyda Neen**](https://www.nexusmods.com/morrowind/mods/42234).
 
 ## Hla Oad
 
@@ -26,6 +33,7 @@
 ## Tel Fyr
 
 ## Sadrith Mora
+[**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by Mort
 
 ## Tel Aruhn
 
@@ -64,7 +72,6 @@
 
 ## Maar Gan
 * [Vvardenfell Revisited - Khuul](https://www.nexusmods.com/morrowind/mods/46614)
-* [Wolverine Hall Overhaul](https://www.nexusmods.com/morrowind/mods/46672)
 * Telvanni Lighthouses
 * [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177)
 * [Tower of Tel Vos](https://www.nexusmods.com/morrowind/mods/43527)
