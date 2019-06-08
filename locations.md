@@ -11,3 +11,4 @@
 * [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691/)
 * [The Island - Aln'Baldrahn](https://www.nexusmods.com/morrowind/mods/43187)
 * [Dwarven Head Landmark](https://www.nexusmods.com/morrowind/mods/46258)
+[**Omani Manor - Hlaalu Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/46147) 
