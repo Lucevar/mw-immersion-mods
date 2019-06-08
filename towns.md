@@ -4,6 +4,7 @@
 [**Holidays Across Tamriel**](https://www.nexusmods.com/morrowind/mods/43131/) by Lord Berandas  
 [**Temples With Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
 [**Velothi Wall Art**](https://www.nexusmods.com/morrowind/mods/46454) by Ashtaar  
+[**Imperials Go Home**](https://www.nexusmods.com/morrowind/mods/44984) by Rats - adds anti-Imperial graffiti around Vvardenfell  
 
 # Mournhold
 [**A Walk in the Park - Mournhold Temple Courtyard Overhaul**](https://www.nexusmods.com/morrowind/mods/46861) by seelof  
