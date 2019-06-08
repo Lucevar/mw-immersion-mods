@@ -128,7 +128,7 @@ Alternatively, [**Vvardenfell Revisited - Khuul**](https://www.nexusmods.com/mor
 Alternatively, [**Vvardenfell Revisited - Caldera**](https://www.nexusmods.com/morrowind/mods/45182) by EnnetWinterhoof or [**Improved Caldera**](https://www.nexusmods.com/morrowind/mods/45000) by sorcerorsorceror. 
 
 ## Balmora
-Balmora has a ridiculous number of mods - it's a meme for a reason! I recommend Kilcunda's plus my interior mods (there are not quite so many interior mods as exterior mods for Balmora, so I don't feel *too* bad about the shameless plugging here). But there are plenty of alternatives if Kilcunda's isn't quite to your taste.
+Balmora has a ridiculous number of mods - it's a meme for a reason! I recommend Kilcunda's plus my interior mods (there are not quite so many interior mods as exterior mods for Balmora, so I don't feel *too* bad about the shameless plugging here). But there are plenty of alternatives if Kilcunda's isn't quite to your taste.  
 [**Kilcunda's Balmora**](https://www.nexusmods.com/morrowind/mods/44149) by Kilcunda  
 [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
 [**Balmora Redecorated**](https://www.nexusmods.com/morrowind/mods/42580) by Lucevar  
