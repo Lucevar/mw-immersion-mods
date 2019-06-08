@@ -12,9 +12,11 @@ These are listed in roughly the order you should install them.
 Note: included in MGE XE 0.11.0 installer.  
 [**Wrye Mash (Polemos Fork) 2018**](https://www.nexusmods.com/morrowind/mods/45439) by Polemos & Wrye  
 
-## 3rd Party Utilities for Mod-Makers
+## Utilities for Mod-Makers
 [**TES3 Construction Set**](https://www.nexusmods.com/morrowind/mods/42196) by Bethesda  
 The Construction Set for Steam users, since Steam doesn't include the CS in its download.
+[**Quick Char**](http://mw.modhistory.com/download-44-7364) by Bink & Maximus  
+For quicker mod testing.  
 
 # Bug Fixes
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096?) by Half11  
@@ -70,8 +72,8 @@ There are four primary options for groundcover mods. Generally speaking groundco
 To use these, generate distant land with the grass esps included. **DO NOT** activate the esps in Morrowind Launcher/Wrye Mash etc. You will encounter terrible fps and collision problems if you try to play with the esps active. 
 
 [**Remiros Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros  
-- Includes groundcover for Tamriel Rebuilt  
-[**Aesthesia Groundcover**](https://www.nexusmods.com/morrowind/mods/46377) by Rytelier
-- Includes groundcover for Tamriel Rebuilt  
+Includes groundcover for Tamriel Rebuilt  
+[**Aesthesia Groundcover**](https://www.nexusmods.com/morrowind/mods/46377) by Rytelier  
+Includes groundcover for Tamriel Rebuilt  
 [**Vurt's Groundcover**](https://www.nexusmods.com/morrowind/mods/31051) by Vurt - usually paired with [**Azura's Coast and Sheogorath Grass**](https://www.nexusmods.com/morrowind/mods/30788) by Muspila  
 [**Ozzy's Groundcover**](https://www.moddb.com/mods/ozzys-grass-merged-openmw-compatible/downloads/ozzys-grass-merged-103) by Ozzy  
