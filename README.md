@@ -6,6 +6,7 @@ There are a number of fairly up to date graphics guides for Morrowind, but for m
 This is very much a collaborative project - if you think of a mod that fits the theme of one of these lists that I haven't included, please submit a pull request or send me a PM on the Morrowind Modding Discord or on the Morrowind Nexus (username: Lucevar). I can't promise to include every suggestion, but I will always consider it!
 
 **Contents**
+- [Morrowind Mods for Beginners](https://github.com/Lucevar/mw-immersion-mods/blob/master/beginners.md)
 - [MWSE Mods](https://github.com/Lucevar/mw-immersion-mods/blob/master/mwse.md)
 - [Dungeon Mods](https://github.com/Lucevar/mw-immersion-mods/blob/master/dungeons.md)
 - [Festive & Seasonal Mods](https://github.com/Lucevar/mw-immersion-mods/blob/master/festive.md)
@@ -16,4 +17,3 @@ This is very much a collaborative project - if you think of a mod that fits the 
 - [WIP - Loading Screens](https://github.com/Lucevar/mw-immersion-mods/blob/master/loadingscreens.md)
 - [WIP - House Mods](https://github.com/Lucevar/mw-immersion-mods/blob/master/houses.md)
 - [WIP - Faction Mods](https://github.com/Lucevar/mw-immersion-mods/blob/master/factions.md)
-- [WIP - Morrowind Mods for Beginners](https://github.com/Lucevar/mw-immersion-mods/blob/master/beginners.md)
