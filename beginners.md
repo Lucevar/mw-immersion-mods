@@ -1,5 +1,5 @@
 # Minimalist Mod List for Beginners
-**Updated:** June 2nd, 2019
+**Updated:** June 8th, 2019
 
 The idea of this mod list is to provide a basic set of mods for new players or a starter set for more experienced modders building a new installation. AKA it's a checklist for me so I don't have to remember or start from scratch every time I start a new game!  
 
