@@ -218,7 +218,7 @@ Allows the player to buy and run a mine.
 **Saren Ancestral Tomb**  
 **Sarethi Ancestral Tomb**  
 **Sarys Ancestral Tomb**  
-**Savel Ancestral Tomb**  
+**Savel Ancestral Tomb** - [King of Worms](https://www.nexusmods.com/morrowind/mods/46611)  
 **Senim Ancestral Tomb**  
 **Seran Ancestral Tomb** - [Spidersilk Shield](https://www.nexusmods.com/morrowind/mods/46220)  
 **Serano Ancestral Tomb**  
