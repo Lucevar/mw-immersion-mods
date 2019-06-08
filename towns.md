@@ -3,6 +3,7 @@
 [**Barabus's Fireplaces**](https://www.nexusmods.com/morrowind/mods/45766) by Barabus (update by PoodleSandwich)  
 [**Holidays Across Tamriel**](https://www.nexusmods.com/morrowind/mods/43131/) by Lord Berandas  
 [**Temples With Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
+[**Velothi Wall Art**](https://www.nexusmods.com/morrowind/mods/46454) by Ashtaar  
 
 # Mournhold
 [**A Walk in the Park - Mournhold Temple Courtyard Overhaul**](https://www.nexusmods.com/morrowind/mods/46861) by seelof  
@@ -63,9 +64,12 @@ These two affect different parts of Ebonheart and are therefore compatible.
 [**RR - Tel Branora Lighthouse**](https://www.nexusmods.com/morrowind/mods/42664) by Resdayn Revival Team  
 
 ## Sadrith Mora
+Believe it or not... all of these are compatible (with one or two small bugs).  
 [**Sadrith Mora Alterations**](https://www.nexusmods.com/morrowind/mods/45516?tab=files) by Lougian (optional file)  
 [**Sadrith Mora Closed City**](https://www.nexusmods.com/morrowind/mods/8359) by Crustacean  
 [**Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn and PoodleSandwich - includes voice lines by the original Dunmer voice actor!!  
+[**Epic Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/43057) by mike_and_ike  
+[**Sadrith Mora Expanded**](https://www.nexusmods.com/morrowind/mods/44113) by Hlaalu66  
 
 
 [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by Mort  
@@ -82,6 +86,7 @@ You would think that Tower of Tel Vos and Tel Vos Castle conflict, but as far as
 [**Tower of Tel Vos**](https://www.nexusmods.com/morrowind/mods/43527) by Melchior Dahrk  
 [**Tel Vos Castle - Overhaul**](https://www.nexusmods.com/morrowind/mods/46730?) by Tel Shadow  
 [**Tel Vos Dungeon Overhaul**](https://www.nexusmods.com/morrowind/mods/46676) by Tel Shadow  
+[**Tel Vos Lighthouse**](https://www.nexusmods.com/morrowind/mods/42744) by the Resdayn Revival Team  
 
 ## Vos
 [**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729) by Tyddyner and Melchior Dahrk  
@@ -91,41 +96,57 @@ You would think that Tower of Tel Vos and Tel Vos Castle conflict, but as far as
 
 # Molag Amur
 ## Molag Mar
+[**Molag Mar X**](https://www.nexusmods.com/morrowind/mods/46273) by SammyB27  
 
 ## Tel Uvirith
+[**Uvirith's Legacy**](http://stuporstar.sarahdimento.com/updates/downloads/) by Stuporstar
+
+or
+
+[**Tel Uvirith LITE**](https://www.nexusmods.com/morrowind/mods/45615) by Mala
 
 # Sheogorad
 ## Dagon Fel
-
-## Ald Redaynia
+[**Epic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/43939) by mike_and_ike  
 
 # West Gash
 ## Gnisis
+[**Better Gnisis Arch**](https://www.nexusmods.com/morrowind/mods/46224) by the Resdayn Revival Team  
 
 ## Ald Velothi
 
 ## Khuul
-[**Vvardenfell Revisited - Khuul**](https://www.nexusmods.com/morrowind/mods/46614) by EnnetWinterhoof  
+[**Khuul Expanded**](https://www.nexusmods.com/morrowind/mods/32643) by caseytucker  
+
+Alternatively, [**Vvardenfell Revisited - Khuul**](https://www.nexusmods.com/morrowind/mods/46614) by EnnetWinterhoof, [**More Detailed Places - Khuul**](https://www.nexusmods.com/morrowind/mods/29965), or [**Milik's Khuul Facelift**](https://www.nexusmods.com/morrowind/mods/19657) by Milik.    
 
 ## Caldera
+[**Caldera Mages Guild Expanded**](https://www.nexusmods.com/morrowind/mods/45750) by Lucevar  
+[**Caldera Mine Expanded**](https://www.nexusmods.com/morrowind/mods/45194) by Team Dreamy Dremora  
+[**Caldera Clutter**](https://www.nexusmods.com/morrowind/mods/43773) by Jason210  
+
+Alternatively, [**Vvardenfell Revisited - Caldera**](https://www.nexusmods.com/morrowind/mods/45182) by EnnetWinterhoof or [**Improved Caldera**](https://www.nexusmods.com/morrowind/mods/45000) by sorcerorsorceror. 
 
 ## Balmora
+Balmora has a ridiculous number of mods - it's a meme for a reason! I recommend Kilcunda's plus my interior mods (there are not quite so many interior mods as exterior mods for Balmora, so I don't feel *too* bad about the shameless plugging here). But there are plenty of alternatives if Kilcunda's isn't quite to your taste.
+[**Kilcunda's Balmora**](https://www.nexusmods.com/morrowind/mods/44149) by Kilcunda  
+[**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
+[**Balmora Redecorated**](https://www.nexusmods.com/morrowind/mods/42580) by Lucevar  
+
+Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014) by mike_and_ike, [**Balmora Underworld**](https://www.nexusmods.com/morrowind/mods/42448) by Fulgore, the classic [**Balmora Expansion**](https://www.nexusmods.com/morrowind/mods/42342), [**Walled City of Balmora**](https://www.nexusmods.com/morrowind/mods/42524), [**Concept Art Balmora**](https://www.nexusmods.com/morrowind/mods/45149), [**City of Balmora - Hlaalu Expansion**](https://www.nexusmods.com/morrowind/mods/45324) by Praedator and EnvyDeveloper, [**Balmora Ragoxified**](https://www.nexusmods.com/morrowind/mods/38235) by Ragox, [**Balmora Market and Ghetto Shacks**](https://www.nexusmods.com/morrowind/mods/43434) by ThanMan16  
 
 # Ashlands
 ## Ald-ruhn
+[**Aldruhn Temple Expansion**](http://mw.modhistory.com/download-80-14377) by Xeth-Ban  
+or  
+[**Epic Aldruhn**](https://www.nexusmods.com/morrowind/mods/43072) by mike_and_ike  
 
 ## Bal Isra
 
 ## Maar Gan
+[**More Detailed Places - Maar Gan**](https://www.nexusmods.com/morrowind/mods/29602) by Ragox  
 
 # New Towns
 ## New Arenthia
 [**New Arenthia**](https://www.nexusmods.com/morrowind/mods/46830)
 Located near Vivec. Adds a town founded by a Bosmer winemaker and his assorted friends and retainers.
-
-* [Better Gnisis Arch](https://www.nexusmods.com/morrowind/mods/46224)
-* [Bigger Temples - Urbanopticum of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46184)
-* [Stav's Boxes - Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/43237)
-* [Molag Mar X](https://www.nexusmods.com/morrowind/mods/46273)
-* [Ports of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46272)
-* [Striderports](https://www.nexusmods.com/morrowind/mods/44139/)
