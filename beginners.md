@@ -56,12 +56,13 @@ Alternatives:
 [**Pluginless No Glow**](http://mw.modhistory.com/download-4-11984) by Plangkye
 
 ## Character Models, Heads & Hair
-[**Better Bodies**](http://mw.modhistory.com/download-21-2406) by Psychodog Studios  
+[**Better Bodies**](https://www.nexusmods.com/morrowind/mods/3880) by Psychodog Studios  
 [**Westly's Pluginless Head Replacer**](https://download.fliggerty.com/download--874) by Westly  
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by Greatness7 & the community  
 
 ## Towns  
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk  
+[**Swappable Texture Signposts**](https://www.nexusmods.com/morrowind/mods/46804) by Stuporstar
 
 ## Terrain & Nature
 [**Vanilla Land**](https://www.nexusmods.com/morrowind/mods/45953) by OtisGeo  
