@@ -7,27 +7,30 @@ These are listed in roughly the order you should install them.
 
 # Essential 3rd Party Utilities
 [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510) by Hrnchamd  
-[**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) by Hrnchamd & MGE Team  
-[**Wrye Mash (Polemos Fork) 2018**](https://www.nexusmods.com/morrowind/mods/45439) by Polemos & Wrye   
-[**CAUTION! MWSE 2.1**](https://nullcascade.com/mwse/mwse-dev.zip) by NullCascade & MWSE Team  
+[**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) by Hrnchamd & MGE Team   
+[**MWSE 2.1**](https://nullcascade.com/mwse/mwse-dev.zip) by NullCascade & MWSE Team  
 Note: included in MGE XE 0.11.0 installer.  
-[**OPTIONAL TES3 Construction Set**](https://www.nexusmods.com/morrowind/mods/42196) by Bethesda  
+[**Wrye Mash (Polemos Fork) 2018**](https://www.nexusmods.com/morrowind/mods/45439) by Polemos & Wrye  
+
+## 3rd Party Utilities for Mod-Makers
+[**TES3 Construction Set**](https://www.nexusmods.com/morrowind/mods/42196) by Bethesda  
 The Construction Set for Steam users, since Steam doesn't include the CS in its download.
 
 # Bug Fixes
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096?) by Half11  
 [**WIP Detailed Correct UV Rocks**](https://www.nexusmods.com/morrowind/mods/44321/?) by Pherim  
-[**Morrowind Optimisation Patch**](https://www.nexusmods.com/morrowind/mods/45384) by Greatness7 and Remiros  
-[**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by Project Atlas Team  
 [**Sheep-No-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
 [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228) by Half11  
 [**Fix those bastard rope fences**](https://www.nexusmods.com/morrowind/mods/45741) by Petethegoat and EJ12  
 This colourfully named mod fixes player animations and rope meshes so that you get stuck much, much less often. It's an absolute lifesaver of a mod.  
 
+# Performance Tweaks
+[**Morrowind Optimisation Patch**](https://www.nexusmods.com/morrowind/mods/45384) by Greatness7 and Remiros  
+[**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by Project Atlas Team  
+
 # Dialogue Fixes
 [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
 [**VGreetings**](http://mw.modhistory.com/download-42-13335) by TheOtherFelix  
-[**Dialogue Reputation Fix**](https://www.nexusmods.com/morrowind/mods/46003) by Sirrus233  
 
 # Expansion Integration
 Note that both of these issues have been addressed in Patch for Purists since version 3.0.0. You may prefer to use the unmerged version of PFP, and skip the Expansion Implementation esp if you prefer to use the mods below.
@@ -44,5 +47,9 @@ Alternatives:
 [**Illy's Solstheim Rumour Fix**](https://www.moddb.com/games/morrowind/addons/illys-solsteim-rumour-fix) by Illy  
 
 # Graphics Replacers
-[**Better Bodies**]() by Psychodog Studios  
-[**Westly's Pluginless Head Replacer**]() by Westly  
+## Character Models, Heads & Hair
+[**Better Bodies**](http://mw.modhistory.com/download-21-2406) by Psychodog Studios  
+[**Westly's Pluginless Head Replacer**](https://download.fliggerty.com/download--874) by Westly
+
+## Terrain
+[**Vanilla Land**](https://www.nexusmods.com/morrowind/mods/45953) by OtisGeo
