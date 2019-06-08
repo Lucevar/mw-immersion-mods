@@ -1,6 +1,11 @@
 # Towns
 # General
 Barabus's Fireplaces
+[**Holidays Across Tamriel**](https://www.nexusmods.com/morrowind/mods/43131/) by Lord Berandas  
+[**Temples With Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
+
+# Mournhold
+[**A Walk in the Park - Mournhold Temple Courtyard Overhaul**](https://www.nexusmods.com/morrowind/mods/46861) by seelof  
 
 # Bitter Coast
 ## Seyda Neen
@@ -11,8 +16,17 @@ There have been a lot of mods for Seyda Neen over the years. My recommendation i
 Alternates include but are not limited to [**Seyda Neen Slums**](https://www.nexusmods.com/morrowind/mods/46837?tab=posts), [**More Detailed Places Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46231), [**Seyda Neen Tree Removal**](https://www.nexusmods.com/morrowind/mods/45990) for an expanded and treeless Seyda Neen, [**Lived Towns - Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46703), [**Seyda Neen Houseboat**](https://www.nexusmods.com/morrowind/mods/43364), and [**Trancemaster's New Seyda Neen**](https://www.nexusmods.com/morrowind/mods/42234).
 
 ## Hla Oad
+[**The Drop Off**](https://www.nexusmods.com/morrowind/mods/46827) by Darkry115  
+Overhauls Fat Leg's Drop off to make it much more interesting - and practical as the smuggling warehouse it's meant to be. Optionally extends the Hla Oad docks and adds extra lights.  
 
 ## Gnaar Mok
+[**New Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/22029) by Melchior Dahrk  
+A significant expansion to Gnaar Mok - makes it a bustling port town. Includes a new misc quest.
+
+or 
+
+[**More Detailed Places - Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/30152) by Ragox  
+For a more restrained aesthetic. Adds appropriate clutter to Gnaar Mok but doesn't substantially expand Gnaar Mok.
 
 # Ascadian Isles
 ## Pelagiad
@@ -20,12 +34,23 @@ Alternates include but are not limited to [**Seyda Neen Slums**](https://www.nex
 ## Suran
 
 ## Vivec
+These are all compatible, but whether or not you think they're aeshetically compatible (or whether your computer can handle them) are entirely different questions.  
+
+[**Dramatic Vivec**](https://www.nexusmods.com/morrowind/mods/43385) by LondonRook  
+Patch for Holidays Across Tamriel [here](https://www.nexusmods.com/morrowind/mods/44222).
+[**Passage of Prayers**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn, Sataniel & Remiros  
+[**Palace of Vehk**](https://www.nexusmods.com/morrowind/mods/46800) by Enclavekiller  
+[**Vivec Expansion**](https://www.nexusmods.com/morrowind/mods/43331/) by Hoghead the Terrible  
+
+[**Shrines of the Seven Graces**](https://www.nexusmods.com/morrowind/mods/46417?tab=files) by QueenLunara  
+The Shrine of Daring isn't compatible with Holidays Across Tamriel/Dramatic Vivec. I recommend getting the other six and leaving that one out.  
+
+[**Nemon's Vivec Interiorator**](http://mw.modhistory.com/download-80-11740) by Nemon  
+[**Vivec Guild of Mages Expanded**](https://www.nexusmods.com/morrowind/mods/44935) by Mordaxis  
 
 ## Ebonheart
 
 ## Rethan Manor
-
-## New Arenthia
 
 # Azura's Coast
 ## Tel Branora
@@ -33,16 +58,24 @@ Alternates include but are not limited to [**Seyda Neen Slums**](https://www.nex
 ## Tel Fyr
 
 ## Sadrith Mora
-[**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by Mort
+[**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by Mort  
+Have you ever thought that Wolverine Hall must have been designed by Sheogorath, specifically to frustrate you? So did mort. So he fixed it (and gave the mages some beds while he was at it.)
 
 ## Tel Aruhn
 
 # Grazelands
 ## Tel Vos
+You would think that Tower of Tel Vos and Tel Vos Castle conflict, but as far as I can tell they don't. Lucky us!  
+
+[**Tower of Tel Vos**](https://www.nexusmods.com/morrowind/mods/43527) by Melchior Dahrk  
+[**Tel Vos Castle - Overhaul**](https://www.nexusmods.com/morrowind/mods/46730?) by Tel Shadow  
+[**Tel Vos Dungeon Overhaul**](https://www.nexusmods.com/morrowind/mods/46676) by Tel Shadow  
 
 ## Vos
+[**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729) by Tyddyner and Melchior Dahrk  
 
 ## Tel Mora
+[**Of Ash and Blight - Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
 
 # Molag Amur
 ## Molag Mar
@@ -60,6 +93,7 @@ Alternates include but are not limited to [**Seyda Neen Slums**](https://www.nex
 ## Ald Velothi
 
 ## Khuul
+[**Vvardenfell Revisited - Khuul**](https://www.nexusmods.com/morrowind/mods/46614)
 
 ## Caldera
 
@@ -71,12 +105,17 @@ Alternates include but are not limited to [**Seyda Neen Slums**](https://www.nex
 ## Bal Isra
 
 ## Maar Gan
-* [Vvardenfell Revisited - Khuul](https://www.nexusmods.com/morrowind/mods/46614)
+
+# New Towns
+## New Arenthia
+[**New Arenthia**](https://www.nexusmods.com/morrowind/mods/46830)
+Located near Vivec. Adds a town founded by a Bosmer winemaker and his assorted friends and retainers.
+
+
 * Telvanni Lighthouses
-* [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177)
-* [Tower of Tel Vos](https://www.nexusmods.com/morrowind/mods/43527)
-* [Red Vos](https://www.nexusmods.com/morrowind/mods/44729)
-* [Tel Vos Dungeon Overhaul](https://www.nexusmods.com/morrowind/mods/46676)
+* 
+* 
+* 
 * [White Suran](https://www.nexusmods.com/morrowind/mods/44153)
 * [Better Mournhold](https://www.nexusmods.com/morrowind/mods/45986)
 * [Interiors of Mournhold](https://www.nexusmods.com/morrowind/mods/44447)
