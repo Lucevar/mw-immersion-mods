@@ -31,7 +31,7 @@ For a more restrained aesthetic. Adds appropriate clutter to Gnaar Mok but doesn
 
 # Ascadian Isles
 ## Pelagiad
-[**Vvardenfell Revisited - Pelagiad**](https://www.nexusmods.com/morrowind/mods/46776)
+[**Vvardenfell Revisited - Pelagiad**](https://www.nexusmods.com/morrowind/mods/46776) by EnnetWinterhoof  
 
 ## Suran
 [**White Suran**](https://www.nexusmods.com/morrowind/mods/44153) by Melchior Dahrk  
@@ -105,7 +105,7 @@ You would think that Tower of Tel Vos and Tel Vos Castle conflict, but as far as
 ## Ald Velothi
 
 ## Khuul
-[**Vvardenfell Revisited - Khuul**](https://www.nexusmods.com/morrowind/mods/46614)
+[**Vvardenfell Revisited - Khuul**](https://www.nexusmods.com/morrowind/mods/46614) by EnnetWinterhoof  
 
 ## Caldera
 
@@ -123,18 +123,9 @@ You would think that Tower of Tel Vos and Tel Vos Castle conflict, but as far as
 [**New Arenthia**](https://www.nexusmods.com/morrowind/mods/46830)
 Located near Vivec. Adds a town founded by a Bosmer winemaker and his assorted friends and retainers.
 
-
-* Telvanni Lighthouses
-* 
-* 
-* 
-* 
-* [Better Mournhold](https://www.nexusmods.com/morrowind/mods/45986)
-* [Interiors of Mournhold](https://www.nexusmods.com/morrowind/mods/44447)
 * [Better Gnisis Arch](https://www.nexusmods.com/morrowind/mods/46224)
 * [Bigger Temples - Urbanopticum of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46184)
 * [Stav's Boxes - Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/43237)
 * [Molag Mar X](https://www.nexusmods.com/morrowind/mods/46273)
 * [Ports of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46272)
 * [Striderports](https://www.nexusmods.com/morrowind/mods/44139/)
-* [Ebonheart Outskirts & Lighthouse](https://www.nexusmods.com/morrowind/mods/44994)
