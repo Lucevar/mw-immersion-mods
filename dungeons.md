@@ -1,7 +1,7 @@
 ---
 Title: Dungeons
 ---
-**Updated**: 2019/05/04
+**Updated**: 2019/06/08
 
 **Contents:**
 - [General Replacers](#replacers)
@@ -521,6 +521,9 @@ Allows the player to buy and run a mine.
 **Clockwork City** - [Sotha Sil Expanded](https://www.nexusmods.com/morrowind/mods/42347) by *Trainwiz*  
 
 ## <a name="bloodmoon"></a>Bloodmoon Barrows
+[**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826) by Melchior Dahrk  
+Adds a unique sound to Nordic barrows, instead of the Dunmer ancestral whispers sound.  
+
 **Bloodskal Barrow** - [The Stone Halls of Solstheim](https://www.nexusmods.com/morrowind/mods/45666) by *PikachunoTM* and *Corsair83*  
 **Connorflenge Barrow**  
 **Eddard Barrow**  
