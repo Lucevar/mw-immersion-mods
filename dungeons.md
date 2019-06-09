@@ -482,11 +482,11 @@ Allows the player to buy and run a mine.
 
 ## <a name="velothi"></a>Velothi Towers
 **Ald Redaynia**  
-**Ashmelech** - [Ashmelech Reborn](https://www.nexusmods.com/morrowind/mods/45648)
+**Ashmelech** - [Ashmelech Reborn](https://www.nexusmods.com/morrowind/mods/45648)  
 **Arvs-Drelen**  
 **Hanud**  
 **Mababi**  
-**Mawia**  - [Mawia Overhaul](https://www.nexusmods.com/morrowind/mods/46884)
+**Mawia**  - [Mawia Overhaul](https://www.nexusmods.com/morrowind/mods/46884)  
 **Odirniran**  
 **Sanni**  
 **Shara**  
