@@ -68,7 +68,7 @@ These two affect different parts of Ebonheart and are therefore compatible.
 Believe it or not... all of these are compatible (with one or two small bugs). Use [**this patch**](https://drive.google.com/open?id=1VYELi7cuma_wtXXOL9nJos65OrAL26OL) to fix the landscaping errors (load it last).  
 [**Epic Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/43057) by mike_and_ike  
 [**Sadrith Mora Expanded**](https://www.nexusmods.com/morrowind/mods/44113) by Hlaalu66  
-[**Sadrith Mora Alterations**](https://www.nexusmods.com/morrowind/mods/45516?tab=files) by Lougian (it's listed as an optional file)
+[**Sadrith Mora Alterations**](https://www.nexusmods.com/morrowind/mods/45516?tab=files) by Lougian (it's listed as an optional file)  
 [**Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn and PoodleSandwich - includes voice lines by the original Dunmer voice actor!!  
 [**Sadrith Mora Closed City**](https://www.nexusmods.com/morrowind/mods/8359) by Crustacean  
 
