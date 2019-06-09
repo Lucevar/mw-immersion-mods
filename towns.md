@@ -52,6 +52,7 @@ Patch for Holidays Across Tamriel [here](https://www.nexusmods.com/morrowind/mod
 [**Shrines of the Seven Graces**](https://www.nexusmods.com/morrowind/mods/46417?tab=files) by QueenLunara  
 The Shrine of Daring isn't compatible with Holidays Across Tamriel/Dramatic Vivec. I recommend getting the other six and leaving that one out.  
 
+[**The Lizard's Head**](https://www.nexusmods.com/morrowind/mods/39748) by DebiDalio  
 [**Nemon's Vivec Interiorator**](http://mw.modhistory.com/download-80-11740) by Nemon  
 [**Vivec Guild of Mages Expanded**](https://www.nexusmods.com/morrowind/mods/44935) by Mordaxis  
 
@@ -141,6 +142,8 @@ Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014)
 ## Ald-ruhn
 [**Redoran Council Hall Improvements](https://www.nexusmods.com/morrowind/mods/44931) by Kalian  
 [**Aldruhn Temple Expansion**](http://mw.modhistory.com/download-80-14377) by Xeth-Ban  
+[**The Rat in the Pot**](https://www.nexusmods.com/morrowind/mods/34186) by DebiDalio  
+[**Aldruhn Council Club**](https://www.nexusmods.com/morrowind/mods/34185) by DebiDalio  
 or  
 [**Epic Aldruhn**](https://www.nexusmods.com/morrowind/mods/43072) by mike_and_ike  
 
