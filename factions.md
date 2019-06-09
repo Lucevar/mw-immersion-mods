@@ -22,12 +22,16 @@ __*Lucevar's Note*__: Why have I listed it under quests and dialogue, I hear you
 Inspired by Jasons073's April Fool's joke, this mod makes Crassius Curio and Mistress Therana into romanceable companions. Find Crassius and Therana in their usual locations - you can recruit them when you are Nerevarine (to avoid interference with main quest). Obviously you cannot recruit Therana if you have killed her! Contains mild innuendo.  
 __*Lucevar's Note*__: These are fairly limited in scope - they're not full-fledged companions in the style of Julan or anything like that. But how could I leave them off a list like this? Surprisingly PG-13 for a mod that contains Crassius Curio.
 
+[**Hlaalu Rank Adjust**](http://mw.modhistory.com/download-87-5839) by Ithilien87  
+
 [**LGNPC**]()
 
 ## Great House Redoran
 [**LGNPC**]()  
 [**Olyn Hleran: A Redoran Companion**](https://www.nexusmods.com/morrowind/mods/45197) by Team Mythic Beasts  
 __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see the mod page: the screenshots are fairly representative of what I mean). Mod was created for MMM2017 and may have some rough edges.  
+
+[**Redoran Council Hall Improvements**](https://www.nexusmods.com/morrowind/mods/44931?tab=files) by Kalian
 
 ## Tribunal Temple
 [**Velothi Wall Art**]()  
@@ -63,6 +67,10 @@ Someone please make one!
 [**Dagon Fel Mages Guild**]()  
 [**Balmora Guilds Expanded**]() by Lucevar  
 [**Caldera Mages Guild Expanded**]() by Lucevar  
+[**Vivec Guild of Mages Expanded**]()  
+[**Scrolls of the Nine Barriers**]() by Melchior Dahrk
+
+[**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126) by Melchior Dahrk  
 [**King of Worms**](https://www.nexusmods.com/morrowind/mods/46611) by Tel Shadow and Caeris  
 
 ## Fighters Guild  
@@ -74,8 +82,21 @@ Someone please make one!
 Illy
 
 # Misc
+## Thieves Guild
+
+## Misc Smuggling Operations
+[**Adanumuran Reclaimed**](https://www.nexusmods.com/morrowind/mods/43340) by Danae  
+[**Dura gra-Bol and the Grab-All Gang**]() by Melchior Dahrk  
+
 ## Morag Tong
 
 ## Camonna Tong
 
 ## Vampire Clans
+
+## Ashlanders 
+
+## Blades
+
+# New Factions
+
