@@ -1,11 +1,12 @@
-# Dunmer Great Houses Mod List  
-**Updated**: 2019/05/04
+# Faction Mod List  
+**Updated**: 2019/06/08
 This list doesn't attempt to be comprehensive (there have been a *lot* of mods made for these factions over the years). I'd call it semi-curated - I can't personally vouch for every mod here, but I won't include a mod I know to be broken or of poor quality.  
 
 Descriptions are generally the mod author's (taken straight from the mod page) - my additions are marked as such:  
 __*Lucevar's Note*__  
 
-# Quests & Dialogue
+# Dunmer Great Houses & Temple
+## Quests & Dialogue
 ## Great House Hlaalu
 [**Roleplay Options for House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208?tab=posts) by Caeris & Luj1  
 Have you ever wanted to arrest the murderer of Ralen Hlaalo instead of killing him?  Well now you can. This mod adds several new ways of completing persuasion quests and such for Great House Hlaalu.
@@ -28,6 +29,16 @@ __*Lucevar's Note*__: These are fairly limited in scope - they're not full-fledg
 [**Olyn Hleran: A Redoran Companion**](https://www.nexusmods.com/morrowind/mods/45197) by Team Mythic Beasts  
 __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see the mod page: the screenshots are fairly representative of what I mean). Mod was created for MMM2017 and may have some rough edges.  
 
+## Tribunal Temple
+[**Velothi Wall Art**]()  
+[**Ald-ruhn Temple Expansion**]()  
+[**Urbanopticum**]()  
+[**Gnisis Hand**]()  
+[**Shrines of the Seven Graces**]()  
+[**Passage of Prayers**]()  
+[**Illuminated Palace**]()  
+[**Prison Moon Enhanced II**]()  
+
 ## Great House Telvanni
 [**LGNPC**]()
 [**Quest Tweaks and Alternatives**]() by Stuporstar  
@@ -44,4 +55,27 @@ Someone please make one!
 [**Building Up Uvirith's Legacy**]() by
 [**Tel Uvirith LITE**]
 [**Of Ash And Blight - Tel Mora](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk
-a
+
+# Imperial Factions
+## Mages Guild
+[**Mage Robes**]() by Melchior Dahrk  
+[**Magical Missions**]() 
+[**Dagon Fel Mages Guild**]()  
+[**Balmora Guilds Expanded**]() by Lucevar  
+[**Caldera Mages Guild Expanded**]() by Lucevar  
+[**King of Worms**](https://www.nexusmods.com/morrowind/mods/46611) by Tel Shadow and Caeris  
+
+## Fighters Guild  
+[**Balmora Guilds Expanded**]() by Lucevar  
+
+## Imperial Legion
+
+## Imperial Cult
+Illy
+
+# Misc
+## Morag Tong
+
+## Camonna Tong
+
+## Vampire Clans
