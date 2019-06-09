@@ -65,13 +65,12 @@ These two affect different parts of Ebonheart and are therefore compatible.
 [**RR - Tel Branora Lighthouse**](https://www.nexusmods.com/morrowind/mods/42664) by Resdayn Revival Team  
 
 ## Sadrith Mora
-Believe it or not... all of these are compatible (with one or two small bugs).  
-[**Sadrith Mora Alterations**](https://www.nexusmods.com/morrowind/mods/45516?tab=files) by Lougian (optional file)  
-[**Sadrith Mora Closed City**](https://www.nexusmods.com/morrowind/mods/8359) by Crustacean  
-[**Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn and PoodleSandwich - includes voice lines by the original Dunmer voice actor!!  
+Believe it or not... all of these are compatible (with one or two small bugs). Use [**this patch**](https://drive.google.com/open?id=1VYELi7cuma_wtXXOL9nJos65OrAL26OL) to fix the landscaping errors (load it last).  
 [**Epic Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/43057) by mike_and_ike  
 [**Sadrith Mora Expanded**](https://www.nexusmods.com/morrowind/mods/44113) by Hlaalu66  
-
+[**Sadrith Mora Alterations**](https://www.nexusmods.com/morrowind/mods/45516?tab=files) by Lougian (it's listed as an optional file)
+[**Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn and PoodleSandwich - includes voice lines by the original Dunmer voice actor!!  
+[**Sadrith Mora Closed City**](https://www.nexusmods.com/morrowind/mods/8359) by Crustacean  
 
 [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by Mort  
 Have you ever thought that Wolverine Hall must have been designed by Sheogorath, specifically to frustrate you? So did mort. So he fixed it (and gave the mages some beds while he was at it.)
@@ -134,6 +133,7 @@ Balmora has a ridiculous number of mods - it's a meme for a reason! I recommend 
 [**Kilcunda's Balmora**](https://www.nexusmods.com/morrowind/mods/44149) by Kilcunda  
 [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
 [**Balmora Redecorated**](https://www.nexusmods.com/morrowind/mods/42580) by Lucevar  
+[**South Wall, Den of Iniquity**](http://mw.modhistory.com/download-87-13449) by Balasthustrius  
 
 Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014) by mike_and_ike, [**Balmora Underworld**](https://www.nexusmods.com/morrowind/mods/42448) by Fulgore, the classic [**Balmora Expansion**](https://www.nexusmods.com/morrowind/mods/42342), [**Walled City of Balmora**](https://www.nexusmods.com/morrowind/mods/42524), [**Concept Art Balmora**](https://www.nexusmods.com/morrowind/mods/45149), [**City of Balmora - Hlaalu Expansion**](https://www.nexusmods.com/morrowind/mods/45324) by Praedator and EnvyDeveloper, [**Balmora Ragoxified**](https://www.nexusmods.com/morrowind/mods/38235) by Ragox, [**Balmora Market and Ghetto Shacks**](https://www.nexusmods.com/morrowind/mods/43434) by ThanMan16  
 
