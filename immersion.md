@@ -109,6 +109,7 @@ Guide to a lore-friendly, rp-rich Morrowind experience.
 * [Nighttime Door Locks](https://www.nexusmods.com/morrowind/mods/45526)
 * [Velothi Wall Art](https://www.nexusmods.com/morrowind/mods/46454?tab=files)
 * [Daedric Signposts](https://www.nexusmods.com/morrowind/mods/46513?)
+https://www.nexusmods.com/morrowind/mods/46075?tab=posts
 
 # Religion
 * [Seven Graces Shrines Enhanced](https://www.nexusmods.com/morrowind/mods/46417)
