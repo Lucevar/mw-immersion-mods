@@ -1,12 +1,12 @@
 
 
 # UI Changes or Gameplay Additions 
-These don't conflict with any of the below, so you can use them alongside your chargen mod of choice.
+These don't conflict with any of the below, so you can use them alongside your chargen mod of choice.  
 [**MWSE Random Character Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Aleister  
 [**Merlords Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795) by Merlord  
 
 # Minimalist
-Just get a game started more quickly - perfect for testing mods or just skipping the tutorial messages.
+Just get a game started more quickly - perfect for testing mods or just skipping the tutorial messages.  
 [**Fresh Start**](https://stuporstar.sarahdimento.com/updates/downloads/) by Stuporstar  
 [**QuickChar**](http://mw.modhistory.com/download-44-7364) by Bink and Maximus  
 [**Skip Tutorial**](http://mw.modhistory.com/download-53-5610) by cdcooley  
