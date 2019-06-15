@@ -110,6 +110,12 @@ or
 # Sheogorad
 ## Dagon Fel
 [**Epic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/43939) by mike_and_ike  
+or  
+[**Dagon Fel Updated**](https://www.nexusmods.com/morrowind/mods/43933) by hedgehog12  
+or
+[**Dagon Fel Mill**](https://www.nexusmods.com/morrowind/mods/42981) by Kursan  
+or  
+[**More Detailed Places - Dagon Fel**](https://www.nexusmods.com/morrowind/mods/30047) by Ragox  
 
 # West Gash
 ## Gnisis
