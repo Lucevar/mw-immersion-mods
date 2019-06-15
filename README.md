@@ -12,6 +12,7 @@ This is very much a collaborative project - if you think of a mod that fits the 
 - [Festive & Seasonal Mods](https://github.com/Lucevar/mw-immersion-mods/blob/master/festive.md)
 - [Towns](https://github.com/Lucevar/mw-immersion-mods/blob/master/towns.md)
 - [Locations and Landscapes](https://github.com/Lucevar/mw-immersion-mods/blob/master/locations.md)
+- [Chargen Mods](https://github.com/Lucevar/mw-immersion-mods/blob/master/chargen.md)
 - [WIP - Roleplay & Themed Mods](https://github.com/Lucevar/mw-immersion-mods/blob/master/roleplay-themes.md)
 - [WIP - Immersion Mods](https://github.com/Lucevar/mw-immersion-mods/blob/master/immersion.md)
 - [WIP - Quest Mods](https://github.com/Lucevar/mw-immersion-mods/blob/master/quests.md)
