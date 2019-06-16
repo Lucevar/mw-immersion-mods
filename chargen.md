@@ -55,7 +55,7 @@ You've been shipwrecked on an island, and must find your way off.
 This section contains chargen mods that keep the Seyda Neen start but tweak the atmosphere in some way, from starting you off at night to match the dream or making the census and excise experience more interesting.  
 
 [**Silent Chargen**](https://www.nexusmods.com/morrowind/mods/14890)  
-The vanilla chargen npcs will talk less.  
+The vanilla chargen sequence, but without pauses or tutorial messages. Also edits Sellus Gravius's dialogue so you don't have to click through several topics to get all the information and items you need.  
 
 [**Immersive Chargen**](https://www.nexusmods.com/morrowind/mods/22921) by Qebensenuf  
 [**Chargen at Night**](http://mw.modhistory.com/download-80-10934) by Xeth-Ban  
