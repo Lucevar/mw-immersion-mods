@@ -3,31 +3,42 @@
 # UI Changes or Gameplay Additions 
 These don't conflict with any of the below, so you can use them alongside your chargen mod of choice.  
 [**MWSE Random Character Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Aleister  
+Adds a random name generator to the chargen name selection UI. **Lucevar's note**: imo it fits in really well and the names it generates are very lore appropriate. As a MWSE mod it also doesn't take up any esp slots. If you've ever thought that thinking of a name is the most difficult part of chargen, I highly recommend this mod.  
 [**Merlords Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795) by Merlord  
+After chargen (vanilla or modded) ends, this mod adds an extra step: choose your character's background. Some are simple stat boosts/maluses, others add scripted events such as challengers seeking to challenge a Famed Warrior or the Framed background which boosts your stealth skills at the cost of sometimes finding yourself with a bounty on your head. It really adds an interesting extra dimension to character generation.  
 
 # Minimalist
 Just get a game started more quickly - perfect for testing mods or just skipping the tutorial messages.  
 [**Fresh Start**](https://stuporstar.sarahdimento.com/updates/downloads/) by Stuporstar  
+Starts you off in Seyda Neen just in front of Fargoth, skipping all the tutorial. If you want to start the main quest you can find a body with the packages for Caius in the river near Balmora.  
 [**QuickChar**](http://mw.modhistory.com/download-44-7364) by Bink and Maximus  
+Gives you the option to go through the regular tutorial sequence or to quickstart, which drops you in front of Captain Sellus Gravius to get your disbursal package.  
 [**Skip Tutorial**](http://mw.modhistory.com/download-53-5610) by cdcooley  
 
 # Classes
 [**Class Conscious**](https://www.nexusmods.com/morrowind/mods/46902) by Petethegoat  
+Disables custom classes - either pick an existing playable class (including playable classes added by mods) or go through the quiz.  
 [**Playable NPC Classes**](https://www.nexusmods.com/morrowind/mods/43428/) by Atrayonis  
+Adds the npc classes from Tamriel Data as playable classes.  
 
 # New Starting Options
 [**Personal Effects**](https://www.nexusmods.com/morrowind/mods/45338) by R-Zero  
 [**Chargen Revamped v2**](https://www.nexusmods.com/morrowind/mods/44110) by Mitokandria  
 [**Chargen Revamped - Expanded Lands**](https://www.nexusmods.com/morrowind/mods/44615) by Texafornian  
+An updated and expanded Chargen Revamped that lets you customise your attributes, skills, starting items, and starting location. Includes locations in Tamriel Rebuilt, Province: Cyrodiil, and Skyrim Home of the Nords as well as places on Vvardenfell and Solstheim. Also includes options to start with a companion, as a vampire or werewolf, or even to go through the vanilla chargen sequence.  
+**Lucevar's note**: This is the chargen mod that sets the standard for the rest. Unless you specifically want one of the themed chargens, something geared to mod testing, or something lightweight, this is probably the mod you're looking for. It covers most scenarios.  
 [**Comprehensive Chargen**](http://mw.modhistory.com/download-53-11464) by Shade the Bandit  
 [**Firewatch Character Creation**](https://www.nexusmods.com/morrowind/mods/45910) by wiz1  
+Starts you off in the mainland city of Firewatch. Requires Tamriel Rebuilt. 
 
 # Themed Chargen
 [**Royal Chargen**](http://mw.modhistory.com/download--7212) by Princess Stomper  
+Play as Helseth's illegitimate child, about to be banished from Mournhold for an offence you may or may not have committed. Includes unique dialogue for Helseth, Barenziah and a number of other NPCs. Also includes an expansion to the Royal Palace, with a room for the player when their family accepts them again (by helping Helseth during the Tribunal quest line.) Julan Ashlander Companion has unique dialogue for players using this mod.  
 [**Solstheim Begin**](https://www.nexusmods.com/morrowind/mods/39836/?) by Midgetalien  
 [**The Tempest**](https://www.nexusmods.com/morrowind/mods/46260) by Team Purist Pariahs  
 
 # Seyda Neen Chargen - Atmosphere Tweaks
+This section contains chargen mods that keep the Seyda Neen start but tweak the atmosphere in some way, from starting you off at night to match the dream or making the census and excise experience more interesting.  
 [**Silent Chargen**](https://www.nexusmods.com/morrowind/mods/14890)  
 [**Immersive Chargen**](https://www.nexusmods.com/morrowind/mods/22921) by Qebensenuf  
 [**Chargen at Night**](http://mw.modhistory.com/download-80-10934) by Xeth-Ban  
