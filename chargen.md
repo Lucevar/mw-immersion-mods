@@ -3,6 +3,7 @@ Make the experience of starting a new game far more interesting.
 
 # UI Changes or Gameplay Additions 
 These don't conflict with any of the below, so you can use them alongside your chargen mod of choice.  
+
 [**MWSE Random Character Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Aleister  
 Adds a random name generator to the chargen name selection UI. **Lucevar's note**: imo it fits in really well and the names it generates are very lore appropriate. As a MWSE mod it also doesn't take up any esp slots. If you've ever thought that thinking of a name is the most difficult part of chargen, I highly recommend this mod.  
 
@@ -59,6 +60,8 @@ This section contains chargen mods that keep the Seyda Neen start but tweak the 
 The vanilla chargen sequence, but without pauses or tutorial messages. Also edits Sellus Gravius's dialogue so you don't have to click through several topics to get all the information and items you need.  
 
 [**Immersive Chargen**](https://www.nexusmods.com/morrowind/mods/22921) by Qebensenuf  
+Significantly overhauls the Seyda Neen chargen experience, with a gritty redesign of the prison boat and Census and Excise office, new npcs with unique dialogue, scripted events, and choices for the player to make.  
+
 [**Chargen at Night**](http://mw.modhistory.com/download-80-10934) by Xeth-Ban  
 Chargen starts at night during a thunderstorm. Makes a surprising amount of difference to the atmosphere!  
 
