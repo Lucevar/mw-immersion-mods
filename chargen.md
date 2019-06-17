@@ -66,7 +66,7 @@ Significantly overhauls the Seyda Neen chargen experience, with a gritty redesig
 Chargen starts at night during a thunderstorm. Makes a surprising amount of difference to the atmosphere!  
 
 [**Chargen Revisited**](https://www.nexusmods.com/morrowind/mods/45510) by Zobator  
-Overhauls the census and excise office
+Overhauls the census and excise office and the prison ship. Notably does not get rid of the tutorial messages.  
 
 [**Improved Chargen**](https://www.nexusmods.com/morrowind/mods/29817) by InariKettu  
 A mod designed for testing other mods - start off at any level up to level 50 with appropriate equipment and spells.  
