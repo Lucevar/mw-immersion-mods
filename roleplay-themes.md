@@ -126,3 +126,12 @@ Nimawia Pearl farm
 
 # sVampire
 * [Comfy pillow for a restful sleep](https://www.nexusmods.com/morrowind/mods/46613)
+Ashmelech 
+Vampire embrace
+Scripted spells
+Vampiric hunger
+Children of the night
+The underground
+Merlord vampire mod
+Vampire dreams
+Random vampire attacks
