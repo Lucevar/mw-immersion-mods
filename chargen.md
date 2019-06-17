@@ -39,6 +39,7 @@ An updated and expanded Chargen Revamped that lets you customise your attributes
 **Lucevar's note**: This is the chargen mod that sets the standard for the rest. Unless you specifically want one of the themed chargens, something geared to mod testing, or something lightweight, this is probably the mod you're looking for. It covers most scenarios.  
 
 [**Comprehensive Chargen**](http://mw.modhistory.com/download-53-11464) by Shade the Bandit  
+Makes a few atmospheric tweaks including starting chargen at night and adds a number of new starting options. Notably you can choose your characters social class which determines how valuable your starting items are.  
 
 [**Firewatch Character Creation**](https://www.nexusmods.com/morrowind/mods/45910) by wiz1  
 Starts you off in the mainland city of Firewatch. Requires Tamriel Rebuilt. 
