@@ -19,6 +19,7 @@ Starts you off in Seyda Neen just in front of Fargoth, skipping all the tutorial
 Gives you the option to go through the regular tutorial sequence or to quickstart, which drops you in front of Captain Sellus Gravius to get your disbursal package.  
 
 [**Skip Tutorial**](http://mw.modhistory.com/download-53-5610) by cdcooley  
+Gets rid of the tutorial messages and speeds up the chargen npcs, or alternatively starts you off at the door of the Census and Excise Office with Fargoth's ring and 300 gold (to save you having to loot everything).  
 
 # Classes
 [**Class Conscious**](https://www.nexusmods.com/morrowind/mods/46902) by Petethegoat  
