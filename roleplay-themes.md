@@ -1,21 +1,17 @@
 **Updated**: 2019/05/04
 
 # Alternate Chargen
-* Royal Chargen
-* Midgetalien's Solstheim Chargen
-* [The Tempest](https://www.nexusmods.com/morrowind/mods/46260)
-* Chargen Revamped
-* QuickChar
-* [The Sooner You Leave](https://www.nexusmods.com/morrowind/mods/46644)
+See [**this list**] () 
 
 # Roleplay - Barbarian
-* Illiterate
-* Lock-bashing
+Illiterate by Petethegoat  
+Lock-bashing by Greatness7  
 
 # Roleplay - Outcast
-* Plaguebearer
+Plaguebearer by R-zero
 
 # Roleplay - Wizard
+See this list
 * UL
 * Scripted Spells
 * Caldera Mages Guild Expanded
@@ -27,7 +23,9 @@
 
 # Dwemer Scholar
 * [The Royal Game of Ur](https://www.nexusmods.com/morrowind/mods/44945)
-* [Gizmo the Fabricant Guar Companion](https://www.nexusmods.com/morrowind/mods/46587)
+* [Gizmo the Fabricant Guar Companion](https://www.nexusmods.com/morrowind/mods/46587)  
+Dwemer archaeological society. 
+Expedition to mzelthuand  
 
 # Warriors
 [Bucklers Remastered](https://www.nexusmods.com/morrowind/mods/46388)
@@ -70,19 +68,29 @@
 # Assassin
 
 # Thief
-* [Stealable Ash Mask](https://www.nexusmods.com/morrowind/mods/46207)
+* [Stealable Ash Mask](https://www.nexusmods.com/morrowind/mods/46207).  
+Thieves guild in gnaar mok  
+South Wall den of iniquity
+
+Smuggler
+Adanumuran reclaimed
+Dura gra bol and the graball gang
 
 # Imperial Loyalist
 * [Publius Claudius Follower](https://www.nexusmods.com/morrowind/mods/46645)
 * [The Fires of Orc](https://www.nexusmods.com/morrowind/mods/44982)
-* [Imperial Legion Expansion](https://www.nexusmods.com/morrowind/mods/44469)
+* [Imperial Legion Expansion](https://www.nexusmods.com/morrowind/mods/44469)  
+Gnisis docks
 
 # 6th House Believer
+The tribe unmourned
+Great House dagoth
 
 # Temple
 [Kummu Monastery Revisited](https://www.nexusmods.com/morrowind/mods/46565)
 
 # Ashlander
+Ashlander quests 
 
 # Archer
 * [Hunters Mark](https://www.nexusmods.com/morrowind/mods/46656)
@@ -90,6 +98,8 @@
 
 # Bard
 * Danae's Bard mod
+Bardic inspiration by merlord
+Entertainers expanded again
 
 # Healer
 
@@ -98,6 +108,7 @@
 # Sailor / Pirate / Diver / Water
 * [Pearls Enhanced](https://www.nexusmods.com/morrowind/mods/43190)
 * [Water Life]
+Nimawia Pearl farm
 
 # Alchemist
 * [A Strange Plant](https://www.nexusmods.com/morrowind/mods/42009)
