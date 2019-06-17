@@ -66,11 +66,13 @@ Significantly overhauls the Seyda Neen chargen experience, with a gritty redesig
 Chargen starts at night during a thunderstorm. Makes a surprising amount of difference to the atmosphere!  
 
 [**Chargen Revisited**](https://www.nexusmods.com/morrowind/mods/45510) by Zobator  
+Overhauls the census and excise office
 
 [**Improved Chargen**](https://www.nexusmods.com/morrowind/mods/29817) by InariKettu  
 A mod designed for testing other mods - start off at any level up to level 50 with appropriate equipment and spells.  
 
 [**Simple Alternate Chargen**](https://www.nexusmods.com/morrowind/mods/43386) by At_hatoor  
+Gives the player the option to start in six different cities.  
 
 [**Better Chargen**](https://www.nexusmods.com/morrowind/mods/43995) by helswake  
 Similar to Immersive Chargen but much less drastic. Gets rid of the tutorials, redesigns the census and excise office to be more office like and to prevent theft, and sets the start time to night.  
