@@ -4,7 +4,7 @@
 
 # Velothi
 Mawia Overhaul  
-Velothi inverted  
+[**Inverted Velothi Interiors**](http://mw.modhistory.com/download-35-10047) by DonnerGott  
 [**New Velothi Architecture**](https://www.nexusmods.com/morrowind/mods/43458) by Phaedrus/Gizmologist  
 [**Velothi Forge**](https://www.nexusmods.com/morrowind/mods/42486) by Slaanesh the Corruptor  
 
@@ -21,6 +21,8 @@ Velothi inverted
 
 
 # Faction Tilesets
+## Redoran
+[**Redoran Tiered Floors Resource**](https://download.fliggerty.com/download-56-624) by Latendresse76  
 
 ## telvanni
 [**Uvirith (Telvanni) Resources**](http://download.fliggerty.com/download--1191) by Stuporstar  
@@ -42,14 +44,16 @@ Adds Divine-specific variations of the Imperial Cult altars.
 
 
 # common
-Kiteflyer built in shelves  
+[**Built in bookcase resource**](https://download.fliggerty.com/download--591) by Kiteflyer61 and Latendresse76  
 [**Common Plain Floor and Ceiling Tiles**](https://www.nexusmods.com/morrowind/mods/46106) by CultofByron  
 [**Mod Pack 02**](https://www.nexusmods.com/morrowind/mods/43597) by The Wanderer  
 [**Smith Shed Resource**](https://www.nexusmods.com/morrowind/mods/42183) by Slartibartfast1  
 [**Nomad Bathtub and Outhouse**](https://www.nexusmods.com/morrowind/mods/1109) by Nomad  
 [**Thann's Imperial Buildings**](https://www.nexusmods.com/morrowind/mods/1036) by Thann  
-
-
+[**Zyndaar's Modular Common Set**](http://mw.modhistory.com/download-55-15420) by Zyndaar  
+[**Daggerfall Inspired Meshes**](http://mw.modhistory.com/download-55-14617) by Lord Berandas  
+[**Window Jambs**](http://mw.modhistory.com/download-55-6988) by Dongle  
+[**Stable**](http://mw.modhistory.com/download-55-5987) by Crazyboy  
 
 # Clutter & Furniture & Clothes
 # Tools
@@ -75,6 +79,10 @@ Stuporstar
 [**Carts and Wagons Resource**](https://www.nexusmods.com/morrowind/mods/42131) by Neoptolemus  
 [**Iron Stove**](https://www.nexusmods.com/morrowind/mods/24777) by Plangkye and Minamir  
 [**Kiriel's Furniture Statics**](https://www.nexusmods.com/morrowind/mods/6019) by Kiriel  
+[**Saints Banners**](http://mw.modhistory.com/download-55-11961) by Stalker  
+[**Dark Brotherhood Tapestry Resource**](http://mw.modhistory.com/download-55-6841) by Rattfink333  
+[**Nicoliathan's Furniture Resource**](https://download.fliggerty.com/download-56-259) by Nicoliathan  
+[**Cat Basket**](https://download.fliggerty.com/download-56-452) by Calislahn  
 
 # clutter
 [**Functional Dice**](http://download.fliggerty.com/download--1047) by Stuporstar  
@@ -86,8 +94,11 @@ Stuporstar
 [**Momo's Basket Resource**](https://www.nexusmods.com/morrowind/mods/41052) by Momo77  
 [**Document Items Resource**](https://www.nexusmods.com/morrowind/mods/37660) by Alaisiagae  
 [**Drum Resource**](https://www.nexusmods.com/morrowind/mods/37590) by Alaisiagae  
-
-
+[**Silveri's Misc Pack 2**](http://mw.modhistory.com/download-55-12244) by Silveri  
+Silveri's resources tend to be very vibrant, but since most of the resources in this pack are folded clothes it's less obnoxious.  
+[**Authentic Documents**](http://mw.modhistory.com/download-55-12092) by Korana  
+[**Morrowind Decorative stuff**](http://mw.modhistory.com/download-55-6625) by Runspect  
+This one has the globe.  
 
 # Dungeons
 # Dunmer Stronghold
@@ -98,6 +109,7 @@ Stuporstar
 # Barrow or Nords
 [**Winterhold Style Building**](https://www.nexusmods.com/morrowind/mods/44145) by Rubberman  
 [**Skyrim Lumber Mill**](https://www.nexusmods.com/morrowind/mods/42375) by Rubberman  
+[**Nomad's Resource Pack**](http://mw.modhistory.com/download-55-15408) by Nomad  
 
 # Sixth House
 [**Kogoruhn Expanded**](https://www.nexusmods.com/morrowind/mods/46098) by Team Drama Kwama  
@@ -108,6 +120,11 @@ Stuporstar
 [**Daedric Hall Tall Tileset**](https://www.nexusmods.com/morrowind/mods/46145) by Darknut  
 [**Darknut's Apocrypha Assets**](https://www.nexusmods.com/morrowind/mods/46141) by Darknut  
 [**Piratelord's Daedric Realm Resources**](https://www.nexusmods.com/morrowind/mods/42464) by Piratelord  
+[**Daedric Floor Tiles**](http://mw.modhistory.com/download-55-6023) by MagicNakor  
+[**Wolli's Daedric Tidbits**](http://mw.modhistory.com/download-55-6671) by Wollibeebee  
+[**One**](http://mw.modhistory.com/download-51-13183), [**Two**](http://mw.modhistory.com/download-51-13184), [**Three**](http://mw.modhistory.com/download-51-13185), [**Four**](http://mw.modhistory.com/download-51-13215), [**Five**](http://mw.modhistory.com/download-4-13929), [**Six**](http://mw.modhistory.com/download-4-13933) - Daedric resources by Midgetalien  
+[**Daedric Throne**](https://download.fliggerty.com/download-56-230) by Luma  
+
 
 
 # Dwemer
@@ -117,8 +134,10 @@ Stuporstar
 [**Dwemer Chainlink Corridors Tileset**](https://www.nexusmods.com/morrowind/mods/26581) by Tchos  
 [**GZ Maxipack Dwemer**](https://www.nexusmods.com/morrowind/mods/17686) by TR Gez  
 [**Greater Dwemer Ruins Resources**](https://www.nexusmods.com/morrowind/mods/6958) by Piratelord  
+[**Dwemer Bed and Lamp**](http://mw.modhistory.com/download-51-13319) by Midgetalien  
 
 # Cave
+[**Lurlock's Missing Cave Pieces**](http://mw.modhistory.com/download-55-15153) by Lurlock  
 
 # Gruesome/Horror
 [**Enclavekiller's Resources**](https://www.nexusmods.com/morrowind/mods/45390) by Enclavekiller  
@@ -128,4 +147,15 @@ Stuporstar
 
 # Misc
 [**Low Poly Building Models**](https://www.nexusmods.com/morrowind/mods/44115) by Rubberman  
+[**Corpse Death Pose Sets**](http://mw.modhistory.com/download-55-15389) by Unknown  
+[**Flying Book**](http://mw.modhistory.com/download-55-15343) by Dongle  
+[**Pirate Compilation**](http://mw.modhistory.com/download-55-15097) by Korana  
+[**Minecart**](http://mw.modhistory.com/download-55-12056) by Cyborg  
+[**Barabus Imperial Housing Tileset**](http://mw.modhistory.com/download-55-5809) by Barabus  
+Included here rather than in common because it's a completely new tileset and doesn't match vanilla.  
 
+# To be investigated
+[**jdoobies taverns**](http://mw.modhistory.com/download-55-15395) by jdooby  
+[**city set**](http://mw.modhistory.com/download-55-15392) by jdooby
+[**Brannoran Architecture Set**](http://mw.modhistory.com/download-55-15388) by MuzikMan  
+[**Craigor's Velothi Pack**](http://mw.modhistory.com/download-55-12256)
