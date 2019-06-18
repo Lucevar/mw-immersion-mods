@@ -11,37 +11,26 @@ Velothi inverted
 [**Wolli's Mountain Resources**](https://www.nexusmods.com/morrowind/mods/46483) by Wollibeebee  
 [**Creepy Ashland Assets Pack**](https://www.nexusmods.com/morrowind/mods/46228) by Rytelier  
 
-# telvanni
+# Faction Tilesets
+
+## telvanni
 Stuporstar
 Ul
 Karpik
 Telverted
 
-# Dunmer Stronghold
-Mamaea Awakened
-[**Restored Dunmer Stronghold Tileset Resource**](https://www.nexusmods.com/morrowind/mods/43952) by Starwarsgal
-
-# Barrow or Nords
-[**Winterhold Style Building**](https://www.nexusmods.com/morrowind/mods/44145) by Rubberman  
-
-# Hlaalu
+## Hlaalu
 [**R-Zero's Random Resources**](https://www.nexusmods.com/morrowind/mods/43729) by R-Zero  
 Adds fixed versions of the Hlaalu plank balcony and curved stairs.  
-
-# Sixth House
 
 # imperial
 [**R-Zero's Random Resources**](https://www.nexusmods.com/morrowind/mods/43729) by R-Zero  
 Adds Divine-specific variations of the Imperial Cult altars.  
 
-# Daedric
-[**Daedric Resources**](https://www.nexusmods.com/morrowind/mods/44205) by PikachunoTM  
-
 # common
 Kiteflyer built in shelves
 
-# Cave
-
+# Clutter & Furniture & Clothes
 # food
 
 # furniture
@@ -51,6 +40,22 @@ Stuporstar
 # clutter
 Stuporstar dice
 [**Bulk Containers**](https://www.nexusmods.com/morrowind/mods/44699) by Candygrl24  
+
+# Dungeons
+# Dunmer Stronghold
+Mamaea Awakened
+Kogoruhn Expanded
+[**Restored Dunmer Stronghold Tileset Resource**](https://www.nexusmods.com/morrowind/mods/43952) by Starwarsgal
+
+# Barrow or Nords
+[**Winterhold Style Building**](https://www.nexusmods.com/morrowind/mods/44145) by Rubberman  
+
+# Sixth House
+
+# Daedric
+[**Daedric Resources**](https://www.nexusmods.com/morrowind/mods/44205) by PikachunoTM  
+
+# Cave
 
 # Gruesome/Horror
 [**Enclavekiller's Resources**](https://www.nexusmods.com/morrowind/mods/45390) by Enclavekiller  
