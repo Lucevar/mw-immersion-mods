@@ -3,9 +3,14 @@
 # Alternate Chargen
 See [**this list**] () 
 
+[**Donations to the Gods**](http://mw.modhistory.com/download-68-14336) by Slaanesh the Corruptor  
+
 Bounty hunter 
 Locked caves
 Caves unlocked 
+
+# Beast Race
+[**Telvanni Racist Guards**](http://mw.modhistory.com/download-44-10731) by Vagor  
 
 # Roleplay - Barbarian
 Illiterate by Petethegoat  
@@ -77,6 +82,9 @@ Thieves guild in gnaar mok
 South Wall den of iniquity
 Vaults expanded
 Morrowind unlocked
+[**Telvanni Vault Extended**](http://mw.modhistory.com/download-106-13277) by Serenia  
+[**Telvanni Vaults Expanded**](http://mw.modhistory.com/download-106-14357) by Slaanesh the Corruptor  
+[**Redoran Vaults Expanded**](http://mw.modhistory.com/download-68-14354) by Slaanesh the Corruptor  
 
 Smuggler
 Adanumuran reclaimed
