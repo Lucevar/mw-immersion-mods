@@ -27,11 +27,12 @@
 ## telvanni
 [**Uvirith (Telvanni) Resources**](http://download.fliggerty.com/download--1191) by Stuporstar  
 [**Telvanni Resources**](https://www.nexusmods.com/morrowind/mods/33271) by JonSatriani and Karpik777  
-Telverted  
+[**Inverted Telvanni Meshes**](http://download.fliggerty.com/download-135-918) by DonnerGott  
 
 ## Hlaalu
 [**R-Zero's Random Resources**](https://www.nexusmods.com/morrowind/mods/43729) by R-Zero  
 Adds fixed versions of the Hlaalu plank balcony and curved stairs.  
+[**Inverted Hlaalu Exteriors**](http://download.fliggerty.com/download-135-1140) by DonnerGott  
 
 ## imperial
 [**R-Zero's Random Resources**](https://www.nexusmods.com/morrowind/mods/43729) by R-Zero  
@@ -41,7 +42,7 @@ Adds Divine-specific variations of the Imperial Cult altars.
 [**Imperial Forge**](https://www.nexusmods.com/morrowind/mods/42474) by Slaanesh the Corrupter  
 [**Imperial Plaza Resource**](https://www.nexusmods.com/morrowind/mods/42184) by Slartibartfast1  
 [**Ruins**](https://www.nexusmods.com/morrowind/mods/21255) by Battery86  
-
+[**Inverted Imperial Spiral Set**](http://download.fliggerty.com/download-135-776) by DonnerGott  
 
 ## common
 [**Built in bookcase resource**](https://download.fliggerty.com/download--591) by Kiteflyer61 and Latendresse76  
@@ -54,6 +55,10 @@ Adds Divine-specific variations of the Imperial Cult altars.
 [**Daggerfall Inspired Meshes**](http://mw.modhistory.com/download-55-14617) by Lord Berandas  
 [**Window Jambs**](http://mw.modhistory.com/download-55-6988) by Dongle  
 [**Stable**](http://mw.modhistory.com/download-55-5987) by Crazyboy  
+
+## Dunmer 
+[**Inverted Vivec Gondolier Dock**](http://download.fliggerty.com/download-135-805) by DonnerGott  
+[**Inverted Shack Interiors and Exteriors**](http://download.fliggerty.com/download-135-761) by DonnerGott  
 
 # Clutter & Furniture & Clothes
 ## Tools
@@ -99,6 +104,7 @@ Silveri's resources tend to be very vibrant, but since most of the resources in 
 [**Authentic Documents**](http://mw.modhistory.com/download-55-12092) by Korana  
 [**Morrowind Decorative stuff**](http://mw.modhistory.com/download-55-6625) by Runspect  
 This one has the globe.  
+[**Candle Holders & Boxes**](http://download.fliggerty.com/download-135-1012) by DonnerGott  
 
 # Dungeons
 ## Dunmer Stronghold
@@ -136,21 +142,24 @@ This one has the globe.
 
 ## Cave
 [**Lurlock's Missing Cave Pieces**](http://mw.modhistory.com/download-55-15153) by Lurlock  
+[**Inverted Cave Pieces**](http://download.fliggerty.com/download-135-992) by DonnerGott  
 
 ## Gruesome/Horror
 [**Enclavekiller's Resources**](https://www.nexusmods.com/morrowind/mods/45390) by Enclavekiller  
 [**Juicy Brains**](https://www.nexusmods.com/morrowind/mods/44529) by Ghogiel & co  
 [**Skulls**](https://www.nexusmods.com/morrowind/mods/46054) by Svartalfar  
 [**Modpack 03**](https://www.nexusmods.com/morrowind/mods/43598) by The Wanderer  
+[**Inverted Container Corpses**](http://download.fliggerty.com/download-135-1139) by DonnerGott  
+[**Corpse Death Pose Sets**](http://mw.modhistory.com/download-55-15389) by Unknown  
 
 # Misc
 [**Low Poly Building Models**](https://www.nexusmods.com/morrowind/mods/44115) by Rubberman  
-[**Corpse Death Pose Sets**](http://mw.modhistory.com/download-55-15389) by Unknown  
 [**Flying Book**](http://mw.modhistory.com/download-55-15343) by Dongle  
 [**Pirate Compilation**](http://mw.modhistory.com/download-55-15097) by Korana  
 [**Minecart**](http://mw.modhistory.com/download-55-12056) by Cyborg  
 [**Barabus Imperial Housing Tileset**](http://mw.modhistory.com/download-55-5809) by Barabus  
 Included here rather than in common because it's a completely new tileset and doesn't match vanilla.  
+[**Huckleberry Raft Resource**](http://download.fliggerty.com/download-135-924) by DonnerGott  
 
 # To be investigated
 [**jdoobies taverns**](http://mw.modhistory.com/download-55-15395) by jdooby  
