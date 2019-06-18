@@ -148,7 +148,7 @@ Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014)
 # Ashlands
 ## Ald-ruhn
 [**Ald-ruhn X**](https://www.nexusmods.com/morrowind/mods/46898) by Pinsvinn  
-[**Redoran Council Hall Improvements](https://www.nexusmods.com/morrowind/mods/44931) by Kalian  
+[**Redoran Council Hall Improvements**](https://www.nexusmods.com/morrowind/mods/44931) by Kalian  
 [**The Rat in the Pot**](https://www.nexusmods.com/morrowind/mods/34186) by DebiDalio  
 [**Aldruhn Council Club**](https://www.nexusmods.com/morrowind/mods/34185) by DebiDalio  
 or  
