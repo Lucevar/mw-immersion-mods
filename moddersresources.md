@@ -2,7 +2,7 @@
 
 [**Statics to Activators**](http://download.fliggerty.com/download--1190) by Stuporstar  
 
-# Velothi
+## Velothi
 Mawia Overhaul  
 [**Inverted Velothi Interiors**](http://mw.modhistory.com/download-35-10047) by DonnerGott  
 [**New Velothi Architecture**](https://www.nexusmods.com/morrowind/mods/43458) by Phaedrus/Gizmologist  
@@ -14,7 +14,7 @@ Mawia Overhaul
 [**Nordic Chef MMM Resources**](https://www.nexusmods.com/morrowind/mods/46142) by Team Nordic Chefs  
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Project Tamriel  
 
-# Terrain
+## Terrain
 [**Wolli's Mountain Resources**](https://www.nexusmods.com/morrowind/mods/46483) by Wollibeebee  
 [**Creepy Ashland Assets Pack**](https://www.nexusmods.com/morrowind/mods/46228) by Rytelier  
 [**Momo's Palm Resource**](https://www.nexusmods.com/morrowind/mods/40934) by Momo77  
@@ -33,7 +33,7 @@ Telverted
 [**R-Zero's Random Resources**](https://www.nexusmods.com/morrowind/mods/43729) by R-Zero  
 Adds fixed versions of the Hlaalu plank balcony and curved stairs.  
 
-# imperial
+## imperial
 [**R-Zero's Random Resources**](https://www.nexusmods.com/morrowind/mods/43729) by R-Zero  
 Adds Divine-specific variations of the Imperial Cult altars.  
 [**New Imperial Architecture Meshes**](https://www.nexusmods.com/morrowind/mods/43457) by Phaedrus/Gizmologist  
@@ -43,7 +43,7 @@ Adds Divine-specific variations of the Imperial Cult altars.
 [**Ruins**](https://www.nexusmods.com/morrowind/mods/21255) by Battery86  
 
 
-# common
+## common
 [**Built in bookcase resource**](https://download.fliggerty.com/download--591) by Kiteflyer61 and Latendresse76  
 [**Common Plain Floor and Ceiling Tiles**](https://www.nexusmods.com/morrowind/mods/46106) by CultofByron  
 [**Mod Pack 02**](https://www.nexusmods.com/morrowind/mods/43597) by The Wanderer  
@@ -56,7 +56,7 @@ Adds Divine-specific variations of the Imperial Cult altars.
 [**Stable**](http://mw.modhistory.com/download-55-5987) by Crazyboy  
 
 # Clutter & Furniture & Clothes
-# Tools
+## Tools
 [**Blacksmithing Tools**](https://www.nexusmods.com/morrowind/mods/45664) by Rubberman  
 [**Better Tanning Rack**](https://www.nexusmods.com/morrowind/mods/45348) by Rubberman  
 [**Better Grindstone**](https://www.nexusmods.com/morrowind/mods/45346) by Rubberman  
@@ -64,9 +64,9 @@ Adds Divine-specific variations of the Imperial Cult altars.
 [**Smith and Crafting Resource**](http://download.fliggerty.com/download--1052) by Stuporstar  
 
 
-# food
+## food
 
-# furniture
+## furniture
 [**Hlaalu Furniture Pack**](https://www.nexusmods.com/morrowind/mods/45618) by Rubberman  
 Stuporstar  
 [**Furniture - Orcish Lower Class**](https://www.nexusmods.com/morrowind/mods/42513) by Asylum  
@@ -84,7 +84,7 @@ Stuporstar
 [**Nicoliathan's Furniture Resource**](https://download.fliggerty.com/download-56-259) by Nicoliathan  
 [**Cat Basket**](https://download.fliggerty.com/download-56-452) by Calislahn  
 
-# clutter
+## clutter
 [**Functional Dice**](http://download.fliggerty.com/download--1047) by Stuporstar  
 [**Bulk Containers**](https://www.nexusmods.com/morrowind/mods/44699) by Candygrl24  
 [**Mod Pack 03 - Dock Clutter**](https://www.nexusmods.com/morrowind/mods/43598) by The Wanderer  
@@ -101,21 +101,21 @@ Silveri's resources tend to be very vibrant, but since most of the resources in 
 This one has the globe.  
 
 # Dungeons
-# Dunmer Stronghold
+## Dunmer Stronghold
 [**Mamaea Awakened**](https://www.nexusmods.com/morrowind/mods/46096) by Team Flamboyant Armigers  
 [**Kogoruhn Expanded**](https://www.nexusmods.com/morrowind/mods/46098) by Team Drama Kwama  
 [**Restored Dunmer Stronghold Tileset Resource**](https://www.nexusmods.com/morrowind/mods/43952) by Starwarsgal
 
-# Barrow or Nords
+## Barrow or Nords
 [**Winterhold Style Building**](https://www.nexusmods.com/morrowind/mods/44145) by Rubberman  
 [**Skyrim Lumber Mill**](https://www.nexusmods.com/morrowind/mods/42375) by Rubberman  
 [**Nomad's Resource Pack**](http://mw.modhistory.com/download-55-15408) by Nomad  
 
-# Sixth House
+## Sixth House
 [**Kogoruhn Expanded**](https://www.nexusmods.com/morrowind/mods/46098) by Team Drama Kwama  
 [**Mamaea Awakened**](https://www.nexusmods.com/morrowind/mods/46096) by Team Flamboyant Armigers  
 
-# Daedric
+## Daedric
 [**Daedric Resources**](https://www.nexusmods.com/morrowind/mods/44205) by PikachunoTM  
 [**Daedric Hall Tall Tileset**](https://www.nexusmods.com/morrowind/mods/46145) by Darknut  
 [**Darknut's Apocrypha Assets**](https://www.nexusmods.com/morrowind/mods/46141) by Darknut  
@@ -125,9 +125,7 @@ This one has the globe.
 [**One**](http://mw.modhistory.com/download-51-13183), [**Two**](http://mw.modhistory.com/download-51-13184), [**Three**](http://mw.modhistory.com/download-51-13185), [**Four**](http://mw.modhistory.com/download-51-13215), [**Five**](http://mw.modhistory.com/download-4-13929), [**Six**](http://mw.modhistory.com/download-4-13933) - Daedric resources by Midgetalien  
 [**Daedric Throne**](https://download.fliggerty.com/download-56-230) by Luma  
 
-
-
-# Dwemer
+## Dwemer
 [**Darknut's Greater Dwemer Interiors**](https://www.nexusmods.com/morrowind/mods/45331) by Darknut  
 [**Better Dwarven Spectres - Mer and Maidens Edition**](https://www.nexusmods.com/morrowind/mods/45617) by Melchior Dahrk  
 [**Dwarven Stove Door**](https://www.nexusmods.com/morrowind/mods/28750) by Aisis  
@@ -136,10 +134,10 @@ This one has the globe.
 [**Greater Dwemer Ruins Resources**](https://www.nexusmods.com/morrowind/mods/6958) by Piratelord  
 [**Dwemer Bed and Lamp**](http://mw.modhistory.com/download-51-13319) by Midgetalien  
 
-# Cave
+## Cave
 [**Lurlock's Missing Cave Pieces**](http://mw.modhistory.com/download-55-15153) by Lurlock  
 
-# Gruesome/Horror
+## Gruesome/Horror
 [**Enclavekiller's Resources**](https://www.nexusmods.com/morrowind/mods/45390) by Enclavekiller  
 [**Juicy Brains**](https://www.nexusmods.com/morrowind/mods/44529) by Ghogiel & co  
 [**Skulls**](https://www.nexusmods.com/morrowind/mods/46054) by Svartalfar  
