@@ -1,5 +1,5 @@
 # Morrowind Themed Mod Lists - 2019 Edition
-**Updated**: 2019/06/09
+**Updated**: 2019/06/18
 
 There are a number of fairly up to date graphics guides for Morrowind, but for many years now there hasn't really been a collection of *themed* mod lists. This page hopes to change that.
 
