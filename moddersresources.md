@@ -43,14 +43,16 @@ Stuporstar dice
 
 # Dungeons
 # Dunmer Stronghold
-Mamaea Awakened  
-Kogoruhn Expanded  
+[**Mamaea Awakened**](https://www.nexusmods.com/morrowind/mods/46096) by Team Flamboyant Armigers  
+[**Kogoruhn Expanded**](https://www.nexusmods.com/morrowind/mods/46098) by Team Drama Kwama  
 [**Restored Dunmer Stronghold Tileset Resource**](https://www.nexusmods.com/morrowind/mods/43952) by Starwarsgal
 
 # Barrow or Nords
 [**Winterhold Style Building**](https://www.nexusmods.com/morrowind/mods/44145) by Rubberman  
 
 # Sixth House
+[**Kogoruhn Expanded**](https://www.nexusmods.com/morrowind/mods/46098) by Team Drama Kwama  
+[**Mamaea Awakened**](https://www.nexusmods.com/morrowind/mods/46096) by Team Flamboyant Armigers  
 
 # Daedric
 [**Daedric Resources**](https://www.nexusmods.com/morrowind/mods/44205) by PikachunoTM  
