@@ -1,7 +1,7 @@
 # Modder Resources
 # Velothi
-Mawia Overhaul
-Velothi inverted
+Mawia Overhaul  
+Velothi inverted  
 
 # Large/Mixed Packs
 [**Nordic Chef MMM Resources**](https://www.nexusmods.com/morrowind/mods/46142) by Team Nordic Chefs  
@@ -14,10 +14,10 @@ Velothi inverted
 # Faction Tilesets
 
 ## telvanni
-Stuporstar
-Ul
-Karpik
-Telverted
+Stuporstar  
+Ul  
+Karpik  
+Telverted  
 
 ## Hlaalu
 [**R-Zero's Random Resources**](https://www.nexusmods.com/morrowind/mods/43729) by R-Zero  
@@ -28,23 +28,23 @@ Adds fixed versions of the Hlaalu plank balcony and curved stairs.
 Adds Divine-specific variations of the Imperial Cult altars.  
 
 # common
-Kiteflyer built in shelves
+Kiteflyer built in shelves  
 
 # Clutter & Furniture & Clothes
 # food
 
 # furniture
-Stuporstar
+Stuporstar  
 [**Furniture - Orcish Lower Class**](https://www.nexusmods.com/morrowind/mods/42513) by Asylum  
 
 # clutter
-Stuporstar dice
+Stuporstar dice  
 [**Bulk Containers**](https://www.nexusmods.com/morrowind/mods/44699) by Candygrl24  
 
 # Dungeons
 # Dunmer Stronghold
-Mamaea Awakened
-Kogoruhn Expanded
+Mamaea Awakened  
+Kogoruhn Expanded  
 [**Restored Dunmer Stronghold Tileset Resource**](https://www.nexusmods.com/morrowind/mods/43952) by Starwarsgal
 
 # Barrow or Nords
