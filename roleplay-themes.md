@@ -3,6 +3,10 @@
 # Alternate Chargen
 See [**this list**] () 
 
+Bounty hunter 
+Locked caves
+Caves unlocked 
+
 # Roleplay - Barbarian
 Illiterate by Petethegoat  
 Lock-bashing by Greatness7  
@@ -71,6 +75,8 @@ Expedition to mzelthuand
 * [Stealable Ash Mask](https://www.nexusmods.com/morrowind/mods/46207).  
 Thieves guild in gnaar mok  
 South Wall den of iniquity
+Vaults expanded
+Morrowind unlocked
 
 Smuggler
 Adanumuran reclaimed
@@ -88,6 +94,24 @@ Great House dagoth
 
 # Temple
 [Kummu Monastery Revisited](https://www.nexusmods.com/morrowind/mods/46565)
+Muck shovel of vivec
+Illuminated palace
+Passage of prayers
+Palace of vehk
+Prison moon enhanced
+Dramatic vivec
+Shrines of the seven graces enhances
+Tanriel rebuilt
+Ghostgate room
+Holidays across tamriel
+Gnisis hand
+Gnisis minaret
+Velothi Wall art
+Blight bounties 
+Cleanse Ash statues
+Lgnpc
+Urbanopticum
+
 
 # Ashlander
 Ashlander quests 
@@ -102,8 +126,20 @@ Bardic inspiration by merlord
 Entertainers expanded again
 
 # Healer
+Balmora guilds expanded
+
+Abolitionist 
+Brother juniper
+Nevena
+Free slaves caeris
 
 # Farmer
+Farmer mod
+
+Smith
+Rubberman sharpen mod
+Realistic repair
+PC smithy
 
 # Sailor / Pirate / Diver / Water
 * [Pearls Enhanced](https://www.nexusmods.com/morrowind/mods/43190)
@@ -124,7 +160,7 @@ Nimawia Pearl farm
 # Necromancer
 * [Sorkvild the Raven (Evermore)](https://www.nexusmods.com/morrowind/mods/46320?)
 
-# sVampire
+# Vampire
 * [Comfy pillow for a restful sleep](https://www.nexusmods.com/morrowind/mods/46613)
 Ashmelech 
 Vampire embrace
@@ -135,3 +171,6 @@ The underground
 Merlord vampire mod
 Vampire dreams
 Random vampire attacks
+
+Orc
+The fires of orc
