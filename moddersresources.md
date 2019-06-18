@@ -3,7 +3,7 @@
 [**Statics to Activators**](http://download.fliggerty.com/download--1190) by Stuporstar  
 
 ## Velothi
-Mawia Overhaul  
+[**Mawia Overhaul**](https://www.nexusmods.com/morrowind/mods/46884) by Remiros  
 [**Inverted Velothi Interiors**](http://mw.modhistory.com/download-35-10047) by DonnerGott  
 [**New Velothi Architecture**](https://www.nexusmods.com/morrowind/mods/43458) by Phaedrus/Gizmologist  
 [**Velothi Forge**](https://www.nexusmods.com/morrowind/mods/42486) by Slaanesh the Corruptor  
@@ -68,7 +68,7 @@ Adds Divine-specific variations of the Imperial Cult altars.
 
 ## furniture
 [**Hlaalu Furniture Pack**](https://www.nexusmods.com/morrowind/mods/45618) by Rubberman  
-Stuporstar  
+[**Pillow Mage Manor**](https://www.nexusmods.com/morrowind/mods/46864) by Stuporstar  
 [**Furniture - Orcish Lower Class**](https://www.nexusmods.com/morrowind/mods/42513) by Asylum  
 [**Unused Shop Meshes**](https://www.nexusmods.com/morrowind/mods/45345) by Rubberman  
 [**More Lights**](https://www.nexusmods.com/morrowind/mods/43448) by Phaedrus/Gizmologist  
