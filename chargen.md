@@ -44,6 +44,9 @@ Makes a few atmospheric tweaks including starting chargen at night and adds a nu
 [**Firewatch Character Creation**](https://www.nexusmods.com/morrowind/mods/45910) by wiz1  
 Starts you off in the mainland city of Firewatch. Requires Tamriel Rebuilt. 
 
+[**Alternate Chargen 2**](http://mw.modhistory.com/download-24-12399) by BlueBit  
+Adds 18 new starting options with different role plays / character archetypes in mind.  
+
 # Themed Chargen
 [**Royal Chargen**](http://mw.modhistory.com/download--7212) by Princess Stomper  
 Play as Helseth's illegitimate child, about to be banished from Mournhold for an offence you may or may not have committed. Includes unique dialogue for Helseth, Barenziah and a number of other NPCs. Also includes an expansion to the Royal Palace, with a room for the player when their family accepts them again (by helping Helseth during the Tribunal quest line.) Julan Ashlander Companion has unique dialogue for players using this mod.  
