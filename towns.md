@@ -91,6 +91,8 @@ You would think that Tower of Tel Vos and Tel Vos Castle conflict, but as far as
 [**Tel Vos Lighthouse**](https://www.nexusmods.com/morrowind/mods/42744) by the Resdayn Revival Team  
 
 ## Vos
+[**Vos X**](https://www.nexusmods.com/morrowind/mods/46959) by Pinsvinn  
+or
 [**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729) by Tyddyner and Melchior Dahrk  
 
 ## Tel Mora
