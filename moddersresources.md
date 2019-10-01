@@ -122,7 +122,7 @@ This one has the globe.
 [**Mamaea Awakened**](https://www.nexusmods.com/morrowind/mods/46096) by Team Flamboyant Armigers  
 
 ## Daedric
-[**Daedric Resources**](https://www.nexusmods.com/morrowind/mods/44205) by PikachunoTM  
+[**Pika's Miscellaneous Mods - Daedric Resources**](https://www.nexusmods.com/morrowind/mods/46364) by PikachunoTM  
 [**Daedric Hall Tall Tileset**](https://www.nexusmods.com/morrowind/mods/46145) by Darknut  
 [**Darknut's Apocrypha Assets**](https://www.nexusmods.com/morrowind/mods/46141) by Darknut  
 [**Piratelord's Daedric Realm Resources**](https://www.nexusmods.com/morrowind/mods/42464) by Piratelord  
