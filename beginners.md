@@ -57,6 +57,7 @@ Alternatives:
 
 # SFX
 [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) by Hrnchamd  
+[**Morrowind Containers Animated**](https://www.nexusmods.com/morrowind/mods/42238) by qqqbbb  
 
 # Graphics Replacers
 ## Magic Effects
