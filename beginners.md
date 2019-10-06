@@ -19,6 +19,11 @@ The Construction Set for Steam users, since Steam doesn't include the CS in its 
 [**Quick Char**](http://mw.modhistory.com/download-44-7364) by Bink & Maximus  
 For quicker mod testing.  
 
+# UI Improvements
+[**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
+[**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071) by NullCascade    
+[**Perfect Placement**](https://www.nexusmods.com/morrowind/mods/46562) by Hrnchamd  
+
 # Bug Fixes
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096?) by Half11  
 [**WIP Detailed Correct UV Rocks**](https://www.nexusmods.com/morrowind/mods/44321/?) by Pherim  
@@ -33,8 +38,7 @@ Speaking of life-saving mods, this one fixes a bug where Morrowind will often ha
 [**Morrowind Optimisation Patch**](https://www.nexusmods.com/morrowind/mods/45384) by Greatness7 and Remiros  
 [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by Project Atlas Team  
 
-## Dialogue Fixes
-[**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
+## Dialogue Fixes  
 [**VGreetings**](http://mw.modhistory.com/download-42-13335) by TheOtherFelix  
 
 # Expansion Integration
@@ -50,6 +54,9 @@ The quest that gets you to Solstheim is quite annoying if you do not plan to go 
 Alternatives:  
 [**Delayed DB Attack v2**](https://www.nexusmods.com/morrowind/mods/14891?) by Kir  
 [**Illy's Solstheim Rumour Fix**](https://www.moddb.com/games/morrowind/addons/illys-solsteim-rumour-fix) by Illy  
+
+# SFX
+[**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) by Hrnchamd  
 
 # Graphics Replacers
 ## Magic Effects
