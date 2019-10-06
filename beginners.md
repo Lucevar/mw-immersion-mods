@@ -94,4 +94,8 @@ Includes groundcover for Tamriel Rebuilt
 [**Aesthesia Groundcover**](https://www.nexusmods.com/morrowind/mods/46377) by Rytelier  
 Includes groundcover for Tamriel Rebuilt  
 [**Vurt's Groundcover**](https://www.nexusmods.com/morrowind/mods/31051) by Vurt - usually paired with [**Azura's Coast and Sheogorath Grass**](https://www.nexusmods.com/morrowind/mods/30788) by Muspila  
-[**Ozzy's Groundcover**](https://www.moddb.com/mods/ozzys-grass-merged-openmw-compatible/downloads/ozzys-grass-merged-103) by Ozzy  
+[**Ozzy's Groundcover**](https://www.moddb.com/mods/ozzys-grass-merged-openmw-compatible/downloads/ozzys-grass-merged-103) by Ozzy 
+
+# NPCS
+[**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11  
+[**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) by Half11  
