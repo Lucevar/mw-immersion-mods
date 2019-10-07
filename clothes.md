@@ -17,3 +17,4 @@ Duke's Silver Armor:
 [**RR - Better Telvanni Cephalopod Armour**](https://www.nexusmods.com/morrowind/mods/44837)
 * [**Patch for NX9's guards and RR Telvanni Armour**](https://www.nexusmods.com/morrowind/mods/45163/?)
 [**Unique Gothren's Cephalopod Helm**](https://www.nexusmods.com/morrowind/mods/46534) by Leyawynn  
+[**Falconer's Leather**](http://mw.modhistory.com/download-44-12242) by Korana  
