@@ -35,3 +35,4 @@ A corprus meat replacer.
 [**Ambient Town Sounds**](https://www.nexusmods.com/morrowind/mods/42248) by Lendrik  
 [**Winds of Morrowind**](https://www.nexusmods.com/morrowind/mods/46813) by WanderRA  
 [**Sea of Sound**](https://www.nexusmods.com/morrowind/mods/45737) by CptJoker  
+[**Kirel's Interior Weather**](http://mw.modhistory.com/download-90-3021) by Kirel  
