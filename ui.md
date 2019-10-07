@@ -10,3 +10,8 @@ No saving in battle!
 [**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
 [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
 [**Lock-bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7  
+[**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915) by Petethegoat  
+[**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Petethegoat  
+[**Class Conscious**](https://www.nexusmods.com/morrowind/mods/46902) by Petethegoat  
+[**Continue**](https://www.nexusmods.com/morrowind/mods/45952) by Petethegoat  
+[**Tidy Charsheet**](https://www.nexusmods.com/morrowind/mods/45939) by Petethegoat  
