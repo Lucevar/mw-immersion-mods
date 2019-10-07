@@ -12,6 +12,13 @@ Donate money to the paupers of Vvardenfell and help them get back on their feet.
 [**Animated Morrowind - Merged**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50&-Animated-Morrowind-merged) by Archimaestro Antares & abot  
 Lets you donate to the beggars added by AM  
 
+# Book Worm
+[**Complete Book Collection**](https://www.nexusmods.com/morrowind/mods/44818?) by WanderRA  
+[**Books of Vvardenfell**](http://download.fliggerty.com/download-142-880) by Stuporstar  
+[**Beautiful Books Volume I: Grimoires**](http://download.fliggerty.com/download-142-1198) by Stuporstar  
+[**Book of Alchemy**](http://mw.modhistory.com/download-13-7339) by Sgaileach1  
+
+
 # Bounty hunter / Mercenary
 Freelancer  
 [**Bounty Hunter Bundle**](https://www.nexusmods.com/morrowind/mods/46928) by Gavrilo93 
