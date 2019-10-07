@@ -73,53 +73,54 @@ Expedition to mzelthuand
 
 ## Namira
 * The Forgotten
-* Plaguebearer
+* [**Plaguebearer**](https://www.nexusmods.com/morrowind/mods/45760) by R-zero  
 
 # Assassin
 
 # Thief
 * [Stealable Ash Mask](https://www.nexusmods.com/morrowind/mods/46207).  
 Thieves guild in gnaar mok  
-South Wall den of iniquity
-Vaults expanded
-Morrowind unlocked
+South Wall den of iniquity  
+Vaults expanded  
+Morrowind unlocked  
 [**Telvanni Vault Extended**](http://mw.modhistory.com/download-106-13277) by Serenia  
 [**Telvanni Vaults Expanded**](http://mw.modhistory.com/download-106-14357) by Slaanesh the Corruptor  
 [**Redoran Vaults Expanded**](http://mw.modhistory.com/download-68-14354) by Slaanesh the Corruptor  
-
-Smuggler
-Adanumuran reclaimed
-Dura gra bol and the graball gang
+Smuggler  
+Adanumuran reclaimed  
+Dura gra bol and the grab-all gang  
 
 # Imperial Loyalist
-* [Publius Claudius Follower](https://www.nexusmods.com/morrowind/mods/46645)
-* [The Fires of Orc](https://www.nexusmods.com/morrowind/mods/44982)
-* [Imperial Legion Expansion](https://www.nexusmods.com/morrowind/mods/44469)  
+* [Publius Claudius Follower](https://www.nexusmods.com/morrowind/mods/46645) by Gavrilo93  
+* [The Fires of Orc](https://www.nexusmods.com/morrowind/mods/44982) by Gavrilo93  
+* [Imperial Legion Expansion](https://www.nexusmods.com/morrowind/mods/44469) by Gavrilo93  
 Gnisis docks
 
 # 6th House Believer
-The tribe unmourned
-Great House dagoth
+The tribe unmourned  
+Great House dagoth  
+endrek's sixth house  
 
 # Temple
 [Kummu Monastery Revisited](https://www.nexusmods.com/morrowind/mods/46565)
-Muck shovel of vivec
-Illuminated palace
-Passage of prayers
-Palace of vehk
-Prison moon enhanced
-Dramatic vivec
-Shrines of the seven graces enhances
-Tanriel rebuilt
-Ghostgate room
-Holidays across tamriel
-Gnisis hand
-Gnisis minaret
-Velothi Wall art
-Blight bounties 
-Cleanse Ash statues
-Lgnpc
-Urbanopticum
+Muck shovel of vivec  
+Illuminated palace  
+Passage of prayers  
+Palace of vehk  
+Prison moon enhanced  
+Dramatic vivec  
+Shrines of the seven graces enhances  
+Tanriel rebuilt  
+Ghostgate room  
+Holidays across tamriel  
+Gnisis hand  
+Gnisis minaret  
+Velothi Wall art  
+Blight bounties   
+Cleanse Ash statues  
+Lgnpc  
+Urbanopticum  
+Holy Art  
 
 
 # Ashlander
@@ -175,15 +176,15 @@ Nimawia Pearl farm
 
 # Vampire
 * [Comfy pillow for a restful sleep](https://www.nexusmods.com/morrowind/mods/46613)
-Ashmelech 
-Vampire embrace
-Scripted spells
-Vampiric hunger
-Children of the night
-The underground
-Merlord vampire mod
-Vampire dreams
-Random vampire attacks
+Ashmelech  
+Vampire embrace  
+Scripted spells  
+Vampiric hunger  
+Children of the night  
+The underground  
+Merlord vampire mod  
+Vampire dreams  
+Random vampire attacks  
 
 # Alcohol
 [**The Brew Master**](https://www.nexusmods.com/morrowind/mods/45472) by Merlord  
