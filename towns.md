@@ -81,6 +81,11 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 
 ## Tel Aruhn
 
+## Tel Fyr / Divayth
+[**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977) by Gavrilo93  
+[**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros  
+[**That one mod that adds a unique look to the puzzle box**]()
+
 # Grazelands
 ## Tel Vos
 You would think that Tower of Tel Vos and Tel Vos Castle conflict, but as far as I can tell they don't. Lucky us!  
