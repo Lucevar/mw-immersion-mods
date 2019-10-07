@@ -2,12 +2,16 @@
 
 ## Flavour Dialogue
 [**What Thieves Guild?**]()
+[**Django's Dialogue**](https://www.nexusmods.com/morrowind/mods/37328) by von Django  
+[**Nastier Camonna Tong**](https://www.nexusmods.com/morrowind/mods/22601) by von Django  
 
 ## Audio
 [**VGreetings**](http://mw.modhistory.com/download-42-13335) by TheOtherFelix  
 [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero  
 [**So. You're the Nerevarine.**](https://www.nexusmods.com/morrowind/mods/46896) by vehkofficial  
 [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948) by vonwolfe  
+[**Sleepers Awake**](https://www.nexusmods.com/morrowind/mods/37208) by Von Django & Adul  
+
 
 # Greetings
 [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
