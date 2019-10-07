@@ -145,7 +145,7 @@ Includes an inn you can buy.
 
 # Smuggler  
 * Adanumuran reclaimed  
-* Dura gra bol and the grab-all gang  
+* [**Dura gra-Bol and the Grab-All gang**](https://www.nexusmods.com/morrowind/mods/46772)  
 
 # Imperial Loyalist
 * [**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Gavrilo93  
