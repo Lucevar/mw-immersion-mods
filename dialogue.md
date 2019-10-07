@@ -29,7 +29,8 @@
 
 ## Racism
 [**Telvanni Racist Guards**](http://mw.modhistory.com/download-44-10731) by Vagor  
-Camonna Tong 
+[**Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by PoodleSandwich, Quorn, and Superquail  
+[**Nastier Camonna Tong**](https://www.nexusmods.com/morrowind/mods/22601) by von Django  
 
 ## Slaves
 [**Free The Slaves**](https://www.nexusmods.com/morrowind/mods/45191) by Caeris  
