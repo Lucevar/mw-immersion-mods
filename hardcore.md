@@ -37,3 +37,6 @@ Ashfall is the sequel - use Frostwind if you don't use MWSE (eg if you have Open
 ## Enemies
 [**DragonDoor**](https://www.nexusmods.com/morrowind/mods/47169) by Archimag
 Enemies will now pursue you.  
+
+## Magic 
+[**Miscast Mod**](http://mw.modhistory.com/download-53-12215) by Huskobar & Magius  
