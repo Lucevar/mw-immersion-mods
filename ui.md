@@ -16,3 +16,4 @@ No saving in battle!
 [**Continue**](https://www.nexusmods.com/morrowind/mods/45952) by Petethegoat  
 [**Tidy Charsheet**](https://www.nexusmods.com/morrowind/mods/45939) by Petethegoat  
 [**Petes UI Mods**](https://www.nexusmods.com/morrowind/mods/45859) by Petethegoat  
+[**Journal Search and Edit**](https://www.nexusmods.com/morrowind/mods/46756) by Svengineer99  
