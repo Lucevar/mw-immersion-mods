@@ -3,6 +3,7 @@
 ## General
 [**The Pretty Reckless**](https://www.nexusmods.com/morrowind/mods/46970) by Gavrilo93  
 Removes level requirements for a number of quests. 
+[**Freelancer**](http://mw.modhistory.com/download-90-8164) by Tomas  
 
 ## Choices and Consequences
 [**The Corpse and the Skooma Pipe Overhaul**](https://www.nexusmods.com/morrowind/mods/46696) by Gavrilo93  
@@ -12,6 +13,8 @@ Removes level requirements for a number of quests.
 [**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995) by Gavrilo93  
 [**Museum Quest Finisher**](https://www.nexusmods.com/morrowind/mods/47139) by Necrolesian  
 [**Stormkiss Reforged**](https://www.nexusmods.com/morrowind/mods/44565) by Gevalt and Enclavekiller  
+[**Main Quest Enhancers**](https://www.nexusmods.com/morrowind/mods/41337) by Trainwiz  
+[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
 
 ## Factions
 [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von Django  
@@ -22,6 +25,7 @@ Removes level requirements for a number of quests.
 [**Sorkvild the Raven (Evermore)**](https://www.nexusmods.com/morrowind/mods/46320?)
 [**Creeper's Quest**](http://mw.modhistory.com/download-53-12712) by Danjb  
 [**Note to Hrisskar**](http://mw.modhistory.com/download-53-11212) by Danjb  
+[**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
 
 # Totally New Quests
 
