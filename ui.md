@@ -1,0 +1,3 @@
+[**Quick Loadouts**](https://www.nexusmods.com/morrowind/mods/46708) by Merlord  
+[**No Combat Menu**](https://www.nexusmods.com/morrowind/mods/46732) by Merlord  
+[**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord  
