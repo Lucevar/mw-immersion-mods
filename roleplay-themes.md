@@ -67,7 +67,12 @@ Expedition to mzelthuand
 
 
 # Merchant
-[Wages and Bonds](https://www.nexusmods.com/morrowind/mods/46394)
+[**Wages and Bonds**](https://www.nexusmods.com/morrowind/mods/46394)  
+[**PC smithy - Ebonheart**](http://mw.modhistory.com/download-35-10219) by aimeekae  
+[**Wayfarer's Rest**](http://mw.modhistory.com/download-44-4409) by Baratheon79  
+[**Racer's Roost**](http://mw.modhistory.com/download-15-5712) by Baratheon79  
+[**A Bard's Life 2**](https://www.nexusmods.com/morrowind/mods/44359) by Danae  
+Includes an inn you can buy.  
 
 # Witchhunter
 * [The Sanguine Rose](https://www.nexusmods.com/morrowind/mods/46214)
