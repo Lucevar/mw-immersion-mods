@@ -5,7 +5,8 @@ See [**this list**] ()
 
 [**Donations to the Gods**](http://mw.modhistory.com/download-68-14336) by Slaanesh the Corruptor  
 
-Bounty hunter 
+# Bounty hunter
+Bounty Hunter
 Locked caves
 Caves unlocked 
 
@@ -17,7 +18,7 @@ Illiterate by Petethegoat
 Lock-bashing by Greatness7  
 
 # Roleplay - Outcast
-Plaguebearer by R-zero
+[**Plaguebearer**](https://www.nexusmods.com/morrowind/mods/45760) by R-zero  
 
 # Roleplay - Wizard
 See this list
