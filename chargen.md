@@ -17,6 +17,8 @@ After chargen (vanilla or modded) ends, this mod adds an extra step: choose your
 
 [**The Role They Were to Play**](https://www.nexusmods.com/morrowind/mods/46411) by PoodleSandwich  
 
+[**Advantages & Disadvantages**](http://mw.modhistory.com/download-4-583) by Cid88  
+
 # Minimalist
 Just get a game started more quickly - perfect for testing mods or just skipping the tutorial messages.  
 
