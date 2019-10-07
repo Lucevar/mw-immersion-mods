@@ -15,3 +15,4 @@ No saving in battle!
 [**Class Conscious**](https://www.nexusmods.com/morrowind/mods/46902) by Petethegoat  
 [**Continue**](https://www.nexusmods.com/morrowind/mods/45952) by Petethegoat  
 [**Tidy Charsheet**](https://www.nexusmods.com/morrowind/mods/45939) by Petethegoat  
+[**Petes UI Mods**](https://www.nexusmods.com/morrowind/mods/45859) by Petethegoat  
