@@ -40,6 +40,9 @@ Adds critical strike mechanics for the player and npcs based on luck.
 [**Better Enchantments**](https://www.nexusmods.com/morrowind/mods/47136) by Aracelliy
 [**Putting Power in Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero  
 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) by OperatorJack and RedFurryDemon  
+[**Purist Friendly Magicka Regen**](https://www.nexusmods.com/morrowind/mods/45636) by Remiros & Greatness7  
+[**Elemental Magicka II**](https://www.nexusmods.com/morrowind/mods/42106) by NMZMaster  
+[**Miscast Mod**](http://mw.modhistory.com/download-53-12215) by Huskobar & Magius  
 
 ## New Weapons
 [**An Issue of Thrust**](https://www.nexusmods.com/morrowind/mods/44650) by Team Cutie Kagouti  
