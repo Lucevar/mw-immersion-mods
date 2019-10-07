@@ -70,7 +70,7 @@ Someone please make one!
 [**Mage Robes**]() by Melchior Dahrk  
 [**Magical Missions**]() 
 [**Dagon Fel Mages Guild**]()  
-[**Balmora Guilds Expanded**]() by Lucevar  
+[**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
 [**Caldera Mages Guild Expanded**]() by Lucevar  
 [**Vivec Guild of Mages Expanded**]()  
 [**Scrolls of the Nine Barriers**]() by Melchior Dahrk
@@ -78,7 +78,7 @@ Someone please make one!
 [**King of Worms**](https://www.nexusmods.com/morrowind/mods/46611) by Tel Shadow and Caeris  
 
 ## Fighters Guild  
-[**Balmora Guilds Expanded**]() by Lucevar  
+[**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
 [**Zelazko's Fighters Guild Quest Options**](https://www.nexusmods.com/morrowind/mods/47196) by Zelazko  
 
 ## Imperial Legion
