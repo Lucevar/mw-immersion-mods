@@ -28,7 +28,6 @@ For quicker mod testing.
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096?) by Half11  
 [**WIP Detailed Correct UV Rocks**](https://www.nexusmods.com/morrowind/mods/44321/?) by Pherim  
 [**Sheep-No-More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
-[**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228) by Half11  
 [**Fix those bastard rope fences**](https://www.nexusmods.com/morrowind/mods/45741) by Petethegoat and EJ12  
 This colourfully named mod fixes player animations and rope meshes so that you get stuck much, much less often. It's an absolute lifesaver of a mod.  
 [**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade  
