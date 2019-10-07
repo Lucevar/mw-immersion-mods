@@ -8,3 +8,4 @@ No saving in battle!
 [**Universal Companion Share**](http://download.fliggerty.com/download--14) by Fliggerty  
 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
 [**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
+[**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
