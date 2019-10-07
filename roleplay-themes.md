@@ -141,15 +141,15 @@ Entertainers expanded again
 # Healer
 Balmora guilds expanded
 
-Abolitionist 
-Brother juniper
-Nevena
-Free slaves caeris
+# Abolitionist 
+Brother juniper  
+Nevena  
+Free slaves by caeris
 
 # Farmer
 Farmer mod
 
-Smith
+# Smith
 Rubberman sharpen mod
 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
 PC smithy
