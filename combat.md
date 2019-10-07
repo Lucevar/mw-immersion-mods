@@ -23,7 +23,7 @@ Adds critical strike mechanics for the player and npcs based on luck.
 [**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
 [**Next Generation Combat**](https://www.nexusmods.com/morrowind/mods/46993) by Aracelliy  
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
-
+[**4NM Combat**](https://www.nexusmods.com/morrowind/mods/47056) by Archimag  
 
 ## Marksman
 [**Automated Ammo Equip**](https://www.nexusmods.com/morrowind/mods/45845) by Merlord  
@@ -42,6 +42,7 @@ Adds critical strike mechanics for the player and npcs based on luck.
 [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) by OperatorJack and RedFurryDemon  
 [**Purist Friendly Magicka Regen**](https://www.nexusmods.com/morrowind/mods/45636) by Remiros & Greatness7  
 [**Elemental Magicka II**](https://www.nexusmods.com/morrowind/mods/42106) by NMZMaster  
+[**4NM Magic**](https://www.nexusmods.com/morrowind/mods/47095) by Archimag  
 [**Miscast Mod**](http://mw.modhistory.com/download-53-12215) by Huskobar & Magius  
 
 ## New Weapons
