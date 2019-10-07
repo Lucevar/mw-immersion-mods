@@ -46,7 +46,8 @@ See this list
 * [**The Astral Pocket**](https://www.nexusmods.com/morrowind/mods/46226)
 * [**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Gavrilo93  
 * [**Customizable MWSE Multi Mark & Harder Recall**](https://www.nexusmods.com/morrowind/mods/47065) by Virnetch  
-
+* [**Chrysopoeia**](https://www.nexusmods.com/morrowind/mods/47008) by OperatorJack  
+* [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) by OperatorJack and RedFurryDemon  
 
 # Dwemer Scholar
 * [The Royal Game of Ur](https://www.nexusmods.com/morrowind/mods/44945)
@@ -111,6 +112,7 @@ Expedition to mzelthuand
 [**Telvanni Vault Extended**](http://mw.modhistory.com/download-106-13277) by Serenia  
 [**Telvanni Vaults Expanded**](http://mw.modhistory.com/download-106-14357) by Slaanesh the Corruptor  
 [**Redoran Vaults Expanded**](http://mw.modhistory.com/download-68-14354) by Slaanesh the Corruptor  
+[**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
 
 # Smuggler  
 * Adanumuran reclaimed  
