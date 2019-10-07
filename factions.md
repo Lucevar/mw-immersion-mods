@@ -126,6 +126,9 @@ Adds a number of roleplaying options to the main quest, including alternate path
 [**Endrek's Sixth House**]()
 [**After the Blight**](https://www.nexusmods.com/morrowind/mods/46099) by Team Purist Pariahs  
 
+## Twin Lamps
+[**Twin Lamps**](http://mw.modhistory.com/download-53-7283) by Brother juniper  
+
 # New Factions
 [**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by Gavrilo93  
 [**Guild of Vampire Hunters**](https://www.nexusmods.com/morrowind/mods/45832) by Gavrilo93  
