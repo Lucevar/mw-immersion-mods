@@ -61,6 +61,8 @@ Expedition to mzelthuand
 
 # Witchhunter
 * [The Sanguine Rose](https://www.nexusmods.com/morrowind/mods/46214)
+* [**Guild of Vampire Hunters**](https://www.nexusmods.com/morrowind/mods/45832) by Gavrilo93  
+* [**Bounty Hunter Bundle**](https://www.nexusmods.com/morrowind/mods/46928) by Gavrilo93 
 * The Forgotten
 
 # Daedra Worshipper
@@ -106,13 +108,16 @@ Expedition to mzelthuand
 
 # Imperial Loyalist
 * [**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Gavrilo93  
-* [The Fires of Orc](https://www.nexusmods.com/morrowind/mods/44982) by Gavrilo93  
-* [Imperial Legion Expansion](https://www.nexusmods.com/morrowind/mods/44469) by Gavrilo93  
-Gnisis docks
+* [**The Fires of Orc**](https://www.nexusmods.com/morrowind/mods/44982) by Gavrilo93  
+* [**Imperial Legion Expansion**](https://www.nexusmods.com/morrowind/mods/44469) by Gavrilo93  
+* [**Gnisis docks**](https://www.nexusmods.com/morrowind/mods/45994) by Gavrilo93 & PoodleSandwich  
 * [**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
 Adds a number of roleplaying options to the main quest, including alternate paths to completing it, the ability to turn it down completely, the ability to refuse membership in the Ashlanders,  and a number of new quests for the Ashlanders.
 * [**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by Gavrilo93  
 
+# Dunmer Nationalist
+[**Main Quest Overhaul**]() by Gavrilo93  
+[**Liberate Morrowind**](https://www.nexusmods.com/morrowind/mods/45658) by Gavrilo93 
 
 # 6th House Believer
 The tribe unmourned  
