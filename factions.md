@@ -47,6 +47,7 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 ## Great House Telvanni
 [**LGNPC**]()
 [**Quest Tweaks and Alternatives**]() by Stuporstar  
+[**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Gavrilo93  
 
 # Strongholds & Places
 ## Great House Hlaalu
@@ -79,12 +80,19 @@ Someone please make one!
 [**Zelazko's Fighters Guild Quest Options**](https://www.nexusmods.com/morrowind/mods/47196) by Zelazko  
 
 ## Imperial Legion
+[**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Gavrilo93  
+[**The Fires of Orc**](https://www.nexusmods.com/morrowind/mods/44982) by Gavrilo93  
+[**Imperial Legion Expansion**](https://www.nexusmods.com/morrowind/mods/44469) by Gavrilo93  
+[**Gnisis Docks**](https://www.nexusmods.com/morrowind/mods/45994) by Gavrilo93 & PoodleSandwich  
 
 ## Imperial Cult
 Illy
 
 # Misc
 ## Thieves Guild
+[**Thieves Guild in Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/46754) by Gavrilo93  
+[**South Wall, Den of Iniquity**]() by Barasthustrian  
+[**What Thieves Guild?**]()
 
 ## Misc Smuggling Operations
 [**Adanumuran Reclaimed**](https://www.nexusmods.com/morrowind/mods/43340) by Danae  
@@ -100,10 +108,14 @@ Illy
 ## Vampire Clans
 
 ## Ashlanders 
+[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
+Adds a number of new quests for the Ashlanders.
 
 ## Blades
 [**Blades Quest**](http://lovkullen.net/Emma/blade.htm) by Emma  
 [**The Rise of the Tribe Unmourned**](https://www.nexusmods.com/morrowind/mods/45165) by SammyB27 and Caeris  
+[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
+Adds a number of roleplaying options to the main quest, including alternate paths to completing it, the ability to turn it down completely, and a number of new quests for the Ashlanders.
 
 ## House Dagoth
 [**Great House Dagoth**]()
@@ -111,4 +123,6 @@ Illy
 [**After the Blight**](https://www.nexusmods.com/morrowind/mods/46099) by Team Purist Pariahs  
 
 # New Factions
+[**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by Gavrilo93  
+[**Guild of Vampire Hunters**](https://www.nexusmods.com/morrowind/mods/45832) by Gavrilo93  
 
