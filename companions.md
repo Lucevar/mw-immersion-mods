@@ -7,3 +7,4 @@ Includes an Argonian companion
 [**Oz'aar the Wizard Companion**](https://www.nexusmods.com/morrowind/mods/44093) by MatthewTheBagel  
 [**Taryn the Warrior Companion**](https://www.nexusmods.com/morrowind/mods/44087) by MatthewTheBagel  
 [**Aloros the Telvanni Companion**](https://www.nexusmods.com/morrowind/mods/44069) by MatthewTheBagel  
+[**Olyn Hleran - A Redoran Companion**](https://www.nexusmods.com/morrowind/mods/45197) by Team Mythical Beasts  
