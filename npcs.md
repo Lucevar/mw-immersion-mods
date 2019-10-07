@@ -16,3 +16,9 @@
 [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) by Melchior Dahrk  
 [**Wandering Umbra**](https://www.nexusmods.com/morrowind/mods/44913) by mort  
 [**Redoran Guard Glove Fix**](https://www.nexusmods.com/morrowind/mods/45935) by Petethegoat  
+
+## Specific NPCs
+
+### Sorkvild the Raven
+* [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
+* [**Sorkvild the Raven (Evermore)**](https://www.nexusmods.com/morrowind/mods/46320?)
