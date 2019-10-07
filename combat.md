@@ -31,6 +31,8 @@ Adds critical strike mechanics for the player and npcs based on luck.
 [**Slower Crossbow Reload**](https://www.nexusmods.com/morrowind/mods/44757) by R-Zero  
 [**Improved Thrown Weapon Projectiles**](https://www.nexusmods.com/morrowind/mods/44763) by R-Zero  
 [**Arcane Archery**](https://www.nexusmods.com/morrowind/mods/37672) by Karpik777  
+[**Projectile Overhaul**](https://www.nexusmods.com/morrowind/mods/43195?) by Mr Magic  
+[**Arrow Diversity**](https://www.nexusmods.com/morrowind/mods/45236) by Turelek  
 
 ## Companions
 [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord  
