@@ -1,5 +1,9 @@
 # Combat Mods
 
+## Saving
+[**HardSave**](https://www.nexusmods.com/morrowind/mods/47170) by Archimag  
+No saving in battle!
+
 ## Menus
 [**Quick Loadouts**](https://www.nexusmods.com/morrowind/mods/46708) by Merlord  
 [**No Combat Menu**](https://www.nexusmods.com/morrowind/mods/46732) by Merlord  
