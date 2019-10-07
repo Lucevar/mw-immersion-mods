@@ -115,6 +115,7 @@ Expedition to mzelthuand
 [**Redoran Vaults Expanded**](http://mw.modhistory.com/download-68-14354) by Slaanesh the Corruptor  
 [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
 [**Lock-bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7  
+[**Ownership Indicator**](https://www.nexusmods.com/morrowind/mods/45940) by Petethegoat  
 
 # Smuggler  
 * Adanumuran reclaimed  
