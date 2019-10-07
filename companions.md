@@ -4,3 +4,6 @@
 [**Rift**](https://www.nexusmods.com/morrowind/mods/44107) by MatthewTheBagel  
 Includes an Argonian companion  
 [**Gizmo the Fabricant Guar**](https://www.nexusmods.com/morrowind/mods/46587) by Melchior Dahrk  
+[**Oz'aar the Wizard Companion**](https://www.nexusmods.com/morrowind/mods/44093) by MatthewTheBagel  
+[**Taryn the Warrior Companion**](https://www.nexusmods.com/morrowind/mods/44087) by MatthewTheBagel  
+[**Aloros the Telvanni Companion**](https://www.nexusmods.com/morrowind/mods/44069) by MatthewTheBagel  
