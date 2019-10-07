@@ -6,7 +6,7 @@
 [**R-zero's Random Replacers: Chimney Smoke**](https://www.nexusmods.com/morrowind/mods/44025) by R-zero  
 [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-zero  
 [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488) by R-zero  
-
+[**Blinking Dwemer Lights**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=73&Itemid=50&-Dwemer-Blinking-Lights-1-1) by qqqbbb and abot  
 
 ## Items
 [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
