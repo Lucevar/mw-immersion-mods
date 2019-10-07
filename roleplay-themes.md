@@ -27,6 +27,9 @@ Caves unlocked
 
 # Beast Race
 [**Telvanni Racist Guards**](http://mw.modhistory.com/download-44-10731) by Vagor  
+[**Nastier Camonna Tong**](https://www.nexusmods.com/morrowind/mods/22601) by von Django  
+[**Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by PoodleSandwich, Quorn, and Superquail  
+
 
 ## Argonian
 [**Argonian Hist Armor**](http://mw.modhistory.com/download-4-12309) by Helios & Ral-Jiktar  
@@ -64,6 +67,7 @@ See this list
 * [**Elemental Magicka II**](https://www.nexusmods.com/morrowind/mods/42106) by NMZMaster  
 * [**Useful Starting Spells**](https://www.nexusmods.com/morrowind/mods/40439) by Tizzo  
 * [**Miscast Mod**](http://mw.modhistory.com/download-53-12215) by Huskobar & Magius  
+* [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
 
 # Dwemer Scholar
 * [The Royal Game of Ur](https://www.nexusmods.com/morrowind/mods/44945)
@@ -152,11 +156,11 @@ Adds a number of roleplaying options to the main quest, including alternate path
 * [**Standard Bearer**](http://mw.modhistory.com/download-53-12717) by Danjb  
 
 # Dunmer Nationalist
-[**Main Quest Overhaul**]() by Gavrilo93  
+[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
 [**Liberate Morrowind**](https://www.nexusmods.com/morrowind/mods/45658) by Gavrilo93 
 
 # 6th House Believer
-The tribe unmourned  
+[**The tribe unmourned**](https://www.nexusmods.com/morrowind/mods/23357) by von Django  
 Great House dagoth  
 endrek's sixth house  
 
@@ -245,7 +249,9 @@ Nimawia Pearl farm
 
 
 # Necromancer
-* [Sorkvild the Raven (Evermore)](https://www.nexusmods.com/morrowind/mods/46320?)
+* [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
+* [**Sorkvild the Raven (Evermore)**](https://www.nexusmods.com/morrowind/mods/46320?)
+
 
 # Vampire
 * [Comfy pillow for a restful sleep](https://www.nexusmods.com/morrowind/mods/46613)
