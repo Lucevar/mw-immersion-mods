@@ -24,6 +24,8 @@ Caves unlocked
 ## Argonian
 [**Argonian Hist Armor**](http://mw.modhistory.com/download-4-12309) by Helios & Ral-Jiktar  
 [**Argonian Armor Sets**](http://mw.modhistory.com/download-65-6413) by quorn  
+[**Rift**](https://www.nexusmods.com/morrowind/mods/44107) by MatthewTheBagel  
+Includes an Argonian companion  
 
 # Roleplay - Barbarian
 [**Illiterate**](https://www.nexusmods.com/morrowind/mods/46600) by Petethegoat  
