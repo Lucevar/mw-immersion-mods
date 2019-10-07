@@ -7,6 +7,7 @@
 [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-zero  
 [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488) by R-zero  
 [**Blinking Dwemer Lights**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=73&Itemid=50&-Dwemer-Blinking-Lights-1-1) by qqqbbb and abot  
+[**Animated Targets and Practice Dummies**](http://download.fliggerty.com/download--893) by Stuporstar  
 
 ## Items
 [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
@@ -16,6 +17,7 @@ A corprus meat replacer.
 
 ## Particles
 [**Magic Diversity**](https://www.nexusmods.com/morrowind/mods/43380) by Arkann  
+[**Particle Arrow Replacer**](http://mw.modhistory.com/download-98-12124) by GhostNull  
 
 ## Animations  
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150) by R-Zero  
