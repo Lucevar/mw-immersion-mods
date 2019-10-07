@@ -20,3 +20,4 @@
 [**Buyable Ghorak Manor**](http://mw.modhistory.com/download-73-5870) by Monica21  
 [**Apothecary's Demise**](https://www.nexusmods.com/morrowind/mods/44331) by MatthewTheBagel  
 [**Ahnassi House Refurbished**](https://www.nexusmods.com/morrowind/mods/40437) by Tizzo  
+[**Botanist's Retreat**](http://mw.modhistory.com/download-48-11540) by Nym  
