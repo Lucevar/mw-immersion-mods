@@ -6,3 +6,8 @@
 [**Beauty Scrolls**](https://www.nexusmods.com/morrowind/mods/47181) by Archimag  
 [**Imperial Moth Cuirass**](https://www.nexusmods.com/morrowind/mods/45939) by Petethegoat  
 [**Thy Spirits Thy Lords**](https://www.nexusmods.com/morrowind/mods/38423) by von Django  
+[**Unique Gothren's Cephalopod Helm**](https://www.nexusmods.com/morrowind/mods/46534) by Leyawynn  
+[**Unique Dreugh Cuirass**](https://www.nexusmods.com/morrowind/mods/46508) by Leyawynn
+[**Accurate Madstone**](https://www.nexusmods.com/morrowind/mods/46397) by Leyawynn  
+[**Unique Icecap**](https://www.nexusmods.com/morrowind/mods/46362) by Leyawynn  
+[**Unique Dagoth Dagger**](https://www.nexusmods.com/morrowind/mods/46363) by Leyawynn  
