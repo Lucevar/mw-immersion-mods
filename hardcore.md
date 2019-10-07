@@ -8,6 +8,7 @@ No saving in battle!
 [**Ashfall**]() by Merlord  
 [**Frostwind**](https://www.nexusmods.com/morrowind/mods/45654) by Merlord  
 Ashfall is the sequel - use Frostwind if you don't use MWSE (eg if you have OpenMW).  
+[**The Bare Necessities (Wanderra Edit)**](https://www.nexusmods.com/morrowind/mods/44399)  
 
 ## Weather
 [**Ashfall**]() by Merlord  
