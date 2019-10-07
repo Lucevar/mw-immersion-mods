@@ -19,6 +19,10 @@
 
 ## Specific NPCs
 
+[**Better Ashumanu Eraishah**](https://www.nexusmods.com/morrowind/mods/44911/?) by Falyn Indoril  
+[**Better Helviane Desele**](https://www.nexusmods.com/morrowind/mods/44919/?) by Falyn Indoril  
+[**Unique Gothren's Cephalopod Helm**](https://www.nexusmods.com/morrowind/mods/46534) by Leyawynn  
+
 ### Sorkvild the Raven
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
 * [**Sorkvild the Raven (Evermore)**](https://www.nexusmods.com/morrowind/mods/46320?)
