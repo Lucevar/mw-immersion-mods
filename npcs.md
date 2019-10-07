@@ -5,3 +5,6 @@
 
 ## Pubs and Taverns
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) by Half11  
+
+## Animations
+[**Animated Morrowind - Merged**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50&-Animated-Morrowind-merged) by Archimaestro Antares & abot  
