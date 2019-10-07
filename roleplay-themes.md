@@ -6,9 +6,9 @@ See [**this list**] ()
 # Philanthropist 
 [**Donations to the Gods**](http://mw.modhistory.com/download-68-14336) by Slaanesh the Corruptor  
 [**Alms for Almsivi**](https://www.nexusmods.com/morrowind/mods/43853) by Zaarin  
-Covers the Imperial Cult too! 
+Covers the Imperial Cult too!  
 [**Communist Nerevarine**](https://www.nexusmods.com/morrowind/mods/46979) by Gavrilo93  
-Donate money to the paupers of Vvardenfell and help them get back on their feet. 
+Donate money to the paupers of Vvardenfell and help them get back on their feet.  
 [**Animated Morrowind - Merged**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50&-Animated-Morrowind-merged) by Archimaestro Antares & abot  
 Lets you donate to the beggars added by AM  
 
