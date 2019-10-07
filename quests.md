@@ -2,7 +2,7 @@
 # Vanilla Quest Changes
 ## General
 [**The Pretty Reckless**](https://www.nexusmods.com/morrowind/mods/46970) by Gavrilo93  
-Removes level requirements for a number of quests. 
+Removes level requirements for a number of quests.  
 [**Freelancer**](http://mw.modhistory.com/download-90-8164) by Tomas  
 
 ## Choices and Consequences
@@ -18,7 +18,7 @@ Removes level requirements for a number of quests.
 
 ## Factions
 [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von Django  
-[**Dagon Fel Mages Guild**]()
+[**Dagon Fel Mages Guild**](https://www.nexusmods.com/morrowind/mods/44576/?)
 
 # New Quests, Vanilla Npcs
 [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
