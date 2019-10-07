@@ -27,7 +27,8 @@ Caves unlocked
 
 # Roleplay - Barbarian
 [**Illiterate**](https://www.nexusmods.com/morrowind/mods/46600) by Petethegoat  
-Lock-bashing by Greatness7  
+[**Lock-bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7  
+[**Wolf Companion Spot**](http://lovkullen.net/Emma/wolf.htm) by Emma and Grumpy  
 
 # Roleplay - Outcast / Outlaw  
 [**Plaguebearer**](https://www.nexusmods.com/morrowind/mods/45760) by R-zero  
@@ -113,6 +114,7 @@ Expedition to mzelthuand
 [**Telvanni Vaults Expanded**](http://mw.modhistory.com/download-106-14357) by Slaanesh the Corruptor  
 [**Redoran Vaults Expanded**](http://mw.modhistory.com/download-68-14354) by Slaanesh the Corruptor  
 [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
+[**Lock-bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7  
 
 # Smuggler  
 * Adanumuran reclaimed  
