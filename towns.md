@@ -152,6 +152,7 @@ Balmora has a ridiculous number of mods - it's a meme for a reason! I recommend 
 [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
 [**Balmora Redecorated**](https://www.nexusmods.com/morrowind/mods/42580) by Lucevar  
 [**South Wall, Den of Iniquity**](http://mw.modhistory.com/download-87-13449) by Balasthustrius  
+[**The Seedy Plates**](https://www.nexusmods.com/morrowind/mods/19006) by Von Django  
 
 Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014) by mike_and_ike, [**Balmora Underworld**](https://www.nexusmods.com/morrowind/mods/42448) by Fulgore, the classic [**Balmora Expansion**](https://www.nexusmods.com/morrowind/mods/42342), [**Walled City of Balmora**](https://www.nexusmods.com/morrowind/mods/42524), [**Concept Art Balmora**](https://www.nexusmods.com/morrowind/mods/45149), [**City of Balmora - Hlaalu Expansion**](https://www.nexusmods.com/morrowind/mods/45324) by Praedator and EnvyDeveloper, [**Balmora Ragoxified**](https://www.nexusmods.com/morrowind/mods/38235) by Ragox, [**Balmora Market and Ghetto Shacks**](https://www.nexusmods.com/morrowind/mods/43434) by ThanMan16  
 
