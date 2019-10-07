@@ -26,6 +26,8 @@ Adds critical strike mechanics for the player and npcs based on luck.
 
 ## Companions
 [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord  
+[**Companion Health Bars**](https://www.nexusmods.com/morrowind/mods/46136) by mesafoo  
+[**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717) by NullCascade  
 
 ## Magic
 [**Better Enchantments**](https://www.nexusmods.com/morrowind/mods/47136) by Aracelliy
