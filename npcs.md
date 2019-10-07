@@ -13,5 +13,7 @@
 [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143) by Aoimhevelho  
 [**Dunmer Noble Overhaul**](https://www.nexusmods.com/morrowind/mods/43835) by Aoimhevelho  
 [**Armored Robe Compilation & NPC Changes**](https://www.nexusmods.com/morrowind/mods/44096) by Aoimhevelho  
+[**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) by Melchior Dahrk  
+[**Wandering Umbra**](https://www.nexusmods.com/morrowind/mods/44913) by mort  
 
 
