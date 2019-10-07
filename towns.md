@@ -5,6 +5,9 @@
 [**Temples With Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
 [**Velothi Wall Art**](https://www.nexusmods.com/morrowind/mods/46454) by Ashtaar  
 [**Imperials Go Home**](https://www.nexusmods.com/morrowind/mods/44984) by Rats - adds anti-Imperial graffiti around Vvardenfell  
+[**High Art**](https://www.nexusmods.com/morrowind/mods/47040) by vonwolfe  
+[**Holy Art**](https://www.nexusmods.com/morrowind/mods/47107) by lukkar and vonwolfe  
+[**Dartboards**](https://www.nexusmods.com/morrowind/mods/44593) by Utseeva  
 
 # Mournhold
 [**A Walk in the Park - Mournhold Temple Courtyard Overhaul**](https://www.nexusmods.com/morrowind/mods/46861) by seelof  
