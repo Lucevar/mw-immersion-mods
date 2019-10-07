@@ -9,5 +9,9 @@
 ## General
 [**Animated Morrowind - Merged**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50&-Animated-Morrowind-merged) by Archimaestro Antares & abot  
 [**Ashlander Rebels**](https://www.nexusmods.com/morrowind/mods/43225) by Aoimhevelho  
+[**Dreamers Expansion**](https://www.nexusmods.com/morrowind/mods/42990) by Aoimhevelho  
+[**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143) by Aoimhevelho  
+[**Dunmer Noble Overhaul**](https://www.nexusmods.com/morrowind/mods/43835) by Aoimhevelho  
+[**Armored Robe Compilation & NPC Changes**](https://www.nexusmods.com/morrowind/mods/44096) by Aoimhevelho  
 
 
