@@ -155,6 +155,7 @@ Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014)
 # Ashlands
 ## Ald-ruhn
 [**Ald-ruhn X**](https://www.nexusmods.com/morrowind/mods/46898) by Pinsvinn  
+[**Ald-ruhn X Pathgrid Fix**](https://www.nexusmods.com/morrowind/mods/47175) by Malic  
 [**Redoran Council Hall Improvements**](https://www.nexusmods.com/morrowind/mods/44931) by Kalian  
 [**The Rat in the Pot**](https://www.nexusmods.com/morrowind/mods/34186) by DebiDalio  
 [**Aldruhn Council Club**](https://www.nexusmods.com/morrowind/mods/34185) by DebiDalio  
