@@ -29,9 +29,15 @@ Gets rid of the tutorial messages and speeds up the chargen npcs, or alternative
 Disables custom classes - either pick an existing playable class (including playable classes added by mods) or go through the quiz.  
 
 [**Playable NPC Classes**](https://www.nexusmods.com/morrowind/mods/43428/) by Atrayonis  
-Adds the npc classes from Tamriel Data as playable classes. 
+Adds the npc classes from Tamriel Data as playable classes.  
 
+[**Better Character Classes**](https://www.nexusmods.com/morrowind/mods/47078) by Aracelliy  
+Improves the vanilla classes by changing the skills they use to make more sense.  
 
+# Starting Abilities and Powers
+[**Beast Race Abilities Toggleable**](https://www.nexusmods.com/morrowind/mods/44948) by PhDinSorcery  
+
+[**Expanded Birthsigns for Purists**](https://www.nexusmods.com/morrowind/mods/18016) by Cael_Aurion  
 
 # New Starting Options
 [**Personal Effects**](https://www.nexusmods.com/morrowind/mods/45338) by R-Zero  
