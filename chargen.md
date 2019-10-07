@@ -7,6 +7,11 @@ These don't conflict with any of the below, so you can use them alongside your c
 [**MWSE Random Character Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Aleister  
 Adds a random name generator to the chargen name selection UI. **Lucevar's note**: imo it fits in really well and the names it generates are very lore appropriate. As a MWSE mod it also doesn't take up any esp slots. If you've ever thought that thinking of a name is the most difficult part of chargen, I highly recommend this mod.  
 
+[**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915) by Petethegoat  
+Randomise everything!  
+
+[**Tidy Charsheet**](https://www.nexusmods.com/morrowind/mods/45939) by Petethegoat  
+
 [**Merlords Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795) by Merlord  
 After chargen (vanilla or modded) ends, this mod adds an extra step: choose your character's background. Some are simple stat boosts/maluses, others add scripted events such as challengers seeking to challenge a Famed Warrior or the Framed background which boosts your stealth skills at the cost of sometimes finding yourself with a bounty on your head. It really adds an interesting extra dimension to character generation.  
 
