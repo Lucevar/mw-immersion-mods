@@ -39,10 +39,13 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 [**Urbanopticum**]()  
 [**Gnisis Hand**]()  
 [**Shrines of the Seven Graces**]()  
-[**Passage of Prayers**]()  
+[**Passage of Prayers**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn    
 [**Illuminated Palace**]()  
 [**Prison Moon Enhanced II**]()  
 [**Holy Art**]()
+[**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
+[**Blight Bounties**](https://www.nexusmods.com/morrowind/mods/45595) by Ivza  
+[**Muck Shovel of Vivec**](http://mw.modhistory.com/download-11-8669) by dongle  
 
 ## Great House Telvanni
 [**LGNPC**]()
@@ -71,7 +74,6 @@ Someone please make one!
 [**Caldera Mages Guild Expanded**]() by Lucevar  
 [**Vivec Guild of Mages Expanded**]()  
 [**Scrolls of the Nine Barriers**]() by Melchior Dahrk
-
 [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126) by Melchior Dahrk  
 [**King of Worms**](https://www.nexusmods.com/morrowind/mods/46611) by Tel Shadow and Caeris  
 
@@ -86,7 +88,8 @@ Someone please make one!
 [**Gnisis Docks**](https://www.nexusmods.com/morrowind/mods/45994) by Gavrilo93 & PoodleSandwich  
 
 ## Imperial Cult
-Illy
+[**Illy's Oh My Goddess**](http://mw.modhistory.com/download-4-14546) by Illuminiel  
+[**The Divines**](https://www.nexusmods.com/morrowind/mods/40784) by Ratfink333  
 
 # Misc
 ## Thieves Guild
