@@ -2,7 +2,7 @@
 
 ## A 
 #### Ashumanu Eraishah
-* [**Better Ashumanu Eraishah**](https://www.nexusmods.com/morrowind/mods/44911/?)
+* [**Better Ashumanu Eraishah**](https://www.nexusmods.com/morrowind/mods/44911/?) - now sells skooma
 #### Agrippina Herennia
 * Patch for Purists
 #### Ajira
@@ -54,7 +54,7 @@
 
 ## H
 #### Helviane Desele
-* [**Better Helviane Desele**](https://www.nexusmods.com/morrowind/mods/44919/?)
+* [**Better Helviane Desele**](https://www.nexusmods.com/morrowind/mods/44919/?) - now sells skooma
 #### Hleras Gidran
 * Patch for Purists
 #### Hort Ledd
