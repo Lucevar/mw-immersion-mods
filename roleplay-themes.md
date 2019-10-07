@@ -215,7 +215,7 @@ Balmora guilds expanded
 [**Would you like healing?**](https://www.nexusmods.com/morrowind/mods/46973) by Master Jinroku  
 
 # Abolitionist 
-Brother juniper  
+[**Twin Lamps**](http://mw.modhistory.com/download-53-7283) by Brother juniper  
 Nevena  
 [**Free the slaves**](https://www.nexusmods.com/morrowind/mods/45191) by Caeris
 [**Live Free**](https://www.nexusmods.com/morrowind/mods/43999) by Apoapse  
