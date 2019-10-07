@@ -23,3 +23,5 @@ A corprus meat replacer.
 [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586) by R-zero  
 [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-zero  
 [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300) by R-zero  
+[**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178/) by OperatorJack and RedFurryDemon  
+
