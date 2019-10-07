@@ -10,6 +10,12 @@ No saving in battle!
 Ashfall is the sequel - use Frostwind if you don't use MWSE (eg if you have OpenMW).  
 [**The Bare Necessities (Wanderra Edit)**](https://www.nexusmods.com/morrowind/mods/44399)  
 
+## Game Mechanics
+[**Skill Based Trap Detection**](https://www.nexusmods.com/morrowind/mods/47120) by AdituV  
+[**AntiWitcher**](https://www.nexusmods.com/morrowind/mods/47062) by Archimag  
+No more drinking 10 potions at once!  
+[**4NM Training**](https://www.nexusmods.com/morrowind/mods/47035) by Archimag  
+
 ## Weather
 [**Ashfall**]() by Merlord  
 [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558) by Half11  
