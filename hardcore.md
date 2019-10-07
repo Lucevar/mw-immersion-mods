@@ -4,6 +4,11 @@
 [**HardSave**](https://www.nexusmods.com/morrowind/mods/47170) by Archimag  
 No saving in battle!
 
+## Basic Needs
+[**Ashfall**]() by Merlord  
+[**Frostwind**](https://www.nexusmods.com/morrowind/mods/45654) by Merlord  
+Ashfall is the sequel - use Frostwind if you don't use MWSE (eg if you have OpenMW).  
+
 ## Weather
 [**Ashfall**]() by Merlord  
 [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558) by Half11  
@@ -18,7 +23,7 @@ No saving in battle!
 [**Common Containers Nerfed**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
 [**Container Ownership**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
 [**Rarer Scrap Metal**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
-[**Gold Weight**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=83&Itemid=50&-Gold-Weight) by abot  
+[**Gold Weight**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=83&Itemid=50&-Gold-Weight) by abot 
 
 ## Equipment
 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
