@@ -18,8 +18,8 @@ A corprus meat replacer.
 
 ## Animations  
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150) by R-Zero  
-[**Animated Morrowind**]()
-[**Animated Containers**]()
+[**Animated Morrowind**](http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50) by Arcimaestro Antares and abot  
+[**Animated Containers**](https://www.nexusmods.com/morrowind/mods/42238) by qqqbbb  
 
 # Audio
 [**Shut the fck up cliff racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
