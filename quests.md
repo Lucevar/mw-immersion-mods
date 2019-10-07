@@ -19,3 +19,5 @@ Removes level requirements for a number of quests.
 [**Swamp Fever**](https://www.nexusmods.com/morrowind/mods/46640) by RubberMan  
 [**ABCs for Outlanders**](https://www.nexusmods.com/morrowind/mods/46692/) by Melchior Dahrk   
 [**Dreaming Terrors**](https://www.nexusmods.com/morrowind/mods/44690) by Team Cutie Kagouti  
+[**Bloodwind**](https://www.nexusmods.com/morrowind/mods/45344) by MatthewTheBagel  
+[**Moonlight on the River Odai**](https://www.nexusmods.com/morrowind/mods/46822) by MatthewTheBagel  
