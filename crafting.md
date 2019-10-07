@@ -7,3 +7,4 @@
 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
 [**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
+[**PC smithy - Ebonheart**](http://mw.modhistory.com/download-35-10219) by aimeekae  
