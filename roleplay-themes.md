@@ -70,7 +70,7 @@ See this list
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
 
 # Dwemer Scholar
-* [The Royal Game of Ur](https://www.nexusmods.com/morrowind/mods/44945)
+* [**The Royal Game of Ur**](https://www.nexusmods.com/morrowind/mods/44945)
 * [Gizmo the Fabricant Guar Companion](https://www.nexusmods.com/morrowind/mods/46587)  
 Dwemer archaeological society. 
 Expedition to mzelthuand  
@@ -80,7 +80,7 @@ Expedition to mzelthuand
 [**Welcome to the Arena!**](https://www.nexusmods.com/morrowind/mods/22002) by Kalemestari69  
 
 # Roleplay - Ordinary Joe
-* MD's Job Agency
+* [**Imperial Employment Agency, MD Edit**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk  
 * [**Radiant Quests of Morrowind**](https://www.nexusmods.com/morrowind/mods/46451)
 * [**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by Gavrilo93  
 * [**Standard Bearer**](http://mw.modhistory.com/download-53-12717) by Danjb  
@@ -177,7 +177,7 @@ Dramatic vivec
 Shrines of the seven graces enhances  
 Tanriel rebuilt  
 Ghostgate room  
-Holidays across tamriel  
+[**Holidays across Tamriel**](https://www.nexusmods.com/morrowind/mods/43131) by Lord Berandas  
 Gnisis hand  
 Gnisis minaret  
 Velothi Wall art  
