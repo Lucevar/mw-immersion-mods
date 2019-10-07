@@ -156,6 +156,7 @@ Includes an inn you can buy.
 Adds a number of roleplaying options to the main quest, including alternate paths to completing it, the ability to turn it down completely, the ability to refuse membership in the Ashlanders,  and a number of new quests for the Ashlanders.
 * [**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by Gavrilo93  
 * [**Standard Bearer**](http://mw.modhistory.com/download-53-12717) by Danjb  
+* [**Imperial Contraband**](http://mw.modhistory.com/download-53-13016) by Nogi.Fox  
 
 # Dunmer Nationalist
 [**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
