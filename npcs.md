@@ -15,5 +15,4 @@
 [**Armored Robe Compilation & NPC Changes**](https://www.nexusmods.com/morrowind/mods/44096) by Aoimhevelho  
 [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) by Melchior Dahrk  
 [**Wandering Umbra**](https://www.nexusmods.com/morrowind/mods/44913) by mort  
-
-
+[**Redoran Guard Glove Fix**](https://www.nexusmods.com/morrowind/mods/45935) by Petethegoat  
