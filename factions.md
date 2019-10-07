@@ -42,6 +42,7 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 [**Passage of Prayers**]()  
 [**Illuminated Palace**]()  
 [**Prison Moon Enhanced II**]()  
+[**Holy Art**]()
 
 ## Great House Telvanni
 [**LGNPC**]()
@@ -75,6 +76,7 @@ Someone please make one!
 
 ## Fighters Guild  
 [**Balmora Guilds Expanded**]() by Lucevar  
+[**Zelazko's Fighters Guild Quest Options**](https://www.nexusmods.com/morrowind/mods/47196) by Zelazko  
 
 ## Imperial Legion
 
@@ -89,6 +91,9 @@ Illy
 [**Dura gra-Bol and the Grab-All Gang**]() by Melchior Dahrk  
 
 ## Morag Tong
+[**Morag Tong Polished**](https://www.nexusmods.com/morrowind/mods/47041) by Caeris  
+[**Morag Tong Expanded**]()
+[**Methas Hlaalu**]()
 
 ## Camonna Tong
 
@@ -97,6 +102,13 @@ Illy
 ## Ashlanders 
 
 ## Blades
+[**Blades Quest**](http://lovkullen.net/Emma/blade.htm) by Emma  
+[**The Rise of the Tribe Unmourned**](https://www.nexusmods.com/morrowind/mods/45165) by SammyB27 and Caeris  
+
+## House Dagoth
+[**Great House Dagoth**]()
+[**Endrek's Sixth House**]()
+[**After the Blight**](https://www.nexusmods.com/morrowind/mods/46099) by Team Purist Pariahs  
 
 # New Factions
 
