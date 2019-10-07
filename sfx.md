@@ -12,6 +12,7 @@
 [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
 [**R-Zero's Throbbing Meat**](https://www.nexusmods.com/morrowind/mods/45339) by R-Zero  
 A corprus meat replacer.  
+[**Draggle-Tail Torches**](http://mw.modhistory.com/download-26-14297) by Danjb  
 
 ## Particles
 [**Magic Diversity**](https://www.nexusmods.com/morrowind/mods/43380) by Arkann  
