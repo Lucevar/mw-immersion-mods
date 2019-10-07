@@ -16,6 +16,7 @@
 
 ## Azura's Coast
 [**Holamayan Monastery Replacer**](https://www.nexusmods.com/morrowind/mods/43524) by Resdayn Revival Team  
+[**Reclamations in Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimhevelho  
 
 ## Ascadian Isles
 [**Omani Manor - Hlaalu Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/46147) by Tel Shadow
