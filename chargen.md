@@ -44,6 +44,8 @@ Improves the vanilla classes by changing the skills they use to make more sense.
 
 [**Expanded Birthsigns for Purists**](https://www.nexusmods.com/morrowind/mods/18016) by Cael_Aurion  
 
+[**Useful Starting Spells**](https://www.nexusmods.com/morrowind/mods/40439) by Tizzo  
+
 # New Starting Options
 [**Personal Effects**](https://www.nexusmods.com/morrowind/mods/45338) by R-Zero  
 If you start as one of the vanilla classes, gain items based on your class instead of the vanilla 87 gold.  
