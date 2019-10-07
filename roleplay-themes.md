@@ -33,6 +33,7 @@ Caves unlocked
 [**Argonian Armor Sets**](http://mw.modhistory.com/download-65-6413) by quorn  
 [**Rift**](https://www.nexusmods.com/morrowind/mods/44107) by MatthewTheBagel  
 Includes an Argonian companion  
+[**Oz'aar the Wizard Companion**](https://www.nexusmods.com/morrowind/mods/44093) by MatthewTheBagel  
 
 # Roleplay - Barbarian
 [**Illiterate**](https://www.nexusmods.com/morrowind/mods/46600) by Petethegoat  
