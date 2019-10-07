@@ -102,6 +102,7 @@ Illy
 [**Morag Tong Polished**](https://www.nexusmods.com/morrowind/mods/47041) by Caeris  
 [**Morag Tong Expanded**]()
 [**Methas Hlaalu**]()
+[**TR Morag Tong Integration**](https://www.nexusmods.com/morrowind/mods/43210) by Aoimhevelho
 
 ## Camonna Tong
 
