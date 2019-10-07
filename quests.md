@@ -36,4 +36,5 @@ Removes level requirements for a number of quests.
 [**Bloodwind**](https://www.nexusmods.com/morrowind/mods/45344) by MatthewTheBagel  
 [**Moonlight on the River Odai**](https://www.nexusmods.com/morrowind/mods/46822) by MatthewTheBagel  
 [**Trouble at Sea**](http://mw.modhistory.com/download-53-12731) by Danjb  
+[**Imperial Employment Agency, MD Edit**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk  
 
