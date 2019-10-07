@@ -19,6 +19,7 @@ Duke's Silver Armor:
 [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) by Melchior Dahrk  
 [**Wandering Umbra**](https://www.nexusmods.com/morrowind/mods/44913) by mort  
 [**Redoran Guard Glove Fix**](https://www.nexusmods.com/morrowind/mods/45935) by Petethegoat  
+[**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269) by Melchior Dahrk and quorn  
 
 ## Specific NPCs
 
