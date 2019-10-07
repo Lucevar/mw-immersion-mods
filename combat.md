@@ -47,3 +47,4 @@ Adds critical strike mechanics for the player and npcs based on luck.
 ## New Weapons
 [**An Issue of Thrust**](https://www.nexusmods.com/morrowind/mods/44650) by Team Cutie Kagouti  
 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
+[**Hunter's Mark**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
