@@ -133,8 +133,8 @@ Start the game as an Ashlander. Skips the Blades portions of the main quest.
 * Arcane Archery
 
 # Bard
-* Danae's Bard mod
-Bardic inspiration by merlord
+* Danae's Bard mod  
+[**Bardic inspiration**](https://www.nexusmods.com/morrowind/mods/45441) by Merlord  
 Entertainers expanded again
 
 # Healer
@@ -150,7 +150,7 @@ Farmer mod
 
 Smith
 Rubberman sharpen mod
-Realistic repair
+[**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
 PC smithy
 
 # Sailor / Pirate / Diver / Water
@@ -183,6 +183,16 @@ The underground
 Merlord vampire mod
 Vampire dreams
 Random vampire attacks
+
+# Alcohol
+[**The Brew Master**](https://www.nexusmods.com/morrowind/mods/45472) by Merlord  
+[**Immersive Alcohol**](https://www.nexusmods.com/morrowind/mods/45589) by Merlord  
+
+# Addict / Dealer
+[**Create Skooma**](https://www.nexusmods.com/morrowind/mods/45419) by Merlord  
+[**Skooma Dealer**](https://www.nexusmods.com/morrowind/mods/45457) by Merlord  
+[**Moon Sugar Thief**](https://www.nexusmods.com/morrowind/mods/45459) by Merlord  
+
 
 ## Orc
 [**The Fires of Orc**](https://www.nexusmods.com/morrowind/mods/44982) by Gavrilo93  
