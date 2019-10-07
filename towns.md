@@ -8,6 +8,7 @@
 [**High Art**](https://www.nexusmods.com/morrowind/mods/47040) by vonwolfe  
 [**Holy Art**](https://www.nexusmods.com/morrowind/mods/47107) by lukkar and vonwolfe  
 [**Dartboards**](https://www.nexusmods.com/morrowind/mods/44593) by Utseeva  
+[**Coloured Cloths**](http://mw.modhistory.com/download-53-12734) by Danjb  
 
 # Mournhold
 [**A Walk in the Park - Mournhold Temple Courtyard Overhaul**](https://www.nexusmods.com/morrowind/mods/46861) by seelof  
