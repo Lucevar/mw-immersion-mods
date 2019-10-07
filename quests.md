@@ -11,7 +11,11 @@ Removes level requirements for a number of quests.
 [**Zelazko's Fighters Guild Quest Options**](https://www.nexusmods.com/morrowind/mods/47196) by Zelazko  
 [**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995) by Gavrilo93  
 [**Museum Quest Finisher**](https://www.nexusmods.com/morrowind/mods/47139) by Necrolesian  
-[**Stormkiss Reforged**](https://www.nexusmods.com/morrowind/mods/44565) by Gevalt and Enclavekiller )
+[**Stormkiss Reforged**](https://www.nexusmods.com/morrowind/mods/44565) by Gevalt and Enclavekiller
+
+## Factions
+[**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von Django  
+[**Dagon Fel Mages Guild**](
 
 # New Quests
 
@@ -21,3 +25,5 @@ Removes level requirements for a number of quests.
 [**Dreaming Terrors**](https://www.nexusmods.com/morrowind/mods/44690) by Team Cutie Kagouti  
 [**Bloodwind**](https://www.nexusmods.com/morrowind/mods/45344) by MatthewTheBagel  
 [**Moonlight on the River Odai**](https://www.nexusmods.com/morrowind/mods/46822) by MatthewTheBagel  
+[**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
+[**Sorkvild the Raven (Evermore)**](https://www.nexusmods.com/morrowind/mods/46320?)
