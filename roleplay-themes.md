@@ -92,6 +92,7 @@ Expedition to mzelthuand
 [**Racer's Roost**](http://mw.modhistory.com/download-15-5712) by Baratheon79  
 [**A Bard's Life 2**](https://www.nexusmods.com/morrowind/mods/44359) by Danae  
 Includes an inn you can buy.  
+[**Nimawia Pearl Farm**]()  
 
 # Witchhunter
 * [The Sanguine Rose](https://www.nexusmods.com/morrowind/mods/46214)
@@ -140,6 +141,7 @@ Includes an inn you can buy.
 [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
 [**Lock-bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7  
 [**Ownership Indicator**](https://www.nexusmods.com/morrowind/mods/45940) by Petethegoat  
+[**Fake Gold**](http://mw.modhistory.com/download-53-12720) by Danjb  
 
 # Smuggler  
 * Adanumuran reclaimed  
@@ -228,6 +230,8 @@ Rubberman sharpen mod
 # Sailor / Pirate / Diver / Water
 * [Pearls Enhanced](https://www.nexusmods.com/morrowind/mods/43190)
 * [Water Life]
+[**Trouble at Sea**](http://mw.modhistory.com/download-53-12731) by Danjb  
+
 Nimawia Pearl farm
 
 # Alchemist
