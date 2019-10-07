@@ -13,8 +13,11 @@
 [**Sleepers Awake**](https://www.nexusmods.com/morrowind/mods/37208) by Von Django & Adul  
 
 
-# Greetings
+## Greetings
 [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
+
+## Persuasion
+[**Advanced Persuasion**](http://mw.modhistory.com/download-53-12143) by Danjb  
 
 ## Services
 [**Service Refusal Expanded**](https://www.nexusmods.com/morrowind/mods/45961) by Caeris  
