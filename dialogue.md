@@ -1,7 +1,7 @@
 # Dialogue
 
 ## Flavour Dialogue
-[**What Thieves Guild?**]()
+[**What Thieves Guild?**](http://mw.modhistory.com/download-87-13858) by von Django  
 [**Django's Dialogue**](https://www.nexusmods.com/morrowind/mods/37328) by von Django  
 [**Nastier Camonna Tong**](https://www.nexusmods.com/morrowind/mods/22601) by von Django  
 
@@ -37,6 +37,7 @@
 
 ## Slaves
 [**Free The Slaves**](https://www.nexusmods.com/morrowind/mods/45191) by Caeris  
+[**Live Free**](https://www.nexusmods.com/morrowind/mods/43999) by Apoapse  
 
 ## Donations
 [**Donations to the Gods**](http://mw.modhistory.com/download-68-14336) by Slaanesh the Corruptor  
