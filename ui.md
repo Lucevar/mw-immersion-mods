@@ -5,3 +5,4 @@
 [**Ownership Indicator**](https://www.nexusmods.com/morrowind/mods/45940) by Petethegoat  
 [**HardSave**](https://www.nexusmods.com/morrowind/mods/47170) by Archimag  
 No saving in battle!
+[**Universal Companion Share**](http://download.fliggerty.com/download--14) by Fliggerty  
