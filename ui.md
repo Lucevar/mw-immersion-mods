@@ -9,3 +9,4 @@ No saving in battle!
 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
 [**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
 [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
+[**Lock-bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7  
