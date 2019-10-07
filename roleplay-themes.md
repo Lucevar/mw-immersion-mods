@@ -21,6 +21,10 @@ Caves unlocked
 # Beast Race
 [**Telvanni Racist Guards**](http://mw.modhistory.com/download-44-10731) by Vagor  
 
+## Argonian
+[**Argonian Hist Armor**](http://mw.modhistory.com/download-4-12309) by Helios & Ral-Jiktar  
+[**Argonian Armor Sets**](http://mw.modhistory.com/download-65-6413) by quorn  
+
 # Roleplay - Barbarian
 Illiterate by Petethegoat  
 Lock-bashing by Greatness7  
