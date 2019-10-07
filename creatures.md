@@ -8,3 +8,6 @@
 
 ## Placement
 [**Dagoth's Chosen**](https://www.nexusmods.com/morrowind/mods/31429) by von Django  
+
+## New Creatures  
+[**Spriggans and Twiggans**](https://www.nexusmods.com/morrowind/mods/43350) by Melchior Dahrk  
