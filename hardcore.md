@@ -18,3 +18,8 @@
 
 ## Equipment
 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
+
+## Disease
+[**No More Dr. Nerevarine**](https://www.nexusmods.com/morrowind/mods/45861) by Gavrilo93  
+[**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228) by Half11  
+[**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558) by Half11  
