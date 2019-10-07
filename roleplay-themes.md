@@ -9,6 +9,8 @@ See [**this list**] ()
 Covers the Imperial Cult too! 
 [**Communist Nerevarine**](https://www.nexusmods.com/morrowind/mods/46979) by Gavrilo93  
 Donate money to the paupers of Vvardenfell and help them get back on their feet. 
+[**Animated Morrowind - Merged**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50&-Animated-Morrowind-merged) by Archimaestro Antares & abot  
+Lets you donate to the beggars added by AM  
 
 # Bounty hunter / Mercenary
 Freelancer  
@@ -39,6 +41,7 @@ See this list
 * [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126)
 * [**The Astral Pocket**](https://www.nexusmods.com/morrowind/mods/46226)
 * [**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Gavrilo93  
+* [**Customizable MWSE Multi Mark & Harder Recall**](https://www.nexusmods.com/morrowind/mods/47065) by Virnetch  
 
 
 # Dwemer Scholar
@@ -166,11 +169,14 @@ Entertainers expanded again
 
 # Healer
 Balmora guilds expanded
+[**Swamp Fever**](https://www.nexusmods.com/morrowind/mods/46640) by Luccar and Rubberman  
+[**Would you like healing?**](https://www.nexusmods.com/morrowind/mods/46973) by Master Jinroku  
 
 # Abolitionist 
 Brother juniper  
 Nevena  
-Free slaves by caeris
+[**Free the slaves**](https://www.nexusmods.com/morrowind/mods/45191) by Caeris
+[**Live Free**](https://www.nexusmods.com/morrowind/mods/43999) by Apoapse  
 
 # Farmer
 Farmer mod
