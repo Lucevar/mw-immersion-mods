@@ -2,6 +2,9 @@
 
 ## Guards
 [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11  
+Duke's Silver Armor:
+* [**Resources**](https://www.nexusmods.com/morrowind/mods/35562?) by Alaisiagae  
+* [**Implementation**](https://www.nexusmods.com/morrowind/mods/46828) by SfinnaIronfoot
 
 ## Pubs and Taverns
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) by Half11  
