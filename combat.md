@@ -8,6 +8,11 @@ No saving in battle!
 [**Quick Loadouts**](https://www.nexusmods.com/morrowind/mods/46708) by Merlord  
 [**No Combat Menu**](https://www.nexusmods.com/morrowind/mods/46732) by Merlord  
 
+## Visuals
+[**Blood and Gore**](http://mw.modhistory.com/download-44-14938) by TheLys  
+[**Blood and Gore Retexture**](https://www.nexusmods.com/morrowind/mods/44296) by Corsair  
+[**Realistic Blood**](http://mw.modhistory.com/download-26-10419) by Leatherpoker  
+
 ## Healing / Recovery
 [**Realistic Healing and Injuries**](https://www.nexusmods.com/morrowind/mods/47084) by Aracelliy  
 
