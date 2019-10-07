@@ -26,7 +26,7 @@ Caves unlocked
 [**Argonian Armor Sets**](http://mw.modhistory.com/download-65-6413) by quorn  
 
 # Roleplay - Barbarian
-Illiterate by Petethegoat  
+[**Illiterate**](https://www.nexusmods.com/morrowind/mods/46600) by Petethegoat  
 Lock-bashing by Greatness7  
 
 # Roleplay - Outcast / Outlaw  
@@ -54,8 +54,9 @@ See this list
 Dwemer archaeological society. 
 Expedition to mzelthuand  
 
-# Warriors
+# Warrior / Gladiator
 [Bucklers Remastered](https://www.nexusmods.com/morrowind/mods/46388)
+[**Welcome to the Arena!**](https://www.nexusmods.com/morrowind/mods/22002) by Kalemestari69  
 
 # Roleplay - Ordinary Joe
 * MD's Job Agency
@@ -190,7 +191,7 @@ Farmer mod
 # Smith
 Rubberman sharpen mod
 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
-PC smithy
+[**PC smithy - Ebonheart**](http://mw.modhistory.com/download-35-10219) by aimeekae  
 
 # Sailor / Pirate / Diver / Water
 * [Pearls Enhanced](https://www.nexusmods.com/morrowind/mods/43190)
