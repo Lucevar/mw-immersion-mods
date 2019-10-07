@@ -97,6 +97,8 @@ Expedition to mzelthuand
 * [**Plaguebearer**](https://www.nexusmods.com/morrowind/mods/45760) by R-zero  
 
 # Assassin
+[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
+[**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
 
 # Thief
 * [Stealable Ash Mask](https://www.nexusmods.com/morrowind/mods/46207).  
@@ -196,7 +198,11 @@ PC smithy
 Nimawia Pearl farm
 
 # Alchemist
-* [A Strange Plant](https://www.nexusmods.com/morrowind/mods/42009)
+* [A Strange Plant](https://www.nexusmods.com/morrowind/mods/42009)  
+[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
+[**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
+[**ST Alchemy**](http://download.fliggerty.com/download-142-1093) by Stuporstar  
+[**More Gems**](http://mw.modhistory.com/download-1-12182) by Gawain  
 
 # Beastmaster
 * [Mausi the War Kagouti](https://www.nexusmods.com/morrowind/mods/45169)
@@ -205,6 +211,9 @@ Nimawia Pearl farm
 * [Unique Items](https://www.nexusmods.com/morrowind/mods/44530)
 * [Complete Book Collection](https://www.nexusmods.com/morrowind/mods/44818?)
 * [Bucklers Remastered](https://www.nexusmods.com/morrowind/mods/46388)
+[**More Gems**](http://mw.modhistory.com/download-1-12182) by Gawain  
+* [**Staffs of the Daedra**](https://www.nexusmods.com/morrowind/mods/43189)
+
 
 # Necromancer
 * [Sorkvild the Raven (Evermore)](https://www.nexusmods.com/morrowind/mods/46320?)
