@@ -8,3 +8,9 @@ Includes an Argonian companion
 [**Taryn the Warrior Companion**](https://www.nexusmods.com/morrowind/mods/44087) by MatthewTheBagel  
 [**Aloros the Telvanni Companion**](https://www.nexusmods.com/morrowind/mods/44069) by MatthewTheBagel  
 [**Olyn Hleran - A Redoran Companion**](https://www.nexusmods.com/morrowind/mods/45197) by Team Mythical Beasts  
+[**Jasmine**](https://www.nexusmods.com/morrowind/mods/43336) by Jac  
+[**Julan, Ashlander Companion**](http://lovkullen.net/Emma/Kateri.htm) by Kateri  
+[**Pack Donkeys**](http://lovkullen.net/Emma/Donkey.htm) by Emma  
+[**Companionable Cats**](http://lovkullen.net/Emma/cats.htm) by Emma  
+[**Constance, Thief Companion**](http://lovkullen.net/Emma/Constance.htm) by Grumpy and Emma  
+[**The Witchgirl Adventure**](http://lovkullen.net/Emma/witchgirl.htm) by Emma  
