@@ -18,6 +18,7 @@ No saving in battle!
 [**Common Containers Nerfed**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
 [**Container Ownership**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
 [**Rarer Scrap Metal**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
+[**Gold Weight**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=83&Itemid=50&-Gold-Weight) by abot  
 
 ## Equipment
 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
