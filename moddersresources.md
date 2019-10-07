@@ -130,6 +130,7 @@ This one has the globe.
 [**Wolli's Daedric Tidbits**](http://mw.modhistory.com/download-55-6671) by Wollibeebee  
 [**One**](http://mw.modhistory.com/download-51-13183), [**Two**](http://mw.modhistory.com/download-51-13184), [**Three**](http://mw.modhistory.com/download-51-13185), [**Four**](http://mw.modhistory.com/download-51-13215), [**Five**](http://mw.modhistory.com/download-4-13929), [**Six**](http://mw.modhistory.com/download-4-13933) - Daedric resources by Midgetalien  
 [**Daedric Throne**](https://download.fliggerty.com/download-56-230) by Luma  
+[**Boethiah Statue Resource**](https://www.nexusmods.com/morrowind/mods/43227) by Aoimhevelho  
 
 ## Dwemer
 [**Darknut's Greater Dwemer Interiors**](https://www.nexusmods.com/morrowind/mods/45331) by Darknut  
