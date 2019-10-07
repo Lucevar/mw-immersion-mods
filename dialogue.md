@@ -6,6 +6,8 @@
 ## Audio
 [**VGreetings**](http://mw.modhistory.com/download-42-13335) by TheOtherFelix  
 [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero  
+[**So. You're the Nerevarine.**](https://www.nexusmods.com/morrowind/mods/46896) by vehkofficial  
+[**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948) by vonwolfe  
 
 # Greetings
 [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
