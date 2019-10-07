@@ -4,5 +4,7 @@
 [**The Role They Were To Play**](https://www.nexusmods.com/morrowind/mods/46411) by PoodleSandwich  
 [**Ownership Indicator**](https://www.nexusmods.com/morrowind/mods/45940) by Petethegoat  
 [**HardSave**](https://www.nexusmods.com/morrowind/mods/47170) by Archimag  
-No saving in battle!
+No saving in battle!  
 [**Universal Companion Share**](http://download.fliggerty.com/download--14) by Fliggerty  
+[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
+[**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
