@@ -10,6 +10,8 @@ Adds a random name generator to the chargen name selection UI. **Lucevar's note*
 [**Merlords Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795) by Merlord  
 After chargen (vanilla or modded) ends, this mod adds an extra step: choose your character's background. Some are simple stat boosts/maluses, others add scripted events such as challengers seeking to challenge a Famed Warrior or the Framed background which boosts your stealth skills at the cost of sometimes finding yourself with a bounty on your head. It really adds an interesting extra dimension to character generation.  
 
+[**The Role They Were to Play**](https://www.nexusmods.com/morrowind/mods/46411) by PoodleSandwich  
+
 # Minimalist
 Just get a game started more quickly - perfect for testing mods or just skipping the tutorial messages.  
 
@@ -27,7 +29,9 @@ Gets rid of the tutorial messages and speeds up the chargen npcs, or alternative
 Disables custom classes - either pick an existing playable class (including playable classes added by mods) or go through the quiz.  
 
 [**Playable NPC Classes**](https://www.nexusmods.com/morrowind/mods/43428/) by Atrayonis  
-Adds the npc classes from Tamriel Data as playable classes.  
+Adds the npc classes from Tamriel Data as playable classes. 
+
+
 
 # New Starting Options
 [**Personal Effects**](https://www.nexusmods.com/morrowind/mods/45338) by R-Zero  
