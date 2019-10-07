@@ -46,6 +46,7 @@ Removes level requirements for a number of quests.
 [**Quest Tweaks and Alternatives**]() by Stuporstar  
 [**Zelazko's Fighters Guild Quest Options**](https://www.nexusmods.com/morrowind/mods/47196) by Zelazko  
 [**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995) by Gavrilo93  
+[**Museum Quest Finisher**](https://www.nexusmods.com/morrowind/mods/47139) by Necrolesian  
 
 # Factions
 See factions list 
