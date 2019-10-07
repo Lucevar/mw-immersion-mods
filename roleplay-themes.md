@@ -175,9 +175,11 @@ Adds a number of new quests for the Ashlanders.
 * Arcane Archery
 
 # Bard
-* Danae's Bard mod  
+[**A Bard's Life 2**](https://www.nexusmods.com/morrowind/mods/44359) by Danae  
+[**Complete Lute**](https://www.nexusmods.com/morrowind/mods/3930) by Illtempered  
+[**Bard Equipment**](https://www.nexusmods.com/morrowind/mods/27800) by Saint_Jiub  
 [**Bardic inspiration**](https://www.nexusmods.com/morrowind/mods/45441) by Merlord  
-Entertainers expanded again
+[**Entertainers Expanded**](https://www.nexusmods.com/morrowind/mods/44764) with [**Entertainers Expanded Again**](https://www.nexusmods.com/morrowind/mods/46889) by Ian and Chantox  
 
 # Healer
 Balmora guilds expanded
