@@ -3,10 +3,16 @@
 # Alternate Chargen
 See [**this list**] () 
 
+# Philanthropist 
 [**Donations to the Gods**](http://mw.modhistory.com/download-68-14336) by Slaanesh the Corruptor  
+[**Alms for Almsivi**](https://www.nexusmods.com/morrowind/mods/43853) by Zaarin  
+Covers the Imperial Cult too! 
+[**Communist Nerevarine**](https://www.nexusmods.com/morrowind/mods/46979) by Gavrilo93  
+Donate money to the paupers of Vvardenfell and help them get back on their feet. 
 
-# Bounty hunter
-Bounty Hunter  
+# Bounty hunter / Mercenary
+Freelancer  
+[**Bounty Hunter Bundle**](https://www.nexusmods.com/morrowind/mods/46928) by Gavrilo93 
 Locked caves  
 Caves unlocked   
 
@@ -17,8 +23,10 @@ Caves unlocked
 Illiterate by Petethegoat  
 Lock-bashing by Greatness7  
 
-# Roleplay - Outcast
+# Roleplay - Outcast / Outlaw  
 [**Plaguebearer**](https://www.nexusmods.com/morrowind/mods/45760) by R-zero  
+[**Wanted Posters**](https://www.nexusmods.com/morrowind/mods/47000) by Gavrilo93  
+[**Bounty Hunters 2.0**](https://www.nexusmods.com/morrowind/mods/43789/) by Daemonjax and Arcimaestro Antares  
 
 # Roleplay - Wizard
 See this list
@@ -26,10 +34,12 @@ See this list
 * Scripted Spells
 * Caldera Mages Guild Expanded
 * Wolverine Hall overhaul
-* [Scrolls of the Nine Barriers](https://www.nexusmods.com/morrowind/mods/45831)
-* [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739)
-* [Salt Gems of Bensamsi](https://www.nexusmods.com/morrowind/mods/45126)
-* [The Astral Pocket](https://www.nexusmods.com/morrowind/mods/46226)
+* [**Scrolls of the Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831)
+* [**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739)
+* [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126)
+* [**The Astral Pocket**](https://www.nexusmods.com/morrowind/mods/46226)
+* [**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Gavrilo93  
+
 
 # Dwemer Scholar
 * [The Royal Game of Ur](https://www.nexusmods.com/morrowind/mods/44945)
@@ -42,7 +52,9 @@ Expedition to mzelthuand
 
 # Roleplay - Ordinary Joe
 * MD's Job Agency
-* [Radiant Quests of Morrowind](https://www.nexusmods.com/morrowind/mods/46451)
+* [**Radiant Quests of Morrowind**](https://www.nexusmods.com/morrowind/mods/46451)
+* [**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by Gavrilo93  
+
 
 # Merchant
 [Wages and Bonds](https://www.nexusmods.com/morrowind/mods/46394)
@@ -79,22 +91,28 @@ Expedition to mzelthuand
 
 # Thief
 * [Stealable Ash Mask](https://www.nexusmods.com/morrowind/mods/46207).  
-Thieves guild in gnaar mok  
-South Wall den of iniquity  
-Vaults expanded  
-Morrowind unlocked  
+* [**Thieves Guild in Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/46754) by Gavrilo93  
+* [**South Wall, Den of Iniquity**]() by Barasthustrian  
+* [**What Thieves Guild?**]()
+* Vaults expanded  
+* Morrowind unlocked  
 [**Telvanni Vault Extended**](http://mw.modhistory.com/download-106-13277) by Serenia  
 [**Telvanni Vaults Expanded**](http://mw.modhistory.com/download-106-14357) by Slaanesh the Corruptor  
 [**Redoran Vaults Expanded**](http://mw.modhistory.com/download-68-14354) by Slaanesh the Corruptor  
-Smuggler  
-Adanumuran reclaimed  
-Dura gra bol and the grab-all gang  
+
+# Smuggler  
+* Adanumuran reclaimed  
+* Dura gra bol and the grab-all gang  
 
 # Imperial Loyalist
-* [Publius Claudius Follower](https://www.nexusmods.com/morrowind/mods/46645) by Gavrilo93  
+* [**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Gavrilo93  
 * [The Fires of Orc](https://www.nexusmods.com/morrowind/mods/44982) by Gavrilo93  
 * [Imperial Legion Expansion](https://www.nexusmods.com/morrowind/mods/44469) by Gavrilo93  
 Gnisis docks
+* [**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
+Adds a number of roleplaying options to the main quest, including alternate paths to completing it, the ability to turn it down completely, the ability to refuse membership in the Ashlanders,  and a number of new quests for the Ashlanders.
+* [**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by Gavrilo93  
+
 
 # 6th House Believer
 The tribe unmourned  
@@ -126,9 +144,11 @@ Holy Art
 # Ashlander
 [**Ashlander quests**](https://www.nexusmods.com/morrowind/mods/46817) by Gavrilo93  
 Adds a number of quests for Ashlanders in three of the main camps and two quests to ashlanders outside the camps. Ahemmusa camp is untouched for compatibility with Julan, Ashlander Companion (who isn't listed here because Julan's dialogue assumes you're an outlander).  
-
 [**Ashlander Prophecy**](https://www.nexusmods.com/morrowind/mods/44505) by CzarRedwall  
 Start the game as an Ashlander. Skips the Blades portions of the main quest.  
+[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
+Adds a number of new quests for the Ashlanders.
+
 
 # Archer
 * [Hunters Mark](https://www.nexusmods.com/morrowind/mods/46656)
