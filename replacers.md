@@ -11,3 +11,4 @@
 [**Accurate Madstone**](https://www.nexusmods.com/morrowind/mods/46397) by Leyawynn  
 [**Unique Icecap**](https://www.nexusmods.com/morrowind/mods/46362) by Leyawynn  
 [**Unique Dagoth Dagger**](https://www.nexusmods.com/morrowind/mods/46363) by Leyawynn  
+[**Key Replacer**](https://www.nexusmods.com/morrowind/mods/6749) by Daduke  
