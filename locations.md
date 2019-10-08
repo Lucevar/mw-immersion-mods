@@ -20,7 +20,7 @@
 [**Reclamations in Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimhevelho  
 
 ## Ascadian Isles
-[**Omani Manor - Hlaalu Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/46147) by Tel Shadow
+[**Omani Manor - Hlaalu Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/46147) by Tel Shadow  
 [**Imperial Tradehouse**](https://www.nexusmods.com/morrowind/mods/42999) by CryptsoftheDead  
 [**Kummu Monastery Revisited**](https://www.nexusmods.com/morrowind/mods/46565) by Kursan  
 
