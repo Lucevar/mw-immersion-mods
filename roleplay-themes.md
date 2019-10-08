@@ -11,29 +11,30 @@ endrek's sixth house
 # Abolitionist 
 [**Twin Lamps**](http://mw.modhistory.com/download-53-7283) by Brother juniper  
 Nevena  
-[**Free the slaves**](https://www.nexusmods.com/morrowind/mods/45191) by Caeris
+[**Free the slaves**](https://www.nexusmods.com/morrowind/mods/45191) by Caeris  
 [**Live Free**](https://www.nexusmods.com/morrowind/mods/43999) by Apoapse  
 
 # Addict / Dealer
 [**Create Skooma**](https://www.nexusmods.com/morrowind/mods/45419) by Merlord  
 [**Skooma Dealer**](https://www.nexusmods.com/morrowind/mods/45457) by Merlord  
 [**Moon Sugar Thief**](https://www.nexusmods.com/morrowind/mods/45459) by Merlord  
-[**Take Skooma with Caius Cosades**](https://www.nexusmods.com/morrowind/mods/45901) by Omeletter
+[**Take Skooma with Caius Cosades**](https://www.nexusmods.com/morrowind/mods/45901) by Omeletter  
+[**Vaba-Amus Companion**](https://www.nexusmods.com/morrowind/mods/45711) by TheDrunkenMudcrab  
 
 # Alcohol
 [**The Brew Master**](https://www.nexusmods.com/morrowind/mods/45472) by Merlord  
 [**Immersive Alcohol**](https://www.nexusmods.com/morrowind/mods/45589) by Merlord  
 
 # Alchemist
-* [A Strange Plant](https://www.nexusmods.com/morrowind/mods/42009)  
+[**A Strange Plant**](https://www.nexusmods.com/morrowind/mods/42009)  
 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
 [**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
 [**ST Alchemy**](http://download.fliggerty.com/download-142-1093) by Stuporstar  
 [**More Gems**](http://mw.modhistory.com/download-1-12182) by Gawain  
 
 # Archer
-* [Hunters Mark](https://www.nexusmods.com/morrowind/mods/46656)
-* Arcane Archery
+[**Hunters Mark**](https://www.nexusmods.com/morrowind/mods/46656)  
+[**Arcane Archery**]()
 
 # Ashlander
 [**Ashlander quests**](https://www.nexusmods.com/morrowind/mods/46817) by Gavrilo93  
