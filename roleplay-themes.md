@@ -119,7 +119,8 @@ Expedition to mzelthuand
 
 # Dunmer Nationalist
 [**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
-[**Liberate Morrowind**](https://www.nexusmods.com/morrowind/mods/45658) by Gavrilo93 
+[**Liberate Morrowind**](https://www.nexusmods.com/morrowind/mods/45658) by Gavrilo93  
+[**Reclaim Gnisis**]()
 
 # Farmer
 Farmer mod
