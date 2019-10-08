@@ -42,7 +42,6 @@
 [**Outlaws**](https://www.nexusmods.com/morrowind/mods/46404) by Danae  
 
 ## Specific NPCs
-[**Unique Gothren's Cephalopod Helm**](https://www.nexusmods.com/morrowind/mods/46534) by Leyawynn  
 [**Peaceful Qorwynn**](https://www.nexusmods.com/morrowind/mods/46759)  
 [**Thieves Guild Fences (Dealers)**](https://www.nexusmods.com/morrowind/mods/43188) by Melchior Dahrk  
 [**M'Aiq the Liar Expansion**](https://www.nexusmods.com/morrowind/mods/41951) by victormacaco  
