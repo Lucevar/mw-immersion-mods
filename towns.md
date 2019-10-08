@@ -131,6 +131,9 @@ or
 # West Gash
 ## Gnisis
 [**Better Gnisis Arch**](https://www.nexusmods.com/morrowind/mods/46224) by the Resdayn Revival Team  
+[**Stav's Boxes - Gnisis Minaret**](https://www.nexusmods.com/morrowind/mods/43237) by Stavroguin  
+[**Reclaim Gnisis**](https://www.nexusmods.com/morrowind/mods/43971) by Alxemical  
+[**Gnisis Docks**](https://www.nexusmods.com/morrowind/mods/45994) by Gavrilo93  
 
 ## Ald Velothi
 
