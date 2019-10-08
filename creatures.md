@@ -14,3 +14,5 @@
 ## New Creatures  
 [**Spriggans and Twiggans**](https://www.nexusmods.com/morrowind/mods/43350) by Melchior Dahrk  
 [**Atronach Expansion**](https://www.nexusmods.com/morrowind/mods/22189/?) by Melchior Dahrk  
+[**Water Life**](https://abitoftaste.altervista.org/morrowind/index.php?option=content&task=view&id=8&catid=43&Itemid=10&-Water-Life) by abot  
+[**Where are all birds going?**](https://abitoftaste.altervista.org/morrowind/index.php?option=content&task=view&id=3&catid=43&Itemid=10&-Where-are-all-birds-going) by abot  
