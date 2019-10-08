@@ -222,7 +222,7 @@ Velothi Wall art
 Blight bounties   
 Cleanse Ash statues  
 Lgnpc  
-Urbanopticum  
+[**Bigger Temples - Urbanopticum**](https://www.nexusmods.com/morrowind/mods/46184) by Tyddy  
 Holy Art  
 
 # Thief
