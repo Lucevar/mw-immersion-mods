@@ -2,6 +2,9 @@
 
 **Notes**:
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) This list is based on New Khajiit Diversity(BEAST). Also, I've only included NPCs where the race was changed - there seem to be a lot of dirty edits. You may wish to use my cleaned esp (available here).
+* [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096) and [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835) - both replace the Telvanni nobles. My advice is keep DNO's changes/load DNO after ARC.
+* [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096) and [**Duke's Armour Full Set**](https://www.nexusmods.com/morrowind/mods/46828) both replace Matus Mido. My advice: keep DAFS.
+
 
 ## A 
 #### Abanji
@@ -270,7 +273,7 @@
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Galas Drenim
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
-* 
+* [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Galsa Gindu
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
 #### Gam-Kur
