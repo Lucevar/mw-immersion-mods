@@ -624,6 +624,8 @@
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 
 ## Q
+#### Qorwynn
+* [**Peaceful Qorwynn**](https://www.nexusmods.com/morrowind/mods/46759)
 
 ## R
 #### Ra'Karim
