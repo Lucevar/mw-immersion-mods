@@ -44,6 +44,8 @@
 
 ## Random NPCs
 [**Outlaws**](https://www.nexusmods.com/morrowind/mods/46404) by Danae  
+[**Morrowind Comes Alive**](https://www.nexusmods.com/morrowind/mods/6006) by Neoptolemus  
+[**Starfire's NPCs**](http://mw.modhistory.com/download-90-13583) by Starfire  
 
 ## Specific NPCs
 [**Peaceful Qorwynn**](https://www.nexusmods.com/morrowind/mods/46759)  
