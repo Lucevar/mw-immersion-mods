@@ -1,7 +1,7 @@
 # Quests
 
-## Fighters Guild
-### Eydis Fire-Eye
+# Fighters Guild
+## Eydis Fire-Eye
 #### Cave Rats
 #### Shulk Egg Poachers
 #### Telvanni Agents
@@ -16,7 +16,7 @@
 #### Verethi Gang
 #### Hunger in the Sarano Tomb
 
-### Percius Mercius
+## Percius Mercius
 #### Clean out Vas Necromancers
 * [**Zelazko FG: Vas Alternative Outcomes**](https://www.nexusmods.com/morrowind/mods/47192) - Alternative ways of completing quest.
 #### Nerer Beneran Bounty
@@ -27,7 +27,7 @@
 #### Kill Eydis and Lorbumol
 #### Kill Hard-Heart
 
-### Lorbumol gro-Aglakh
+## Lorbumol gro-Aglakh
 #### Juicedaw Feather Ring
 #### Silence Tongue-Toad
 #### Khajiit Bounty
@@ -36,7 +36,7 @@
 #### Adraria Bounty
 #### Magistrate Bounty
 
-### Hrundi
+## Hrundi
 #### Dwemer Ruins of Nchurdamz
 * [**Zelazko FG: Nchurdamz Dark Deal**](https://www.nexusmods.com/morrowind/mods/47184) Make a deal with the Daedroth or opt out of the fight altogether
 #### Problems at the Dissapla Mine
@@ -47,6 +47,6 @@
 #### Engaer Bounty
 #### Pudai Egg Mine
 
-### Sjoring Hard-Heart
+## Sjoring Hard-Heart
 #### Kill Thieves Guild Bosses
 #### Kill Master Thief
