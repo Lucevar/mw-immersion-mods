@@ -1,6 +1,7 @@
 # Location and Landscape Mods
 ## General
 [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara  
+[**Ashlander Crops and Livestock**](https://www.nexusmods.com/morrowind/mods/46961) by HereJust4Mods  
 
 ## Ashlands
 [**RR - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822) by the Resdayn Revival Team  
