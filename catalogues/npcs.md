@@ -39,6 +39,8 @@
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Asum
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
+#### Augurius Sialius
+* [**Duke'S Armor Full Set**](https://www.nexusmods.com/morrowind/mods/46828)
 
 ## B
 #### Baadargo
@@ -87,6 +89,8 @@
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Duldrar Saren
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
+#### Duke's Guard
+* [**Duke's Armour Full Set**](https://www.nexusmods.com/morrowind/mods/46828)
 
 ## E
 #### Ekapi
@@ -211,6 +215,8 @@
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Ma'Zahn
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Matus Mido
+* [**Duke's Armour Full Set**](https://www.nexusmods.com/morrowind/mods/46828)
 #### Mebestian Ence
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Meeh-Mei
@@ -356,6 +362,8 @@
 ## V
 #### Vanjirra
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Varus Vatinius
+* [**Duke's Armour Full Set**](https://www.nexusmods.com/morrowind/mods/46828)
 #### Vistha-Kai
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Vobend Dulfass
