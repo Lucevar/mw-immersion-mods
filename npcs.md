@@ -8,6 +8,10 @@
 
 [**Unique Guards**](https://www.nexusmods.com/morrowind/mods/47083) by LadyPhoenixFireRose  
 [**Imperial Presence**](https://www.nexusmods.com/morrowind/mods/43216) by cml33  
+[**RR - Better Telvanni Cephalopod Armor**](https://www.nexusmods.com/morrowind/mods/44837) by RR Team  
+[**Telvanni Cephalopod Armor**](https://www.nexusmods.com/morrowind/mods/44062) by Danke and Cheydin  
+[**Female Tel Mora Guards**](https://www.nexusmods.com/morrowind/mods/43559) by Nerevar009  
+[**OAAB Female Tel Mora Guards**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
 
 ## Pubs and Taverns
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) by Half11  
