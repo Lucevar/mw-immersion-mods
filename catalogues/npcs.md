@@ -85,6 +85,7 @@
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Dreamer Guard
 * [**Ashlander Rebels**](https://www.nexusmods.com/morrowind/mods/43225)
+* [**Dreamers Expansion**](https://www.nexusmods.com/morrowind/mods/42990)
 #### Dro'Qanar
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Dro'Tasarr
