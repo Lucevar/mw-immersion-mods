@@ -12,6 +12,7 @@
 [**Telvanni Cephalopod Armor**](https://www.nexusmods.com/morrowind/mods/44062) by Danke and Cheydin  
 [**Female Tel Mora Guards**](https://www.nexusmods.com/morrowind/mods/43559) by Nerevar009  
 [**OAAB Female Tel Mora Guards**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
+[**Telvanni Warriors**](https://www.nexusmods.com/morrowind/mods/43254?) by Stavroguin  
 
 ## Pubs and Taverns
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) by Half11  
