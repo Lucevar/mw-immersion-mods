@@ -11,7 +11,7 @@
 #### Helviane's Debt Money
 #### Dura gra-Bol Bounty
 * [**Zelazko FG: Spare Orc Bounty**](https://www.nexusmods.com/morrowind/mods/47180) Multiple new ways of completing the quest
-* [**Dura gra-Bol and the Grab-All Gang**]()
+* [**Dura gra-Bol and the Grab-All Gang**](https://www.nexusmods.com/morrowind/mods/46772) Massive expansion. Side with Dura and get access to an all-new smuggling faction, or help Larrius Varro in his quest to clean up Vvardenfell. Or just do your job and kill her.
 #### Orcs at a Daedric Ruin
 #### Verethi Gang
 #### Hunger in the Sarano Tomb
