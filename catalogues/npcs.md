@@ -1,6 +1,21 @@
 # NPCs
 
+**Notes**:
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) This list is based on New Khajiit Diversity(BEAST). Also, I've only included NPCs where the race was changed - there seem to be a lot of dirty edits. You may wish to use my cleaned esp (available here).
+
 ## A 
+#### Abanji
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Adharanji
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Adzia'Marr
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Ahdri
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Ahndahra
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Ashidasha
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Ashumanu Eraishah
 * [**Better Ashumanu Eraishah**](https://www.nexusmods.com/morrowind/mods/44911/?) - now sells skooma
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
@@ -26,6 +41,8 @@
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## B
+#### Baadargo
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Balyn Omavel
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Banalz
@@ -54,16 +71,26 @@
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Darvam Hlaren
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
+#### Dra'Kurr
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Dralcea Arethi
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Drarayne Girith
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
 #### Dreaded-Water
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
+#### Dro'Qanar
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Dro'Tasarr
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Dro'Zah
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Duldrar Saren
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 
 ## E
+#### Ekapi
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Ereel-Lei
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Ervas Aradil
@@ -139,18 +166,34 @@
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## J
+#### J'Jazha
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### J'Kara
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### J'Saddha
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### J'Zamha
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### J'Zhirr
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Jeed-Ei
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Jeer-Maht
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## K
+#### Ka'diir
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Kal-Ma
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Keel-Raniur
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
+#### Khazura
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Khinjarsi
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
+#### Kisimba
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 
 ## L
 #### Laurina Maria
@@ -162,6 +205,12 @@
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 
 ## M
+#### Ma'Dara
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Ma'virra
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Ma'Zahn
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Mebestian Ence
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Meeh-Mei
@@ -186,6 +235,8 @@
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## N
+#### Na'Zhaia
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Nakuma
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Nalcarya of Whitehaven
@@ -216,18 +267,38 @@
 ## Q
 
 ## R
+#### Ra'Karim
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Ra'Kothre
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Ra'Sava
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Ra'Virr
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Reeh-Jah
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Reemukeeus
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
+#### Rhaz'alkar
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Ri'Zaadha
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 
 ## S
+#### S'Radirr
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### S'Renji
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### S'Vandra
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Savile Imayn
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Seen-Rei
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Selkirnemus
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
+#### Shaba
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Skeetul
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Smart-Snake
@@ -262,21 +333,29 @@
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Trivura Arenim
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
+#### Tsani
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Twice-Bitten
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## U
+#### Udarra
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Ulisamsi Saddarnuran
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Umbra
 * [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275)  
 * [**Wandering Umbra**](https://www.nexusmods.com/morrowind/mods/44913) 
+#### Urjorad
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Urvel Dulni
 * [**Vgreetings.esp**](http://mw.modhistory.com/download-42-13335) - Rank change to use new dialogue. 
 #### Utadeek
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## V
+#### Vanjirra
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Vistha-Kai
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Vobend Dulfass
@@ -304,3 +383,5 @@
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 
 ## Z
+#### Zahraji
+* [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
