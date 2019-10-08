@@ -6,15 +6,15 @@
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
 #### Agrippina Herennia
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
-### Ah-Meesei
+#### Ah-Meesei
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Ahaht
+#### Ahaht
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Ajira
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
-### Akish
+#### Akish
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Am-Ra
+#### Am-Ra
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Anarenen
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
@@ -22,25 +22,25 @@
 * [**Rarer Scrap Metal**](https://www.nexusmods.com/morrowind/mods/47068) - Removes restocking scrap metal from inventory
 #### Arrille
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
-### Asum
+#### Asum
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## B
 #### Balyn Omavel
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
-### Banalz
+#### Banalz
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Borwen
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Brallion
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
-### Breech-Star
+#### Breech-Star
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## C
-### Cheesh-Meeus
+#### Cheesh-Meeus
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Chulz
+#### Chulz
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Cinia Urtius
 * [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068) - Places, travel service, background topic.
@@ -50,7 +50,7 @@
 ## D
 #### Daglin Selarar
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
-### Dan-Ru
+#### Dan-Ru
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Darvam Hlaren
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
@@ -58,59 +58,59 @@
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Drarayne Girith
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
-### Dreaded-Water
+#### Dreaded-Water
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Duldrar Saren
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 
 ## E
-### Ereel-Lei
+#### Ereel-Lei
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Ervas Aradil
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
-### Eutei
+#### Eutei
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## F
-#### Fadren Dalis
+##### Fadren Dalis
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
-#### Favas Nilem
+##### Favas Nilem
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
-#### Fenas Madach
+##### Fenas Madach
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
 #### Fendryn Drelvi
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
-### Fine-Mouth
+#### Fine-Mouth
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Frizkav Brutya
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 
 ## G
-### Gam-Kur
+#### Gam-Kur
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Geel-Lah
+#### Geel-Lah
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### General Darius
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
-### Gih-Ja
+#### Gih-Ja
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Gish
+#### Gish
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Gothren
 * [**Unique Gothren's Cephalopod Helm**](https://www.nexusmods.com/morrowind/mods/46534) 
-### Granny Varis
+#### Granny Varis
 * [**Animated Morrowind Merged**](http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50)
-### Grey-Throat
+#### Grey-Throat
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## H
-### Hathei
+#### Hathei
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Haran
+#### Haran
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Hecerinde
 * [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068) - Sells picks and probes to TG.
-### Heir-Zish
+#### Heir-Zish
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Helviane Desele
 * [**Better Helviane Desele**](https://www.nexusmods.com/morrowind/mods/44919/?) - now sells skooma
@@ -121,7 +121,7 @@
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
 #### Hort Ledd
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
-### Hul
+#### Hul
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Hyna Dorn'ke
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
@@ -133,21 +133,21 @@
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Ilden Mirel
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
-### Im-Kilaya
+#### Im-Kilaya
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Itan
+#### Itan
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## J
-### Jeed-Ei
+#### Jeed-Ei
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Jeer-Maht
+#### Jeer-Maht
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## K
-### Kal-Ma
+#### Kal-Ma
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Keel-Raniur
+#### Keel-Raniur
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Khinjarsi
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
@@ -155,7 +155,7 @@
 ## L
 #### Laurina Maria
 * [**VGreetings**](http://mw.modhistory.com/download-42-13335) - Changes rank so voiced dialogue is available to more NPCs.
-### Lette
+#### Lette
 * [**Animated Morrowind Merged**](http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50)
 * [**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177)
 #### Lorbumol gro-Aglakh
@@ -164,88 +164,88 @@
 ## M
 #### Mebestian Ence
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
-### Meeh-Mei
+#### Meeh-Mei
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Meen-Sa
+#### Meen-Sa
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Meer
+#### Meer
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Milah
+#### Milah
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Milos
+#### Milos
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Mim-Jeen
+#### Mim-Jeen
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Miun-Gei
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
-### Morning-Star-Steals-Away-Clouds
+#### Morning-Star-Steals-Away-Clouds
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Mornsu Omalor
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
-### Muz-Ra
+#### Muz-Ra
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## N
-### Nakuma
+#### Nakuma
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Nalcarya of Whitehaven
 * [**Rarer Scrap Metal**](https://www.nexusmods.com/morrowind/mods/47068) - Removes restocking scrap metal from inventory
-### Neesha
+#### Neesha
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Nelix Fly-Breath
+#### Nelix Fly-Breath
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Nine-Toes
+#### Nine-Toes
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## O
-### Okaw
+#### Okaw
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Olank-Neeus
+#### Olank-Neeus
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Olink-Nur
+#### Olink-Nur
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### On-Wan
+#### On-Wan
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Orns Omaren
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
 
 ## P
-### Peeradeeh
+#### Peeradeeh
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## Q
 
 ## R
-### Reeh-Jah
+#### Reeh-Jah
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Reemukeeus
+#### Reemukeeus
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## S
 #### Savile Imayn
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
-### Seen-Rei
+#### Seen-Rei
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Selkirnemus
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
-### Skeetul
+#### Skeetul
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Smart-Snake
+#### Smart-Snake
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Sorkvild the Raven
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) 
 * [**Sorkvild the Raven (Evermore)**](https://www.nexusmods.com/morrowind/mods/46320?)
-### Stream-Murk
+#### Stream-Murk
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## T
-### Tanan
+#### Tanan
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Tashpi Ashibael
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
-### Tee-Lan
+#### Tee-Lan
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Tern-Feather
+#### Tern-Feather
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Teruise Girvayne
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
@@ -253,7 +253,7 @@
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Thongar
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
-### Tongue-Toad
+#### Tongue-Toad
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Travelling-New-Woman
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
@@ -262,7 +262,7 @@
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Trivura Arenim
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
-### Twice-Bitten
+#### Twice-Bitten
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## U
@@ -273,11 +273,11 @@
 * [**Wandering Umbra**](https://www.nexusmods.com/morrowind/mods/44913) 
 #### Urvel Dulni
 * [**Vgreetings.esp**](http://mw.modhistory.com/download-42-13335) - Rank change to use new dialogue. 
-### Utadeek
+#### Utadeek
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## V
-### Vistha-Kai
+#### Vistha-Kai
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Vobend Dulfass
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
@@ -285,14 +285,14 @@
 ## W
 #### Weeltul
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
-### Weer
+#### Weer
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Wud-Neeus
+#### Wud-Neeus
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
-### Wuleen-Shei
+#### Wuleen-Shei
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 * [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) Part of a quest.
-### Wusha
+#### Wusha
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## X
