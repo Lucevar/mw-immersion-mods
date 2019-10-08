@@ -5,6 +5,7 @@
 **Duke's Silver Armor:**
 * [**Resources**](https://www.nexusmods.com/morrowind/mods/35562?) by Alaisiagae  
 * [**Implementation**](https://www.nexusmods.com/morrowind/mods/46828) by SfinnaIronfoot  
+
 [**Unique Guards**](https://www.nexusmods.com/morrowind/mods/47083) by LadyPhoenixFireRose  
 [**Imperial Presence**](https://www.nexusmods.com/morrowind/mods/43216) by cml33  
 
