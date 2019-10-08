@@ -229,12 +229,12 @@
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## F
-##### Fadren Dalis
+#### Fadren Dalis
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Fathasa Llethri
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
-##### Favas Nilem
+#### Favas Nilem
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Favela Dralor
