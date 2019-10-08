@@ -12,9 +12,13 @@
 Duke's Silver Armor:
 * [**Resources**](https://www.nexusmods.com/morrowind/mods/35562?) by Alaisiagae  
 * [**Implementation**](https://www.nexusmods.com/morrowind/mods/46828) by SfinnaIronfoot
+
 [**Netch Adamantium Armour**](https://www.nexusmods.com/morrowind/mods/1430) by Cythus  
 [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269) by Melchior Dahrk and quorn  
 [**RR - Better Telvanni Cephalopod Armour**](https://www.nexusmods.com/morrowind/mods/44837)
 * [**Patch for NX9's guards and RR Telvanni Armour**](https://www.nexusmods.com/morrowind/mods/45163/?)
+
 [**Unique Gothren's Cephalopod Helm**](https://www.nexusmods.com/morrowind/mods/46534) by Leyawynn  
 [**Falconer's Leather**](http://mw.modhistory.com/download-44-12242) by Korana  
+[**Iron Variants**](https://www.nexusmods.com/morrowind/mods/43260) by Stavroguin  
+[**Telvanni Warriors**](https://www.nexusmods.com/morrowind/mods/43254?) by Stavroguin  
