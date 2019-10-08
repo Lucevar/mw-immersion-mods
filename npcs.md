@@ -23,8 +23,6 @@
 [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143) by Aoimhevelho  
 [**Dunmer Noble Overhaul**](https://www.nexusmods.com/morrowind/mods/43835) by Aoimhevelho  
 [**Armored Robe Compilation & NPC Changes**](https://www.nexusmods.com/morrowind/mods/44096) by Aoimhevelho  
-[**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) by Melchior Dahrk  
-[**Wandering Umbra**](https://www.nexusmods.com/morrowind/mods/44913) by mort  
 [**Redoran Guard Glove Fix**](https://www.nexusmods.com/morrowind/mods/45935) by Petethegoat  
 [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269) by Melchior Dahrk and quorn  
 [**More Argonian Hair**](https://www.nexusmods.com/morrowind/mods/43133) by Ashiraniir  
@@ -58,3 +56,7 @@
 ### Sorkvild the Raven
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
 * [**Sorkvild the Raven (Evermore)**](https://www.nexusmods.com/morrowind/mods/46320?)
+
+### Umbra
+* [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) by Melchior Dahrk  
+* [**Wandering Umbra**](https://www.nexusmods.com/morrowind/mods/44913) by mort  
