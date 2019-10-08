@@ -51,12 +51,16 @@
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Banalz
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
+#### Birer Indaram
+* [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143)
 #### Borwen
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Brallion
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Breech-Star
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
+#### Buoyant armiger_wander
+* [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143)
 
 ## C
 #### Cheesh-Meeus
@@ -86,6 +90,10 @@
 #### Dreamer Guard
 * [**Ashlander Rebels**](https://www.nexusmods.com/morrowind/mods/43225)
 * [**Dreamers Expansion**](https://www.nexusmods.com/morrowind/mods/42990)
+#### Drelyne Llenim
+* [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143)
+#### Dreyns Nelas
+* [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143)
 #### Dro'Qanar
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Dro'Tasarr
@@ -104,6 +112,8 @@
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Ervas Aradil
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
+#### Ervesa Romandas
+* [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143)
 #### Eutei
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
@@ -130,6 +140,8 @@
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Gih-Ja
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
+#### Giras Indaram
+* [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143)
 #### Gish
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Gothren
@@ -171,6 +183,8 @@
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Im-Kilaya
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
+#### Irer Nervion
+* [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143)
 #### Itan
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
@@ -212,6 +226,8 @@
 #### Lette
 * [**Animated Morrowind Merged**](http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50)
 * [**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177)
+#### Llevena Sendas
+* [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143)
 #### Lorbumol gro-Aglakh
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 
@@ -224,6 +240,8 @@
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Manat Shimmabadas
 * [**Ashlander Rebels**](https://www.nexusmods.com/morrowind/mods/43225)
+#### Maranique Jolvanne
+* [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143)
 #### Matus Mido
 * [**Duke's Armour Full Set**](https://www.nexusmods.com/morrowind/mods/46828)
 #### Mebestian Ence
@@ -234,6 +252,10 @@
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Meer
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
+#### Mendel Eves
+* [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143)
+#### Mertis Falandas
+* [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143)
 #### Milah
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Milos
@@ -264,6 +286,8 @@
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 
 ## O
+#### Odron Omoran
+* [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143)
 #### Okaw
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Olank-Neeus
@@ -306,6 +330,8 @@
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### S'Vandra
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Salyn Sarethi
+* [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143)
 #### Savile Imayn
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Seen-Rei
@@ -339,6 +365,8 @@
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Thongar
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
+#### Tidros Indaram
+* [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143)
 #### Tongue-Toad
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Travelling-New-Woman
@@ -377,6 +405,8 @@
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Vobend Dulfass
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
+#### Voruse Bethrimo
+* [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143)
 
 ## W
 #### Weeltul
