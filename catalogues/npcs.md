@@ -6,6 +6,8 @@
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096) and [**Duke's Armour Full Set**](https://www.nexusmods.com/morrowind/mods/46828) both replace Matus Mido. My advice: keep DAFS's changes.
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269) and [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143) both edit Buoyant Armigers. My advice: Keep BAA's changes.
 
+#### 
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 
 ## A 
 #### Abanji
@@ -20,8 +22,14 @@
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Adzia'Marr
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Affri
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
+#### Ahanabi Assullinbanud
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Ahdri
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Ahnarra
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Ahndahra
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Alavesa Samori
@@ -32,6 +40,8 @@
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
 #### Alvela Saram
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
+#### Alvor Andas
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Andalin Hardil
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Anise Romoran
@@ -44,6 +54,8 @@
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Asha-Ammu Kutebani
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
+#### Assallit Assunbahanammu
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Assamanu Shashipal
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Ashidasha
@@ -88,12 +100,16 @@
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
 #### Balen Sedrethi
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
+#### Balur Salvu
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Balyn Omavel
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Banalz
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Beldrose Dralor
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
+#### Belvis Sedri
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Benudni Ilurnubishpal
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Berapli Ashumallit
@@ -123,12 +139,16 @@
 #### Brarayni Sarys
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
+#### Bredasu Gilaram
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Breech-Star
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Brelda Quintella
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Brelo Athelvis
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
+#### Brelyna Andoril
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Brerama Selas
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Breyns Randas
@@ -156,26 +176,43 @@
 ## D
 #### Daglin Selarar
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
+#### Dalami Hlaalu
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Dan-Ru
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Daral Thireloth
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Darns Tedalen
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
+#### Dartis Dreleth
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Darvam Hlaren
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
 #### Darvasa Vedas
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
 #### Darvynea Hleran
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
+#### Daryn Vedralu
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
+#### Davas Aralas
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
+#### Daynasa Telandas
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
+#### Dead Egg Miner
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Dead Elite Ordinator
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Deldrise Andoren
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
 #### Dilvene Venim
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
+#### Dirara Drom
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Dissu Ashalkimallit
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
+#### Dolmyn Thirelas
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Domesea Sarethi
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
 #### Donus Serethi
@@ -207,6 +244,7 @@
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Dro'Zah
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Drores Arvel
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Dul gro-Dush
@@ -218,12 +256,16 @@
 * [**Duke's Armour Full Set**](https://www.nexusmods.com/morrowind/mods/46828)
 #### Dumbuk gro-Bolak
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
+#### Dun-Ilu Assurnumausur
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Duvianus Platorius
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 
 ## E
 #### Edryno Arethi
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
+#### Egg Miner
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Eigma
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
 #### Ekapi
@@ -266,6 +308,8 @@
 #### Fadren Dalis
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
+#### Falam Hlaalu
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Fathasa Llethri
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
 #### Favas Nilem
@@ -299,6 +343,8 @@
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
 #### Forven Berano
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
+#### Fothas Thirandus
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Frizkav Brutya
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Frostien Ephine
@@ -307,11 +353,15 @@
 ## G
 #### Gaelion
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
+#### Gadyni Rethan
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Galar Baren
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Galas Drenim
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
+#### Galeri Uveleth
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Galmir
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
 #### Galsa Gindu
@@ -327,6 +377,8 @@
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Gih-Ja
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
+#### Gilm
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Ginadura Andrethi
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
 #### Giras Indaram
@@ -346,10 +398,13 @@
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
 #### Grey-Throat
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Guard
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
 
 ## H
+#### Hainab Lasamsi
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Haj-Wei
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
 #### Hansi Saharnatturapli
@@ -405,6 +460,8 @@
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Imperial Archer
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
+#### Inorri
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Irer Nervion
 * [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143)
 #### Itan
@@ -413,6 +470,8 @@
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 
 ## J
+#### J'Dato
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### J'Jazha
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### J'Kara
@@ -435,6 +494,9 @@
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Kal-Ma
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
+#### Kasa
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Katie
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
 #### Kausha Mantashpi
@@ -443,10 +505,15 @@
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Khazura
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Khinjarsi
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
+#### Kind Erushara
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Kisimba
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Kummi-Namus Almu
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Kund Assarnibani
 * [**Ashlander Rebels**](https://www.nexusmods.com/morrowind/mods/43225)
 
@@ -467,6 +534,8 @@
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
 #### Llerar Mandas
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
+#### Lleras Andalen
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Llerusa Hlaalu
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
 #### Llevena Sendas
@@ -484,16 +553,21 @@
 ## M
 #### Ma'Dara
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Ma'virra
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Ma'Zahn
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Maeonius Man-Ilu
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Mamaea Ashun-Idantus
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Mamusa Shashmassamsi
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Manat Shimmabadas
 * [**Ashlander Rebels**](https://www.nexusmods.com/morrowind/mods/43225)
+#### Manat Varnan-Adda
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Manirai Mirshamammu
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Manu Zainab
@@ -524,6 +598,8 @@
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
 #### Mertis Falandas
 * [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143)
+#### Mevrenea Aryon
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Miara Viake
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Midar Aravel
@@ -538,6 +614,10 @@
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Mimanu Zeba-Adad
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
+#### Miner Juillen
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
+#### Miner Lisaa
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Missamsi Timmiriran
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Miun-Gei
@@ -546,6 +626,7 @@
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
 #### Morning-Star-Steals-Away-Clouds
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Mug gro-Dulob
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
 #### Munbebi Addarari
@@ -564,16 +645,23 @@
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Nalcarya of Whitehaven
 * [**Rarer Scrap Metal**](https://www.nexusmods.com/morrowind/mods/47068) - Removes restocking scrap metal from inventory
+#### Nalmen Athren
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Nalmila Thelas
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Nalosi Alari
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Nals Indrano
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
+#### Naral Othreleth
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Nedeni Tenim
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Neesha
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
+#### Neetinei
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Nelix Fly-Breath
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
@@ -594,6 +682,8 @@
 #### Odron Omoran
 * [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143)
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
+#### Ohibaal Assintashiran
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Okaw
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Olank-Neeus
@@ -636,8 +726,12 @@
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Ra'Virr
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Ra'Zahr
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Ralyn Othravel
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
+#### Ralmyn Othren
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Ranosa Gilvayn
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Reeh-Jah
@@ -646,12 +740,19 @@
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Relen Hlaalu
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
+#### Rernel Arano
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
+#### Reynis Ralvani
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Rhaz'alkar
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Ri'Zaadha
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Rinina
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
+#### Riraynea Reladren
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Roggvar Blue-Tooth
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
 #### Rovone Arvel
@@ -681,6 +782,7 @@
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Seen-Rei
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Selkirnemus
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
 #### Selmen Relas
@@ -689,8 +791,12 @@
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Shali Assannabalit
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
+#### Shanud Ududnabia
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Sharkub gro-Khashnar
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
+#### Shatalg
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Shishi Yanumibaal
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Skeetul
@@ -706,6 +812,8 @@
 #### Sorkvild the Raven
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) 
 * [**Sorkvild the Raven (Evermore)**](https://www.nexusmods.com/morrowind/mods/46320?)
+#### Sterdecan
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Stream-Murk
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Strillian Macro
@@ -755,6 +863,8 @@
 #### Travelling-New-Woman
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
+#### Traynili Senim
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Trebonius Artorius
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Trevyn Fedos
@@ -763,6 +873,8 @@
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
 #### Tsani
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Tsalani
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Tunila Omavel
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
 #### Twice-Bitten
@@ -784,6 +896,8 @@
 #### Umbra
 * [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275)  
 * [**Wandering Umbra**](https://www.nexusmods.com/morrowind/mods/44913) 
+#### Unjara
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Urene Arvel
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
 #### Uresa Omoril
@@ -810,6 +924,8 @@
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
 #### Velanda Omani
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
+#### Velyn Farethan
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Virvyn Athren
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Vistha-Kai
@@ -846,6 +962,8 @@
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Yambul gro-Bogrol
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
+#### Yan-Ahhe Darirnaddunumm
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Yanabani Ashushshirari
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Yanibi Adur-Dan
@@ -862,5 +980,7 @@
 * [**Ashlander Rebels**](https://www.nexusmods.com/morrowind/mods/43225)
 #### Zebba Asharnalit
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
+#### Zebdusipal Mantiti
+* [**Farmers & Miners**](https://www.nexusmods.com/morrowind/mods/43325)
 #### Zennammu
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
