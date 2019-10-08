@@ -25,12 +25,15 @@
 [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269) by Melchior Dahrk and quorn  
 [**More Argonian Hair**](https://www.nexusmods.com/morrowind/mods/43133) by Ashiraniir  
 [**Original Faces**](https://www.nexusmods.com/morrowind/mods/42189) by Arhiz  
+[**Farmers and Miners**](https://www.nexusmods.com/morrowind/mods/43325) by Danae  
+[**Hold It**](https://www.nexusmods.com/morrowind/mods/43181) by Danae  
 
 ## New NPCS
 [**TriangleTooth's Missing NPCs**](https://www.nexusmods.com/morrowind/mods/46234) by TriangleTooth  
 [**Mournhold Courtiers**](https://www.nexusmods.com/morrowind/mods/44874) by TaiyakaJade  
 [**More NPCs**](https://www.nexusmods.com/morrowind/mods/45594) by EternalSteelFan  
 [**Blades of Vvardenfell**](https://www.nexusmods.com/morrowind/mods/44551) by febbles  
+[**Children of Morrowind**](http://lovkullen.net/Emma/kids.htm) by Emma  
 
 ## New Handplaced Enemies
 [**Smugglers and Pirates**](https://www.nexusmods.com/morrowind/mods/44914) by Darusthemodder  
