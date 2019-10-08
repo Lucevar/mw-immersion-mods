@@ -3,6 +3,7 @@
 [**Barabus's Fireplaces**](https://www.nexusmods.com/morrowind/mods/45766) by Barabus (update by PoodleSandwich)  
 [**Holidays Across Tamriel**](https://www.nexusmods.com/morrowind/mods/43131/) by Lord Berandas  
 [**Temples With Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
+[**Bigger Temples - Urbanopticum**](https://www.nexusmods.com/morrowind/mods/46184) by Tyddy  
 [**Velothi Wall Art**](https://www.nexusmods.com/morrowind/mods/46454) by Ashtaar  
 [**Imperials Go Home**](https://www.nexusmods.com/morrowind/mods/44984) by Rats - adds anti-Imperial graffiti around Vvardenfell  
 [**High Art**](https://www.nexusmods.com/morrowind/mods/47040) by vonwolfe  
