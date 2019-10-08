@@ -4,6 +4,11 @@
 [**Akulakhan Replacer**](https://www.nexusmods.com/morrowind/mods/42855) by Aoimhevelho  
 [**Unique Corprus Stalkers**](https://download.fliggerty.com/download--749) by Westly  
 
+## General Rebalance
+[**Beware the Sixth House**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
+[**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort  
+[**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort  
+
 ## AI
 [**Improved Cliff Racer AI**](https://www.nexusmods.com/morrowind/mods/44712) by R-Zero  
 [**Triangletooth's Ecology Mod**](https://www.nexusmods.com/morrowind/mods/47061) by TriangleTooth  
