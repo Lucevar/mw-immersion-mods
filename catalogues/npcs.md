@@ -389,7 +389,6 @@
 #### Golana Giralvel
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
 #### Gothren
-* [**Unique Gothren's Cephalopod Helm**](https://www.nexusmods.com/morrowind/mods/46534)
 #### Grand Inquisitor
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
 #### Granny Varis
