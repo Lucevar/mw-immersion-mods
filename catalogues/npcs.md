@@ -46,7 +46,6 @@
 #### Ashidasha
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Ashumanu Eraishah
-* [**Better Ashumanu Eraishah**](https://www.nexusmods.com/morrowind/mods/44911/?) - now sells skooma
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
 #### Astien Masoriane
 * [**Armored Robes Compilation**](https://www.nexusmods.com/morrowind/mods/44096)
@@ -313,7 +312,6 @@
 #### Heir-Zish
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
 #### Helviane Desele
-* [**Better Helviane Desele**](https://www.nexusmods.com/morrowind/mods/44919/?) - now sells skooma
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
 #### Hlendrisa Seleth
 * [**Dunmer Nobles Overhaul**](https://www.nexusmods.com/morrowind/mods/43835)
