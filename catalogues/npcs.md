@@ -6,6 +6,8 @@
 ## A 
 #### Abanji
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Abassel Asserbassalit
+* [**Ashlander Rebels**](https://www.nexusmods.com/morrowind/mods/43225)
 #### Adharanji
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Adzia'Marr
@@ -81,6 +83,8 @@
 * [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) - Changes class, beds dialogue.
 #### Dreaded-Water
 * [**More Argonian Hairs**](https://www.nexusmods.com/morrowind/mods/43133)
+#### Dreamer Guard
+* [**Ashlander Rebels**](https://www.nexusmods.com/morrowind/mods/43225)
 #### Dro'Qanar
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Dro'Tasarr
@@ -198,6 +202,8 @@
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 #### Kisimba
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Kund Assarnibani
+* [**Ashlander Rebels**](https://www.nexusmods.com/morrowind/mods/43225)
 
 ## L
 #### Laurina Maria
@@ -215,6 +221,8 @@
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
 #### Ma'Zahn
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Manat Shimmabadas
+* [**Ashlander Rebels**](https://www.nexusmods.com/morrowind/mods/43225)
 #### Matus Mido
 * [**Duke's Armour Full Set**](https://www.nexusmods.com/morrowind/mods/46828)
 #### Mebestian Ence
@@ -393,3 +401,7 @@
 ## Z
 #### Zahraji
 * [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-4-11320) Changes race.
+#### Zainat Ahalkalun
+* [**Ashlander Rebels**](https://www.nexusmods.com/morrowind/mods/43225)
+#### Zallay Subaddamael
+* [**Ashlander Rebels**](https://www.nexusmods.com/morrowind/mods/43225)
