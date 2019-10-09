@@ -53,11 +53,13 @@ Patch for Holidays Across Tamriel [here](https://www.nexusmods.com/morrowind/mod
 [**Passage of Prayers**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn, Sataniel & Remiros  
 [**Palace of Vehk**](https://www.nexusmods.com/morrowind/mods/46800) by Enclavekiller  
 [**Vivec Expansion**](https://www.nexusmods.com/morrowind/mods/43331/) by Hoghead the Terrible  
-
+[**Illuminated Palace of Vivec**](https://www.nexusmods.com/morrowind/mods/44585) by vojteek  
 [**Prison Moon Enhanced II**](http://download.fliggerty.com/download--929) by Spirithawke  
 [**Shrines of the Seven Graces**](https://www.nexusmods.com/morrowind/mods/46417?tab=files) by QueenLunara  
 The Shrine of Daring isn't compatible with Holidays Across Tamriel/Dramatic Vivec. I recommend getting the other six and leaving that one out.  
 
+[**Jobasha's Rare Books Expanded**](https://www.nexusmods.com/morrowind/mods/45153) twgear2  
+[**Vivec Records Lore Friendly**](https://www.nexusmods.com/morrowind/mods/43033) by Ostar  
 [**The Lizard's Head**](https://www.nexusmods.com/morrowind/mods/39748) by DebiDalio  
 [**Nemon's Vivec Interiorator**](http://mw.modhistory.com/download-80-11740) by Nemon  
 [**Vivec Guild of Mages Expanded**](https://www.nexusmods.com/morrowind/mods/44935) by Mordaxis  
