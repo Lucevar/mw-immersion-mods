@@ -49,5 +49,8 @@ Covers the Imperial Cult too!
 [**Communist Nerevarine**](https://www.nexusmods.com/morrowind/mods/46979) by Gavrilo93  
 Donate money to the paupers of Vvardenfell and help them get back on their feet. 
 
+# NPC
+[**Caius Romance**](http://mw.modhistory.com/download-90-7208) by Princess Stomper  
+
 # Factions
 See factions list 
