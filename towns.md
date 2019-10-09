@@ -17,6 +17,7 @@
 [**A Walk in the Park - Mournhold Temple Courtyard Overhaul**](https://www.nexusmods.com/morrowind/mods/46861) by seelof  
 [**Mournhold Courtiers**](https://www.nexusmods.com/morrowind/mods/44874) by TaiyakaJade   
 [**Plaza Brindisi Fix**](https://www.nexusmods.com/morrowind/mods/46897) by Pinsvinn  
+[**Mournhold Palace Revamped**](http://mw.modhistory.com/download-87-11848) by Princess Stomper  
 
 # Bitter Coast
 ## Seyda Neen
@@ -24,7 +25,7 @@ There have been a lot of mods for Seyda Neen over the years. My recommendation i
 
 [**Immersive Seyda Neen**](https://www.nexusmods.com/morrowind/mods/44441) by DremoraLord98  
 
-Alternates include but are not limited to [**Seyda Neen Slums**](https://www.nexusmods.com/morrowind/mods/46837?tab=posts), [**More Detailed Places Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46231), [**Seyda Neen Tree Removal**](https://www.nexusmods.com/morrowind/mods/45990) for an expanded and treeless Seyda Neen, [**Lived Towns - Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46703), [**Seyda Neen Houseboat**](https://www.nexusmods.com/morrowind/mods/43364), and [**Trancemaster's New Seyda Neen**](https://www.nexusmods.com/morrowind/mods/42234).
+Alternates include but are not limited to [**Seyda Neen Slums**](https://www.nexusmods.com/morrowind/mods/46837?tab=posts), [**More Detailed Places Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46231), [**Seyda Neen Tree Removal**](https://www.nexusmods.com/morrowind/mods/45990) for an expanded and treeless Seyda Neen, [**Lived Towns - Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46703), [**Seyda Neen Houseboat**](https://www.nexusmods.com/morrowind/mods/43364), [**Princess Docks**](http://mw.modhistory.com/download-90-7147) and [**Trancemaster's New Seyda Neen**](https://www.nexusmods.com/morrowind/mods/42234).
 
 ## Hla Oad
 [**The Drop Off**](https://www.nexusmods.com/morrowind/mods/46827) by Darkry115  
@@ -67,9 +68,10 @@ The Shrine of Daring isn't compatible with Holidays Across Tamriel/Dramatic Vive
 [**Vivec Guild of Mages Expanded**](https://www.nexusmods.com/morrowind/mods/44935) by Mordaxis  
 
 ## Ebonheart
-These two affect different parts of Ebonheart and are therefore compatible.  
+These affect different parts of Ebonheart and are therefore compatible.  
 [**Ebonheart Outskirt & Lighthouse District**](https://www.nexusmods.com/morrowind/mods/44994) by arimon  
 [**More Detailed Places - Ebonheart**](https://www.nexusmods.com/morrowind/mods/29542) by Ragox
+[**Ebonheart Interior Expansion**](http://mw.modhistory.com/download-87-7146) by Princess Stomper  
 
 # Azura's Coast
 ## Tel Branora
@@ -163,7 +165,7 @@ Balmora has a ridiculous number of mods - it's a meme for a reason! I recommend 
 [**South Wall, Den of Iniquity**](http://mw.modhistory.com/download-87-13449) by Balasthustrius  
 [**The Seedy Plates**](https://www.nexusmods.com/morrowind/mods/19006) by Von Django  
 
-Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014) by mike_and_ike, [**Balmora Underworld**](https://www.nexusmods.com/morrowind/mods/42448) by Fulgore, the classic [**Balmora Expansion**](https://www.nexusmods.com/morrowind/mods/42342), [**Walled City of Balmora**](https://www.nexusmods.com/morrowind/mods/42524), [**Concept Art Balmora**](https://www.nexusmods.com/morrowind/mods/45149), [**City of Balmora - Hlaalu Expansion**](https://www.nexusmods.com/morrowind/mods/45324) by Praedator and EnvyDeveloper, [**Balmora Ragoxified**](https://www.nexusmods.com/morrowind/mods/38235) by Ragox, [**Balmora Market and Ghetto Shacks**](https://www.nexusmods.com/morrowind/mods/43434) by ThanMan16  
+Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014) by mike_and_ike, [**Balmora Underworld**](https://www.nexusmods.com/morrowind/mods/42448) by Fulgore, the classic [**Balmora Expansion**](https://www.nexusmods.com/morrowind/mods/42342), [**Walled City of Balmora**](https://www.nexusmods.com/morrowind/mods/42524), [**Concept Art Balmora**](https://www.nexusmods.com/morrowind/mods/45149), [**City of Balmora - Hlaalu Expansion**](https://www.nexusmods.com/morrowind/mods/45324) by Praedator and EnvyDeveloper, [**Balmora Ragoxified**](https://www.nexusmods.com/morrowind/mods/38235) by Ragox, [**Balmora Market and Ghetto Shacks**](https://www.nexusmods.com/morrowind/mods/43434) by ThanMan16, or [**Balmora Ghetto**](http://mw.modhistory.com/download-56-5163) by Princess Stomper.    
 
 # Ashlands
 ## Ald-ruhn
