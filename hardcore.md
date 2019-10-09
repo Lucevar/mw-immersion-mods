@@ -15,6 +15,7 @@ Ashfall is the sequel - use Frostwind if you don't use MWSE (eg if you have Open
 [**AntiWitcher**](https://www.nexusmods.com/morrowind/mods/47062) by Archimag  
 No more drinking 10 potions at once!  
 [**4NM Training**](https://www.nexusmods.com/morrowind/mods/47035) by Archimag  
+[**Time Flies**](https://www.nexusmods.com/morrowind/mods/45727) by CptJoker  
 
 ## Weather
 [**Ashfall**]() by Merlord  
