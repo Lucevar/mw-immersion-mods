@@ -1,5 +1,6 @@
 # Location and Landscape Mods
 ## General
+[**Something's Not Right**](https://www.nexusmods.com/morrowind/mods/46497) by Cliffworms  
 [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara  
 [**Ashlander Crops and Livestock**](https://www.nexusmods.com/morrowind/mods/46961) by HereJust4Mods  
 
