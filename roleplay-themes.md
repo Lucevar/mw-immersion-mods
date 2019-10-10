@@ -53,6 +53,7 @@ Adds a number of new quests for the Ashlanders.
 [**Books of Vvardenfell**](http://download.fliggerty.com/download-142-880) by Stuporstar  
 [**Beautiful Books Volume I: Grimoires**](http://download.fliggerty.com/download-142-1198) by Stuporstar  
 [**Book of Alchemy**](http://mw.modhistory.com/download-13-7339) by Sgaileach1  
+[**Spell Tomes**](https://www.nexusmods.com/morrowind/mods/47217) by MateWushu  
 
 # Bounty hunter / Mercenary
 Freelancer  
@@ -282,3 +283,4 @@ See this list
 * [**Useful Starting Spells**](https://www.nexusmods.com/morrowind/mods/40439) by Tizzo  
 * [**Miscast Mod**](http://mw.modhistory.com/download-53-12215) by Huskobar & Magius  
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
+* [**Spell Tomes**](https://www.nexusmods.com/morrowind/mods/47217) by MateWushu  
