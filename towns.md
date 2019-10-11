@@ -8,6 +8,7 @@
 [**Imperials Go Home**](https://www.nexusmods.com/morrowind/mods/44984) by Rats - adds anti-Imperial graffiti around Vvardenfell  
 [**High Art**](https://www.nexusmods.com/morrowind/mods/47040) by vonwolfe  
 [**Holy Art**](https://www.nexusmods.com/morrowind/mods/47107) by lukkar and vonwolfe  
+[**Holy Art - Worn Retexture**](https://www.nexusmods.com/morrowind/mods/47220) by Brujoloco  
 [**Dartboards**](https://www.nexusmods.com/morrowind/mods/44593) by Utseeva  
 [**Coloured Cloths**](http://mw.modhistory.com/download-53-12734) by Danjb  
 [**Main Quest Enhancers**](https://www.nexusmods.com/morrowind/mods/41337) by Trainwiz  
