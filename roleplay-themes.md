@@ -179,6 +179,7 @@ Be joined on your adventures by Yashga.
 [**Plaguebearer**](https://www.nexusmods.com/morrowind/mods/45760) by R-zero  
 [**Wanted Posters**](https://www.nexusmods.com/morrowind/mods/47000) by Gavrilo93  
 [**Bounty Hunters 2.0**](https://www.nexusmods.com/morrowind/mods/43789/) by Daemonjax and Arcimaestro Antares  
+[**You are being robbed**](https://arcimaestroantares.webs.com/youarebeingrobbed.htm) by arcimaestro antares  
 
 # Philanthropist 
 [**Donations to the Gods**](http://mw.modhistory.com/download-68-14336) by Slaanesh the Corruptor  
