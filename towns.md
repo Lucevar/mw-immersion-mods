@@ -184,6 +184,8 @@ or
 
 ## Maar Gan
 [**More Detailed Places - Maar Gan**](https://www.nexusmods.com/morrowind/mods/29602) by Ragox  
+[**Unique Maar Gan**](http://mw.modhistory.com/download-1-11884) by basswalker  
+[**Maar Gan Extended**](http://mw.modhistory.com/download-1-11437) by ManualIntelligence  
 
 # New Towns
 ## New Arenthia
