@@ -273,33 +273,57 @@ Vampire dreams
 Random vampire attacks  
 
 # Warrior / Gladiator
-[Bucklers Remastered](https://www.nexusmods.com/morrowind/mods/46388)
+[**Bucklers Remastered**](https://www.nexusmods.com/morrowind/mods/46388) by Pikachuno  
 [**Welcome to the Arena!**](https://www.nexusmods.com/morrowind/mods/22002) by Kalemestari69  
+[**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
 
 # Witchhunter
-* [The Sanguine Rose](https://www.nexusmods.com/morrowind/mods/46214)
+* [**The Sanguine Rose**](https://www.nexusmods.com/morrowind/mods/46214)
 * [**Guild of Vampire Hunters**](https://www.nexusmods.com/morrowind/mods/45832) by Gavrilo93  
 * [**Bounty Hunter Bundle**](https://www.nexusmods.com/morrowind/mods/46928) by Gavrilo93 
 * The Forgotten
 
 # Wizard
-See this list
-* UL
-* Scripted Spells
-* Caldera Mages Guild Expanded
-* Wolverine Hall overhaul
-* [**Scrolls of the Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831)
-* [**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739)
-* [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126)
-* [**The Astral Pocket**](https://www.nexusmods.com/morrowind/mods/46226)
-* [**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Gavrilo93  
+## Mages Guild
+* [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
+* [**Caldera Mages Guild Expanded**](https://www.nexusmods.com/morrowind/mods/45750) by Lucevar  
+* [**Stav's Boxes - Mages Guild Aesthetic Overhaul**](https://www.nexusmods.com/morrowind/mods/43561) by Stavroguin  
+* [**Vivec Guild of Mages Expanded**](https://www.nexusmods.com/morrowind/mods/44935) by Mordaxis  
+* [**Mages Guild Quarters**](https://www.nexusmods.com/morrowind/mods/43596) by Vals_Fan  
+* [**Balmora Mages Guild Storage and Bed**](https://www.nexusmods.com/morrowind/mods/45775) by Omeletter  
+* [**Wolverine Hall Interior Expansion**](https://www.nexusmods.com/morrowind/mods/44965) by Mordaxis  
+* [**Wolverine Hall overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort  
+* [**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739) by Melchior Dahrk  
+* [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von django   
+
+## Telvanni
+* [**Uvirith's Legacy**](https://stuporstar.sarahdimento.com/updates/downloads/) by Stuporstar  
+* [**Tel Uvirth LITE**]() by   
+* [**Building Up Uviriths Grave**]() by   
+* [**Building Up Uvirith's Legacy**]() by   
+* [**Rise of House Telvanni**]() by   
+* [**Village of Uvirith Mora**]() by   
+
+## Spells & Magicka
 * [**Customizable MWSE Multi Mark & Harder Recall**](https://www.nexusmods.com/morrowind/mods/47065) by Virnetch  
 * [**Chrysopoeia**](https://www.nexusmods.com/morrowind/mods/47008) by OperatorJack  
 * [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) by OperatorJack and RedFurryDemon  
-* [**Mage Lights**](https://www.nexusmods.com/morrowind/mods/46768) by Stripes  
-* [**Purist Friendly Magicka Regen**](https://www.nexusmods.com/morrowind/mods/45636) by Remiros & Greatness7  
+* Scripted Spells
 * [**Elemental Magicka II**](https://www.nexusmods.com/morrowind/mods/42106) by NMZMaster  
 * [**Useful Starting Spells**](https://www.nexusmods.com/morrowind/mods/40439) by Tizzo  
 * [**Miscast Mod**](http://mw.modhistory.com/download-53-12215) by Huskobar & Magius  
-* [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
+* [**Purist Friendly Magicka Regen**](https://www.nexusmods.com/morrowind/mods/45636) by Remiros & Greatness7  
+* [**Mastering Magicka**](https://www.nexusmods.com/morrowind/mods/42269) by dopeyFish  
+* [**Magic Diversity**](https://www.nexusmods.com/morrowind/mods/43380) by Arkann  
+* [**dopey Necromancy**](https://www.nexusmods.com/morrowind/mods/43313) by dopeyFish  
+
+## Objects
 * [**Spell Tomes**](https://www.nexusmods.com/morrowind/mods/47217) by MateWushu  
+* [**Mage Lights**](https://www.nexusmods.com/morrowind/mods/46768) by Stripes  
+* [**Scrolls of the Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831)
+
+## Quests
+* [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126)
+* [**The Astral Pocket**](https://www.nexusmods.com/morrowind/mods/46226)
+* [**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Gavrilo93  
+* [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
