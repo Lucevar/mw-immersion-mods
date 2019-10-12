@@ -15,6 +15,7 @@ Removes level requirements for a number of quests.
 [**Stormkiss Reforged**](https://www.nexusmods.com/morrowind/mods/44565) by Gevalt and Enclavekiller  
 [**Main Quest Enhancers**](https://www.nexusmods.com/morrowind/mods/41337) by Trainwiz  
 [**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
+[**Courtesy**](https://www.nexusmods.com/morrowind/mods/46781) by chantox  
 
 ## Factions
 [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von Django  
