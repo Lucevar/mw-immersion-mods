@@ -1,12 +1,16 @@
 **Updated**: 2019/05/04
 
 # Alternate Chargen
-See [**this list**] () 
+See [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/chargen.md) 
 
 # 6th House Believer
 [**The tribe unmourned**](https://www.nexusmods.com/morrowind/mods/23357) by von Django  
-Great House dagoth  
-endrek's sixth house  
+[**Dagoth, Black Netch, Red Dragon Armours**](http://mw.modhistory.com/download-70-10044) by Silver Sorrow  
+[**Great House dagoth**](http://mw.modhistory.com/download-90-8052) by The Mad God    
+[**GHD / Darknut's GDR compatibility patch**](http://mw.modhistory.com/download-90-7195) by MoonAndStar  
+[**endrek's sixth house v2.03**](http://mw.modhistory.com/download-4-7126) by Endrek    
+[**House Dagoth Bonemold Armor**](http://mw.modhistory.com/download-90-11299) by Petiboy  
+[**House Dagoth Outfit**](http://mw.modhistory.com/download-4-5681) by Alvirdimus  
 
 # Abolitionist 
 [**Twin Lamps**](http://mw.modhistory.com/download-53-7283) by Brother juniper  
