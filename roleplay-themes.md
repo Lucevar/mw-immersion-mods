@@ -1,4 +1,4 @@
-**Updated**: 2019/05/04
+**Updated**: 2019/10/12
 
 # Alternate Chargen
 See [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/chargen.md) 
@@ -11,12 +11,21 @@ See [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/cha
 [**endrek's sixth house v2.03**](http://mw.modhistory.com/download-4-7126) by Endrek    
 [**House Dagoth Bonemold Armor**](http://mw.modhistory.com/download-90-11299) by Petiboy  
 [**House Dagoth Outfit**](http://mw.modhistory.com/download-4-5681) by Alvirdimus  
+[**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204) by Digmen  
+[**Dagoth Valmyn Ash Zombie Companion**](https://www.nexusmods.com/morrowind/mods/44749) by TheDrunkenMudcrab  
 
 # Abolitionist 
+**Note**: Mostly *not* compatible with each other - double check! Twin Lamps and Slave Escort are reportedly 'mostly' compatible. 
+
 [**Twin Lamps**](http://mw.modhistory.com/download-53-7283) by Brother juniper  
-Nevena  
+[**Nevena's Twin Lamps and Slave Hunters**](http://mw.modhistory.com/download-37-3023) by Nevena  
+[**Nevena's Ex-Slaves and Partners**](http://mw.modhistory.com/download-37-7575) by Nevena  
+[**Slave Escort**](http://mw.modhistory.com/download-37-15579) by Cyrano  
 [**Free the slaves**](https://www.nexusmods.com/morrowind/mods/45191) by Caeris  
 [**Live Free**](https://www.nexusmods.com/morrowind/mods/43999) by Apoapse  
+[**Fligg's Slave Mod**](http://download.fliggerty.com/download-110-6) by Fliggerty  
+[**Slave Rescue Makes You More Famous**](https://www.nexusmods.com/morrowind/mods/43211) by LaurenceWithey  
+[**Breaker of Chains**](https://www.nexusmods.com/morrowind/mods/43242?tab=description) by spanktastic2120  
 
 # Addict / Dealer
 [**Create Skooma**](https://www.nexusmods.com/morrowind/mods/45419) by Merlord  
@@ -141,6 +150,7 @@ Balmora guilds expanded
 * [Bucklers Remastered](https://www.nexusmods.com/morrowind/mods/46388)
 [**More Gems**](http://mw.modhistory.com/download-1-12182) by Gawain  
 * [**Staffs of the Daedra**](https://www.nexusmods.com/morrowind/mods/43189)
+* [**Nation's Memento's - Dagoth Amulet Collection**](https://www.nexusmods.com/morrowind/mods/43217) by mastersteve1  
 
 # Imperial Loyalist
 * [**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Gavrilo93  
@@ -205,6 +215,10 @@ Rubberman sharpen mod
 [**Trouble at Sea**](http://mw.modhistory.com/download-53-12731) by Danjb  
 
 Nimawia Pearl farm
+
+# Slave
+[**Slave Bracers Revamped**](https://www.nexusmods.com/morrowind/mods/32493) by xception  
+
 
 # Smuggler  
 * Adanumuran reclaimed  
