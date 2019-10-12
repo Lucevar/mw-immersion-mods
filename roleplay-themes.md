@@ -70,9 +70,9 @@ Adds a number of new quests for the Ashlanders.
 
 # Bounty hunter / Mercenary
 Freelancer  
-[**Bounty Hunter Bundle**](https://www.nexusmods.com/morrowind/mods/46928) by Gavrilo93 
-Locked caves  
-Caves unlocked   
+[**Bounty Hunter Bundle**](https://www.nexusmods.com/morrowind/mods/46928) by Gavrilo93  
+[**Locked caves and tombs**](http://mw.modhistory.com/download-4-11439) by Solescape  
+[**Morrowind Bandits Unlocked**](http://mw.modhistory.com/download-55-2844) by Cliffworms  
 
 # Beast Race
 [**Telvanni Racist Guards**](http://mw.modhistory.com/download-44-10731) by Vagor  
@@ -251,7 +251,7 @@ Holy Art
 * [**South Wall, Den of Iniquity**]() by Barasthustrian  
 * [**What Thieves Guild?**]()
 * Vaults expanded  
-* Morrowind unlocked  
+[**Morrowind Cities Unlocked**](http://mw.modhistory.com/download-7-2833) by Cliffworms  
 [**Telvanni Vault Extended**](http://mw.modhistory.com/download-106-13277) by Serenia  
 [**Telvanni Vaults Expanded**](http://mw.modhistory.com/download-106-14357) by Slaanesh the Corruptor  
 [**Redoran Vaults Expanded**](http://mw.modhistory.com/download-68-14354) by Slaanesh the Corruptor  
