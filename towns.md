@@ -13,6 +13,8 @@
 [**Coloured Cloths**](http://mw.modhistory.com/download-53-12734) by Danjb  
 [**Main Quest Enhancers**](https://www.nexusmods.com/morrowind/mods/41337) by Trainwiz  
 [**Correspondances of Morrowind**](https://www.nexusmods.com/morrowind/mods/44771) by Cliffworms  
+[**Imperial Presence**](https://www.nexusmods.com/morrowind/mods/43216) by cml33  
+[**Ships of the Imperial Navy**](https://www.nexusmods.com/morrowind/mods/42103) by Neoptolemus  
 
 # Mournhold
 [**A Walk in the Park - Mournhold Temple Courtyard Overhaul**](https://www.nexusmods.com/morrowind/mods/46861) by seelof  
