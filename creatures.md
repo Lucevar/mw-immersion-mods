@@ -12,6 +12,7 @@
 ## AI
 [**Improved Cliff Racer AI**](https://www.nexusmods.com/morrowind/mods/44712) by R-Zero  
 [**Triangletooth's Ecology Mod**](https://www.nexusmods.com/morrowind/mods/47061) by TriangleTooth  
+[**Chatty Scamps**](https://www.nexusmods.com/morrowind/mods/44790) by dopeyFish  
 
 ## Placement
 [**Dagoth's Chosen**](https://www.nexusmods.com/morrowind/mods/31429) by von Django  
