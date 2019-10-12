@@ -4,6 +4,9 @@
 [**Akulakhan Replacer**](https://www.nexusmods.com/morrowind/mods/42855) by Aoimhevelho  
 [**Unique Corprus Stalkers**](https://download.fliggerty.com/download--749) by Westly  
 
+## Overhaul
+[**Creatures XI**](https://www.nexusmods.com/morrowind/mods/30563) by Piatelord  
+
 ## General Rebalance
 [**Beware the Sixth House**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
 [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort  
