@@ -87,7 +87,9 @@ Believe it or not... all of these are compatible (with one or two small bugs). U
 [**Sadrith Mora Closed City**](https://www.nexusmods.com/morrowind/mods/8359) by Crustacean  
 
 [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by Mort  
-Have you ever thought that Wolverine Hall must have been designed by Sheogorath, specifically to frustrate you? So did mort. So he fixed it (and gave the mages some beds while he was at it.)
+Have you ever thought that Wolverine Hall must have been designed by Sheogorath, specifically to frustrate you? So did mort. So he fixed it (and gave the mages some beds while he was at it.)  
+OR  
+[**Wolverine Hall Interior Expansion**](https://www.nexusmods.com/morrowind/mods/44965) by Mordaxis  
 
 You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/44746), [**More Detailed Places - Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/30150), [**Sadrith Mora Expanded**](https://www.nexusmods.com/morrowind/mods/44113), or [**Epic Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/43057).
 
