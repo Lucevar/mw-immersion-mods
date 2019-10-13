@@ -24,6 +24,7 @@
 #### Bandits in Suran
 * [**Zelazko FG: Suran Bandits**](https://www.nexusmods.com/morrowind/mods/47214) - adds non-violent option plus new side quest.
 #### Deliver Flin to Elith-Pal
+* [**Zelazko FG: Flin for Elith-Pal**](https://www.nexusmods.com/morrowind/mods/47227) - adds a temptation/road block in the form of an alcoholic Khajiit  
 #### Kill Eydis and Lorbumol
 #### Kill Hard-Heart
 
