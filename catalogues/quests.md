@@ -54,46 +54,46 @@
 
 # Mages Guild
 ## General Quests and Information
-#### A Wizard's Staff: Procure a Wizard's Staff required for the rank of Wizard.
-#### Arch-Mage: Your final quest to replace Trebonius as the guildmaster of the Mages Guild.
-#### I'm NOT a Necromancer!: Discover a practitioner of the forbidden arts within the guild.
+#### A Wizard's Staff
+#### Arch-Mage
+#### I'm NOT a Necromancer!
 
 ## Ajira's Quests, Balmora Guild
-#### Four Types of Mushrooms: Help Ajira research four different local mushroom species.
-#### Fake Soul Gem: You must help Ajira ensure she wins a bet.
-#### Four Types of Flowers: Another mission to find some local flowers for Ajira to study.
-#### Ceramic Bowl: A simple run to the local shop to fetch a ceramic bowl for Ajira.
-#### Stolen Reports: Find Ajira's stolen reports on mushrooms and flowers.
-#### Staff of Magnus: Recover a powerful staff from the Assu Cave.
-#### Warlock's Ring: Receive the location of another powerful artifact.
+#### Four Types of Mushrooms
+#### Fake Soul Gem
+#### Four Types of Flowers
+#### Ceramic Bowl
+#### Stolen Reports
+#### Staff of Magnus
+#### Warlock's Ring
 
 ## Ranis Athrys' Quests, Balmora Guild
-#### Recruit or Kill Llarar Bereloth: Take a recruitment trip to a Telvanni in Sulipund.
-#### Manwe's Dues: Retrieve guild dues from a Mages Guild member in Punabi.
-#### Unsanctioned Training: Stop an Argonian from offering Restoration training without the Guild's approval.
-#### Escort Itermerel: Escort the scholar Itermerel to Pelagiad.
-#### Kill Necromancer Tashpi Ashibael: Investigate a possible case of necromancy in Maar Gan.
-#### Catch a Spy: Search for a Telvanni spy who has infiltrated the Guild.
+#### Recruit or Kill Llarar Bereloth
+#### Manwe's Dues
+#### Unsanctioned Training
+#### Escort Itermerel
+#### Kill Necromancer Tashpi Ashibael
+#### Catch a Spy
 
 ## Edwinna Elbert's Quests, Ald'ruhn Guild
-#### Chronicles of Nchuleft: Search for the rare Dwemer book Chronicles of Nchuleft.
-#### A Potion from Skink-in-Tree's-Shade: Fetch a potion from the Sadrith Mora Guild hall.
-#### Steal Chimarvamidium: You are asked to 'borrow' a book from the Vivec Guild hall.
-#### Huleen's Hut: Investigate reports of disturbances from Huleen's Hut in Maar Gan.
-#### Return Chimarvamidium: Return the book you 'borrowed' from the Vivec Guild hall.
-#### Dwemer Tube from Arkngthunch-Sturdumz: Acquire a rare Dwemer Tube from Arkngthunch-Sturdumz.
-#### Nchuleftingth Expedition: Check on an expedition to the Dwemer ruin of Nchuleftingth.
-#### Scarab Plans in Mzuleft: Retrieve Dwemer plans from the ruins of Mzuleft.
-#### Bethamez: Retrieve some ancient Dwemer documents.
+#### Chronicles of Nchuleft
+#### A Potion from Skink-in-Tree's-Shade
+#### Steal Chimarvamidium
+#### Huleen's Hut
+#### Return Chimarvamidium
+#### Dwemer Tube from Arkngthunch-Sturdumz
+#### Nchuleftingth Expedition
+#### Scarab Plans in Mzuleft
+#### Bethamez
 
 ## Skink-in-Tree's-Shade's Quests, Wolverine Hall Guild
-#### Escort Tenyeminwe: Escort a scholar to the docks of Sadrith Mora.
-#### Vampires of Vvardenfell, Vol II: Find a rare vampire book, Vampires of Vvardenfell, Volume II.
-#### Meeting with a Wise Woman: Arrange a meeting with Skink-in-Tree's-Shade and an Ashlander Wise Woman.
-#### Kill Necromancer Telura Ulver: Take care of a former guild member that has turned to the dark art of Necromancy.
-#### Soul of an Ash Ghoul: Capture the soul of an Ash Ghoul for Skink to study.
-#### Galur Rithari's Papers: Find a very rare book by Galur Rithari about vampirism cause and cure.
+#### Escort Tenyeminwe
+#### Vampires of Vvardenfell, Vol II
+#### Meeting with a Wise Woman
+#### Kill Necromancer Telura Ulver
+#### Soul of an Ash Ghoul
+#### Galur Rithari's Papers
 
 ## Trebonius Artorius' Quests, Vivec Guild
-#### Mystery of the Dwarves: Discover what really happened to the Dwemer.
-#### Kill the Telvanni Councilors: A strange request from the Arch-Mage to kill all the Telvanni councilors.†
+#### Mystery of the Dwarves
+#### Kill the Telvanni Councilors
