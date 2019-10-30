@@ -161,6 +161,7 @@ This one has the globe.
 [**Barabus Imperial Housing Tileset**](http://mw.modhistory.com/download-55-5809) by Barabus  
 Included here rather than in common because it's a completely new tileset and doesn't match vanilla.  
 [**Huckleberry Raft Resource**](http://download.fliggerty.com/download-135-924) by DonnerGott  
+[**The Old Wizard's Library**](https://www.nexusmods.com/morrowind/mods/47263) by afroamerican  
 
 # To be investigated
 [**jdoobies taverns**](http://mw.modhistory.com/download-55-15395) by jdooby  
