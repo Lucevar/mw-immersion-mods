@@ -399,9 +399,9 @@ Allows the player to buy and run a mine.
 **Bthuand** - [Bthuand Expanded](https://www.nexusmods.com/morrowind/mods/46055)  
 **Bthungthumz**  
 **Dagoth Ur** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544)  
-**Druscashti**  
+**Druscashti** - [**Vampire Clans - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47259)  
 **Endusal** - [Endusal Redone](https://www.nexusmods.com/morrowind/mods/43399)  
-**Galom Daeus**  
+**Galom Daeus** - [**Vampire Clans - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47259)  
 **Mudan**  
 **Mzahnch** - [**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249)  
 **Mzanchend**  
@@ -482,11 +482,11 @@ Allows the player to buy and run a mine.
 
 ## <a name="velothi"></a>Velothi Towers
 **Ald Redaynia**  
-**Ashmelech** - [Ashmelech Reborn](https://www.nexusmods.com/morrowind/mods/45648)  
+**Ashmelech** - [**Ashmelech Reborn**](https://www.nexusmods.com/morrowind/mods/45648), [**Vampire Clans - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47259)    
 **Arvs-Drelen**  
 **Hanud**  
 **Mababi**  
-**Mawia**  - [Mawia Overhaul](https://www.nexusmods.com/morrowind/mods/46884)  
+**Mawia**  - [**Mawia Overhaul**](https://www.nexusmods.com/morrowind/mods/46884)  
 **Odirniran**  
 **Sanni**  
 **Shara**  
