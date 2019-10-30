@@ -43,6 +43,7 @@
 #### Problems at the Dissapla Mine
 #### Corprus Stalker in Tel Mora
 #### Rels Tenim Bounty
+* [**Zelazko FG: Tenim Bounty Alternatives**](https://www.nexusmods.com/morrowind/mods/47261)
 #### Deliver Sujamma to Dunirai
 #### Escort Sondaale
 #### Engaer Bounty
