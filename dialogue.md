@@ -2,7 +2,7 @@
 
 ## Flavour Dialogue
 [**What Thieves Guild?**](http://mw.modhistory.com/download-87-13858) by von Django  
-[**Django's Dialogue**](https://www.nexusmods.com/morrowind/mods/37328) by von Django  
+[**Django's Dialogue**](https://www.nexusmods.com/morrowind/mods/47253) by von Django  
 [**Nastier Camonna Tong**](https://www.nexusmods.com/morrowind/mods/22601) by von Django  
 [**Got the time?**](http://mw.modhistory.com/download-87-7221) by Princess Stomper  
 [**Charming Ash Vampires**](http://mw.modhistory.com/download-4-6217) by Master Sam  
