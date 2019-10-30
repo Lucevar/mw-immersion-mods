@@ -37,3 +37,4 @@ A corprus meat replacer.
 [**Winds of Morrowind**](https://www.nexusmods.com/morrowind/mods/46813) by WanderRA  
 [**Sea of Sound**](https://www.nexusmods.com/morrowind/mods/45737) by CptJoker  
 [**Kirel's Interior Weather**](http://mw.modhistory.com/download-90-3021) by Kirel  
+[**Outdoor Banners with Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
