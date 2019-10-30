@@ -157,8 +157,10 @@ Alternatively, [**Vvardenfell Revisited - Khuul**](https://www.nexusmods.com/mor
 
 ## Caldera
 [**Caldera Mages Guild Expanded**](https://www.nexusmods.com/morrowind/mods/45750) by Lucevar  
-[**Caldera Mine Expanded**](https://www.nexusmods.com/morrowind/mods/45194) by Team Dreamy Dremora  
 [**Caldera Clutter**](https://www.nexusmods.com/morrowind/mods/43773) by Jason210  
+[**Caldera Mine Expanded**](https://www.nexusmods.com/morrowind/mods/45194) by Team Dreamy Dremora  
+or
+[**Caldera Mine - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47260) by Tel Shadow  
 
 Alternatively, [**Vvardenfell Revisited - Caldera**](https://www.nexusmods.com/morrowind/mods/45182) by EnnetWinterhoof or [**Improved Caldera**](https://www.nexusmods.com/morrowind/mods/45000) by sorcerorsorceror. 
 
