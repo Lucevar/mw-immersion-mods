@@ -3,6 +3,7 @@
 [**Something's Not Right**](https://www.nexusmods.com/morrowind/mods/46497) by Cliffworms  
 [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara  
 [**Ashlander Crops and Livestock**](https://www.nexusmods.com/morrowind/mods/46961) by HereJust4Mods  
+[**Vampire Clans - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47259) by Tel Shadow  
 
 ## Ashlands
 [**RR - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822) by the Resdayn Revival Team  
