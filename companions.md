@@ -14,3 +14,4 @@ Includes an Argonian companion
 [**Companionable Cats**](http://lovkullen.net/Emma/cats.htm) by Emma  
 [**Constance, Thief Companion**](http://lovkullen.net/Emma/Constance.htm) by Grumpy and Emma  
 [**The Witchgirl Adventure**](http://lovkullen.net/Emma/witchgirl.htm) by Emma  
+[**Gwen of Rivenspire**](https://www.nexusmods.com/morrowind/mods/46960) by RubberMan  
