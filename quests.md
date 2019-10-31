@@ -32,6 +32,7 @@ Removes level requirements for a number of quests.
 [**Note to Hrisskar**](http://mw.modhistory.com/download-53-11212) by Danjb  
 [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
 [**A Widow in Debt**](https://www.nexusmods.com/morrowind/mods/46972) by Miamian  
+[**Bitter and Blighted**](https://www.nexusmods.com/morrowind/mods/47052) by MrWillisTheFetcher  
 
 # Totally New Quests
 
