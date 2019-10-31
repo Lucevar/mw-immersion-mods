@@ -89,6 +89,8 @@ Adds Divine-specific variations of the Imperial Cult altars.
 [**Dark Brotherhood Tapestry Resource**](http://mw.modhistory.com/download-55-6841) by Rattfink333  
 [**Nicoliathan's Furniture Resource**](https://download.fliggerty.com/download-56-259) by Nicoliathan  
 [**Cat Basket**](https://download.fliggerty.com/download-56-452) by Calislahn  
+[**Dunmer Saints Tapestries**](https://www.nexusmods.com/morrowind/mods/47082) by Dietbob  
+[**High Back Chairs**](https://www.nexusmods.com/morrowind/mods/47075) by Dietbob  
 
 ## clutter
 [**Functional Dice**](http://download.fliggerty.com/download--1047) by Stuporstar  
