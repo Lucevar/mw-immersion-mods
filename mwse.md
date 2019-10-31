@@ -7,6 +7,25 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
+## New since 2019/05/05
+[**Quick Loadouts**](https://www.nexusmods.com/morrowind/mods/46708) by Merlord  
+Quick Loadouts adds hotkeys for equipping entire sets of gear. You can customise whether a loadout includes weapons, armor, clothing and accessories in the MCM menu.  
+
+[**Drop Light**](https://www.nexusmods.com/morrowind/mods/46694) by NullCascade  
+This mod causes certain lights to be dropped when the player equips a two handed weapon or a shield while holding a light in combat. Only lights that are on by default will be dropped.
+
+[**Visually Filled Soul Gems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade  
+This mod makes in-world soulgems that are filled appear as enchanted items.
+
+[**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) by Merlord  
+Marksman Rebalanced takes into account the distance to target when calculating the hit chance for ranged weapons. This applies to both the player and NPCs. Crouching also provides a boost to hit chance.
+
+[**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord  
+Adds a configurable hotkey that will send all companions to attack whatever you are currently looking at.
+
+[**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius  
+This mod prevents the player from being able to Rest without using a bed. This encourages the player to utilize magic/potions/abilities to restore health or magicka, and makes renting rooms at inns more useful, especially when combined with a needs mod that requires the player to sleep.
+
 ## New since 2019/05/04
 [**Limited Intervention**](https://www.nexusmods.com/morrowind/mods/46687) by Merlord  
 This mod limits the number of times you can cast Divine and ALMSIVI Intervention, based on your ranks in the Divine Cult and Tribunal Temple, respectively. MCM settings allow you to choose how many interventions are granted to you per rank. Scrolls and enchantments are not affected. 
