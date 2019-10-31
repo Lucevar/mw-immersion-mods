@@ -55,6 +55,7 @@ Adds Divine-specific variations of the Imperial Cult altars.
 [**Daggerfall Inspired Meshes**](http://mw.modhistory.com/download-55-14617) by Lord Berandas  
 [**Window Jambs**](http://mw.modhistory.com/download-55-6988) by Dongle  
 [**Stable**](http://mw.modhistory.com/download-55-5987) by Crazyboy  
+[**Extra Common House Interior set**](https://www.nexusmods.com/morrowind/mods/46938) by RubberMan  
 
 ## Dunmer 
 [**Inverted Vivec Gondolier Dock**](http://download.fliggerty.com/download-135-805) by DonnerGott  
