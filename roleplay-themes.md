@@ -319,6 +319,7 @@ Random vampire attacks
 
 ## Objects
 * [**Spell Tomes**](https://www.nexusmods.com/morrowind/mods/47217) by MateWushu  
+* [**Lootable Spell Books**](https://www.nexusmods.com/morrowind/mods/47269?tab=description) by SuperHobbit  
 * [**Mage Lights**](https://www.nexusmods.com/morrowind/mods/46768) by Stripes  
 * [**Scrolls of the Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831)
 
