@@ -261,7 +261,7 @@ Holy Art
 [**Fake Gold**](http://mw.modhistory.com/download-53-12720) by Danjb  
 
 # Vampire
-* [Comfy pillow for a restful sleep](https://www.nexusmods.com/morrowind/mods/46613)
+* [**Comfy pillow for a restful sleep**](https://www.nexusmods.com/morrowind/mods/46613)
 Ashmelech  
 Vampire embrace  
 Scripted spells  
