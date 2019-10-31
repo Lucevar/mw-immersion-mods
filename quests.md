@@ -31,6 +31,7 @@ Removes level requirements for a number of quests.
 [**Creeper's Quest**](http://mw.modhistory.com/download-53-12712) by Danjb  
 [**Note to Hrisskar**](http://mw.modhistory.com/download-53-11212) by Danjb  
 [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
+[**A Widow in Debt**](https://www.nexusmods.com/morrowind/mods/46972) by Miamian  
 
 # Totally New Quests
 
