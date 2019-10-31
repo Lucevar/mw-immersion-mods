@@ -7,7 +7,43 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
-## New since 2019/05/05
+## New since 2019/05/05 (2019/05/05-2019/10/31)
+[**4NM Strike**](https://www.nexusmods.com/morrowind/mods/47243) by Archimag  
+Weapons enchanted "on strike" and "on distant target" now fire a projectile at any attack with it.
+
+[**Mabo's Foundations**](https://www.nexusmods.com/morrowind/mods/47244) by Meta Barj0  
+Not a mod per se, but a framework that is necessary for other MAB0's mods to work
+
+[**Mabo's Manipulated**](https://www.nexusmods.com/morrowind/mods/47222) by Meta Barj0  
+This mod makes all mental manipulation effect count as an aggression. Player will be fine if witnessed using one of these effects.
+
+[**The Tragedy of Dahrk Mezalf the Wise**](https://www.nexusmods.com/morrowind/mods/47235) by Team Suran Suran  
+Overhauls the vanilla Dwemer dungeon, Bthungthumz and adds several quests associated with the location. 
+
+[**Deeper Dagoth Ur**](https://www.nexusmods.com/morrowind/mods/47234) by Team Voluptuous Velks  
+Significant overhaul of the exterior and interior of Dagoth Ur, transforming it into a fortress befitting its legendary status. Ancient technology and the power of the heart of Lorkhan will present new challenges.
+
+[**The Corprusarium - Den of Despair Beta**](https://www.nexusmods.com/morrowind/mods/47237) by Team Balmora Bandits  
+This mod rebuilds the Corprusarium from the ground up, overhauling the main level and the bowels, with two new cells. Also included is a complete overhaul of the main quest Corprus Cure, along with a new quest.
+
+[**Mabo's Ingestion**](https://www.nexusmods.com/morrowind/mods/47240) by Meta Barj0  
+MAB0's ingestion is another mod to remove one of the largest exploit in the game by allowing the player to be affected by only one potion/ingredient at a time.
+
+[**Atronach Expansion**](https://www.nexusmods.com/morrowind/mods/22189) by Melchior Dahrk  
+This mod takes several community resources as well as Melchior's own work and adds seven new types of monsters as summonable creatures: Bone Golem, Flesh Atronach, Iron Golem, Swamp Myconid, Telvanni Myconid, Ash Golem, Crystal Golem
+
+[**Extended Mark and Recall**](https://www.nexusmods.com/morrowind/mods/47209) by SanityAbsence  
+Adds two restocking tomes to the enchanter in Tel Vos. One marks people to recall to the player. One marks locations for player to recall to. Five slots per book. More books is more storage.
+
+[**MAB0's Exploitable**](https://www.nexusmods.com/morrowind/mods/47215) by Meta Barj0  
+It mitigates side effects of the 'pause mode' associated with very short and very strong magic effects and does not allow to exploit the game in those aspects.
+
+[**Spell Tomes**](https://www.nexusmods.com/morrowind/mods/47217) by MateWushu  
+Find powerful spell tomes and charge them with your mana! An option for less magically inclined characters to utilize their mana points, tomes allow your character to store her mana for later use in form of charges. Each spell tome produces different effect and has its own charge limit.
+
+[**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178) by RedFurryDemon and OperatorJack  
+Now you can hear what lies benath the Red Mountain.
+
 [**Tresspasser**](https://www.nexusmods.com/morrowind/mods/47159) by tdef  
 This mod makes a felony to be in specific places between 10pm and 8am (or always), so if you walk in a shop at night and get detected you will get a bounty, same if you break into random occupied houes.
 
