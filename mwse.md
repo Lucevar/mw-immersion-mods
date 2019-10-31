@@ -8,6 +8,39 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 ## New since 2019/05/05
+[**Get Sharp**](https://www.nexusmods.com/morrowind/mods/46848) by RubberMan and Greatness7  
+Ever wanted to sharpen that blade, just a little bit more? Or that axe that seems a little dull? What about, that hammer of yours. Could it do with a tad more of a thump to it? If the answer is yes, then this mod is for you. Visit our Blacksmith at Fort Pelagiad and Fort Buckmoth in Ald-Ruhn, and get sharpening and tempering.
+
+[**Infinity Wraithguard**](https://www.nexusmods.com/morrowind/mods/46849) by Melchior Dahrk and NullCascade  
+Replaces Wraithguard with the Infinity Gauntlet and adds a new backdoor way of completing the main quest which elaborates on Wraithguard's new look. Once you banish the heart, Wraithguard will be fully restored and you will be able to perform "The Snap" eliminating half of life in the universe.
+
+[**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord  
+Keep track of what books you have read by showing a "(Read)" indicator next to their names. You can also see a list of previously read books in the MCM menu.
+
+[**The Great Love Pillow Hunt**](https://www.nexusmods.com/morrowind/mods/46852) by Merlord and Stuporstar  
+We all know Drarayne Thelas loves her pillows, but is it possible for her to take her love too far? Yes. Eighteen body pillows are hidden across the world that are yours for the taking (they have no ownership because no one will admit the body pillows belong to them).
+
+[**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) by Hrnchamd  
+Regional weather colours, skies and lighting. Visual weather editor and region-based presets. Seamless transitions between regions. Share your presets.
+
+[**MWSE 2.1 Journal Search and Edit**](https://www.nexusmods.com/morrowind/mods/46756) by svengineer99  
+Adds journal search, edit, insert pages and book art capabilities.
+
+[**Merlord's Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795) by Merlord  
+Select from 26 different backgrounds, each with their own unique effects.
+
+[**Go Fletch**](https://www.nexusmods.com/morrowind/mods/46752) by Merlord  
+Go Fletch adds a brand new Fletching skill to the game, utilising the latest skill and crafting frameworks in MWSE to fully integrate it into the vanilla UI.
+
+[**Smart Helmet**](https://www.nexusmods.com/morrowind/mods/46753) by abot  
+You can set the mod to automatically swap helmet on cellchange depending on: number/distance/fight of hostiles around, current weather, allow/disallow automatic unequipping of enchanted helmet
+
+[**Remiros' Grass Cover (MGE)**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros  
+Adds groundcover to almost all regions, including Tamriel Rebuilt areas.
+
+[**No Combat Menu**](https://www.nexusmods.com/morrowind/mods/46732) by Merlord  
+No Combat Menu prevents you from accessing your inventory menu, as well as preventing looting containers/corpses, while you are in combat.
+
 [**Quick Loadouts**](https://www.nexusmods.com/morrowind/mods/46708) by Merlord  
 Quick Loadouts adds hotkeys for equipping entire sets of gear. You can customise whether a loadout includes weapons, armor, clothing and accessories in the MCM menu.  
 
