@@ -16,6 +16,8 @@ Removes level requirements for a number of quests.
 [**Main Quest Enhancers**](https://www.nexusmods.com/morrowind/mods/41337) by Trainwiz  
 [**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
 [**Courtesy**](https://www.nexusmods.com/morrowind/mods/46781) by chantox  
+[**Go away move along**](https://www.nexusmods.com/morrowind/mods/46797) by l1lartur0  
+[**Django's Dialogue**](https://www.nexusmods.com/morrowind/mods/47253) by von Djangos  
 
 ## Factions
 [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von Django  
