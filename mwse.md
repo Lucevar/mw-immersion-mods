@@ -8,6 +8,36 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 ## New since 2019/05/05
+[**Next Generation Combat**](https://www.nexusmods.com/morrowind/mods/46993) by Aracelliy  
+Brings Morrowind combat into the next generation!
+
+[**Gwen of Rivenspire**](https://www.nexusmods.com/morrowind/mods/46960) by RubberMan  
+A new companion who will agree to join you after completing Ajira's quests. 
+
+[**Songbook of the North**](https://www.nexusmods.com/morrowind/mods/46936) by imsobadatnicknames  
+Songbook of the North is a MUSE plugin that adds 5 original tracks which will be heard exclusively in the territories added by SHotN. It's sort of an unofficial soundtrack, as I'm not officially affiliated with the SHotN team
+
+[**Class Conscious**](https://www.nexusmods.com/morrowind/mods/46902) by Petethegoat  
+Removes the option to create a custom class.
+
+[**Cinematic Camera**](https://www.nexusmods.com/morrowind/mods/46909) by Rytelier  
+Smooth camera mode for recording videos.
+
+[**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915) by Petethegoat  
+Lets you randomise your race, appearance, class, and birthsign.
+
+[**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) by Hrnchamd  
+The life of a marksman is one of advantage. Distance, time, initiative. But, when it's all over there is no trace of your work. Wouldn't it be satisfying to see your arrows, bolts and darts sticking into men, mer, tavern doors, and signposts alike? This mod is for you. Place an arrow right between their eyes.
+
+[**Defensive Stance**](https://www.nexusmods.com/morrowind/mods/46845) by Merlord  
+Crouching with a shield equipped increases your block and reduces your speed.
+
+[**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by Anumaril  
+Tooltips Complete provides helpful and lore-friendly flavour texts for nearly every item in Morrowind, Tribunal, Bloodmoon, the Official Plugins, and an expanding collection of mods.
+
+[**inom - inventory mouse wheel**](https://www.nexusmods.com/morrowind/mods/46847) by isNaN  
+Add mouse wheel control to the inventory/container interface to simplify inventory management!
+
 [**Get Sharp**](https://www.nexusmods.com/morrowind/mods/46848) by RubberMan and Greatness7  
 Ever wanted to sharpen that blade, just a little bit more? Or that axe that seems a little dull? What about, that hammer of yours. Could it do with a tad more of a thump to it? If the answer is yes, then this mod is for you. Visit our Blacksmith at Fort Pelagiad and Fort Buckmoth in Ald-Ruhn, and get sharpening and tempering.
 
