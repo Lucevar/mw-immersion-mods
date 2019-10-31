@@ -8,6 +8,63 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 ## New since 2019/05/05
+[**Tresspasser**](https://www.nexusmods.com/morrowind/mods/47159) by tdef  
+This mod makes a felony to be in specific places between 10pm and 8am (or always), so if you walk in a shop at night and get detected you will get a bounty, same if you break into random occupied houes.
+
+[**DragonDoor**](https://www.nexusmods.com/morrowind/mods/47169) by Archimag  
+Enemies are now chasing you through the doors
+
+[**Hard Save**](https://www.nexusmods.com/morrowind/mods/47170) by Archimag
+You cannot save the game in battle.
+
+[**MGG Weathers Darker Nights**](https://www.nexusmods.com/morrowind/mods/47141) by Necrolesian  
+Weather Adjuster config file, using Morrowind Graphics Guide Weathers as a base, with darker nights.
+
+[**Cheat Menu**](https://www.nexusmods.com/morrowind/mods/47143) by qqqbbb  
+Cheat menu in MCM. Perfect for testing mods!
+
+[**Skyrim UI Mod Config Color Fix**](https://www.nexusmods.com/morrowind/mods/47148) by Necrolesian  
+Modified version of MWSE's "Mod Config" main menu text, for use with Skyrim UI Overhaul.
+
+[**Skill Based Trap Detection**](https://www.nexusmods.com/morrowind/mods/47120) by AdituV  
+Makes trap detection a random chance based on the player's Security skill
+
+[**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) by OperatorJack  
+A lua-based framework for creating new, fully functional magic effects. Currently adds 103 new magic effects.
+
+[**4NM Magic**](https://www.nexusmods.com/morrowind/mods/47095) by Archimag
+The power of spells, enchantments, and potions is now scaled not only from resistance, but from many other factors (Skills, Attributes, Fatigue). These changed affect PC, NPCs and all creatures in the game.
+
+[**Not Clairvoyant Nerevarine**](https://www.nexusmods.com/morrowind/mods/47102) by qqqbbb  
+You have to talk to people to know their names. You have to use objects to know what their properties are.
+
+[**4NM Armorer**](https://www.nexusmods.com/morrowind/mods/47104) by Archimag  
+Ability to improve weapon and armor condition above normal with repair tools. Items improved this way deal more damage and give more armor rating.
+
+[**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105) by OperatorJack  
+Using MWSE Lua, this mod makes it so that performing a summoning spell in a town or city is illegal, as it was originally intended to be. Applies to the player, NPCs, and creatures.
+
+[**Realistic Healing and Injuries**](https://www.nexusmods.com/morrowind/mods/47084) by Aracelliy  
+Adds realistic healing - out of combat (by default but configurable) health regeneration, better healing the more health you have left and fatigue. Adds injuries - take or cause to NPCs injuries in combat that require resting properly to heal.
+
+[**Customizable MWSE Multi Mark and Harder Recall**](https://www.nexusmods.com/morrowind/mods/47065) by Virnetch  
+An overhaul of the mark and recall system using MWSE 2.1 to allow: Multiple mark locations, even from other mods. Teleport companions to your location. Limit number of marks by mysticism, Higher magicka cost and lower cast chance for long recall distances, Limited number of daily recalls.
+
+[**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
+Using MWSE Lua, adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.
+
+[**4NM Combat**](https://www.nexusmods.com/morrowind/mods/47056) by Archimag  
+This is a complete overhaul of weapon combat system.
+
+[**AntiWitcher**](https://www.nexusmods.com/morrowind/mods/47062) by Archimag  
+No more drinking over 9000 potions! Your belly isn't made of elastic!
+
+[**Chrysopoeia**](https://www.nexusmods.com/morrowind/mods/47008) by OperatorJack  
+Using MWSE Lua and Magicka Expanded, embark on a short quest to gain the power of transmuting items into gold: Chrysopoeia. Search for the most learned alchemist on the island of Morrowind to find it. But, remember, nothing is free.
+
+[**4NM Training**](https://www.nexusmods.com/morrowind/mods/47035) by Archimag
+The gain of experience in magic skills now depends on the spellcost. The gain of experience in battle skills now depends on damage, hero and enemy levels.
+
 [**Next Generation Combat**](https://www.nexusmods.com/morrowind/mods/46993) by Aracelliy  
 Brings Morrowind combat into the next generation!
 
