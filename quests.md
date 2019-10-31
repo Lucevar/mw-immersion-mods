@@ -18,6 +18,7 @@ Removes level requirements for a number of quests.
 [**Courtesy**](https://www.nexusmods.com/morrowind/mods/46781) by chantox  
 [**Go away move along**](https://www.nexusmods.com/morrowind/mods/46797) by l1lartur0  
 [**Django's Dialogue**](https://www.nexusmods.com/morrowind/mods/47253) by von Djangos  
+[**Drakes Pride Refusal**](https://www.nexusmods.com/morrowind/mods/46894) by chryssvoler  
 
 ## Factions
 [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von Django  
