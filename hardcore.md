@@ -48,6 +48,8 @@ No more drinking 10 potions at once!
 
 ## Equipment
 [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
+[**Randomize Kagrenac's Tools**](https://www.nexusmods.com/morrowind/mods/47267) by SuperHobbit  
+[**The Morrowind Randomizer**](https://www.nexusmods.com/morrowind/mods/44989) by mort and Greatness7  
 
 ## Disease
 [**No More Dr. Nerevarine**](https://www.nexusmods.com/morrowind/mods/45861) by Gavrilo93  
