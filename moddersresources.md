@@ -106,6 +106,7 @@ Silveri's resources tend to be very vibrant, but since most of the resources in 
 [**Morrowind Decorative stuff**](http://mw.modhistory.com/download-55-6625) by Runspect  
 This one has the globe.  
 [**Candle Holders & Boxes**](http://download.fliggerty.com/download-135-1012) by DonnerGott  
+[**Broken Vanilla Crates**](https://www.nexusmods.com/morrowind/mods/46982) by RubberMan  
 
 # Dungeons
 ## Dunmer Stronghold
