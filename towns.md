@@ -74,7 +74,7 @@ The Shrine of Daring isn't compatible with Holidays Across Tamriel/Dramatic Vive
 These affect different parts of Ebonheart and are therefore compatible.  
 [**Ebonheart Underworks**](https://www.nexusmods.com/morrowind/mods/47272) by Team Dandy Daedra  
 [**Ebonheart Outskirt & Lighthouse District**](https://www.nexusmods.com/morrowind/mods/44994) by arimon  
-[**More Detailed Places - Ebonheart**](https://www.nexusmods.com/morrowind/mods/29542) by Ragox
+[**More Detailed Places - Ebonheart**](https://www.nexusmods.com/morrowind/mods/29542) by Ragox  
 [**Ebonheart Interior Expansion**](http://mw.modhistory.com/download-87-7146) by Princess Stomper  
 
 # Azura's Coast
