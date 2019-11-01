@@ -305,8 +305,8 @@ Allows the player to buy and run a mine.
 **Saturan**  
 **Sennananit** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Sha-Adnius**  
-**Shal**  
-**Shallit** - [Shallit Hideout](https://www.nexusmods.com/morrowind/mods/43645)  
+**Shal** - [**Shal Overgrown**](https://www.nexusmods.com/morrowind/mods/47219)   
+**Shallit** - [**Shallit Hideout**](https://www.nexusmods.com/morrowind/mods/43645)  
 **Sharapli**  
 **Shurinbaal** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Shushan**  
