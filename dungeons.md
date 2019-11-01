@@ -433,7 +433,7 @@ Allows the player to buy and run a mine.
 **Elith-Pal Mine** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Mausur Caverns** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Sudanit Mine** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
-**Vassir-Didanat** Cave - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Vassir-Didanat** Cave - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [**Vassir-Didanat - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47278)    
 **Yanemus Mine** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 
 ## Glass Mines
