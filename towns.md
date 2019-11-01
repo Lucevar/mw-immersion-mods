@@ -72,6 +72,7 @@ The Shrine of Daring isn't compatible with Holidays Across Tamriel/Dramatic Vive
 
 ## Ebonheart
 These affect different parts of Ebonheart and are therefore compatible.  
+[**Ebonheart Underworks**](https://www.nexusmods.com/morrowind/mods/47272) by Team Dandy Daedra  
 [**Ebonheart Outskirt & Lighthouse District**](https://www.nexusmods.com/morrowind/mods/44994) by arimon  
 [**More Detailed Places - Ebonheart**](https://www.nexusmods.com/morrowind/mods/29542) by Ragox
 [**Ebonheart Interior Expansion**](http://mw.modhistory.com/download-87-7146) by Princess Stomper  
@@ -156,6 +157,7 @@ or
 Alternatively, [**Vvardenfell Revisited - Khuul**](https://www.nexusmods.com/morrowind/mods/46614) by EnnetWinterhoof, or [**Milik's Khuul Facelift**](https://www.nexusmods.com/morrowind/mods/19657) by Milik.    
 
 ## Caldera
+[**Carelessly Crazy Caldera Community**](https://www.nexusmods.com/morrowind/mods/47275) by Team Suran Suran  
 [**Caldera Mages Guild Expanded**](https://www.nexusmods.com/morrowind/mods/45750) by Lucevar  
 [**Caldera Clutter**](https://www.nexusmods.com/morrowind/mods/43773) by Jason210  
 [**Caldera Mine Expanded**](https://www.nexusmods.com/morrowind/mods/45194) by Team Dreamy Dremora  
