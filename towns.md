@@ -15,6 +15,7 @@
 [**Correspondances of Morrowind**](https://www.nexusmods.com/morrowind/mods/44771) by Cliffworms  
 [**Imperial Presence**](https://www.nexusmods.com/morrowind/mods/43216) by cml33  
 [**Ships of the Imperial Navy**](https://www.nexusmods.com/morrowind/mods/42103) by Neoptolemus  
+[**Ports of Vvardenfell**](https://www.nexusmods.com/morrowind/mods/44823) by Mick083  
 
 # Mournhold
 [**A Walk in the Park - Mournhold Temple Courtyard Overhaul**](https://www.nexusmods.com/morrowind/mods/46861) by seelof  
