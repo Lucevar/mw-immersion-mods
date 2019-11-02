@@ -13,7 +13,7 @@
 [**So. You're the Nerevarine.**](https://www.nexusmods.com/morrowind/mods/46896) by vehkofficial  
 [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948) by vonwolfe  
 [**Sleepers Awake**](https://www.nexusmods.com/morrowind/mods/37208) by Von Django & Adul  
-
+[**Ooh You're Naked begone: Immersive Crassius Curio Greetings**](https://www.nexusmods.com/morrowind/mods/47284) by Lucevar  
 
 ## Greetings
 [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
