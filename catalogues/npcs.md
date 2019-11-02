@@ -171,6 +171,8 @@
 * [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068) - Places, travel service, background topic.
 #### Clilias Pullia
 * [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269)
+### Crassius Curio  
+* [**Ooh You're Naked begone: Immersive Crassius Curio Greetings**](https://www.nexusmods.com/morrowind/mods/47284)
 #### Crazy Batou
 * [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096)
 
