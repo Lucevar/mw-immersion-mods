@@ -50,9 +50,14 @@ Improves the vanilla classes by changing the skills they use to make more sense.
 
 [**Vampire Character Generation**](https://www.nexusmods.com/morrowind/mods/47268) by SuperHobbit
 
-# New Starting Options
+# New Starting Equipment
 [**Personal Effects**](https://www.nexusmods.com/morrowind/mods/45338) by R-Zero  
 If you start as one of the vanilla classes, gain items based on your class instead of the vanilla 87 gold.  
+
+[**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283) by Merlord  
+Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL). Uses MWSE/Lua.
+
+# New Starting Locations
 
 [**Chargen Revamped v2**](https://www.nexusmods.com/morrowind/mods/44110) by Mitokandria  
 [**Chargen Revamped - Expanded Lands**](https://www.nexusmods.com/morrowind/mods/44615) by Texafornian  
