@@ -7,6 +7,19 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
+# New since Halloween 2019
+[**Tales of Ald Velothi**](https://www.nexusmods.com/morrowind/mods/47276) by Team Balmora Bandits  
+This mod sets out to make Ald Velothi not so underwhelming like in Vanilla, enjoy two new large quests, a clutter touch up of the village as well as a basic clutter pass for the nearby daedric ruins.
+
+[**Fortified Molag Mar**](https://www.nexusmods.com/morrowind/mods/47270) by Team Voluptuous Velks  
+Visit a reforged Molag Mar to embark upon a series of quests to discover what happened to a missing Buoyant Armiger. Adds 5 increasingly difficult quests, innovative magic effects, and battles that only a God could win.
+
+[**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283) by Merlord  
+Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL). Uses MWSE/Lua.
+
+[**Bardic Inspiration**](https://www.nexusmods.com/morrowind/mods/45441) by Merlord  
+This mod uses MWSE to dynamically replace all lutes and fat lutes in the game with equippable versions. Equipping these in a tavern after 6pm will allow you to perform any one of 10 pieces, during which you will earn gold. You can also perform music when outdoors, which provides a buff to fatigue recovery.
+
 ## New since 2019/05/05 (2019/05/05-2019/10/31)
 [**4NM Strike**](https://www.nexusmods.com/morrowind/mods/47243) by Archimag  
 Weapons enchanted "on strike" and "on distant target" now fire a projectile at any attack with it.
