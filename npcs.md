@@ -53,6 +53,7 @@
 [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577) by OliverTheSkunk  
 [**Drug Realism Redux**](https://www.nexusmods.com/morrowind/mods/45351) by smeetooie3  
 [**Drunk Fargoth**](https://www.nexusmods.com/morrowind/mods/45133) by The Doogster  
+[**Ooh You're Naked begone: Immersive Crassius Curio Greetings**](https://www.nexusmods.com/morrowind/mods/47284) by Lucevar  
 
 ### Sorkvild the Raven
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
