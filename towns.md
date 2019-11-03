@@ -78,6 +78,9 @@ These affect different parts of Ebonheart and are therefore compatible.
 [**More Detailed Places - Ebonheart**](https://www.nexusmods.com/morrowind/mods/29542) by Ragox  
 [**Ebonheart Interior Expansion**](http://mw.modhistory.com/download-87-7146) by Princess Stomper  
 
+## Rethan Manor
+[**Resplendent Rethan - Jewel of the Odai**](https://www.nexusmods.com/morrowind/mods/47281) by Team Azturnal  
+
 # Azura's Coast
 ## Tel Branora
 [**RR - Tel Branora Lighthouse**](https://www.nexusmods.com/morrowind/mods/42664) by Resdayn Revival Team  
@@ -150,6 +153,7 @@ or
 [**Gnisis Docks**](https://www.nexusmods.com/morrowind/mods/45994) by Gavrilo93  
 
 ## Ald Velothi
+[**Tales of Ald Velothi**](https://www.nexusmods.com/morrowind/mods/47276) by Team Balmora Bandits  
 
 ## Khuul
 [**Khuul Expanded**](https://www.nexusmods.com/morrowind/mods/32643) by caseytucker  
@@ -195,6 +199,13 @@ or
 [**More Detailed Places - Maar Gan**](https://www.nexusmods.com/morrowind/mods/29602) by Ragox  
 [**Unique Maar Gan**](http://mw.modhistory.com/download-1-11884) by basswalker  
 [**Maar Gan Extended**](http://mw.modhistory.com/download-1-11437) by ManualIntelligence  
+
+# Molag Mar
+[**Fortified Molag Mar**](https://www.nexusmods.com/morrowind/mods/47270) by Team Voluptuous Velks  
+or  
+[**Molag Mar X**](https://www.nexusmods.com/morrowind/mods/46273) by Pinsvinnn  
+or  
+[**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190) by Atrayonis  
 
 # New Towns
 ## New Arenthia
