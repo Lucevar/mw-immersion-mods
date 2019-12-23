@@ -36,6 +36,9 @@ This mod makes mark and recall behave like in Daggerfall. Whenever you use recal
 [**Tamriel Rebuilt - Original Soundtrack**](https://www.nexusmods.com/morrowind/mods/47254) by Rytelier and ASKII  
 Adds whole new soundtrack for Tamriel Rebuilt areas, with region based music, dungeons, cities and other. Requires [**MUSE 2**](https://www.nexusmods.com/morrowind/mods/46200) 
 
+[**Regional Bounty**](https://www.nexusmods.com/morrowind/mods/47285) by Sushi  
+Why does news of your crimes travel faster than you do? Your bounty is retained per region instead of across the entire continent. Uses MWSE Lua.
+
 # New since Halloween 2019
 [**Tales of Ald Velothi**](https://www.nexusmods.com/morrowind/mods/47276) by Team Balmora Bandits  
 This mod sets out to make Ald Velothi not so underwhelming like in Vanilla, enjoy two new large quests, a clutter touch up of the village as well as a basic clutter pass for the nearby daedric ruins.
