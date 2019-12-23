@@ -45,9 +45,12 @@
 #### Rels Tenim Bounty
 * [**Zelazko FG: Tenim Bounty Alternatives**](https://www.nexusmods.com/morrowind/mods/47261)
 #### Deliver Sujamma to Dunirai
+* [**Zelazko FG: Sujamma to Dunirai Addon**](https://www.nexusmods.com/morrowind/mods/47304)  
 #### Escort Sondaale
 #### Engaer Bounty
+* [**Zelazko FG: Engaer Bounty Fall to the Death**](https://www.nexusmods.com/morrowind/mods/47336)
 #### Pudai Egg Mine
+* [**Zelazko FG: Find Pudai Eggmine Info**](https://www.nexusmods.com/morrowind/mods/47337)
 
 ## Sjoring Hard-Heart
 #### Kill Thieves Guild Bosses
@@ -98,3 +101,17 @@
 ## Trebonius Artorius' Quests, Vivec Guild
 #### Mystery of the Dwarves
 #### Kill the Telvanni Councilors
+
+# Tribunal Temple
+#### Pilgrimage of the Seven Graces
+* [**Soul Gems at Ghostgate**](https://www.nexusmods.com/morrowind/mods/47340) by Gavrilo93  
+
+# Redoran
+#### Ondres Nerano's Slanders
+* [**Current Councilors**](https://www.nexusmods.com/morrowind/mods/47342) by PoodleSandwich2  
+
+# Misc Quests
+#### The Weapon Delivery
+* [**Oath to St. Roris Instead**](https://www.nexusmods.com/morrowind/mods/47339) by Gavrilo93  
+#### The Shirt of His Back
+* [**Oath to St. Roris Instead**](https://www.nexusmods.com/morrowind/mods/47339) by Gavrilo93  
