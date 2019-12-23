@@ -60,6 +60,7 @@ Adds a number of new quests for the Ashlanders.
 # Assassin
 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
 [**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
+[**Vvardenfell Brotherhood**](https://www.nexusmods.com/morrowind/mods/47314) by Caeris  
 
 # Book Worm
 [**Complete Book Collection**](https://www.nexusmods.com/morrowind/mods/44818?) by WanderRA  
