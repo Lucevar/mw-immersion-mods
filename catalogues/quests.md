@@ -4,6 +4,7 @@
 ## Eydis Fire-Eye
 #### Cave Rats
 #### Shulk Egg Poachers
+* [**Zelazko FG: Egg Poachers Arrest or Go**](https://www.nexusmods.com/morrowind/mods/47355)
 #### Telvanni Agents
 * [**Zelazko FG: Spare Telvanni Agents**](https://www.nexusmods.com/morrowind/mods/47186) if you're TG or HT
 * [**Caldera Mine Expanded**](https://www.nexusmods.com/morrowind/mods/45194)
@@ -109,8 +110,14 @@
 # Redoran
 #### Ondres Nerano's Slanders
 * [**Current Councilors**](https://www.nexusmods.com/morrowind/mods/47342) by PoodleSandwich2  
+#### Founder's Helm
+* [**Founder's Helm**](https://www.nexusmods.com/morrowind/mods/47352) by Gavrilo93  
 
 # Misc Quests
+#### A Cure for Vampirism
+* [**A Cure for Vampirism - Skink's Solution**](https://www.nexusmods.com/morrowind/mods/47375) by Gavrilo93  
+#### Hentus Needs Pants
+* [**Hentus Needs Pants Overhaul**](https://www.nexusmods.com/morrowind/mods/47369) by Gavrilo93
 #### The Weapon Delivery
 * [**Oath to St. Roris Instead**](https://www.nexusmods.com/morrowind/mods/47339) by Gavrilo93  
 #### The Shirt of His Back
