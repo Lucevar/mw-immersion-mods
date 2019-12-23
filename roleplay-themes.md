@@ -19,6 +19,7 @@ See [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/cha
 
 [**Twin Lamps**](http://mw.modhistory.com/download-53-7283) by Brother juniper  
 [**Nevena's Twin Lamps and Slave Hunters**](http://mw.modhistory.com/download-37-3023) by Nevena  
+[**Twin Lamps and Slavehunters -- Cleaned and Edited**](https://www.nexusmods.com/morrowind/mods/47420) by Nevena and l1lartur0  
 [**Nevena's Ex-Slaves and Partners**](http://mw.modhistory.com/download-37-7575) by Nevena  
 [**Slave Escort**](http://mw.modhistory.com/download-37-15579) by Cyrano  
 [**Free the slaves**](https://www.nexusmods.com/morrowind/mods/45191) by Caeris  
