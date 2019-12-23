@@ -447,9 +447,9 @@ Allows the player to buy and run a mine.
 **Abaelun Mine** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 
 ## Egg Mines  
-**Abaesen-Pulu Egg Mine**  
-**Abebaal Egg Mine**  
-**Ahallaraddon Egg Mine**  
+**Abaesen-Pulu Egg Mine** - [**Egg Mine - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47294)    
+**Abebaal Egg Mine** - [**Egg Mine - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47294)  
+**Ahallaraddon Egg Mine** - [**Egg Mine - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47294)    
 **Ahanibi-Malmus Egg Mine**  
 **Akimaes-Ilanipu Egg Mine**  
 **Asha-Ahhe Egg Mine**  
