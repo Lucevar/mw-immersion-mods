@@ -21,6 +21,12 @@ Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and pr
 [**Mabo's Unstacked**](https://www.nexusmods.com/morrowind/mods/47384) by Meta Barj0  
 An anti-exploit mod focusing on spells and enchantments. Prevents unlimited stacking of magic effect from spells and enchants when they originate a common source.  
 
+[**Player-Only Speed Walk and Sprint**](https://www.nexusmods.com/morrowind/mods/47323) by iLiveOnFear  
+This mod adds faster walking (running), sprinting, and gives you 3 options in stamina drain from running. The walking speed boost you get affects you only, and the boost is dependent on Athletics. Sprinting is boosted by both Athletics and Agility. Benefits of the boost end at lvl 100, but you can still become faster by leveling up Speed. Higher athletics also means more efficient sprinting. The sprint key is bound to "Left Shift".
+
+[**100 Percent Hit and Cast Rate by All**](https://www.nexusmods.com/morrowind/mods/47326) by iLiveOnFear  
+Changes Hitrate to 100% for both the player, NPC, and enemies using MWSE. This makes weapon skills obsolete, so keep that in mind. Optional: Changes Spell Cast Rate to 100%. Again, it's for both the player, NPC, and enemies. This makes magic skills useless.
+
 # New since Halloween 2019
 [**Tales of Ald Velothi**](https://www.nexusmods.com/morrowind/mods/47276) by Team Balmora Bandits  
 This mod sets out to make Ald Velothi not so underwhelming like in Vanilla, enjoy two new large quests, a clutter touch up of the village as well as a basic clutter pass for the nearby daedric ruins.
