@@ -8,6 +8,9 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New Nov 1 - Dec 23, 2019
+[**Harder Merchants**](https://www.nexusmods.com/morrowind/mods/47416) by Corsair83  
+Harder Merchants is a simple, but effective mod, that forces merchant's mercantile skill to grow as the player increases in level; removing the static nature of their stat, and thus making it much more of a challenge when bartering with them. Used in conjunction with Harder Barter player's can expect to have a more difficult time trying to buy/sell their ill-gotten goods; severely decreasing the chances of "get rich, quick" play throughs. Together, they can serve as a modern replacement for older mods, such as HotFusion's Economy Adjuster, which did something similar with NPC's mercantile skill, but now with far less lines of code.
+
 [**Armor Auto-Balancer**](https://www.nexusmods.com/morrowind/mods/47325) by Siltocyn  
 Pluginless mwse-lua armor rebalancer using properties based on hollaajith's Armor Overhaul.  
 
