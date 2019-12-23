@@ -15,6 +15,12 @@ Pluginless mwse-lua armor rebalancer using properties based on hollaajith's Armo
 "3E 421 — The Levitation Act is passed throughout the Empire, outlawing the use of levitation magic."  
 This mod makes it so that performing a levitation spell is illegal, as it is supposed to be according to The Levitation Act. Performing a levitation spell or using a levitation enchantment and being caught while doing so will give you a bounty of 500 gold per levitation effect, per cast! However, like with other crimes, it is possible to cast a levitation spell and not get caught. Guards will respond similarly to as if you stole an item or attacked someone. This functionality does not apply to NPCs and creatures.  
 
+[**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383) by abot  
+Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.  
+
+[**Mabo's Unstacked**](https://www.nexusmods.com/morrowind/mods/47384) by Meta Barj0  
+An anti-exploit mod focusing on spells and enchantments. Prevents unlimited stacking of magic effect from spells and enchants when they originate a common source.  
+
 # New since Halloween 2019
 [**Tales of Ald Velothi**](https://www.nexusmods.com/morrowind/mods/47276) by Team Balmora Bandits  
 This mod sets out to make Ald Velothi not so underwhelming like in Vanilla, enjoy two new large quests, a clutter touch up of the village as well as a basic clutter pass for the nearby daedric ruins.
