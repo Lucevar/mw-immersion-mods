@@ -10,6 +10,7 @@
 [**Valley of the Wind Overhaul**](https://www.nexusmods.com/morrowind/mods/46691/) by Leyawynn  
 [**Foyada Mamaea Overhaul**](https://www.nexusmods.com/morrowind/mods/46424) by Remiros  
 [**Lake Nabia Region**](https://www.nexusmods.com/morrowind/mods/45939) by Petethegoat
+[**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423/) by Melchior Dahrk  
 
 ## Molag Amur
 [**Shrine of Mount Assarnibi**](https://www.nexusmods.com/morrowind/mods/46858) by istreddify  
