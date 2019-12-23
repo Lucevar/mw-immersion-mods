@@ -252,6 +252,8 @@ Holy Art
 * [**Oath to St. Roris Instead**](https://www.nexusmods.com/morrowind/mods/47339) by Gavrilo93  
 * [**Soul Gems at Ghostgate**](https://www.nexusmods.com/morrowind/mods/47340) by Gavrilo93  
 * [**Vivec's Chamber**](https://www.nexusmods.com/morrowind/mods/47344) by Dagoth Slayer  
+* [**Repentance for your sins - hair shirts**](https://www.nexusmods.com/morrowind/mods/47382) by Anos-Seloth  
+* [**Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich2  
 
 # Thief
 * [Stealable Ash Mask](https://www.nexusmods.com/morrowind/mods/46207).  
