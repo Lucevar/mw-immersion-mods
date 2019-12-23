@@ -48,6 +48,7 @@
 #### Deliver Sujamma to Dunirai
 * [**Zelazko FG: Sujamma to Dunirai Addon**](https://www.nexusmods.com/morrowind/mods/47304)  
 #### Escort Sondaale
+* [**Zelazko FG: Telasero Delaying Consequences**](https://www.nexusmods.com/morrowind/mods/47310)
 #### Engaer Bounty
 * [**Zelazko FG: Engaer Bounty Fall to the Death**](https://www.nexusmods.com/morrowind/mods/47336)
 #### Pudai Egg Mine
@@ -108,6 +109,8 @@
 * [**Soul Gems at Ghostgate**](https://www.nexusmods.com/morrowind/mods/47340) by Gavrilo93  
 
 # Redoran
+#### Duel of Honor
+* [**Duel of Honor - Improve the Chances**](https://www.nexusmods.com/morrowind/mods/47393) by Gavrilo93  
 #### Ondres Nerano's Slanders
 * [**Current Councilors**](https://www.nexusmods.com/morrowind/mods/47342) by PoodleSandwich2  
 #### Founder's Helm
@@ -116,9 +119,17 @@
 # Misc Quests
 #### A Cure for Vampirism
 * [**A Cure for Vampirism - Skink's Solution**](https://www.nexusmods.com/morrowind/mods/47375) by Gavrilo93  
+#### Champion of Clutter
+* [**Champion of Clutter**](https://www.nexusmods.com/morrowind/mods/47377) by Gavrilo93
 #### Hentus Needs Pants
 * [**Hentus Needs Pants Overhaul**](https://www.nexusmods.com/morrowind/mods/47369) by Gavrilo93
 #### The Weapon Delivery
 * [**Oath to St. Roris Instead**](https://www.nexusmods.com/morrowind/mods/47339) by Gavrilo93  
 #### The Shirt of His Back
 * [**Oath to St. Roris Instead**](https://www.nexusmods.com/morrowind/mods/47339) by Gavrilo93  
+#### Thelas's Pillows
+* [**Thelas's Pillows**](https://www.nexusmods.com/morrowind/mods/47379) by Gavrilo93  
+
+# Bloodmoon
+#### The Frostmoth Smugglers
+* [**The Frostmoth Smugglers - Properly Rewarded**](https://www.nexusmods.com/morrowind/mods/47409) by Gavrilo93
