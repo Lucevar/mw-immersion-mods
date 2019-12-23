@@ -4,6 +4,7 @@
 [**The Pretty Reckless**](https://www.nexusmods.com/morrowind/mods/46970) by Gavrilo93  
 Removes level requirements for a number of quests.  
 [**Freelancer**](http://mw.modhistory.com/download-90-8164) by Tomas  
+[**Cutting Room Floor**](https://www.nexusmods.com/morrowind/mods/47307) by CiceroTR  
 
 ## Choices and Consequences
 [**The Corpse and the Skooma Pipe Overhaul**](https://www.nexusmods.com/morrowind/mods/46696) by Gavrilo93  
@@ -45,3 +46,4 @@ Removes level requirements for a number of quests.
 [**Trouble at Sea**](http://mw.modhistory.com/download-53-12731) by Danjb  
 [**Imperial Employment Agency, MD Edit**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk  
 [**Black Tooth Pirates**](https://www.nexusmods.com/morrowind/mods/47014) by ChemicalTaint  
+[**Illuminated Order 2.0**](https://www.nexusmods.com/morrowind/mods/47414) by Mort  
