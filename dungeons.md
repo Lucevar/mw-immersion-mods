@@ -440,7 +440,7 @@ Allows the player to buy and run a mine.
 **Dissapla Mine** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Dunirai Caverns** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Halit Mine** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
-**Massama Cave** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Massama Cave** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [**Deadlier Massama Cave**](https://www.nexusmods.com/morrowind/mods/47418)    
 **Yassu Mine** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 
 ## Diamond Mines
