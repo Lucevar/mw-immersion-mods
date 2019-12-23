@@ -164,6 +164,7 @@ or
 Alternatively, [**Vvardenfell Revisited - Khuul**](https://www.nexusmods.com/morrowind/mods/46614) by EnnetWinterhoof, or [**Milik's Khuul Facelift**](https://www.nexusmods.com/morrowind/mods/19657) by Milik.    
 
 ## Caldera
+[**Caldera - Fighters Guild**](https://www.nexusmods.com/morrowind/mods/47328) by Utseeva  
 [**Carelessly Crazy Caldera Community**](https://www.nexusmods.com/morrowind/mods/47275) by Team Suran Suran  
 [**Caldera Mages Guild Expanded**](https://www.nexusmods.com/morrowind/mods/45750) by Lucevar  
 [**Caldera Clutter**](https://www.nexusmods.com/morrowind/mods/43773) by Jason210  
