@@ -158,6 +158,7 @@ Balmora guilds expanded
 [**More Gems**](http://mw.modhistory.com/download-1-12182) by Gawain  
 * [**Staffs of the Daedra**](https://www.nexusmods.com/morrowind/mods/43189)
 * [**Nation's Memento's - Dagoth Amulet Collection**](https://www.nexusmods.com/morrowind/mods/43217) by mastersteve1  
+* [**Treasures of Magic**](https://www.nexusmods.com/morrowind/mods/45251) by Team Wool and Floof  
 
 # Imperial Loyalist
 * [**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Gavrilo93  
@@ -256,6 +257,7 @@ Holy Art
 * [**Vivec's Chamber**](https://www.nexusmods.com/morrowind/mods/47344) by Dagoth Slayer  
 * [**Repentance for your sins - hair shirts**](https://www.nexusmods.com/morrowind/mods/47382) by Anos-Seloth  
 * [**Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich2  
+* [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506) by Zobator  
 
 # Thief
 * [Stealable Ash Mask](https://www.nexusmods.com/morrowind/mods/46207).  
