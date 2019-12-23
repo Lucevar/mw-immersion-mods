@@ -30,6 +30,9 @@ Changes Hitrate to 100% for both the player, NPC, and enemies using MWSE. This m
 [**Anchor Teleportation**](https://www.nexusmods.com/morrowind/mods/47413) by OperatorJack  
 This mod makes mark and recall behave like in Daggerfall. Whenever you use recall, the location you have marked will be lost and you must cast mark again, creating an "anchor".
 
+[**Tamriel Rebuilt - Original Soundtrack**](https://www.nexusmods.com/morrowind/mods/47254) by Rytelier and ASKII  
+Adds whole new soundtrack for Tamriel Rebuilt areas, with region based music, dungeons, cities and other. Requires [**MUSE 2**](https://www.nexusmods.com/morrowind/mods/46200) 
+
 # New since Halloween 2019
 [**Tales of Ald Velothi**](https://www.nexusmods.com/morrowind/mods/47276) by Team Balmora Bandits  
 This mod sets out to make Ald Velothi not so underwhelming like in Vanilla, enjoy two new large quests, a clutter touch up of the village as well as a basic clutter pass for the nearby daedric ruins.
