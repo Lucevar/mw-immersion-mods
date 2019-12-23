@@ -7,6 +7,14 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
+# New Nov 1 - Dec 23, 2019
+[**Armor Auto-Balancer**](https://www.nexusmods.com/morrowind/mods/47325) by Siltocyn  
+Pluginless mwse-lua armor rebalancer using properties based on hollaajith's Armor Overhaul.  
+
+[**The Levitation Act**](https://www.nexusmods.com/morrowind/mods/47345) by OperatorJack and Gavrilo93  
+"3E 421 — The Levitation Act is passed throughout the Empire, outlawing the use of levitation magic."  
+This mod makes it so that performing a levitation spell is illegal, as it is supposed to be according to The Levitation Act. Performing a levitation spell or using a levitation enchantment and being caught while doing so will give you a bounty of 500 gold per levitation effect, per cast! However, like with other crimes, it is possible to cast a levitation spell and not get caught. Guards will respond similarly to as if you stole an item or attacked someone. This functionality does not apply to NPCs and creatures.  
+
 # New since Halloween 2019
 [**Tales of Ald Velothi**](https://www.nexusmods.com/morrowind/mods/47276) by Team Balmora Bandits  
 This mod sets out to make Ald Velothi not so underwhelming like in Vanilla, enjoy two new large quests, a clutter touch up of the village as well as a basic clutter pass for the nearby daedric ruins.
