@@ -27,6 +27,9 @@
 [**Service Refusal Expanded**](https://www.nexusmods.com/morrowind/mods/45961) by Caeris  
 [**Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by PoodleSandwich, Quorn, and Superquail  
 
+## Disease
+[**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335) by Gavrilo93  
+
 ## Guards, Theft, Stolen Items
 [**No-one is above the law**](https://www.nexusmods.com/morrowind/mods/46925/) by Gavrilo93 and RedFurryDemon  
 [**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786) by Lucevar  
