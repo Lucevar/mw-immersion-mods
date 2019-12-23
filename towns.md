@@ -59,6 +59,7 @@ These are all compatible, but whether or not you think they're aeshetically comp
 Patch for Holidays Across Tamriel [here](https://www.nexusmods.com/morrowind/mods/44222).  
 [**Passage of Prayers**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn, Sataniel & Remiros  
 [**Palace of Vehk**](https://www.nexusmods.com/morrowind/mods/46800) by Enclavekiller  
+[**Vivec's Chamber**](https://www.nexusmods.com/morrowind/mods/47344) by Dagoth Slayer  
 [**Vivec Expansion**](https://www.nexusmods.com/morrowind/mods/43331/) by Hoghead the Terrible  
 [**Illuminated Palace of Vivec**](https://www.nexusmods.com/morrowind/mods/44585) by vojteek  
 [**Prison Moon Enhanced II**](http://download.fliggerty.com/download--929) by Spirithawke  
