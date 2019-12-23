@@ -363,29 +363,29 @@ Allows the player to buy and run a mine.
 **Ald Daedroth**  
 **Almurbalarami**  
 **Assalkushalit**  
-**Bal Fell** - [Bal Fell Under](https://www.nexusmods.com/morrowind/mods/31389)  
+**Bal Fell** - [**Bal Fell Under**](https://www.nexusmods.com/morrowind/mods/31389)  
 **Ihinipalit**  
 **Maelkashishi** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Onnissiralis**  
 **Zaintiraris**  
 
 ## Daedric Shrines - Misc
-**Anudnabia** - [Forge of Hilbongard](http://download.fliggerty.com/download--702)  
+**Anudnabia** - [**Forge of Hilbongard**](http://download.fliggerty.com/download--702)  
 **Khartag Point**  
 **Magas Volar**  
 **Shrine of Azura**  
 **Shrine of Boethia**  
-**Shrine of Mephala** - [The Shrine of Mephala](http://mw.modhistory.com/download-112-11326)  
+**Shrine of Mephala** - [**The Shrine of Mephala**](http://mw.modhistory.com/download-112-11326)  
 
 ## <a name="dunmer"></a>Dunmer Strongholds
-**Andasreth**  - [Andasreth Stronghold](https://www.nexusmods.com/morrowind/mods/46604)  
+**Andasreth**  - [**Andasreth Stronghold**](https://www.nexusmods.com/morrowind/mods/46604)  
 **Berandas**  
-**Falasmaryon**  - [Falasmaryon Overhaul](https://www.nexusmods.com/morrowind/mods/46460)  
-**Falensarano** - [Falensarano - The Ruined Stronghold](https://www.nexusmods.com/morrowind/mods/44244) by *CarrotFerret*  
-**Hlormaren** - [MRenewal - Hlormaren](https://www.nexusmods.com/morrowind/mods/46648)  
+**Falasmaryon**  - [**Falasmaryon Overhaul**](https://www.nexusmods.com/morrowind/mods/46460)  
+**Falensarano** - [**Falensarano - The Ruined Stronghold**](https://www.nexusmods.com/morrowind/mods/44244) by *CarrotFerret*  
+**Hlormaren** - [**MRenewal - Hlormaren**](https://www.nexusmods.com/morrowind/mods/46648), [**Hlormaren Reclaimed - Slightly Improved**](https://www.nexusmods.com/morrowind/mods/47301)  
 **Indoranyon**  
-**Kogoruhn** - [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076), [Kogoruhn Expanded](https://www.nexusmods.com/morrowind/mods/46098), [Kogoruhn Ruins](https://www.nexusmods.com/morrowind/mods/44034)  
-**Marandus** - [LGNPC Pax Redoran](http://lgnpc.org/downloads)  
+**Kogoruhn** - [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076), [**Kogoruhn Expanded**](https://www.nexusmods.com/morrowind/mods/46098), [**Kogoruhn Ruins**](https://www.nexusmods.com/morrowind/mods/44034)  
+**Marandus** - [**LGNPC Pax Redoran**](http://lgnpc.org/downloads)  
 **Rotheran**  
 **Telasero**  
 **Valenvaryon**  
