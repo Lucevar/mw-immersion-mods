@@ -81,6 +81,7 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 ## Fighters Guild  
 [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
 [**Zelazko's Fighters Guild Quest Options**](https://www.nexusmods.com/morrowind/mods/47196) by Zelazko  
+[**Caldera - Fighters Guild**](https://www.nexusmods.com/morrowind/mods/47328) by Utseeva  
 
 ## Imperial Legion
 [**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Gavrilo93  
