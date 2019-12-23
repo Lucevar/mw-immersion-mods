@@ -66,6 +66,7 @@ Patch for Holidays Across Tamriel [here](https://www.nexusmods.com/morrowind/mod
 [**Shrines of the Seven Graces**](https://www.nexusmods.com/morrowind/mods/46417?tab=files) by QueenLunara  
 The Shrine of Daring isn't compatible with Holidays Across Tamriel/Dramatic Vivec. I recommend getting the other six and leaving that one out.  
 
+[**Canalworks Connected**](https://www.nexusmods.com/morrowind/mods/47354) by iLoveOnFear  
 [**Jobasha's Rare Books Expanded**](https://www.nexusmods.com/morrowind/mods/45153) twgear2  
 [**Vivec Records Lore Friendly**](https://www.nexusmods.com/morrowind/mods/43033) by Ostar  
 [**The Lizard's Head**](https://www.nexusmods.com/morrowind/mods/39748) by DebiDalio  
