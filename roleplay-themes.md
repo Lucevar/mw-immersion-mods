@@ -78,6 +78,7 @@ Freelancer
 [**Telvanni Racist Guards**](http://mw.modhistory.com/download-44-10731) by Vagor  
 [**Nastier Camonna Tong**](https://www.nexusmods.com/morrowind/mods/22601) by von Django  
 [**Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by PoodleSandwich, Quorn, and Superquail  
+[**Azurah**](https://www.nexusmods.com/morrowind/mods/47407) by Melchior Dahrk  
 
 ## Argonian
 [**Argonian Hist Armor**](http://mw.modhistory.com/download-4-12309) by Helios & Ral-Jiktar  
