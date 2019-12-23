@@ -41,6 +41,9 @@ No more drinking 10 potions at once!
 [**Limited Intervention**](https://www.nexusmods.com/morrowind/mods/46687) by Merlord  
 
 ## Economy
+[**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11  
+
+If you're not using Morrowind Anti-Cheese, you may still want these three. They're included in Anti-Cheese so don't use them with that mod!  
 [**Common Containers Nerfed**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
 [**Container Ownership**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
 [**Rarer Scrap Metal**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
