@@ -6,6 +6,7 @@
 [**Nastier Camonna Tong**](https://www.nexusmods.com/morrowind/mods/22601) by von Django  
 [**Got the time?**](http://mw.modhistory.com/download-87-7221) by Princess Stomper  
 [**Charming Ash Vampires**](http://mw.modhistory.com/download-4-6217) by Master Sam  
+[**FMI - Ingredient Locations**](https://www.nexusmods.com/morrowind/mods/47324) by PoodleSandwich  
 
 ## Audio
 [**VGreetings**](http://mw.modhistory.com/download-42-13335) by TheOtherFelix  
@@ -30,6 +31,7 @@
 
 ## Disease
 [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335) by Gavrilo93  
+[**FMI - Disease Descriptions**](https://www.nexusmods.com/morrowind/mods/47331) by PoodleSandwich  
 
 ## Guards, Theft, Stolen Items
 [**No-one is above the law**](https://www.nexusmods.com/morrowind/mods/46925/) by Gavrilo93 and RedFurryDemon  
