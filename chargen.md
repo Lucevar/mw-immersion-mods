@@ -57,6 +57,9 @@ If you start as one of the vanilla classes, gain items based on your class inste
 [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283) by Merlord  
 Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL). Uses MWSE/Lua.
 
+[**Adventurer Starter Pack**](https://www.nexusmods.com/morrowind/mods/47295) by Gavrilo93  
+For 500 gold you will have the opportunity to buy an "adventurer starter pack" with useful potions, torches and repair hammers from Arrille.  
+
 # New Starting Locations
 
 [**Chargen Revamped v2**](https://www.nexusmods.com/morrowind/mods/44110) by Mitokandria  
