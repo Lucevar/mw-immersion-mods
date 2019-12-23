@@ -1,5 +1,5 @@
 # MGE/MWSE Mods List
-**Updated**: 2019/05/04
+**Updated**: 2019/12/23
 
 First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) and the most recent version of [**MWSE**](https://nullcascade.com/mwse/mwse-dev.zip) and the [**Morrowind Code Patch (MCP)**](https://www.nexusmods.com/morrowind/mods/19510) for good measure.  
 
