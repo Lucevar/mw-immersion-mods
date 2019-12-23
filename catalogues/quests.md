@@ -75,16 +75,19 @@
 
 ## Ranis Athrys' Quests, Balmora Guild
 #### Recruit or Kill Llarar Bereloth
+* [**Quest Tweaks & Alternatives**](https://stuporstar.sarahdimento.com/other-mods/quest-tweaks-alternatives/) by Stuporstar
 #### Manwe's Dues
 #### Unsanctioned Training
 #### Escort Itermerel
 #### Kill Necromancer Tashpi Ashibael
 #### Catch a Spy
+* [**Quest Tweaks & Alternatives**](https://stuporstar.sarahdimento.com/other-mods/quest-tweaks-alternatives/) by Stuporstar
 
 ## Edwinna Elbert's Quests, Ald'ruhn Guild
 #### Chronicles of Nchuleft
 #### A Potion from Skink-in-Tree's-Shade
 #### Steal Chimarvamidium
+* [**Quest Tweaks & Alternatives**](https://stuporstar.sarahdimento.com/other-mods/quest-tweaks-alternatives/) by Stuporstar
 #### Huleen's Hut
 #### Return Chimarvamidium
 #### Dwemer Tube from Arkngthunch-Sturdumz
@@ -103,10 +106,17 @@
 ## Trebonius Artorius' Quests, Vivec Guild
 #### Mystery of the Dwarves
 #### Kill the Telvanni Councilors
+* [**Quest Tweaks & Alternatives**](https://stuporstar.sarahdimento.com/other-mods/quest-tweaks-alternatives/) by Stuporstar
 
 # Tribunal Temple
 #### Pilgrimage of the Seven Graces
 * [**Soul Gems at Ghostgate**](https://www.nexusmods.com/morrowind/mods/47340) by Gavrilo93  
+
+# Imperial Legion
+#### Courtesy
+* [**Courtesy**](https://www.nexusmods.com/morrowind/mods/46781) by Chantox  
+#### Dandsa Rescue
+* [**Non-Legion Dandsa Rescue Fix**](https://www.nexusmods.com/morrowind/mods/46927) by chryssvoller  
 
 # Redoran
 #### Duel of Honor
@@ -116,6 +126,10 @@
 #### Founder's Helm
 * [**Founder's Helm**](https://www.nexusmods.com/morrowind/mods/47352) by Gavrilo93  
 
+# Telvanni
+#### Mages Guild Monopoly
+* [**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Gavrilo93  
+
 # Misc Quests
 #### A Cure for Vampirism
 * [**A Cure for Vampirism - Skink's Solution**](https://www.nexusmods.com/morrowind/mods/47375) by Gavrilo93  
@@ -123,6 +137,16 @@
 * [**Champion of Clutter**](https://www.nexusmods.com/morrowind/mods/47377) by Gavrilo93
 #### Hentus Needs Pants
 * [**Hentus Needs Pants Overhaul**](https://www.nexusmods.com/morrowind/mods/47369) by Gavrilo93
+#### Invisible Son
+* [**Quest Tweaks & Alternatives**](https://stuporstar.sarahdimento.com/other-mods/quest-tweaks-alternatives/) by Stuporstar
+#### Liberate the Limeware
+* [**Quest Tweaks & Alternatives**](https://stuporstar.sarahdimento.com/other-mods/quest-tweaks-alternatives/) by Stuporstar
+#### Tarer Brarayn's Cure
+* [**Quest Tweaks & Alternatives**](https://stuporstar.sarahdimento.com/other-mods/quest-tweaks-alternatives/) by Stuporstar
+#### Trerayna Bounty
+* [**Quest Tweaks & Alternatives**](https://stuporstar.sarahdimento.com/other-mods/quest-tweaks-alternatives/) by Stuporstar
+#### The Corpse and the Skooma Pipe
+* [**The Corpse and the Skooma Pipe Overhaul**](https://www.nexusmods.com/morrowind/mods/46696) by Gavrilo93  
 #### The Weapon Delivery
 * [**Oath to St. Roris Instead**](https://www.nexusmods.com/morrowind/mods/47339) by Gavrilo93  
 #### The Shirt of His Back
