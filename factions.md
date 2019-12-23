@@ -31,6 +31,7 @@ __*Lucevar's Note*__: These are fairly limited in scope - they're not full-fledg
 [**Olyn Hleran: A Redoran Companion**](https://www.nexusmods.com/morrowind/mods/45197) by Team Mythic Beasts  
 __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see the mod page: the screenshots are fairly representative of what I mean). Mod was created for MMM2017 and may have some rough edges.  
 
+[**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) by Gavrilo93  
 [**Redoran Council Hall Improvements**](https://www.nexusmods.com/morrowind/mods/44931?tab=files) by Kalian
 
 ## Tribunal Temple
@@ -54,7 +55,7 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 
 # Strongholds & Places
 ## Great House Hlaalu
-Someone please make one!
+[**Resplendent Rethan**]() 
 ## Great House Redoran
 [****](https://www.nexusmods.com/morrowind/mods/42386) by bruno13069
 [**Redoran Vault Extended**](https://www.nexusmods.com/morrowind/mods/42098) by Tarius  
@@ -86,6 +87,7 @@ Someone please make one!
 [**The Fires of Orc**](https://www.nexusmods.com/morrowind/mods/44982) by Gavrilo93  
 [**Imperial Legion Expansion**](https://www.nexusmods.com/morrowind/mods/44469) by Gavrilo93  
 [**Gnisis Docks**](https://www.nexusmods.com/morrowind/mods/45994) by Gavrilo93 & PoodleSandwich  
+[**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich  
 
 ## Imperial Cult
 [**Illy's Oh My Goddess**](http://mw.modhistory.com/download-4-14546) by Illuminiel  
@@ -132,4 +134,5 @@ Adds a number of roleplaying options to the main quest, including alternate path
 # New Factions
 [**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by Gavrilo93  
 [**Guild of Vampire Hunters**](https://www.nexusmods.com/morrowind/mods/45832) by Gavrilo93  
-
+[**Vvardenfell Brotherhood**](https://www.nexusmods.com/morrowind/mods/47314) by Caeris  
+[**To Serve Sithis**]() by Emerys  
