@@ -27,6 +27,9 @@ This mod adds faster walking (running), sprinting, and gives you 3 options in st
 [**100 Percent Hit and Cast Rate by All**](https://www.nexusmods.com/morrowind/mods/47326) by iLiveOnFear  
 Changes Hitrate to 100% for both the player, NPC, and enemies using MWSE. This makes weapon skills obsolete, so keep that in mind. Optional: Changes Spell Cast Rate to 100%. Again, it's for both the player, NPC, and enemies. This makes magic skills useless.
 
+[**Anchor Teleportation**](https://www.nexusmods.com/morrowind/mods/47413) by OperatorJack  
+This mod makes mark and recall behave like in Daggerfall. Whenever you use recall, the location you have marked will be lost and you must cast mark again, creating an "anchor".
+
 # New since Halloween 2019
 [**Tales of Ald Velothi**](https://www.nexusmods.com/morrowind/mods/47276) by Team Balmora Bandits  
 This mod sets out to make Ald Velothi not so underwhelming like in Vanilla, enjoy two new large quests, a clutter touch up of the village as well as a basic clutter pass for the nearby daedric ruins.
