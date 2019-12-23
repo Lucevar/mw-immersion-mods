@@ -3,6 +3,7 @@
 [**Dagoth Creatures Replacer**](https://www.nexusmods.com/morrowind/mods/42834) by Aoimhevelho  
 [**Akulakhan Replacer**](https://www.nexusmods.com/morrowind/mods/42855) by Aoimhevelho  
 [**Unique Corprus Stalkers**](https://download.fliggerty.com/download--749) by Westly  
+[**Centurion Spider Replacer**](https://www.nexusmods.com/morrowind/mods/47349) by Autoclock  
 
 ## Overhaul
 [**Creatures XI**](https://www.nexusmods.com/morrowind/mods/30563) by Piatelord  
@@ -25,3 +26,6 @@
 [**Atronach Expansion**](https://www.nexusmods.com/morrowind/mods/22189/?) by Melchior Dahrk  
 [**Water Life**](https://abitoftaste.altervista.org/morrowind/index.php?option=content&task=view&id=8&catid=43&Itemid=10&-Water-Life) by abot  
 [**Where are all birds going?**](https://abitoftaste.altervista.org/morrowind/index.php?option=content&task=view&id=3&catid=43&Itemid=10&-Where-are-all-birds-going) by abot  
+[**Centurion Bombers**](https://www.nexusmods.com/morrowind/mods/47347) by Autoclock  
+[**Centurion Submariner**](https://www.nexusmods.com/morrowind/mods/47350) by Autoclock  
+[**Centurion Superspiders**](https://www.nexusmods.com/morrowind/mods/47351) by Autoclock  
