@@ -101,6 +101,10 @@ Includes an Argonian companion
 [**Bardic inspiration**](https://www.nexusmods.com/morrowind/mods/45441) by Merlord  
 [**Entertainers Expanded**](https://www.nexusmods.com/morrowind/mods/44764) with [**Entertainers Expanded Again**](https://www.nexusmods.com/morrowind/mods/46889) by Ian and Chantox  
 
+# Cannibal
+[**Cannibals of Morrowind - Updated**](https://www.nexusmods.com/morrowind/mods/47358) by Morandir Nailo and Danae  
+[**The Forgotten**]() by Enclavekiller
+
 # Daedra Worshipper
 * [Staffs of the Daedra](https://www.nexusmods.com/morrowind/mods/43189)
 * Statue of Azura  
