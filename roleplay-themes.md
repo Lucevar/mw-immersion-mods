@@ -244,6 +244,9 @@ Cleanse Ash statues
 Lgnpc  
 [**Bigger Temples - Urbanopticum**](https://www.nexusmods.com/morrowind/mods/46184) by Tyddy  
 Holy Art  
+* [**Oath to St. Roris Instead**](https://www.nexusmods.com/morrowind/mods/47339) by Gavrilo93  
+* [**Soul Gems at Ghostgate**](https://www.nexusmods.com/morrowind/mods/47340) by Gavrilo93  
+* [**Vivec's Chamber**](https://www.nexusmods.com/morrowind/mods/47344) by Dagoth Slayer  
 
 # Thief
 * [Stealable Ash Mask](https://www.nexusmods.com/morrowind/mods/46207).  
