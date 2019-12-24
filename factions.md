@@ -6,7 +6,6 @@ Descriptions are generally the mod author's (taken straight from the mod page) -
 __*Lucevar's Note*__  
 
 # Dunmer Great Houses & Temple
-## Quests & Dialogue
 ## Great House Hlaalu
 [**Roleplay Options for House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208?tab=posts) by Caeris & Luj1  
 Have you ever wanted to arrest the murderer of Ralen Hlaalo instead of killing him?  Well now you can. This mod adds several new ways of completing persuasion quests and such for Great House Hlaalu.
@@ -17,6 +16,12 @@ Hlaalu Business adds six more quests to the game, three to Dram Bero and three t
 [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812) by Aralin  
 Simply adds a magnificent portrait to decorate the Curio manor and delight its dinner guests. Now there's some proof that Councilor Curio is such the patron of the arts he's made out to be.  
 __*Lucevar's Note*__: Why have I listed it under quests and dialogue, I hear you ask? Well, just look at that magnificent portrait. Does he not speak to you? Will your game feel right until you complete your quest to own this portrait?
+
+[**Resplendent Rethan - Jewel of the Odai**](https://www.nexusmods.com/morrowind/mods/47281) by Team Azturnal    
+Rethan expansion mod focused on expanding and improving the settlement itself. Adds 6 additional buildings, and completely redesigns the Manor itself. The Odai Plateau has been re-landscaped and expanded to make room for the larger settlement, it's now a beautiful location, as well as a convenient one. Enjoy the spectacular view from your Hlaalu Stronghold overlooking lovely waterfalls and a scenic river. Also adds a road connecting Rethan Manor to Hla Oad, and raises the bridge that was blocking the mouth of the Odai, opening the way to the sea for skiffs and rowboats. There is also a lovely new dock offering boat service to several towns. There are several new NPCs with unique dialogue who offer various services as well.
+
+[**Rethan Estate**](https://www.nexusmods.com/morrowind/mods/47422) by Qirin Domean  
+An extension to the Hlaalu Stronghold questline, giving the player the possibility to exploit the Vassir-Didanat and Shurdan-Raplay mines and generate a weekly income depending on the player's actions and choices. Rethan Manor changes optional.  
 
 [**Crassius and Therana Companion**](https://www.nexusmods.com/morrowind/mods/44247) by PrincessStomper  
 Inspired by Jasons073's April Fool's joke, this mod makes Crassius Curio and Mistress Therana into romanceable companions. Find Crassius and Therana in their usual locations - you can recruit them when you are Nerevarine (to avoid interference with main quest). Obviously you cannot recruit Therana if you have killed her! Contains mild innuendo.  
@@ -30,6 +35,9 @@ __*Lucevar's Note*__: These are fairly limited in scope - they're not full-fledg
 [**LGNPC**]()  
 [**Olyn Hleran: A Redoran Companion**](https://www.nexusmods.com/morrowind/mods/45197) by Team Mythic Beasts  
 __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see the mod page: the screenshots are fairly representative of what I mean). Mod was created for MMM2017 and may have some rough edges.  
+
+[**Reinforced Redoran**](https://www.nexusmods.com/morrowind/mods/42386) by bruno13069
+[**Redoran Vault Extended**](https://www.nexusmods.com/morrowind/mods/42098) by Tarius  
 
 [**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) by Gavrilo93  
 [**Redoran Council Hall Improvements**](https://www.nexusmods.com/morrowind/mods/44931?tab=files) by Kalian
@@ -52,15 +60,6 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 [**LGNPC**]()
 [**Quest Tweaks and Alternatives**]() by Stuporstar  
 [**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Gavrilo93  
-
-# Strongholds & Places
-## Great House Hlaalu
-[**Resplendent Rethan**]() 
-## Great House Redoran
-[****](https://www.nexusmods.com/morrowind/mods/42386) by bruno13069
-[**Redoran Vault Extended**](https://www.nexusmods.com/morrowind/mods/42098) by Tarius  
-
-## Great House Telvanni
 [**Uvirith's Legacy**]() by Stuporstar  
 [**Building Up Uvirith's Legacy**]() by
 [**Tel Uvirith LITE**]
@@ -131,6 +130,7 @@ Adds a number of roleplaying options to the main quest, including alternate path
 
 ## Twin Lamps
 [**Twin Lamps**](http://mw.modhistory.com/download-53-7283) by Brother juniper  
+[**Nevena's Twin Lamps and Slave Hunters -- 2019 update**](https://www.nexusmods.com/morrowind/mods/47420) by Nevena and l1lartur0  
 
 # New Factions
 [**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by Gavrilo93  
