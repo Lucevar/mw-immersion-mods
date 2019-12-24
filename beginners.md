@@ -18,6 +18,8 @@ Note: included in MGE XE 0.11.0 installer.
 The Construction Set for Steam users, since Steam doesn't include the CS in its download.  
 [**Quick Char**](http://mw.modhistory.com/download-44-7364) by Bink & Maximus  
 For quicker mod testing.  
+[**Cheat Menu**](https://www.nexusmods.com/morrowind/mods/47143) by qqqbbb  
+For even quicker and more advanced mod testing.
 
 # UI Improvements
 [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
@@ -42,9 +44,11 @@ Speaking of life-saving mods, this one fixes a bug where Morrowind will often ha
 
 ## Balance Fixes
 [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros  
+Balances a lot of content that was way out of line of the game's overall balance curve, and removes a lot of easy exploits.  
 [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort  
 [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort  
 [**Beware the Sixth House**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
+Mort's suite of balance mods make the expansions actually playable without hyper-efficient min-maxing or an extremely late-game character. It's no longer instant death for a sub-lvl30 character to walk around on Solstheim. The main questlines of the expansions are still tough. Beware the Sixth House rebalances the main quest so that Dagoth Ur and his minions are the game's most difficult challenge - as it should be.
 
 # Expansion Integration
 Note that both of these issues have been addressed in Patch for Purists since version 3.0.0. You may prefer to use the unmerged version of PFP, and skip the Expansion Implementation esp if you prefer to use the mods below.
@@ -70,6 +74,7 @@ Alternatives:
 
 ## Character Models, Heads & Hair
 [**Better Bodies**](https://www.nexusmods.com/morrowind/mods/3880) by Psychodog Studios  
+[**Slof's Better Beasts**](https://www.nexusmods.com/morrowind/mods/46160) by AlienSlof  
 [**Westly's Pluginless Head Replacer**](https://download.fliggerty.com/download--874) by Westly  
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by Greatness7 & the community  
 
