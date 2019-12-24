@@ -36,11 +36,11 @@ __*Lucevar's Note*__: These are fairly limited in scope - they're not full-fledg
 [**Olyn Hleran: A Redoran Companion**](https://www.nexusmods.com/morrowind/mods/45197) by Team Mythic Beasts  
 __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see the mod page: the screenshots are fairly representative of what I mean). Mod was created for MMM2017 and may have some rough edges.  
 
-[**Reinforced Redoran**](https://www.nexusmods.com/morrowind/mods/42386) by bruno13069
+[**Reinforced Redoran**](https://www.nexusmods.com/morrowind/mods/42386) by bruno13069  
 [**Redoran Vault Extended**](https://www.nexusmods.com/morrowind/mods/42098) by Tarius  
 
-[**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) by Gavrilo93  
-[**Redoran Council Hall Improvements**](https://www.nexusmods.com/morrowind/mods/44931?tab=files) by Kalian
+[**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) by Gavrilo93   
+[**Redoran Council Hall Improvements**](https://www.nexusmods.com/morrowind/mods/44931?tab=files) by Kalian  
 
 ## Tribunal Temple
 [**Velothi Wall Art**]()  
@@ -61,18 +61,18 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 [**Quest Tweaks and Alternatives**]() by Stuporstar  
 [**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Gavrilo93  
 [**Uvirith's Legacy**]() by Stuporstar  
-[**Building Up Uvirith's Legacy**]() by
-[**Tel Uvirith LITE**]
+[**Building Up Uvirith's Legacy**]() by  
+[**Tel Uvirith LITE**]()  
 [**Of Ash And Blight - Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk
 
 # Imperial Factions
 ## Mages Guild
 [**Mage Robes**]() by Melchior Dahrk  
-[**Magical Missions**]() 
+[**Magical Missions**]()  
 [**Dagon Fel Mages Guild**]()  
 [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
 [**Caldera Mages Guild Expanded**]() by Lucevar  
-[**Vivec Guild of Mages Expanded**]()  
+[**Vivec Guild of Mages Expanded**](https://www.nexusmods.com/morrowind/mods/44935)  
 [**Scrolls of the Nine Barriers**]() by Melchior Dahrk
 [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126) by Melchior Dahrk  
 [**King of Worms**](https://www.nexusmods.com/morrowind/mods/46611) by Tel Shadow and Caeris  
