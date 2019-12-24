@@ -76,7 +76,11 @@ Alternatives:
 [**Better Bodies**](https://www.nexusmods.com/morrowind/mods/3880) by Psychodog Studios  
 [**Slof's Better Beasts**](https://www.nexusmods.com/morrowind/mods/46160) by AlienSlof  
 [**Westly's Pluginless Head Replacer**](https://download.fliggerty.com/download--874) by Westly  
+
+## Equipment
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by Greatness7 & the community  
+[**FM - Unique Items Compilation**](https://www.nexusmods.com/morrowind/mods/46433) by PoodleSandwich  
+[**IceNioLiv Robe Replacer**]() by CanadianIce and NioLiv  
 
 ## Towns  
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk  
