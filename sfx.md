@@ -27,7 +27,6 @@ A corprus meat replacer.
 [**Animated Containers**](https://www.nexusmods.com/morrowind/mods/42238) by qqqbbb  
 
 # Audio
-[**Shut the fck up cliff racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
 [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586) by R-zero  
 [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-zero  
 [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300) by R-zero  
@@ -36,6 +35,8 @@ A corprus meat replacer.
 [**Sound of Souls**](https://www.nexusmods.com/morrowind/mods/45657) by NullCascade  
 [**Ambient Town Sounds**](https://www.nexusmods.com/morrowind/mods/42248) by Lendrik  
 [**Winds of Morrowind**](https://www.nexusmods.com/morrowind/mods/46813) by WanderRA  
-[**Sea of Sound**](https://www.nexusmods.com/morrowind/mods/45737) by CptJoker  
 [**Kirel's Interior Weather**](http://mw.modhistory.com/download-90-3021) by Kirel  
 [**Outdoor Banners with Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
+
+[**Sea of Sound**](https://www.nexusmods.com/morrowind/mods/45737) by CptJoker  
+[**Shut the fck up cliff racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
