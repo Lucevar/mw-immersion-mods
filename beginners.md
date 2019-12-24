@@ -42,6 +42,9 @@ Speaking of life-saving mods, this one fixes a bug where Morrowind will often ha
 
 ## Balance Fixes
 [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros  
+[**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort  
+[**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort  
+[**Beware the Sixth House**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
 
 # Expansion Integration
 Note that both of these issues have been addressed in Patch for Purists since version 3.0.0. You may prefer to use the unmerged version of PFP, and skip the Expansion Implementation esp if you prefer to use the mods below.
