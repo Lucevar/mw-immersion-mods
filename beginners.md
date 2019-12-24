@@ -38,7 +38,6 @@ Speaking of life-saving mods, this one fixes a bug where Morrowind will often ha
 [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by Project Atlas Team  
 
 ## Dialogue Fixes  
-[**VGreetings**](http://mw.modhistory.com/download-42-13335) by TheOtherFelix  
 
 # Expansion Integration
 Note that both of these issues have been addressed in Patch for Purists since version 3.0.0. You may prefer to use the unmerged version of PFP, and skip the Expansion Implementation esp if you prefer to use the mods below.
