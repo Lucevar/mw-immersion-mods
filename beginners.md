@@ -83,7 +83,6 @@ Alternatives:
 [**Swappable Texture Signposts**](https://www.nexusmods.com/morrowind/mods/46804) by Stuporstar
 
 ## Terrain & Nature
-[**Vanilla Land**](https://www.nexusmods.com/morrowind/mods/45953) by OtisGeo  
 [**Caverns Bump Mapped**](https://www.nexusmods.com/morrowind/mods/42412) by Lougian  
 [**Graphic Herbalism**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar & Greatness7  
 
