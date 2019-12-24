@@ -1,7 +1,8 @@
 # Lua Redo Wishlist
 
 * Blood and Gore
-* Regionally Known Criminals
+* Regionally Known Criminals - 
+* * Partially filled by [**Regional Bounty**](https://www.nexusmods.com/morrowind/mods/47285/). RKC tracks your bounty by faction (eg Imperial-controlled, Telvanni-controlled, usw.) RB tracks it by geographical region (eg Ascadian Isles, West Gash).
 * Ship/Airship realtime travel mods
 * Uvirith's Legacy
 * Necromancy mod
