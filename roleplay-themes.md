@@ -266,6 +266,7 @@ Holy Art
 * [**What Thieves Guild?**]()
 * Vaults expanded  
 [**Morrowind Cities Unlocked**](http://mw.modhistory.com/download-7-2833) by Cliffworms  
+[**Bandits Unlocked**](http://mw.modhistory.com/download-48-2844) by Cliffworms  
 [**Telvanni Vault Extended**](http://mw.modhistory.com/download-106-13277) by Serenia  
 [**Telvanni Vaults Expanded**](http://mw.modhistory.com/download-106-14357) by Slaanesh the Corruptor  
 [**Redoran Vaults Expanded**](http://mw.modhistory.com/download-68-14354) by Slaanesh the Corruptor  
