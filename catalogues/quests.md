@@ -141,6 +141,8 @@
 * [**Quest Tweaks & Alternatives**](https://stuporstar.sarahdimento.com/other-mods/quest-tweaks-alternatives/) by Stuporstar
 #### Liberate the Limeware
 * [**Quest Tweaks & Alternatives**](https://stuporstar.sarahdimento.com/other-mods/quest-tweaks-alternatives/) by Stuporstar
+#### Strange Man at Gindrala Hleran's House
+* [**Strange Man at Gindrala Hleran's House Overhaul**](https://www.nexusmods.com/morrowind/mods/47427) by Gavrilo93  
 #### Tarer Brarayn's Cure
 * [**Quest Tweaks & Alternatives**](https://stuporstar.sarahdimento.com/other-mods/quest-tweaks-alternatives/) by Stuporstar
 #### Trerayna Bounty
