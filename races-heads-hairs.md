@@ -13,7 +13,7 @@
 [**Morrowind's Epic Ladies - DE Addon**](https://www.nexusmods.com/morrowind/mods/41737) by Meldiocre  
 [**Morrowind's Epic Ladies - HE Addon**](https://www.nexusmods.com/morrowind/mods/41784) by Meldiocre  
 [**Morrowind's Epic Ladies - Redguard Addon**](https://www.nexusmods.com/morrowind/mods/41678) by Meldiocre  
-[**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110) by ashiraniir
+[**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110) by ashiraniir  
 [**Emma's Dunmer Head Pack**](https://www.nexusmods.com/morrowind/mods/1422?) by Emma  
 [**Emma's Breton Head Pack 3**](https://www.nexusmods.com/morrowind/mods/27305) by Emma  
 [**Emma's High Elf Head Pack 2**](https://www.nexusmods.com/morrowind/mods/27304) by Emma  
