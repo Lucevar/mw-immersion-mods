@@ -35,12 +35,13 @@
 [**FMI - Disease Descriptions**](https://www.nexusmods.com/morrowind/mods/47331) by PoodleSandwich  
 
 ## Guards, Theft, Stolen Items
+[**Bounty Hunters 2.0**](https://www.nexusmods.com/morrowind/mods/43789/) by Daemonjax and Arcimaestro Antares  
 [**No-one is above the law**](https://www.nexusmods.com/morrowind/mods/46925/) by Gavrilo93 and RedFurryDemon  
 [**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786) by Lucevar  
 [**Eclipse of the Crescent Blade**](https://www.nexusmods.com/morrowind/mods/47194) by Gavrilo93  
 [**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105/) by OperatorJack  
-[**Bounty Hunters 2.0**](https://www.nexusmods.com/morrowind/mods/43789/) by Daemonjax and Arcimaestro Antares  
 [**The Levitation Act**](https://www.nexusmods.com/morrowind/mods/47345) by OperatorJack and Gavrilo93  
+[**Manipulated**](https://www.nexusmods.com/morrowind/mods/47222) by Meta Barj0  
 
 ## Racism
 [**Telvanni Racist Guards**](http://mw.modhistory.com/download-44-10731) by Vagor  
