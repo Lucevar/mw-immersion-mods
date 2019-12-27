@@ -49,3 +49,4 @@ Removes level requirements for a number of quests.
 [**Illuminated Order 2.0**](https://www.nexusmods.com/morrowind/mods/47414) by Mort  
 [**Fetchers of Morrowind**](https://www.nexusmods.com/morrowind/mods/47417) by dmbaturin  
 [**Twin Lamps and Slavehunters -- Cleaned and Edited**](https://www.nexusmods.com/morrowind/mods/47420) by Nevena and l1lartur0  
+[**Ancient Foes**](https://www.nexusmods.com/morrowind/mods/44705?tab=files) by Darkelfguy  
