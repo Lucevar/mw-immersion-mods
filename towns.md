@@ -25,13 +25,15 @@
 
 # Bitter Coast
 ## Seyda Neen
-There have been a lot of mods for Seyda Neen over the years. My recommendation is: 
+There have been a lot of mods for Seyda Neen over the years. A LOT. My recommendation is: 
 
 [**Immersive Seyda Neen**](https://www.nexusmods.com/morrowind/mods/44441) by DremoraLord98  
 
 For a more sweeping change, you could also try [**Seyda Neen - Imperial Port**](https://www.nexusmods.com/morrowind/mods/46954) by Aitrus.  
 
-Other alternatives include but are not limited to [**Seyda Neen Slums**](https://www.nexusmods.com/morrowind/mods/46837?tab=posts), [**More Detailed Places Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46231), [**Seyda Neen Tree Removal**](https://www.nexusmods.com/morrowind/mods/45990) for an expanded and treeless Seyda Neen, [**Lived Towns - Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46703), [**Seyda Neen Houseboat**](https://www.nexusmods.com/morrowind/mods/43364), [**Princess Docks**](http://mw.modhistory.com/download-90-7147) and [**Trancemaster's New Seyda Neen**](https://www.nexusmods.com/morrowind/mods/42234).
+For new quests, try [**Tales of Seyda Neen**](http://mw.modhistory.com/download-44-10951) by Denunci.  
+
+Other alternatives include but are not limited to [**Seyda Neen Slums**](https://www.nexusmods.com/morrowind/mods/46837?tab=posts), [**More Detailed Places Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46231), [**Seyda Neen Tree Removal**](https://www.nexusmods.com/morrowind/mods/45990) for an expanded and treeless Seyda Neen, [**Lived Towns - Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46703), [**Seyda Neen Houseboat**](https://www.nexusmods.com/morrowind/mods/43364), [**Princess Docks**](http://mw.modhistory.com/download-90-7147), [**More Seyda Neen**](http://mw.modhistory.com/download-4-5133) by -J, [**Seyda Neen Harbour**](https://www.nexusmods.com/morrowind/mods/42433) by Ian Bitters, [**Mireneye's Vistas - Seyda Neen**](http://mw.modhistory.com/download-44-11876), [**Prancing Ash Inn**](https://www.nexusmods.com/morrowind/mods/41220) by ChakaZg, and [**Trancemaster's New Seyda Neen**](https://www.nexusmods.com/morrowind/mods/42234).
 
 ## Hla Oad
 [**The Drop Off**](https://www.nexusmods.com/morrowind/mods/46827) by Darkry115  
