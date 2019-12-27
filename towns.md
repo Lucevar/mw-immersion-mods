@@ -16,6 +16,7 @@
 [**Imperial Presence**](https://www.nexusmods.com/morrowind/mods/43216) by cml33  
 [**Ships of the Imperial Navy**](https://www.nexusmods.com/morrowind/mods/42103) by Neoptolemus  
 [**Ports of Vvardenfell**](https://www.nexusmods.com/morrowind/mods/44823) by Mick083  
+[**The Serendipitous Traveller**](https://www.nexusmods.com/morrowind/mods/44714) by Kursan  
 
 # Mournhold
 [**A Walk in the Park - Mournhold Temple Courtyard Overhaul**](https://www.nexusmods.com/morrowind/mods/46861) by seelof  
@@ -33,11 +34,12 @@ For a more sweeping change, you could also try [**Seyda Neen - Imperial Port**](
 
 For new quests, try [**Tales of Seyda Neen**](http://mw.modhistory.com/download-44-10951) by Denunci.  
 
-Other alternatives include but are not limited to [**Seyda Neen Slums**](https://www.nexusmods.com/morrowind/mods/46837?tab=posts), [**More Detailed Places Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46231), [**Seyda Neen Tree Removal**](https://www.nexusmods.com/morrowind/mods/45990) for an expanded and treeless Seyda Neen, [**Lived Towns - Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46703), [**Seyda Neen Houseboat**](https://www.nexusmods.com/morrowind/mods/43364), [**Princess Docks**](http://mw.modhistory.com/download-90-7147), [**More Seyda Neen**](http://mw.modhistory.com/download-4-5133) by -J, [**Seyda Neen Harbour**](https://www.nexusmods.com/morrowind/mods/42433) by Ian Bitters, [**Mireneye's Vistas - Seyda Neen**](http://mw.modhistory.com/download-44-11876), [**Prancing Ash Inn**](https://www.nexusmods.com/morrowind/mods/41220) by ChakaZg, and [**Trancemaster's New Seyda Neen**](https://www.nexusmods.com/morrowind/mods/42234).
+Other alternatives include but are not limited to [**Seyda Neen Slums**](https://www.nexusmods.com/morrowind/mods/46837?tab=posts), [**More Detailed Places Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46231), [**Seyda Neen Tree Removal**](https://www.nexusmods.com/morrowind/mods/45990) for an expanded and treeless Seyda Neen, [**Lived Towns - Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46703), [**Seyda Neen Houseboat**](https://www.nexusmods.com/morrowind/mods/43364), [**Princess Docks**](http://mw.modhistory.com/download-90-7147), [**More Seyda Neen**](http://mw.modhistory.com/download-4-5133) by -J, [**Seyda Neen Harbour**](https://www.nexusmods.com/morrowind/mods/42433) by Ian Bitters, [**Mireneye's Vistas - Seyda Neen**](http://mw.modhistory.com/download-44-11876), [**Prancing Ash Inn**](https://www.nexusmods.com/morrowind/mods/41220) by ChakaZg, [**The Silver Barrel**](https://www.nexusmods.com/morrowind/mods/42236) and [**Trancemaster's New Seyda Neen**](https://www.nexusmods.com/morrowind/mods/42234).
 
 ## Hla Oad
 [**The Drop Off**](https://www.nexusmods.com/morrowind/mods/46827) by Darkry115  
 Overhauls Fat Leg's Drop off to make it much more interesting - and practical as the smuggling warehouse it's meant to be. Optionally extends the Hla Oad docks and adds extra lights.  
+[**Racer's Roost**](https://www.nexusmods.com/morrowind/mods/42563) by WH-Reaper and Baratheon  
 
 ## Gnaar Mok
 [**New Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/22029) by Melchior Dahrk  
@@ -177,7 +179,7 @@ or
 [**Caldera Mine - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47260) by Tel Shadow  
 [**Caldera Windmills**](http://mw.modhistory.com/download-80-6218) by Ayse  
 
-Alternatively, [**Vvardenfell Revisited - Caldera**](https://www.nexusmods.com/morrowind/mods/45182) by EnnetWinterhoof or [**Improved Caldera**](https://www.nexusmods.com/morrowind/mods/45000) by sorcerorsorceror. 
+Alternatively, [**Vvardenfell Revisited - Caldera**](https://www.nexusmods.com/morrowind/mods/45182) by EnnetWinterhoof or [**Improved Caldera**](https://www.nexusmods.com/morrowind/mods/45000) by sorcerorsorceror, [**Varo Manor**](https://www.nexusmods.com/morrowind/mods/42924), [**The Doors - Caldera**](https://www.nexusmods.com/morrowind/mods/42511) by Arcimaestro Antares and WH-Reaper. 
 
 ## Balmora
 Balmora has a ridiculous number of mods - it's a meme for a reason! I recommend Kilcunda's plus my interior mods (there are not quite so many interior mods as exterior mods for Balmora, so I don't feel *too* bad about the shameless plugging here). But there are plenty of alternatives if Kilcunda's isn't quite to your taste.  
@@ -186,6 +188,8 @@ Balmora has a ridiculous number of mods - it's a meme for a reason! I recommend 
 [**Balmora Redecorated**](https://www.nexusmods.com/morrowind/mods/42580) by Lucevar  
 [**South Wall, Den of Iniquity**](http://mw.modhistory.com/download-87-13449) by Balasthustrius  
 [**The Seedy Plates**](https://www.nexusmods.com/morrowind/mods/19006) by Von Django  
+
+[**Fort Moonmoth Expanded**](https://www.nexusmods.com/morrowind/mods/46963) by Yommumoi  
 
 Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014) by mike_and_ike, [**Balmora Underworld**](https://www.nexusmods.com/morrowind/mods/42448) by Fulgore, the classic [**Balmora Expansion**](https://www.nexusmods.com/morrowind/mods/42342), [**Walled City of Balmora**](https://www.nexusmods.com/morrowind/mods/42524), [**Concept Art Balmora**](https://www.nexusmods.com/morrowind/mods/45149), [**City of Balmora - Hlaalu Expansion**](https://www.nexusmods.com/morrowind/mods/45324) by Praedator and EnvyDeveloper, [**Balmora Ragoxified**](https://www.nexusmods.com/morrowind/mods/38235) by Ragox, [**Balmora Market and Ghetto Shacks**](https://www.nexusmods.com/morrowind/mods/43434) by ThanMan16, or [**Balmora Ghetto**](http://mw.modhistory.com/download-56-5163) by Princess Stomper.    
 
@@ -200,6 +204,8 @@ or
 [**Epic Aldruhn**](https://www.nexusmods.com/morrowind/mods/43072) by mike_and_ike  
 or
 [**Aldruhn Temple Expansion**](http://mw.modhistory.com/download-80-14377) by Xeth-Ban  
+
+[**The Doors - Aldruhn**](https://www.nexusmods.com/morrowind/mods/42512) by Arcimaestro Antares and WH-Reaper
 
 ## Bal Isra
 
