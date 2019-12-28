@@ -6,6 +6,7 @@
 #### Deliver Cure Disease Potion
 #### Find Mathis Dalobar
 #### Founder's Helm
+* [**Founder's Helm**](https://www.nexusmods.com/morrowind/mods/47352) by Gavrilo93  
 #### Trouble with Bandits
 #### Guard Sarethi Manor
 
@@ -20,6 +21,7 @@
 #### Rescue Varvur Sarethi
 #### Clear Varvur Sarethi's Name
 #### Ondres Nerano's Slander
+* [**Current Councilors**](https://www.nexusmods.com/morrowind/mods/47342) by PoodleSandwich2  
 #### Shurinbaal
 #### The Mad Lord of Milk
 #### Duel with Bolvyn Venim
@@ -42,6 +44,7 @@
 #### Meril Hlaano's Slanders
 #### Redas Tomb
 #### Duel of Honor
+* [**Duel of Honor - Improve the Chances**](https://www.nexusmods.com/morrowind/mods/47393) by Gavrilo93  
 #### Slay Dagoth Tanis
 #### Slay Reynel Uvirith
 #### Slay Raynasa Rethan
