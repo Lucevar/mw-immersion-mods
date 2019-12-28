@@ -58,12 +58,6 @@
 #### Kill Thieves Guild Bosses
 #### Kill Master Thief
 
-# Imperial Legion
-#### Courtesy
-* [**Courtesy**](https://www.nexusmods.com/morrowind/mods/46781) by Chantox  
-#### Dandsa Rescue
-* [**Non-Legion Dandsa Rescue Fix**](https://www.nexusmods.com/morrowind/mods/46927) by chryssvoller  
-
 # Redoran
 #### Duel of Honor
 * [**Duel of Honor - Improve the Chances**](https://www.nexusmods.com/morrowind/mods/47393) by Gavrilo93  
