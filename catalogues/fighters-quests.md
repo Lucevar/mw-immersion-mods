@@ -58,18 +58,6 @@
 #### Kill Thieves Guild Bosses
 #### Kill Master Thief
 
-# Redoran
-#### Duel of Honor
-* [**Duel of Honor - Improve the Chances**](https://www.nexusmods.com/morrowind/mods/47393) by Gavrilo93  
-#### Ondres Nerano's Slanders
-* [**Current Councilors**](https://www.nexusmods.com/morrowind/mods/47342) by PoodleSandwich2  
-#### Founder's Helm
-* [**Founder's Helm**](https://www.nexusmods.com/morrowind/mods/47352) by Gavrilo93  
-
-# Telvanni
-#### Mages Guild Monopoly
-* [**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Gavrilo93  
-
 # Main Quest
 #### 4th and 5th Trials
 * [**Hortator Nerevarine Fix**](https://www.nexusmods.com/morrowind/mods/43097/?) by Hollaajith  
