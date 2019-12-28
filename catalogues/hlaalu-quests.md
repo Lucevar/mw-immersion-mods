@@ -1,5 +1,5 @@
 # General Quests
-#### Stronghold: Build your House stronghold, Rethan Manor, in three phases.
+#### Stronghold
 
 # Nileno Dorvayn's Quests, Balmora
 ### Disguise
