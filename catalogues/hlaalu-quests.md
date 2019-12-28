@@ -2,13 +2,20 @@
 #### Stronghold: Build your House stronghold, Rethan Manor, in three phases.
 
 # Nileno Dorvayn's Quests, Balmora
-#### Disguise: Steal orders from Neminda in the disguise of a dead Redoran.
-#### Alchemical Formulas: A rival alchemist is spoiling business for a loyal Hlaalu alchemist.
-#### Inanius Egg Mine: Kill a queen in the Inanius Egg Mine near Suran.
-#### Guar Hide Squeeze: Convince a guar hide salesman in Vivec to buy Hlaalu hides.
-#### Delivery for Bivale Teneran: Deliver orders to the clothier Bivale Teneran in Ald'ruhn.
-#### The Death of Ralen Hlaalo: Solve the murder of Ralen Hlaalo in Balmora.
-#### Ebony Trade: Convince Canctunian Ponius to buy Ebony from House Hlaalu, or shut down the Sudanit Mine.
+### Disguise
+#### Steal orders from Neminda in the disguise of a dead Redoran.
+### Alchemical Formulas
+#### A rival alchemist is spoiling business for a loyal Hlaalu alchemist.
+### Inanius Egg Mine
+#### Kill a queen in the Inanius Egg Mine near Suran.
+### Guar Hide Squeeze
+#### Convince a guar hide salesman in Vivec to buy Hlaalu hides.
+### Delivery for Bivale Teneran
+#### Deliver orders to the clothier Bivale Teneran in Ald'ruhn.
+### The Death of Ralen Hlaalo
+#### Solve the murder of Ralen Hlaalo in Balmora.
+### Ebony Trade
+#### Convince Canctunian Ponius to buy Ebony from House Hlaalu, or shut down the Sudanit Mine.
 
 # Edryno Arethi's Quests, Vivec
 #### Bank Courier: Deliver a sealed report to the treasury.
