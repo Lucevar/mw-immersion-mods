@@ -1,4 +1,3 @@
-
 # General Quests and Information
 # Raven Omayn's Quests, Sadrith Mora
 #### Muck
@@ -40,6 +39,7 @@
 #### Wizard Spells
 #### Odirniran
 #### Mages Guild Monopoly
+* [**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Gavrilo93  
 #### Shishi
 #### Recruit a Mouth
 #### Kill Raynasa Rethan
