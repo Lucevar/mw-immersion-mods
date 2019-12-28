@@ -58,10 +58,6 @@
 #### Kill Thieves Guild Bosses
 #### Kill Master Thief
 
-# Tribunal Temple
-#### Pilgrimage of the Seven Graces
-* [**Soul Gems at Ghostgate**](https://www.nexusmods.com/morrowind/mods/47340) by Gavrilo93  
-
 # Imperial Legion
 #### Courtesy
 * [**Courtesy**](https://www.nexusmods.com/morrowind/mods/46781) by Chantox  
