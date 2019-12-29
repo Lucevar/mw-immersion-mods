@@ -31,7 +31,7 @@
 [**Farmers and Miners**](https://www.nexusmods.com/morrowind/mods/43325) by Danae  
 [**Hold It**](https://www.nexusmods.com/morrowind/mods/43181) by Danae  
 [**Redoran Founder's Armor**](https://www.nexusmods.com/morrowind/mods/44860) by NaxoX9
-
+[**Morag Tong Armor**](https://www.nexusmods.com/morrowind/mods/44938) by NazoX9  
 
 ## New NPCS
 [**TriangleTooth's Missing NPCs**](https://www.nexusmods.com/morrowind/mods/46234) by TriangleTooth  
