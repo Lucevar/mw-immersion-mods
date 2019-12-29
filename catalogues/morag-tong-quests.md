@@ -1,4 +1,9 @@
-# Getting Started with the Morag Tong
+# Morag Tong
+# General
+* [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
+** Non-hostile NPCs that had no indication that they carried Sanguine items now either have small quests or challenges. Mehrunes Razor is required as a "Sanguine indicator" -- that is, these NPCs won't reveal they have Sanguine items unless you're carrying the Razor, because most of them are Dark Brotherhood/Mehrunes Dagon worshipers.
+
+# Initiation
 #### Writ for Feruren Oran
 
 # Writs Given By Any Quest Giver
