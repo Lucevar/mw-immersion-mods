@@ -1,7 +1,7 @@
 # General Quests and Information
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
-* * Reorders final quests so recruiting Eddie is the last chore you do before becoming Master/Magister.  
-* * Becoming Master/Magister now requires starting the third stage of your stronghold.  
+** Reorders final quests so recruiting Eddie is the last chore you do before becoming Master/Magister.  
+** Becoming Master/Magister now requires starting the third stage of your stronghold.  
 
 # Raven Omayn's Quests, Sadrith Mora
 #### Muck
