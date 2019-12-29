@@ -21,7 +21,7 @@ Adds more options for Morag Tong players who haven't reached the rank of MT Gran
 #### Dwemer Books
 #### Dahrk Mezalf
 
-#Mallam Ryon's Quests, Sadrith Mora
+# Mallam Ryon's Quests, Sadrith Mora
 #### Three Questions for Baladas Demnevanni
 #### Mission to Nchuleft
 
@@ -38,7 +38,7 @@ Fixes error in journal entry.
 # Dratha's Quest, Tel Mora
 #### Flesh Made Whole
 
-#Neloth's Quest, Tel Naga, Sadrith Mora
+# Neloth's Quest, Tel Naga, Sadrith Mora
 #### Drake's Pride
 
 # Aryon's Quests, Tel Vos
@@ -64,3 +64,5 @@ Aryon has more to say about the Gothren situation.
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
 Now has non-kill/steal option. You can give Eddie two quality potions of Chameleon instead. Reduces the quest timer to three days (from a week).
 #### Amulet of Unity
+
+# Stronghold
