@@ -1,34 +1,59 @@
 # Tribunal
 
 # Starting Out
-1. Dark Brotherhood Attacks
-2. Hunt the Dark Brotherhood
+#### Dark Brotherhood Attacks
+#### Hunt the Dark Brotherhood
 
 # Royal Palace Quests (Optional)
-3. Speak to the People
-4. A Temple Informant
-5. Disloyalty Among the Guards
-6. Evidence of Conspiracy
-7. Muckraking Journalist
-8. Queen Barenziah
+#### Speak to the People
+#### A Temple Informant
+#### Disloyalty Among the Guards
+#### Evidence of Conspiracy
+#### Muckraking Journalist
+#### Queen Barenziah
 
 # Temple Quests
-9. Goblin Army
-10. The Shrine of the Dead
-11. Barilzar's Mazed Band
-12. An Attack on Mournhold
-13. Investigate Bamz-Amschend
+#### Goblin Army
+#### The Shrine of the Dead
+* [**Ancient Altar**](https://www.nexusmods.com/morrowind/mods/47187) by RedFurryDemon, Melchior Dahrk, PoodleSandwich & Remiros
+#### Barilzar's Mazed Band
+#### An Attack on Mournhold
+#### Investigate Bamz-Amschend
 
 # Royal Palace Quests (Optional)
-14. An Assassination Attempt
-15. Helseth's Champion
+#### An Assassination Attempt
+#### Helseth's Champion
 
 # Temple Quests
-16. A Show of Power
-17. The Missing Hand
-18. The Blade of Nerevar
-19. The Mad God
+#### A Show of Power
+#### The Missing Hand
+#### The Blade of Nerevar
+#### The Mad God
 
-
-#### Champion of Clutter
+# Misc Quests
+# Godsreach
+#### The Barbarian and the Book
+#### Bouncer
+#### The Champion of Clutter
 * [**Champion of Clutter**](https://www.nexusmods.com/morrowind/mods/47377) by Gavrilo93
+
+#### Dwemer Warbots
+#### Estate Sale
+#### Infidelities
+#### The Museum
+#### Robot Arena
+#### The Smith's Apprentice
+#### The Thief
+#### The Warlords
+#### Wood Elf with a Grievance
+
+# Great Bazaar
+#### The Black Dart Gang
+#### The MatchMaker
+#### Scroll Sales
+#### A Star is Born
+#### The Summoner
+
+# Temple Courtyard
+#### Crimson Plague
+#### The Natural
