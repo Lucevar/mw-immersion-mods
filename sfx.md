@@ -10,6 +10,7 @@
 [**Animated Targets and Practice Dummies**](http://download.fliggerty.com/download--893) by Stuporstar  
 [**Fireflies Invade Morrowind**](https://firefly.calislahn.com/) by Thaedyn Vyr  
 [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
+[**Dragon Toads**](https://www.nexusmods.com/morrowind/mods/47454) by neighgoth and kagz  
 
 ## Items
 [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
