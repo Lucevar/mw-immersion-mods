@@ -18,6 +18,7 @@
 #### Murder Rimintil
 #### Blood for Mistress Dratha
 #### A Cure for Vampirism
+* [**A Cure for Vampirism - Skink's Solution**](https://www.nexusmods.com/morrowind/mods/47375) by Gavrilo93  
 
 # Clan Aundae's Quests
 #### Blood Ties
