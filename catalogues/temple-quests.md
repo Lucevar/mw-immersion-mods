@@ -2,6 +2,9 @@
 # General Quests and Information
 #### Pilgrimages of the Seven Graces
 * [**Soul Gems at Ghostgate**](https://www.nexusmods.com/morrowind/mods/47340) by Gavrilo93  
+Adds soul gems for sale at Ghostgate.  
+* [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara  
+Cosmetic improvements to the shrines of the Seven Graces.  
 
 # Tuls Valen's Quests, Ald'ruhn Temple
 #### Compassion
@@ -14,7 +17,7 @@
 #### Silent Pilgrimage
 #### Shoes of St. Rilms
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
-Adds Sermon 8 as a quest reward.  
+Adds a quest reward.  
 #### Foul Cult Beneath St. Delyn Canton
 
 # Tharer Rotheloth's Quests, Molag Mar Temple
