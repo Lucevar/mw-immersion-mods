@@ -508,7 +508,7 @@ Allows the player to buy and run a mine.
 **Norenen-Dur**  
 **Gedna Relvel's Tomb**  
 **Abandoned Crypt**  
-**Temple Shrine**  
+**Temple Shrine** - [**Ancient Altar**](https://www.nexusmods.com/morrowind/mods/47187)    
 **Abandoned Passageway** - [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
 **Tears of Amun-Shae**  
 **OM - Armory Ruins**  
