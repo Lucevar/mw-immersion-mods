@@ -22,6 +22,8 @@ Adds a quest reward.
 
 # Tharer Rotheloth's Quests, Molag Mar Temple
 #### Cure Lette
+* [**Of Ash and Blight - Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
+Adds a backstory to Lette and a new way of healing her. She returns to work (in the new gardens) after she's cured.  
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
 Moves Lette to The Covenant after she's cured.  
 #### Pilgrimage to Mount Kand
