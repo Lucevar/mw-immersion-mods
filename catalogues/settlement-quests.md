@@ -23,7 +23,7 @@ Adds a pacifist option for completing the quest. Also has Gindrala take back her
 
 # Gnisis
 #### Hentus Needs Pants
-* [**Hentus Needs Pants Overhaul**](https://www.nexusmods.com/morrowind/mods/47369) by Gavrilo93
+* [**Hentus Needs Pants Overhaul**](https://www.nexusmods.com/morrowind/mods/47369) by Gavrilo93  
 You can now offer Hentus a set of pants identical to his, and he'll accept them. If you're in the Legion, you can demand the pants back on the basis of your legal authority.  
 
 # Hla Oad
