@@ -43,7 +43,7 @@ Adds non-violent option plus new side quest.
 * [**Zelazko FG: Flin for Elith-Pal**](https://www.nexusmods.com/morrowind/mods/47227) by Zelazko  
 Adds a temptation/road block in the form of an alcoholic Khajiit. You can fight him or join him on his alcoholic binge.  
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
-Adds better directions to Elith-Pal.  
+Adds better directions to Elith-Pal. Adds option to fail the quest by drinking the flin (while in the mine).  
 #### Kill Eydis and Lorbumol
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
 You can spare Eydis, if she agrees to give you the names of prominent members of the Camonna Tong.  
@@ -75,6 +75,8 @@ Adds new choices and consequences and two new quests that become available with 
 #### Deliver Sujamma to Dunirai
 * [**Zelazko FG: Sujamma to Dunirai Addon**](https://www.nexusmods.com/morrowind/mods/47304) by Zelazko  
 Adds an extra quest. Adds convenience options (NPCs will teleport you) which some players may find unimmersive. Adds a quest involving Fargoth and Hrisskar.  
+* [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
+Can fail quest by drinking the sujamma (while in the mine.)
 #### Escort Sondaale
 * [**Zelazko FG: Telasero Delaying Consequences**](https://www.nexusmods.com/morrowind/mods/47310) by Zelazko  
 Puts this quest on a timer. If you procrastinate, expect negative consequences.  
