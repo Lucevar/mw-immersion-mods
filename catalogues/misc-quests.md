@@ -13,7 +13,6 @@ Doing Malacath's quest will boost your disposition with all Orcs. If it's under 
 Makes Big Head's shack more fork-y, so he can show off his hoarded collection better.  
 
 # Vampire Quests
-# General Quests
 #### The Boy Who Would Be Undead
 #### The Weary Vampire
 #### The Imprisonment of Mastrius
