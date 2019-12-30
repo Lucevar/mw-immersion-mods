@@ -29,6 +29,8 @@ Adds additional routes to complete the quest.
 ### The Death of Ralen Hlaalo
 * [**Roleplay Options for House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by Caeris & Luj1  
 Have you ever wanted to arrest the murderer of Ralen Hlaalo instead of killing him? Now you can.
+* [**Freelancer**](http://mw.modhistory.com/download-90-8164) by Tomas  
+Adds dialogue to direct non-Hlaalu characters to complete the quest.  
 ### Ebony Trade
 * [**Roleplay Options for House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by Caeris & Luj1  
 Adds additional routes to complete the quest.  
@@ -71,6 +73,8 @@ Adds additional routes to complete the quest.
 
 # Ilmeni Dren's Quests, Vivec
 #### Literacy Campaign
+* [**Freelancer**](http://mw.modhistory.com/download-90-8164) by Tomas  
+Allows non-Hlaalu characters to complete the quest.  
 #### The Twin Lamps
 #### Free Hides-His-Foot
 
