@@ -7,6 +7,7 @@
 [**Got the time?**](http://mw.modhistory.com/download-87-7221) by Princess Stomper  
 [**Charming Ash Vampires**](http://mw.modhistory.com/download-4-6217) by Master Sam  
 [**FMI - Ingredient Locations**](https://www.nexusmods.com/morrowind/mods/47324) by PoodleSandwich  
+[**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich  
 [**Balmora Rumour Fix**](https://www.nexusmods.com/morrowind/mods/47455) by Lucevar  
 [**Caius Cosades Anti-Journal**](https://www.nexusmods.com/morrowind/mods/47224) by Lucevar  
 
