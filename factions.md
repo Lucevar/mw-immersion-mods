@@ -99,6 +99,7 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 [**South Wall, Den of Iniquity**](http://mw.modhistory.com/download-15-13449) by Balasthustrius    
 [**What Thieves Guild?**](http://mw.modhistory.com/download-48-13858) by von Django  
 Ever felt that for law breaking gang of thieves and robbers, finding their guild was as easy as walking into a random building? This mod aims to correct that. They're not as hard to find as the guild in oblivion, but it'll take a little more care and winning of their trust to join them now.  
+[**Strike at the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/46865) by ProfArmitage  
 
 ## Misc Smuggling Operations
 [**Adanumuran Reclaimed**](https://www.nexusmods.com/morrowind/mods/43340) by Danae  
@@ -107,11 +108,14 @@ This mod started as a simple house mod and expanded into an entire smuggling fac
 
 ## Morag Tong
 [**Morag Tong Polished**](https://www.nexusmods.com/morrowind/mods/47041) by Caeris  
-[**Morag Tong Expanded**]()  
-[**Methas Hlaalu**]()  
+[**Morag Tong Expanded**](https://www.nexusmods.com/morrowind/mods/42120) by Shuuda  
+[**Morag Tong - Methas Hlaalu**](https://www.nexusmods.com/morrowind/mods/28252) by Sladle  
 [**TR Morag Tong Integration**](https://www.nexusmods.com/morrowind/mods/43210) by Aoimhevelho  
+[**Morag Tong Armor Resource**](https://www.nexusmods.com/morrowind/mods/35564) by Alaisiagae  
+[**Morag Tong Armor**](https://www.nexusmods.com/morrowind/mods/44938) by NazoX9  
 
 ## Camonna Tong
+[**Nastier Camonna Tong**](https://www.nexusmods.com/morrowind/mods/22601) by Von Djangos  
 
 ## Vampire Clans
 
@@ -138,4 +142,4 @@ Adds a number of roleplaying options to the main quest, including alternate path
 [**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by Gavrilo93  
 [**Guild of Vampire Hunters**](https://www.nexusmods.com/morrowind/mods/45832) by Gavrilo93  
 [**Vvardenfell Brotherhood**](https://www.nexusmods.com/morrowind/mods/47314) by Caeris  
-[**To Serve Sithis**]() by Emerys  
+[**To Serve Sithis**](https://www.nexusmods.com/morrowind/mods/45005) by Emerys  
