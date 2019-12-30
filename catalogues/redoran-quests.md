@@ -57,6 +57,8 @@ Tweaks Ondres Nerano's dialogue.
 #### The Mad Lord of Milk
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
 Gives Delyna Mandas more dialogue about her imprisonment.  
+* [**GAMA - Go Away Move Along**](https://www.nexusmods.com/morrowind/mods/46797) by l1lartur0  
+Delyna Mandas will relocate to the outpost in Ald Velothi after being rescued.
 #### Duel with Bolvyn Venim
 
 # Lloros Sarano's Quests, Ald'ruhn
