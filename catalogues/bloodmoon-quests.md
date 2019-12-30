@@ -22,6 +22,7 @@ This mod makes changes to a few dialogue lines, giving them more specific speake
 Makes Captain Carius reward you properly for taking care of the smugglers, when he returns to Fort Frostmoth.  
 #### The Disappearance of Captain Carius
 
+## Skaal
 #### The Skaal Test of Loyalty
 #### The Skaal Test of Wisdom
 #### The Skaal Test of Strength
@@ -31,10 +32,12 @@ Makes Captain Carius reward you properly for taking care of the smugglers, when 
 #### The Ristaag
 #### The Castle Karstaag
 
+## Hircine
 #### Dream of Hircine
 #### Disrupt the Skaal Hunt
 #### Siege of Castle Karstaag
 
+## Endgame
 #### Hircine's Hunt
 #### (Optional) Rite of the Wolf Giver
 
