@@ -36,7 +36,7 @@ Adds a quest reward; also adds an option to lie about killing the necromancer if
 #### Cure the Outcast Outlander
 #### Food and Drink for the Hermit
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
-Adds a quest reward, plus boat fare & potions to help with the quest.
+Adds a quest reward, plus boat fare & potions to help with the quest. Adds option to fail by eating the hermit's food and drink.  
 #### Hair Shirt of St. Aralor
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
 Adds a quest reward.  
