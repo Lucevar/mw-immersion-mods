@@ -3,6 +3,8 @@
 #### Azura's Quest
 #### Boethiah's Quest
 #### Malacath's Quest
+* [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
+Doing Malacath's quest will boost your disposition with all Orcs. If it's under 60, just tell them how you killed Farvyn Oreyn.
 #### Mehrunes Dagon's Quest
 #### Mephala's Quest
 #### Molag Bal's Quest
