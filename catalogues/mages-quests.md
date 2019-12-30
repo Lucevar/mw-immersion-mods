@@ -19,9 +19,14 @@ Expands on the Mages Guild/Telvanni rivalry.
 ** Adds alternate quest path to help Galbedir instead of Ajira  
 ** Early faction reputation gains (from Ajira's and Galbedir's quests) have been made smaller, because it doesn't make sense to be able to shoot up to Evoker by doing quests that barely get them up to Journeymen.  
 ** The other NPCs in the Balmora Mages Guild have been given more to say about the rivalry to help the player decide who they'd rather help when they're both acting like jerks.  
+
 #### Four Types of Mushrooms
+* [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
+Adds option to fail by eating the mushrooms.
 #### Fake Soul Gem
 #### Four Types of Flowers
+* [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
+Adds option to fail by eating the flowers.  
 #### Ceramic Bowl
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
 You can skip this quest if you already have a high rank.  
@@ -51,6 +56,8 @@ Many changes for Telvanni players:
 ## Edwinna Elbert's Quests, Ald'ruhn Guild
 #### Chronicles of Nchuleft
 #### A Potion from Skink-in-Tree's-Shade
+* [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
+Adds option to fail by drinking the potion.  
 #### Steal Chimarvamidium
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
 ** You can now talk Sirilonwe into giving you Chimarvamidium, and buy it from her later if your disposition is really high.  
