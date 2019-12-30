@@ -33,6 +33,14 @@ Allows you to refuse to join the Ashlanders, but still continue the main quest.
 
 # Third Trial
 #### The Path of the Incarnate
+* [**Kogoruhn Expanded**](https://www.nexusmods.com/morrowind/mods/46098) by Team Drama Kwama  
+Vastly expands the exterior and interior of Kogoruhn. Adds scripted events. Makes Kogoruhn much more difficult. Adds new content, dialogue, and areas to explore.  
+* [**Kogoruhn Ruins**](https://www.nexusmods.com/morrowind/mods/44034) by Langusteer  
+Adds ruined velothi houses around Kogoruhn, a remnant of the old city. Far more light-weight than Kogoruhn Expanded.  
+* [**Riharradroon - Hidden Path to Kogoruhn**](https://www.nexusmods.com/morrowind/mods/47357) by Autoclock  
+Adds an alternate way to enter Kogoruhn.
+
+
 * [**Cavern of the Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860) by Ivolga  
 Visually overhauls the interior of the Cavern of the Incarnate.  
 * [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
