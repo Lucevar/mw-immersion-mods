@@ -13,6 +13,9 @@
 [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort  
 [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort  
 
+## Variants
+[**Golden Saint Variety**](https://www.nexusmods.com/morrowind/mods/46430) by Leyawynn  
+
 ## AI
 [**Improved Cliff Racer AI**](https://www.nexusmods.com/morrowind/mods/44712) by R-Zero  
 [**Triangletooth's Ecology Mod**](https://www.nexusmods.com/morrowind/mods/47061) by TriangleTooth  
