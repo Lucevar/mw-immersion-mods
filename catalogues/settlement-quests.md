@@ -44,13 +44,25 @@
 #### Fargoth's Hiding Place
 #### Vodunius Nuccius
 #### Death of a Taxman
+* [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar
+Adds disposition increase to Thavere Vedrana for giving her Processus' ring, and to Sosucuis Ergalla for returning the gold and solving his murder.
 
 # Suran
 #### The Drunken Bounty Hunter
 
 # Tel Branora
 #### A Bounty for Trerayna Dalen
-* [**Quest Tweaks & Alternatives**](https://stuporstar.sarahdimento.com/other-mods/quest-tweaks-alternatives/) by Stuporstar
+* [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar
+Adds more options for the Trerayna Bounty quest if the player is a Telvanni Master or higher.
+
+# Tel Mora
+* [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar
+-- Berwen's Stalker is now an alternate town quest that will circumvent the Fighters Guild quest if the player isn't an FG member.  
+-- Berwen will warn you if you try to go up there before talking to her. If you're on the Sanctus Shrine quest, her yelling at you won't break your vow of silence, it just won't let you respond.  
+-- You now have the option to drag or teleport the corprus stalker to the Corprusarium. Berwen will tell you who knows how to send it there.  
+-- If you've already started the FG quest, the QTA version won't be started, meaning the easier no-kill path isn't available.  
+-- If you haven't started the FG quest, you won't be able to start it, but you can turn down Berwen's reward and turn the quest in to Hrundi to get your faction rep.  
+== Alternately, you can screw the Fighters Guild out of the money if you're a member, but you'll take a disposition hit from Hrundi and get no faction rep.  
 
 # Tel Vos
 #### Trade Mission to the Zainab
@@ -65,14 +77,17 @@
 #### Roland's Tear
 #### Free the Slaves
 #### An Invisible Son
-* [**Quest Tweaks & Alternatives**](https://stuporstar.sarahdimento.com/other-mods/quest-tweaks-alternatives/) by Stuporstar
+* [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
+Adds a jerk option to the "Invisible Son" quest. Refuse the pay the debt, then cause family strife for fun.
 #### The Dwemer's Bone
 #### A Rash of Insults
-* [**Quest Tweaks & Alternatives**](https://stuporstar.sarahdimento.com/other-mods/quest-tweaks-alternatives/) by Stuporstar
+* [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
+Added the option to give Tarer Braryn Trebonius' cure even after you've informed him that Trebonius is dead. Formerly this permanently ended the quest and there was no way to cure him afterwards, even if you found the potion. Now recovering the potion will allow you to turn it in, but you'll only get the promised 50 gold reward because you didn't impress Tarer in the process. You still can't start the quest if Trebonius is dead however.
 #### The Bad Actor
 #### The Short Unhappy Life of Danar Uvelas
 #### The Enchanter's Rats
 #### For the Love of a Bosmer
 #### Liberate the Limeware
-* [**Quest Tweaks & Alternatives**](https://stuporstar.sarahdimento.com/other-mods/quest-tweaks-alternatives/) by Stuporstar
+* [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
+You now have the opportunity to extort Bolrin or get him fired (even easier to do if you're made Factor). Note: firing him will make his shady "Client List" quest unavailable of course, because he will disappear.
 #### The Price List
