@@ -39,6 +39,8 @@ Increases Jobasha's disposition when you help his friend Huleeya.
 
 # End Game Quests
 #### Hortator and Nerevarine
+* [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich  
+Ordinators will no longer attack you for wearing Indoril armor if you're the Archcanon or have been named Nerevarine by Vivec.  
 #### The Citadels of the Sixth House
 * [**Endusal and Tureynulal Redone**](https://www.nexusmods.com/morrowind/mods/43399) by Trainwiz  
 * [**Counterfeit Keening and Sunder**](https://www.nexusmods.com/morrowind/mods/17949) by Miriele  
@@ -47,7 +49,3 @@ Increases Jobasha's disposition when you help his friend Huleeya.
 #### Sleepers Awake
 * [**Dreamers Expansion**](https://www.nexusmods.com/morrowind/mods/42990) by Ivolga  
 #### Yagrum Bagarn and Wraithguard
-
-# Bloodmoon
-#### The Frostmoth Smugglers
-* [**The Frostmoth Smugglers - Properly Rewarded**](https://www.nexusmods.com/morrowind/mods/47409) by Gavrilo93
