@@ -4,10 +4,10 @@
 Expands on the Mages Guild/Telvanni rivalry.  
 -- Added alternate dialogue to Ranis Athrys if the player is Telvanni. She'll give you a harder time than anyone else, but won't totally oppose you -- she wants to convert "your kind" to the guild after all.  
 -- Ranis Athrys won't talk to you after you become Archmagister of the Telvanni, and she'll attack you if you become both Archmagister and Arch-Mage.  
-** Joining the Mages Guild after becoming Archmagister of the Telvanni will give you the starting rank of Evoker. Ranis won't let you join or give you duties.   
-** Trebonius will assume your joking if you ask him to join as Archmagister, but he won't refuse you quests afterwards.   
-** Ajira's dialogue is slightly different if you're a high-ranking Telvanni, and she won't ask you to fetch a bowl (though you can do the rest).  
-** You have to kill Trebonius to become Arch-Mage if you're Telvanni.
+-- Joining the Mages Guild after becoming Archmagister of the Telvanni will give you the starting rank of Evoker. Ranis won't let you join or give you duties.   
+-- Trebonius will assume your joking if you ask him to join as Archmagister, but he won't refuse you quests afterwards.   
+-- Ajira's dialogue is slightly different if you're a high-ranking Telvanni, and she won't ask you to fetch a bowl (though you can do the rest).  
+-- You have to kill Trebonius to become Arch-Mage if you're Telvanni.
 
 #### A Wizard's Staff
 #### Arch-Mage
