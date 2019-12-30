@@ -54,6 +54,8 @@ Fixes error in journal entry. Adds option to fail the quest by joking about eati
 
 # Neloth's Quest, Tel Naga, Sadrith Mora
 #### Drake's Pride
+* [**Drake's Pride Refusal**](https://www.nexusmods.com/morrowind/mods/46894) by chryssvoller  
+Adds the option to refuse to return the robe to Neloth, and marks the quest as complete, whether or not you return the robe.  
 
 # Aryon's Quests, Tel Vos
 #### Baladas Demnevanni
