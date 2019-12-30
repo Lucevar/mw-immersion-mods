@@ -1,3 +1,8 @@
+# Thieves Guild
+* [**South Wall, Den of Iniquity**](http://mw.modhistory.com/download-44-13449) by Balasthustrius  
+This mod revamps the South Wall Cornerclub with the goal of creating an atmospheric and believable base for the Thieves Guild to operate in in Balmora.  Adds several new NPCs and quests. Makes Sugar-Lips more difficult to reach.  
+* [**What Thieves Guild?**](http://mw.modhistory.com/download-87-13858) by von Djangos  
+Makes thieves more discreet, plus lots of extra dialogue for thieves guild members. Now you need to earn their trust to join the Thieves Guild.  
 
 # Sugar-Lips Habasi's Quests, Balmora Guild
 #### Diamonds for Habasi
