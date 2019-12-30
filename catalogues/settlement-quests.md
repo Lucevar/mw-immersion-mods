@@ -84,6 +84,8 @@ Adds a jerk option to the "Invisible Son" quest. Refuse the pay the debt, then c
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
 Added the option to give Tarer Braryn Trebonius' cure even after you've informed him that Trebonius is dead. Formerly this permanently ended the quest and there was no way to cure him afterwards, even if you found the potion. Now recovering the potion will allow you to turn it in, but you'll only get the promised 50 gold reward because you didn't impress Tarer in the process. You still can't start the quest if Trebonius is dead however.
 #### The Bad Actor
+* [**GAMA - Go Away Move Along**](https://www.nexusmods.com/morrowind/mods/46797) by l1lartur0  
+Marcel Mauraurd will relocate to Curio Manor after the quest.  
 #### The Short Unhappy Life of Danar Uvelas
 #### The Enchanter's Rats
 #### For the Love of a Bosmer
