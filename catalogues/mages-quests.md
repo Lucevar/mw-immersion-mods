@@ -37,13 +37,13 @@ You can skip this quest if you already have a high rank.
 ## Ranis Athrys' Quests, Balmora Guild
 #### Recruit or Kill Llarar Bereloth
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
-Adds more quest options if you're Telvanni.  
+Adds more quest options if you're Telvanni.   
 #### Manwe's Dues
 #### Unsanctioned Training
 #### Escort Itermerel
 #### Kill Necromancer Tashpi Ashibael
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
-If you spare Tashpi Ashibael, ownership will be removed from the items in her hut in Mar Gaan, meaning you can use it as a player house after she disappears. This won't happen if you kill her.  
+Tashpi will return home after Ranis is dead, if you spare her. Adds more dialogue to Tashpi. Tashpi will offer basic healing services to the player after she returns, and will offer you a small reward.
 #### Catch a Spy
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
 Many changes for Telvanni players:   
