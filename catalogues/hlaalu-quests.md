@@ -19,27 +19,41 @@ This mod adds several new ways of completing persuasion quests and such for Grea
 # Nileno Dorvayn's Quests, Balmora
 ### Disguise
 ### Alchemical Formulas
+* [**Roleplay Options for House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by Caeris & Luj1  
+Adds additional routes to complete the quest.  
 ### Inanius Egg Mine
 ### Guar Hide Squeeze
+* [**Roleplay Options for House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by Caeris & Luj1  
+Adds additional routes to complete the quest.  
 ### Delivery for Bivale Teneran
 ### The Death of Ralen Hlaalo
 * [**Roleplay Options for House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by Caeris & Luj1  
 Have you ever wanted to arrest the murderer of Ralen Hlaalo instead of killing him? Now you can.
 ### Ebony Trade
+* [**Roleplay Options for House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by Caeris & Luj1  
+Adds additional routes to complete the quest.  
 
 # Edryno Arethi's Quests, Vivec
 #### Bank Courier
 #### Murudius Flaeus's Debt
+* [**Roleplay Options for House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by Caeris & Luj1  
+Adds additional routes to complete the quest.  
 #### Escort Tarvyn Faren
 #### Telvanni at Odirniran
 #### Exterminator
 #### Ashlander Ebony
+* [**Roleplay Options for House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by Caeris & Luj1  
+Adds additional routes to complete the quest.  
 #### The Shipwreck 'Prelude'
+* [**Roleplay Options for House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by Caeris & Luj1  
+Adds an option to keep the wakizashi.  
 #### Guard Ralen Tilvur
 
 # Crassius Curio's Quests, Vivec
 #### An Admiring Sponsor
 #### Velfred the Outlaw
+* [**Roleplay Options for House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by Caeris & Luj1  
+Adds additional routes to complete the quest.  
 #### Kill Banden Indarys
 #### Bero's Support
 #### Kill Reynel Uvirith
@@ -47,9 +61,13 @@ Have you ever wanted to arrest the murderer of Ralen Hlaalo instead of killing h
 # Odral Helvi's Quests, Caldera
 #### Sealed Orders
 #### The Caldera Spy
+* [**Roleplay Options for House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by Caeris & Luj1  
+Adds additional routes to complete the quest.  
 #### Erroneous Documents
 #### Rent and Taxes
 #### Shipment of Ebony
+* [**Roleplay Options for House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by Caeris & Luj1  
+Adds additional routes to complete the quest.  
 
 # Ilmeni Dren's Quests, Vivec
 #### Literacy Campaign
@@ -58,4 +76,8 @@ Have you ever wanted to arrest the murderer of Ralen Hlaalo instead of killing h
 
 # Duke Vedam Dren's Quests, Ebonheart
 #### Control the Ordinators
+* [**Roleplay Options for House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by Caeris & Luj1  
+Adds additional routes to complete the quest.  
 #### Dealing with Orvas Dren
+* [**Roleplay Options for House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by Caeris & Luj1  
+Adds additional routes to complete the quest.  
