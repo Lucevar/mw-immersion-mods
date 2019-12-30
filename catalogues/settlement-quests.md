@@ -28,6 +28,8 @@
 
 # Moonmoth Legion Fort
 #### Larrius Varro Tells a Little Story
+* [**Balmora Rumour Fix**](https://www.nexusmods.com/morrowind/mods/47455/) by Lucevar  
+Adds some quality of life dialogue filtering, and the option to turn down the quest / remove it from your journal.  
 #### Fjol the Outlaw
 
 # Pelagiad
