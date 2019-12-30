@@ -44,13 +44,14 @@ This quest now requires you to be a House Brother before you can take it. Adds a
 # Athyn Sarethi's Quests, Ald'ruhn
 #### Rescue Varvur Sarethi
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
-** You can no longer cheese the quest by sneaking. If you don't want to have to defend him you can give him an invisibility potion. The quality of the potion determines how long you have to sneak him out.
-** You can have Cienne Sintieve make you a suitable invisibility potion once you've started this quest - but she'll charge for it.
+-- You can no longer cheese the quest by sneaking. If you don't want to have to defend him you can give him an invisibility potion. The quality of the potion determines how long you have to sneak him out.  
+-- You can have Cienne Sintieve make you a suitable invisibility potion once you've started this quest - but she'll charge for it.
 #### Clear Varvur Sarethi's Name
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
 Changes Varvur's dialogue to explain why he can't just talk to his father himself.  
 #### Ondres Nerano's Slander
 * [**Current Councilors**](https://www.nexusmods.com/morrowind/mods/47342) by PoodleSandwich2  
+After you have won your dual with Bolvyn Venim, Athyn Sarethi will no longer mention him as a current councilor, or refer to Bolvyn as though he is still alive during the quest “Ondres Nerano's Slanders”.  
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
 Tweaks Ondres Nerano's dialogue.  
 #### Shurinbaal
@@ -82,6 +83,8 @@ You now have to challenge Meril Hlaano to a game of wit.
 #### Redas Tomb
 #### Duel of Honor
 * [**Duel of Honor - Improve the Chances**](https://www.nexusmods.com/morrowind/mods/47393) by Gavrilo93  
+Improve Rothis Nethan's chance in his duel by giving him a glass netch dagger.
+
 #### Slay Dagoth Tanis
 #### Slay Reynel Uvirith
 #### Slay Raynasa Rethan
