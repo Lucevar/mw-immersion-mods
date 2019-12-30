@@ -5,7 +5,7 @@
 
 # Ald-ruhn
 #### Hannat Zainsubani Rescue
-* [**Mamaea Awakened**](https://www.nexusmods.com/morrowind/mods/46096) by Team Flamboyant Armigers
+* [**Mamaea Awakened**](https://www.nexusmods.com/morrowind/mods/46096) by Team Flamboyant Armigers  
 Cosmetic and gameplay overhaul of Mamaea.  
 #### Ienas Sarandas's Debts
 #### Strange Man at Gindrala Hleran's House
