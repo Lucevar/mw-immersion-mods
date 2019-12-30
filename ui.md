@@ -1,5 +1,6 @@
 # UI
 [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
+[**De-outlandered main menu & daedric ui textures**](https://www.nexusmods.com/morrowind/mods/46805) by RedFurryDemon  
 
 ## Load Menu
 [**Petes UI Mods**](https://www.nexusmods.com/morrowind/mods/45859) by Petethegoat  
