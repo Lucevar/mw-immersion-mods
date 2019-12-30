@@ -10,7 +10,8 @@ Cosmetic and gameplay overhaul of Mamaea.
 #### Ienas Sarandas's Debts
 #### Strange Man at Gindrala Hleran's House
 * [**Strange Man at Gindrala Hleran's House Overhaul**](https://www.nexusmods.com/morrowind/mods/47427) by Gavrilo93  
-Adds a pacifist option for completing the quest. Also has Gindrala take back her key once the quest is complete.  
+Adds a pacifist option for completing the quest. Also has Gindrala take back her key once the quest is complete.
+
 # Caldera
 #### Favors for Orcs
 
@@ -24,13 +25,16 @@ Adds a pacifist option for completing the quest. Also has Gindrala take back her
 #### Hentus Needs Pants
 * [**Hentus Needs Pants Overhaul**](https://www.nexusmods.com/morrowind/mods/47369) by Gavrilo93
 You can now offer Hentus a set of pants identical to his, and he'll accept them. If you're in the Legion, you can demand the pants back on the basis of your legal authority.  
+
 # Hla Oad
 #### Rabinna's Inner Beauty
 
 # Moonmoth Legion Fort
 #### Larrius Varro Tells a Little Story
 * [**Balmora Rumour Fix**](https://www.nexusmods.com/morrowind/mods/47455/) by Lucevar  
-Adds some quality of life dialogue filtering, and the option to turn down the quest / remove it from your journal.  
+Adds some quality of life dialogue filtering, and the option to turn down the quest / remove it from your journal.   
+* [**Hul, Stop**](https://www.nexusmods.com/morrowind/mods/47121) by PoodleSandwich  
+Changes Hul's AIWander settings so that she won't wander onto the roof of the Council Club - you know, that place filled to the brim with violent racists. Once Larrius Varro Tells A Little Story is complete, her full AIWander range is restored.  
 #### Fjol the Outlaw
 
 # Pelagiad
@@ -39,6 +43,8 @@ Adds some quality of life dialogue filtering, and the option to turn down the qu
 Allows player characters of any gender to romance Ahnassi.  
 #### Nels Llendo
 #### The Beauty and the Bandit
+* [**GAMA - Go Away Move Along**](https://www.nexusmods.com/morrowind/mods/46797) by l1lartur0  
+Happily ever after? Heartbreak and misery? Somewhere in between? Find out what happens with Maurrie Aurmine and Nelos Onmar!  
 #### The Silver Bowl
 
 # Sadrith Mora
@@ -47,6 +53,8 @@ Allows player characters of any gender to romance Ahnassi.
 # Seyda Neen
 #### Fargoth's Ring
 #### Fargoth's Hiding Place
+* [**Drunk Fargoth**](https://www.nexusmods.com/morrowind/mods/45133) by The Doogster  
+Stealing Fargoth's savings really hits him hard now. He turns to the bottle to cope.  
 #### Vodunius Nuccius
 #### Death of a Taxman
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar
