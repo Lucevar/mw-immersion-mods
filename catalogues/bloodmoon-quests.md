@@ -78,4 +78,6 @@ Raven Rock/Skaal Village
 #### Ingmar in a Bind
 #### A Woman Scorned
 #### The Patchwork Airship
+* [**GAMA - Go Away Move Along**](https://www.nexusmods.com/morrowind/mods/46797) by l1lartur0  
+ Louis Beauchamp is relocated indoors at the Guild of Mages in Ald'ruhn after your initial conversation pertaining to the airship.
 #### A Wife's Retribution
