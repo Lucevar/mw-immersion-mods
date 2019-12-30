@@ -6,10 +6,11 @@
 # Ald-ruhn
 #### Hannat Zainsubani Rescue
 * [**Mamaea Awakened**](https://www.nexusmods.com/morrowind/mods/46096) by Team Flamboyant Armigers
+Cosmetic and gameplay overhaul of Mamaea.  
 #### Ienas Sarandas's Debts
 #### Strange Man at Gindrala Hleran's House
 * [**Strange Man at Gindrala Hleran's House Overhaul**](https://www.nexusmods.com/morrowind/mods/47427) by Gavrilo93  
-
+Adds a pacifist option for completing the quest. Also has Gindrala take back her key once the quest is complete.  
 # Caldera
 #### Favors for Orcs
 
@@ -22,7 +23,7 @@
 # Gnisis
 #### Hentus Needs Pants
 * [**Hentus Needs Pants Overhaul**](https://www.nexusmods.com/morrowind/mods/47369) by Gavrilo93
-
+You can now offer Hentus a set of pants identical to his, and he'll accept them. If you're in the Legion, you can demand the pants back on the basis of your legal authority.  
 # Hla Oad
 #### Rabinna's Inner Beauty
 
