@@ -3,6 +3,14 @@
 -- Reorders final quests so recruiting Eddie is the last chore you do before becoming Master/Magister.  
 -- Becoming Master/Magister now requires starting the third stage of your stronghold.  
 
+# Stronghold
+* [**Uvirith's Legacy**](https://stuporstar.sarahdimento.com/introduction/playing-uviriths-legacy/) by Stuporstar  
+THE Tel Uvirith mod. It has an incredible amount of features, far too many to list here. I've linked Stuporstar's website for the details.   
+* [**Tel Uvirith LITE**](https://www.nexusmods.com/morrowind/mods/45615) by mala  
+A much lighter (as the name suggests) Tel Uvirith mod. A neat, lightweight Tel Uvirith expansion plugin. It is centered around nice decor, is compatibility-friendly, adds new areas inside and places a lot of flavour items, texts, lights, traps, secret areas and even scripted houseware.
+* [**Building Up Uvirith's Legacy**](http://mw.modhistory.com/download-35-11851) by Acheron & Artimis Fowl  
+You can now build up a whole town around Tel Uvirith, with options depending on your choices and your other faction memberships.  
+
 # Raven Omayn's Quests, Sadrith Mora
 #### Muck
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
@@ -68,11 +76,3 @@ Aryon has more to say about the Gothren situation.
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
 Now has non-kill/steal option. You can give Eddie two quality potions of Chameleon instead. Reduces the quest timer to three days (from a week).
 #### Amulet of Unity
-
-# Stronghold
-* [**Uvirith's Legacy**](https://stuporstar.sarahdimento.com/introduction/playing-uviriths-legacy/) by Stuporstar  
-THE Tel Uvirith mod. It has an incredible amount of features, far too many to list here. I've linked Stuporstar's website for the details.   
-* [**Tel Uvirith LITE**](https://www.nexusmods.com/morrowind/mods/45615) by mala  
-A much lighter (as the name suggests) Tel Uvirith mod. A neat, lightweight Tel Uvirith expansion plugin. It is centered around nice decor, is compatibility-friendly, adds new areas inside and places a lot of flavour items, texts, lights, traps, secret areas and even scripted houseware.
-* [**Building Up Uvirith's Legacy**](http://mw.modhistory.com/download-35-11851) by Acheron & Artimis Fowl  
-You can now build up a whole town around Tel Uvirith, with options depending on your choices and your other faction memberships.  
