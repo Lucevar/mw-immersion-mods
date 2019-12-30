@@ -27,7 +27,8 @@
 ## Persuasion
 [**Advanced Persuasion**](http://mw.modhistory.com/download-53-12143) by Danjb  
 [**Give a Gift**](https://www.nexusmods.com/morrowind/mods/46661) by NullCascade  
-[**Persuasion Responses Enhanced**](https://www.nexusmods.com/morrowind/mods/312) by 
+[**Persuasion Responses Enhanced**](https://www.nexusmods.com/morrowind/mods/312) by  
+[**Speechcraft Rebalance**](https://www.nexusmods.com/morrowind/mods/43113) by Androl  
 
 ## Services
 [**Service Refusal Expanded**](https://www.nexusmods.com/morrowind/mods/45961) by Caeris  
