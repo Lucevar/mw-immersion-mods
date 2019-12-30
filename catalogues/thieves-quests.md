@@ -9,6 +9,8 @@
 
 # Aengoth the Jeweler's Quests, Ald'ruhn Guild
 #### Loot the Mages Guild
+* [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
+Manis Virmaulese, the NPC who only appears if you're trying to loot the Ald'ruhn Mages Guild, now has his dialogue filtered for Mages Guild members.
 #### Redoran Master Helm
 #### Naughty Gandosa
 #### Withershins
