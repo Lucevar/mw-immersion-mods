@@ -5,12 +5,16 @@
 
 # Raven Omayn's Quests, Sadrith Mora
 #### Muck
+* [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
+Adds option to fail by rubbing the muck over yourself.  
 #### Black Jinx
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
 Adds more options for Morag Tong players who haven't reached the rank of MT Grandmaster.  
 
 # Arara Uvulas' Quests, Sadrith Mora
 #### Sload Soap
+* [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
+Adds option to fail by eating the soap.  
 #### Staff of the Silver Dawn
 
 # Felisa Ulessen's Quests, Sadrith Mora
@@ -30,7 +34,7 @@ Adds more options for Morag Tong players who haven't reached the rank of MT Gran
 #### Cure Blight
 #### Daedra Skin
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
-Fixes error in journal entry.  
+Fixes error in journal entry. Adds option to fail the quest by joking about eating Aryon's daedra skin.  
 
 # Therana's Quest, Tel Branora
 #### Auriel's Bow
