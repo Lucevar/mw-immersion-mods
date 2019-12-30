@@ -1,9 +1,9 @@
 # Special Quests
 # Synnolian Tunifus's Quests, Imperial Chapels, Ebonheart
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
-- Removes quests from greetings to make them less pushy.   
-- Unchained ingredient quests and rolled them into one big fetch mission to make them slightly less annoying.  
-- Made quest failure choices more obviously stupid and entertaining  
+-- Removes quests from greetings to make them less pushy.   
+-- Unchained ingredient quests and rolled them into one big fetch mission to make them slightly less annoying.  
+-- Made quest failure choices more obviously stupid and entertaining  
 
 #### Gathering Marshmerrow
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
@@ -19,9 +19,9 @@ You can now get the spell even after the quest has been turned in.
 
 # Iulus Truptor's Quests, Imperial Chapels, Ebonheart
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar   
-- Removes quests from greetings to make them less pushy.    
-- Iulus Truptor is now more ridiculous. Failing his quests now cut off his other quests though, but you get lots of second chances if you can resist the urge to tell him off. You might want to save before talking to him. Also you get one chance to lip him off at the start, but it will affect how he reacts to you being an ass to him later.  
-- Added checks that allow for gathering donations with an average disposition if speechcraft is 80 or higher  
+-- Removes quests from greetings to make them less pushy.    
+-- Iulus Truptor is now more ridiculous. Failing his quests now cut off his other quests though, but you get lots of second chances if you can resist the urge to tell him off. You might want to save before talking to him. Also you get one chance to lip him off at the start, but it will affect how he reacts to you being an ass to him later.  
+-- Added checks that allow for gathering donations with an average disposition if speechcraft is 80 or higher  
 
 #### Alms from the Skyrim Mission
 #### Alms from the Argonian Mission
