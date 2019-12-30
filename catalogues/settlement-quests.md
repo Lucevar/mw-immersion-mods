@@ -86,6 +86,9 @@ Adds more options for the Trerayna Bounty quest if the player is a Telvanni Mast
 # Vivec
 #### A Friend in Deed
 #### Mysterious Killings in Vivec
+#### Ennbjof's Nord Burial
+* [**Stormkiss Reforged**](https://www.nexusmods.com/morrowind/mods/44565) by Gevalt and Enclavekiller  
+This mod overhauls the burial of Olmgerd the Outlaw with proper Journal Indexing, a new armor set, and a remake of Storm Kiss.
 #### An Apothecary Slandered
 #### Roland's Tear
 #### Free the Slaves
