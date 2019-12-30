@@ -1,17 +1,26 @@
 # Bloodmoon Main Quest
-## Act 1 - Fort Frostmoth
 #### An Island to the North
+* [**Solstheim Delayer**](https://www.nexusmods.com/morrowind/mods/45988) by Red Furry Demon  
+This mod makes changes to a few dialogue lines, giving them more specific speaker conditions and slightly altering their quest stage results, so that you won't get any journal entry unless you actually ask about Solstheim.  
+-- Go see Caius Cosades and ask him about latest rumors. You get no journal update, but Solstheim topic becomes available. You can now ask him about it, and get journal updates.  
+-- Just go straight to Khuul and ask around about latest rumors. You get no journal update, but Solstheim topic becomes available. Now ask some more, you will get journal updates and directions to S'virr.  
+* [**Better Expansion Integration**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
+-- No Solstheim rumours until PCLevel >= 6. You can still travel to Solstheim straight away if you want.  
+-- Only one (random) non-Legion Imperial has his son sent to Solstheim.  
+-- Binds the other rumour ("I heard there...north of Vvardenfell.") to the Agent class. This was done to prevent every NPC from having the Solstheim topic.  
+-- If the player somehow missed the second quest update (BM_Rumors 50) after hearing about Solstheim for the first time (BM_Rumors 10); Scouts can also update your journal ("That's the frozen...transportation in Khuul.")  
+-- The permanent topic about getting to Solstheim is also tied to the Scout class now ("A terrible place...any reason to go.")  
+-- Louis Beauchamp (NPC outside Ald'ruhn Mages Guild) will be disabled until you started the Bloodmoon main quest. This was done to prevent new players from getting spoiled by his quest; sending them to Solstheim.  
+
 #### Rebellion at Frostmoth
 #### The Frostmoth Smugglers
 #### The Disappearance of Captain Carius
 
-## Act 2 - Befriending the Skaal
 #### The Skaal Test of Loyalty
 #### The Skaal Test of Wisdom
 #### The Skaal Test of Strength
 #### The Siege of the Skaal Village
 
-## Act 3 - Blodskaal	Act 3 - Werewolf
 #### The Totem of Claw and Fang
 #### The Ristaag
 #### The Castle Karstaag
@@ -20,7 +29,6 @@
 #### Disrupt the Skaal Hunt
 #### Siege of Castle Karstaag
 
-## Act 4 - The Hunt
 #### Hircine's Hunt
 #### (Optional) Rite of the Wolf Giver
 
@@ -31,7 +39,7 @@
 #### Missing Supply Ship
 #### Making a Choice
 
-# Falco Path
+## Falco Path
 #### Setting up Shop
 #### Supply Route Problems
 #### To Catch a Thief
@@ -43,7 +51,7 @@
 #### Protect Falco
 #### Under Siege
 
-# Carnius Path
+## Carnius Path
 #### Setting up Shop
 #### Supply Route Problems
 #### Aiding and Abetting
@@ -55,23 +63,22 @@
 #### The Assassin
 #### Drastic Measures
 
-# Under New Management
 #### The Factor's Estate
 
 # Bloodmoon Misc Quests
-# Fort Frostmoth
+## Fort Frostmoth
 #### The Moon Sugar Mystery
 #### The Missing Missionary
 
-Raven Rock/Skaal Village
+## Raven Rock/Skaal Village
 #### In Search of the Falmer
 #### Tymvaul in the Well
 
-# Thirsk
+## Thirsk
 #### The Mead Hall Massacre
 #### Mead Hall Business
 
-# Wilderness
+## Wilderness
 #### Betrayal at Brodir Grove
 #### The Sad Seer
 #### The Cursed Captain
