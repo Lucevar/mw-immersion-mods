@@ -6,9 +6,13 @@ Makes thieves more discreet, plus lots of extra dialogue for thieves guild membe
 
 # Sugar-Lips Habasi's Quests, Balmora Guild
 #### Diamonds for Habasi
+* [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
+Adds option to fail quest by eating Habasi's diamond.
 #### Nerano Manor Key
 #### Ra'Zhid's Dwemer Artifacts
 #### The Vintage Brandy
+* [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
+Adds option to fail quest by drinking the brandy. She won't offer more quests.  
 #### Free New-Shoes Bragor
 #### Master of Security
 
@@ -20,6 +24,8 @@ Manis Virmaulese, the NPC who only appears if you're trying to loot the Ald'ruhn
 #### Naughty Gandosa
 #### Withershins
 #### Retrieve the Scrap Metal
+* [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
+Adds option to fail quest by eating the scrap metal.
 #### The Darts of Judgement
 
 # Big Helende's Quests, Wolverine Hall Guild
