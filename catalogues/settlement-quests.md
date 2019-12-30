@@ -34,6 +34,8 @@ Adds some quality of life dialogue filtering, and the option to turn down the qu
 
 # Pelagiad
 #### Ahnassi, a Special Friend
+* [**Smooth Moves**](https://www.nexusmods.com/morrowind/mods/43136) by Darkraiguy  
+Allows player characters of any gender to romance Ahnassi.  
 #### Nels Llendo
 #### The Beauty and the Bandit
 #### The Silver Bowl
@@ -64,7 +66,7 @@ Adds more options for the Trerayna Bounty quest if the player is a Telvanni Mast
 -- You now have the option to drag or teleport the corprus stalker to the Corprusarium. Berwen will tell you who knows how to send it there.  
 -- If you've already started the FG quest, the QTA version won't be started, meaning the easier no-kill path isn't available.  
 -- If you haven't started the FG quest, you won't be able to start it, but you can turn down Berwen's reward and turn the quest in to Hrundi to get your faction rep.  
-== Alternately, you can screw the Fighters Guild out of the money if you're a member, but you'll take a disposition hit from Hrundi and get no faction rep.  
+-- Alternately, you can screw the Fighters Guild out of the money if you're a member, but you'll take a disposition hit from Hrundi and get no faction rep.  
 
 # Tel Vos
 #### Trade Mission to the Zainab
