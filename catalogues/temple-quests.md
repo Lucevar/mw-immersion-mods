@@ -1,4 +1,7 @@
 # Tribunal Temple
+* [**FMI - Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich  
+Ordinators will no longer attack you for wearing Indoril armor if you're the Archcanon or have been named Nerevarine by Vivec.  
+
 # General Quests and Information
 #### Pilgrimages of the Seven Graces
 * [**Soul Gems at Ghostgate**](https://www.nexusmods.com/morrowind/mods/47340) by Gavrilo93  
