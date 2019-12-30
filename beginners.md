@@ -62,7 +62,8 @@ The quest that gets you to Solstheim is quite annoying if you do not plan to go 
 
 Alternatives:  
 [**Delayed DB Attack v2**](https://www.nexusmods.com/morrowind/mods/14891?) by Kir  
-[**Illy's Solstheim Rumour Fix**](https://www.moddb.com/games/morrowind/addons/illys-solsteim-rumour-fix) by Illy  
+[**Solstheim Rumour Fix - Fixed - Fixed**](https://www.nexusmods.com/morrowind/mods/47053) by Gavrilo93, nomoresam, and Illy  
+[**Better Expansion Implementations**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
 
 # SFX
 [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) by Hrnchamd  
