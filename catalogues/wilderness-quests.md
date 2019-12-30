@@ -62,6 +62,10 @@ After you leave the area, Botrir will go to look for the witch if you decline th
 Marsus Tullius will join his father, Stentus Tullius, in Tel Aruhn upon completion of the quest; Marsus will be disabled and Stentus will remain in Tel Aruhn if you decline the quest.
 #### The Runaway Slave
 #### Umbra
+* [**Umbra - Blademaster**](https://www.nexusmods.com/morrowind/mods/43275) by Melchior Dahrk  
+Buffs Umbra and adds scripted behaviour so the fight is more difficult and memorable. Overhauls Umbra's appearance, giving him a unique outfit. Cosmetic overhaul of Umbra's location.  
+* [**Wandering Umbra**](https://www.nexusmods.com/morrowind/mods/44913) by mort  
+Umbra is no longer confined to his vanilla location. Now he'll appear in a random location.  
 
 # Sheogorad Quests
 #### Thelas' Pillows
@@ -91,6 +95,7 @@ Now you can convince Sosia to teleport away to safety, but she'll take Cloudclea
 Sosia Caristiana will relocate to Guild of Mages in Caldera if you side with her; Hlormar Wine-Sot will relocate to Shenk's Shovel if you choose to side with him, otherwise he will be disabled if you decline to help him search for Cloudcleaver.
 #### The Corpse and the Skooma Pipe
 * [**The Corpse and the Skooma Pipe Overhaul**](https://www.nexusmods.com/morrowind/mods/46696) by Gavrilo93  
+Adds seven new roleplay-friendly options for completing the quest.  
 #### The Lady's Ring
 #### The Man Who Spoke to Slaughterfish
 * [**GAMA - Go Away Move Along**](https://www.nexusmods.com/morrowind/mods/46797) by l1lartur0  
@@ -104,13 +109,13 @@ Hisin Deep-Raed goes on holiday to Solstheim after his ordeal.
 #### The Sad Sorcerer
 #### The Shirt of His Back
 * [**Oath to St. Roris Instead**](https://www.nexusmods.com/morrowind/mods/47339) by Gavrilo93  
-You can now swear an oath to St. Roris rather than Zenithar.
+You can now swear an oath to St. Roris rather than Zenithar.  
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
-Makes Rasha not stand around forever after delivering his shirts to Ald-Ruhn
+Makes Rasha not stand around forever after delivering his shirts to Ald-Ruhn  
 * [**GAMA - Go Away Move Along**](https://www.nexusmods.com/morrowind/mods/46797) by l1lartur0  
 Rasha will relocate to Fara's Hole in the Wall upon completion of the quest.
 #### The Weapon Delivery
 * [**Oath to St. Roris Instead**](https://www.nexusmods.com/morrowind/mods/47339) by Gavrilo93 
-You can now swear an oath to St. Roris rather than Zenithar.
+You can now swear an oath to St. Roris rather than Zenithar.  
 * [**GAMA - Go Away Move Along**](https://www.nexusmods.com/morrowind/mods/46797) by l1lartur0  
 Lucan Ostorius will relocate to the South Wall Cornerclub upon completion of the quest; Lucan will be disabled if you decline the quest.
