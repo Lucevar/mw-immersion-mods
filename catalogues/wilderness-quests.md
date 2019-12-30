@@ -115,7 +115,7 @@ Makes Rasha not stand around forever after delivering his shirts to Ald-Ruhn
 * [**GAMA - Go Away Move Along**](https://www.nexusmods.com/morrowind/mods/46797) by l1lartur0  
 Rasha will relocate to Fara's Hole in the Wall upon completion of the quest.
 #### The Weapon Delivery
-* [**Oath to St. Roris Instead**](https://www.nexusmods.com/morrowind/mods/47339) by Gavrilo93 
+* [**Oath to St. Roris Instead**](https://www.nexusmods.com/morrowind/mods/47339) by Gavrilo93   
 You can now swear an oath to St. Roris rather than Zenithar.  
 * [**GAMA - Go Away Move Along**](https://www.nexusmods.com/morrowind/mods/46797) by l1lartur0  
 Lucan Ostorius will relocate to the South Wall Cornerclub upon completion of the quest; Lucan will be disabled if you decline the quest.
