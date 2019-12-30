@@ -32,6 +32,8 @@ Adds option to fail by eating the soap.
 # Baladas Demnevanni's Quests, Gnisis
 #### Dwemer Books
 #### Dahrk Mezalf
+* [**The Tragedy of Dahrk Mezalf The Wise**](https://www.nexusmods.com/morrowind/mods/47235) by Team Suran Suran  
+An expansion of the vanilla Telvanni Dahrk Mezalf quest: No longer will it be only a boring errand to retrieve a ring, but it also includes several new actions for the players to do, like talking with the ghost himself, or solving puzzles, as well as a cosmetic overhaul of the ruin and several new quests.  
 
 # Mallam Ryon's Quests, Sadrith Mora
 #### Three Questions for Baladas Demnevanni
