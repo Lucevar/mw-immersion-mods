@@ -4,6 +4,8 @@
 [**Akulakhan Replacer**](https://www.nexusmods.com/morrowind/mods/42855) by Aoimhevelho  
 [**Unique Corprus Stalkers**](https://download.fliggerty.com/download--749) by Westly  
 [**Centurion Spider Replacer**](https://www.nexusmods.com/morrowind/mods/47349) by Autoclock  
+[**Divine Vivec**](https://www.nexusmods.com/morrowind/mods/46342) by SpaceDevo  
+[**Divine Dagoths**](https://www.nexusmods.com/morrowind/mods/45536) by SpaceDevo  
 
 ## Overhaul
 [**Creatures XI**](https://www.nexusmods.com/morrowind/mods/30563) by Piatelord  
