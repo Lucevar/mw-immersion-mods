@@ -41,6 +41,8 @@ A number of dialogue tweaks to make the quest flow more smoothly.
 
 # Radd Hard-Heart's Quests, Moonmoth Legion Fort
 #### Scrap Metal
+* [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
+Can fail quest by eating the scrap metal.  
 #### Rescue Jocien Ancois
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
 -- Adds scrip as a reward.
