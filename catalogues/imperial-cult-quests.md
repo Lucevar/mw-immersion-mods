@@ -28,6 +28,8 @@ You can now get the spell even after the quest has been turned in.
 #### Buckmoth Alms
 #### Shirt and Vest for Harvest's End
 #### Brandy for the Fundraising Dinner
+* [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
+Adds option to fail by dumping the brandy on the floor.
 #### Donation from Cunius Pelelius
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
 -- Odral Helvi will no longer sell out Cunius Pelelius like other NPCs in the Governor's Hall.  
