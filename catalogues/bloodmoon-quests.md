@@ -11,9 +11,15 @@ This mod makes changes to a few dialogue lines, giving them more specific speake
 -- If the player somehow missed the second quest update (BM_Rumors 50) after hearing about Solstheim for the first time (BM_Rumors 10); Scouts can also update your journal ("That's the frozen...transportation in Khuul.")  
 -- The permanent topic about getting to Solstheim is also tied to the Scout class now ("A terrible place...any reason to go.")  
 -- Louis Beauchamp (NPC outside Ald'ruhn Mages Guild) will be disabled until you started the Bloodmoon main quest. This was done to prevent new players from getting spoiled by his quest; sending them to Solstheim.  
+* [**Solstheim Rumour Fix - Fixed - Fixed**](https://www.nexusmods.com/morrowind/mods/47053) by Gavrilo93, nomoresam, and Illy   
+-- The only Imperial Legionnaire now whose son was stationed at Fort Frostmoth is Jonus Maximus  
+-- Besides him only S'Virr, agents and residents of Khuul know about the place, so nobody else talks about "Solstheim" and the "latest rumors" associated with the place  
+-- It adds unique dialogue to Nords who are also residents of Khuul or belong to the agent class. There are four nords in Khuul, and several Nords who are also agents.  
 
 #### Rebellion at Frostmoth
 #### The Frostmoth Smugglers
+* [**The Frostmoth Smugglers**](https://www.nexusmods.com/morrowind/mods/47409) by Gavrilo93  
+Makes Captain Carius reward you properly for taking care of the smugglers, when he returns to Fort Frostmoth.  
 #### The Disappearance of Captain Carius
 
 #### The Skaal Test of Loyalty
