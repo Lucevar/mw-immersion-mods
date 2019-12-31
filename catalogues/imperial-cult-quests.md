@@ -26,6 +26,14 @@ You can now get the spell even after the quest has been turned in.
 #### Alms from the Skyrim Mission
 #### Alms from the Argonian Mission
 #### Buckmoth Alms
+* [**More Dunmers**](https://www.nexusmods.com/morrowind/mods/44629) by vojteek  
+-- Changes Merthierry Laelippe to a Dunmer and changes his name in Journal Entry IC10_merthierry  
+-- Changes Hoki to a Dunmer and changes his name in Journal Entry IC10_hoki  
+-- Changes Dular gro-Buzga to a Dunmer and changes his name in Journal Entry IC10_dular  
+-- Changes Tauryon to a Dunmer and changes his name in Journal Entry IC10_tauryon  
+-- Changes Malpenix Blonia to a Dunmer and changes his name in Journal Entry IC10_malpenix
+-- Changes Cienne Sintieve to a Dunmer and changes her name in Journal Entry IC10_cienne    
+
 #### Shirt and Vest for Harvest's End
 #### Brandy for the Fundraising Dinner
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
@@ -36,6 +44,9 @@ Adds option to fail by dumping the brandy on the floor.
 -- Slaves in Caldera Mine slave shacks will now talk if freed, just as the ones in the mine do.  
 -- You can threaten Cunius Pelelius with both the slave's testimony or the secret ledger if you've found both.  
 #### Pledge from Canctunian Ponius
+* [**More Dunmers**](https://www.nexusmods.com/morrowind/mods/44629) by vojteek  
+-- Changes Shazgob gra-Luzga to a Dunmer and changes her name in Journal Entry IC14_Shazgob      
+
 
 # Kaye's Quests, Imperial Chapels, Ebonheart
 * [**Quest Tweaks & Alternatives 1.19**](https://www.dropbox.com/s/0ihtlpfrzfhiwxo/QTA_1.19.7z?dl=0) by Stuporstar  
