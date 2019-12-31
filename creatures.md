@@ -7,6 +7,7 @@
 [**Centurion Spider Replacer**](https://www.nexusmods.com/morrowind/mods/47349) by Autoclock  
 [**Divine Vivec**](https://www.nexusmods.com/morrowind/mods/46342) by SpaceDevo  
 [**Divine Dagoths**](https://www.nexusmods.com/morrowind/mods/45536) by SpaceDevo  
+[**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194) by rot  
 
 ## Overhaul
 [**Creatures XI**](https://www.nexusmods.com/morrowind/mods/30563) by Piatelord  
