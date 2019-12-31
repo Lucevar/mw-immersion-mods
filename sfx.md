@@ -22,6 +22,7 @@ A corprus meat replacer.
 ## Particles
 [**Magic Diversity**](https://www.nexusmods.com/morrowind/mods/43380) by Arkann  
 [**Particle Arrow Replacer**](http://mw.modhistory.com/download-98-12124) by GhostNull  
+[**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194) by rot  
 
 ## Animations  
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150) by R-Zero  
