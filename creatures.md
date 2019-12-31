@@ -3,6 +3,7 @@
 [**Dagoth Creatures Replacer**](https://www.nexusmods.com/morrowind/mods/42834) by Aoimhevelho  
 [**Akulakhan Replacer**](https://www.nexusmods.com/morrowind/mods/42855) by Aoimhevelho  
 [**Unique Corprus Stalkers**](https://download.fliggerty.com/download--749) by Westly  
+[**Corprus Natives**](https://www.nexusmods.com/morrowind/mods/45674) by rot  
 [**Centurion Spider Replacer**](https://www.nexusmods.com/morrowind/mods/47349) by Autoclock  
 [**Divine Vivec**](https://www.nexusmods.com/morrowind/mods/46342) by SpaceDevo  
 [**Divine Dagoths**](https://www.nexusmods.com/morrowind/mods/45536) by SpaceDevo  
