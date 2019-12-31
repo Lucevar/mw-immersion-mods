@@ -11,6 +11,7 @@
 [**Fireflies Invade Morrowind**](https://firefly.calislahn.com/) by Thaedyn Vyr  
 [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
 [**Dragon Toads**](https://www.nexusmods.com/morrowind/mods/47454) by neighgoth and kagz  
+[**Tamriel Rebuilt - Water Sounds**](https://www.nexusmods.com/morrowind/mods/42266) by abot  
 
 ## Items
 [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
