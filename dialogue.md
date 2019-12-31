@@ -19,6 +19,7 @@
 [**Sleepers Awake**](https://www.nexusmods.com/morrowind/mods/37208) by Von Django & Adul  
 [**Ooh You're Naked begone: Immersive Crassius Curio Greetings**](https://www.nexusmods.com/morrowind/mods/47284) by Lucevar  
 [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
+[**Outlander Yourself**](https://www.nexusmods.com/morrowind/mods/45674) by rot  
 
 ## Greetings
 [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
@@ -51,6 +52,7 @@
 [**Telvanni Racist Guards**](http://mw.modhistory.com/download-44-10731) by Vagor  
 [**Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by PoodleSandwich, Quorn, and Superquail  
 [**Nastier Camonna Tong**](https://www.nexusmods.com/morrowind/mods/22601) by von Django  
+[**Racism**](https://www.nexusmods.com/morrowind/mods/45674) by rot  
 
 ## Slaves
 [**Free The Slaves**](https://www.nexusmods.com/morrowind/mods/45191) by Caeris  
