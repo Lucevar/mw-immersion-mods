@@ -1,6 +1,7 @@
 # Modder Resources
 
 [**Statics to Activators**](http://download.fliggerty.com/download--1190) by Stuporstar  
+[**NPC variety animation - amputations, etc**](https://www.nexusmods.com/morrowind/mods/45674) by rot  
 
 ## Velothi
 [**Mawia Overhaul**](https://www.nexusmods.com/morrowind/mods/46884) by Remiros  
