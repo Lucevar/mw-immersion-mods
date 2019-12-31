@@ -17,6 +17,7 @@
 
 ## Variants
 [**Golden Saint Variety**](https://www.nexusmods.com/morrowind/mods/46430) by Leyawynn  
+[**Dwemer Spectres + Female Spectres**](https://www.nexusmods.com/morrowind/mods/43249) by Melchior Dahrk  
 
 ## AI
 [**Improved Cliff Racer AI**](https://www.nexusmods.com/morrowind/mods/44712) by R-Zero  
@@ -34,3 +35,4 @@
 [**Centurion Bombers**](https://www.nexusmods.com/morrowind/mods/47347) by Autoclock  
 [**Centurion Submariner**](https://www.nexusmods.com/morrowind/mods/47350) by Autoclock  
 [**Centurion Superspiders**](https://www.nexusmods.com/morrowind/mods/47351) by Autoclock  
+[**Antares Creature Integration**](https://www.nexusmods.com/morrowind/mods/43249) by Melchior Dahrk  
