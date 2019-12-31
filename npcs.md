@@ -55,6 +55,7 @@
 [**Peaceful Qorwynn**](https://www.nexusmods.com/morrowind/mods/46759)  
 [**Thieves Guild Fences (Dealers)**](https://www.nexusmods.com/morrowind/mods/43188) by Melchior Dahrk  
 [**M'Aiq the Liar Expansion**](https://www.nexusmods.com/morrowind/mods/41951) by victormacaco  
+[**M'Aiq on the Mainland**](https://www.nexusmods.com/morrowind/mods/45674) by rot  
 [**Settled Jiub**](https://www.nexusmods.com/morrowind/mods/46577) by OliverTheSkunk  
 [**Drug Realism Redux**](https://www.nexusmods.com/morrowind/mods/45351) by smeetooie3  
 [**Drunk Fargoth**](https://www.nexusmods.com/morrowind/mods/45133) by The Doogster  
