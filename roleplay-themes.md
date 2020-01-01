@@ -54,12 +54,10 @@ See [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/cha
 [**Arcane Archery**]()
 
 # Ashlander
-[**Ashlander quests**](https://www.nexusmods.com/morrowind/mods/46817) by Gavrilo93  
+[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) includes [**Ashlander quests**](https://www.nexusmods.com/morrowind/mods/46817) by Gavrilo93  
 Adds a number of quests for Ashlanders in three of the main camps and two quests to ashlanders outside the camps. Ahemmusa camp is untouched for compatibility with Julan, Ashlander Companion (who isn't listed here because Julan's dialogue assumes you're an outlander).  
 [**Ashlander Prophecy**](https://www.nexusmods.com/morrowind/mods/44505) by CzarRedwall  
 Start the game as an Ashlander. Skips the Blades portions of the main quest.  
-[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
-Adds a number of new quests for the Ashlanders.
 
 # Assassin
 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
@@ -98,7 +96,7 @@ Includes an Argonian companion
 [**Wolf Companion Spot**](http://lovkullen.net/Emma/wolf.htm) by Emma and Grumpy 
 
 # Beastmaster
-* [Mausi the War Kagouti](https://www.nexusmods.com/morrowind/mods/45169)
+* [**Mausi the War Kagouti**](https://www.nexusmods.com/morrowind/mods/45169) by Melchior Dahrk  
 
 # Bard
 [**A Bard's Life 2**](https://www.nexusmods.com/morrowind/mods/44359) by Danae  
@@ -109,59 +107,64 @@ Includes an Argonian companion
 
 # Cannibal
 [**Cannibals of Morrowind - Updated**](https://www.nexusmods.com/morrowind/mods/47358) by Morandir Nailo and Danae  
-[**The Forgotten**]() by Enclavekiller
+[**The Forgotten**](https://www.nexusmods.com/morrowind/mods/45733) by Enclavekiller
 
 # Daedra Worshipper
-* [Staffs of the Daedra](https://www.nexusmods.com/morrowind/mods/43189)
+* [**Staffs of the Daedra**](https://www.nexusmods.com/morrowind/mods/43189) by Melchior Dahrk  
 * Statue of Azura  
-* Reclamations in Holamayan  
-* The Doors of Oblivion  
+* [**Reclamations in Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho  
+* [**The Doors of Oblivion**](https://www.nexusmods.com/morrowind/mods/44398) by Ashtaar  
 * Apostates to Oblivion  
+* [**Actual Big Head**](https://www.nexusmods.com/morrowind/mods/44042) by Leyawynn  
 * Big Head's Big Head  
-* Big Head Fork-A-Lot-inator  
+* [**Big Head's Precious Forks**](https://www.nexusmods.com/morrowind/mods/45689) by Guinefort1  
 * Daedric Sorcery  
-* Love in the time of daedra  
-* Wabbajack  
+* [**Love in the time of daedra**](https://www.nexusmods.com/morrowind/mods/43635) by HangHimHigher  
+* [**Wabbajack**](https://www.nexusmods.com/morrowind/mods/44653) by Team Wretched Netch  
+* [**Advanced Conjuration - Necromancy and Summoning**](https://www.nexusmods.com/morrowind/mods/47465) by Evelyn  
+* [**The Forgotten**](https://www.nexusmods.com/morrowind/mods/45733) by Enclavekiller
 
 ## Sheogorath
-* [Throwable Eggs](https://www.nexusmods.com/morrowind/mods/46446)
-* [Immersive Madness](https://www.nexusmods.com/morrowind/mods/44983)
-* [Kwama Eggshell Helmet](https://www.nexusmods.com/morrowind/mods/46366)
+* [**Throwable Eggs**](https://www.nexusmods.com/morrowind/mods/46446)
+* [**Immersive Madness**](https://www.nexusmods.com/morrowind/mods/44983)
+* [**Kwama Eggshell Helmet**](https://www.nexusmods.com/morrowind/mods/46366)
 
 ## Sanguine
-* [The Sanguine Rose](https://www.nexusmods.com/morrowind/mods/46214)
+* [**The Sanguine Rose**](https://www.nexusmods.com/morrowind/mods/46214) by Melchior Dahrk
 
 ## Namira
-* The Forgotten
+* [**The Forgotten**](https://www.nexusmods.com/morrowind/mods/45733) by Enclavekiller
 * [**Plaguebearer**](https://www.nexusmods.com/morrowind/mods/45760) by R-zero  
 
 # Dwemer Scholar
-* [**The Royal Game of Ur**](https://www.nexusmods.com/morrowind/mods/44945)
-* [Gizmo the Fabricant Guar Companion](https://www.nexusmods.com/morrowind/mods/46587)  
-Dwemer archaeological society. 
-Expedition to mzelthuand  
+* [**The Royal Game of Ur**](https://www.nexusmods.com/morrowind/mods/44945) by Lord Berandas
+* [**Gizmo the Fabricant Guar Companion**](https://www.nexusmods.com/morrowind/mods/46587) by Melchior Dahrk  
+* [**Imperial Dwemer Society**](https://www.nexusmods.com/morrowind/mods/45225) by Team Mythical Beasts 
+* [**Expedition to mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by Team Dreamy Dremora  
 
 # Dunmer Nationalist
 [**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
 [**Liberate Morrowind**](https://www.nexusmods.com/morrowind/mods/45658) by Gavrilo93  
-[**Reclaim Gnisis**]()
+[**Reclaim Gnisis**](https://www.nexusmods.com/morrowind/mods/43971) by Alxemical  
 
 # Farmer
 Farmer mod
 
 # Healer
-Balmora guilds expanded
+[**Balmora guilds expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
 [**Swamp Fever**](https://www.nexusmods.com/morrowind/mods/46640) by Luccar and Rubberman  
 [**Would you like healing?**](https://www.nexusmods.com/morrowind/mods/46973) by Master Jinroku  
 
 # Hoarder/Collecter
-* [Unique Items](https://www.nexusmods.com/morrowind/mods/44530)
-* [Complete Book Collection](https://www.nexusmods.com/morrowind/mods/44818?)
-* [Bucklers Remastered](https://www.nexusmods.com/morrowind/mods/46388)
-[**More Gems**](http://mw.modhistory.com/download-1-12182) by Gawain  
-* [**Staffs of the Daedra**](https://www.nexusmods.com/morrowind/mods/43189)
+* [**Unique Items**](https://www.nexusmods.com/morrowind/mods/44530)
+* [**Complete Book Collection**](https://www.nexusmods.com/morrowind/mods/44818?)
+* [**Bucklers Remastered**](https://www.nexusmods.com/morrowind/mods/46388)
+* [**More Gems**](http://mw.modhistory.com/download-1-12182) by Gawain  
+* [**Staffs of the Daedra**](https://www.nexusmods.com/morrowind/mods/43189) by Melchior Dahrk  
 * [**Nation's Memento's - Dagoth Amulet Collection**](https://www.nexusmods.com/morrowind/mods/43217) by mastersteve1  
 * [**Treasures of Magic**](https://www.nexusmods.com/morrowind/mods/45251) by Team Wool and Floof  
+* [**Pearls Enhanced**] by Melchior Dahrk  
+* [**More Gems**] by Gawain  
 
 # Imperial Loyalist
 * [**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Gavrilo93  
@@ -173,6 +176,7 @@ Adds a number of roleplaying options to the main quest, including alternate path
 * [**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by Gavrilo93  
 * [**Standard Bearer**](http://mw.modhistory.com/download-53-12717) by Danjb  
 * [**Imperial Contraband**](http://mw.modhistory.com/download-53-13016) by Nogi.Fox  
+* [**Hlormaren Reclaimed - Slightly Improved**](https://www.nexusmods.com/morrowind/mods/47301) by Gavrilo93  
 
 # Merchant
 [**Wages and Bonds**](https://www.nexusmods.com/morrowind/mods/46394)  
@@ -190,7 +194,6 @@ Includes an inn you can buy.
 ## Orc
 [**The Fires of Orc**](https://www.nexusmods.com/morrowind/mods/44982) by Gavrilo93  
 Join an Orcish clan and do quests for them.  
-
 [**Yashga Orc Companion**](https://www.nexusmods.com/morrowind/mods/45734) by AlandroSul  
 Be joined on your adventures by Yashga.  
 
@@ -222,20 +225,20 @@ Rubberman sharpen mod
 [**PC smithy - Ebonheart**](http://mw.modhistory.com/download-35-10219) by aimeekae  
 
 # Sailor / Pirate / Diver / Water
-* [Pearls Enhanced](https://www.nexusmods.com/morrowind/mods/43190)
-* [Water Life]
-[**Trouble at Sea**](http://mw.modhistory.com/download-53-12731) by Danjb  
-
-Nimawia Pearl farm
+* [**Pearls Enhanced**](https://www.nexusmods.com/morrowind/mods/43190)
+* [**Water Life**] by abot  
+* [**Trouble at Sea**](http://mw.modhistory.com/download-53-12731) by Danjb  
+* Booty Island + TR Patch
+* Nimawia Pearl farm
 
 # Slave
 [**Slave Bracers Revamped**](https://www.nexusmods.com/morrowind/mods/32493) by xception  
 [**Nerevarine Unchained**](https://www.nexusmods.com/morrowind/mods/46930) by Gavrilo93 and Caeris  
 
 # Smuggler  
-* Adanumuran reclaimed  
+* [**Adanumuran reclaimed**](https://www.nexusmods.com/morrowind/mods/43340) by Danae  
 * [**Dura gra-Bol and the Grab-All gang**](https://www.nexusmods.com/morrowind/mods/46772)  
-[**Errands for Orvas**](https://calezane.home.xs4all.nl/mw/mwmods.htm) by Calezane  
+* [**Errands for Orvas**](https://calezane.home.xs4all.nl/mw/mwmods.htm) by Calezane  
 
 # Temple
 [Kummu Monastery Revisited](https://www.nexusmods.com/morrowind/mods/46565)
