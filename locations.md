@@ -4,6 +4,7 @@
 [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara  
 [**Ashlander Crops and Livestock**](https://www.nexusmods.com/morrowind/mods/46961) by HereJust4Mods  
 [**Vampire Clans - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47259) by Tel Shadow  
+[**More Ashstorms on Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47464/) by iskuss  
 
 ## Ashlands
 [**RR - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822) by the Resdayn Revival Team  
