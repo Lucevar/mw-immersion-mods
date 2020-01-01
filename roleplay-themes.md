@@ -34,6 +34,9 @@ See [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/cha
 [**Moon Sugar Thief**](https://www.nexusmods.com/morrowind/mods/45459) by Merlord  
 [**Take Skooma with Caius Cosades**](https://www.nexusmods.com/morrowind/mods/45901) by Omeletter  
 [**Vaba-Amus Companion**](https://www.nexusmods.com/morrowind/mods/45711) by TheDrunkenMudcrab  
+[**Drinks at Desele's**](https://calezane.home.xs4all.nl/mw/mwmods.htm) by Calezane  
+[**Errands for Orvas**](https://calezane.home.xs4all.nl/mw/mwmods.htm) by Calezane  
+
 
 # Alcohol
 [**The Brew Master**](https://www.nexusmods.com/morrowind/mods/45472) by Merlord  
@@ -202,6 +205,7 @@ Be joined on your adventures by Yashga.
 [**Wanted Posters**](https://www.nexusmods.com/morrowind/mods/47000) by Gavrilo93  
 [**Bounty Hunters 2.0**](https://www.nexusmods.com/morrowind/mods/43789/) by Daemonjax and Arcimaestro Antares  
 [**You are being robbed**](https://arcimaestroantares.webs.com/youarebeingrobbed.htm) by arcimaestro antares  
+[**Errands for Orvas**](https://calezane.home.xs4all.nl/mw/mwmods.htm) by Calezane  
 
 # Philanthropist 
 [**Donations to the Gods**](http://mw.modhistory.com/download-68-14336) by Slaanesh the Corruptor  
@@ -231,6 +235,7 @@ Nimawia Pearl farm
 # Smuggler  
 * Adanumuran reclaimed  
 * [**Dura gra-Bol and the Grab-All gang**](https://www.nexusmods.com/morrowind/mods/46772)  
+[**Errands for Orvas**](https://calezane.home.xs4all.nl/mw/mwmods.htm) by Calezane  
 
 # Temple
 [Kummu Monastery Revisited](https://www.nexusmods.com/morrowind/mods/46565)
