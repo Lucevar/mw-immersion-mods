@@ -230,7 +230,7 @@ Nimawia Pearl farm
 
 # Slave
 [**Slave Bracers Revamped**](https://www.nexusmods.com/morrowind/mods/32493) by xception  
-
+[**Nerevarine Unchained**](https://www.nexusmods.com/morrowind/mods/46930) by Gavrilo93 and Caeris  
 
 # Smuggler  
 * Adanumuran reclaimed  
