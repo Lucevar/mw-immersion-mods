@@ -115,7 +115,8 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 ## Tel Fyr / Divayth
 [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977) by Gavrilo93  
 [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros  
-[**That one mod that adds a unique look to the puzzle box**]()
+[**That one mod that adds a unique look to the puzzle box**]()  
+[**Village of Tel Fyr**](https://www.nexusmods.com/morrowind/mods/43988) by hlaalu66  
 
 # Grazelands
 ## Tel Vos
@@ -161,6 +162,7 @@ or
 [**Stav's Boxes - Gnisis Minaret**](https://www.nexusmods.com/morrowind/mods/43237) by Stavroguin  
 [**Reclaim Gnisis**](https://www.nexusmods.com/morrowind/mods/43971) by Alxemical  
 [**Gnisis Docks**](https://www.nexusmods.com/morrowind/mods/45994) by Gavrilo93  
+[**An Arvs-Drelen Expansion**](https://www.nexusmods.com/morrowind/mods/44091/) by hlaalu66  
 
 ## Ald Velothi
 [**Tales of Ald Velothi**](https://www.nexusmods.com/morrowind/mods/47276) by Team Balmora Bandits  
