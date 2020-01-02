@@ -32,6 +32,7 @@
 [**Imperial Tradehouse**](https://www.nexusmods.com/morrowind/mods/42999) by CryptsoftheDead  
 [**Kummu Monastery Revisited**](https://www.nexusmods.com/morrowind/mods/46565) by Kursan  
 [**Wayside Inn**](http://mw.modhistory.com/download-45-12759) by Namingway  
+[**Remiros's Ascadian Isles Trees 2**](https://www.nexusmods.com/morrowind/mods/45779/) by Remiros  
 
 ## Bitter Coast  
 [**Rainforrest of the Bitter Coast**](http://mw.modhistory.com/download-53-10251) by the viKING
@@ -42,6 +43,7 @@
 [**TamaraVico's Wood of Stone**](https://www.nexusmods.com/morrowind/mods/21164) by TamaraVico  
 [**Stonewood Pass**](https://www.nexusmods.com/morrowind/mods/41298) by Mag1cWind0w  
 [**Odai River**](https://www.nexusmods.com/morrowind/mods/45207) by multiple  
+[**Vanilla-friendly West Gash Tree Replacer**](https://www.nexusmods.com/morrowind/mods/44173/) by Melchior Dahrk  
 
 ## Grazelands
 [**Trackless Grazelands**](https://www.nexusmods.com/morrowind/mods/44194) by R-zero  
@@ -52,7 +54,7 @@
 ## Solstheim
 [**VSW - Solstheim Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810) by Wollibeebee  
 [**Bloodmoon Fort Frostmoth Bar**](https://www.nexusmods.com/morrowind/mods/42727) by LegoManIAm94  
-
+[**Interiors of Solstheim**](https://www.nexusmods.com/morrowind/mods/44451/) by Kalian  
 
 ## Misc
 [**Big Head's Precious Forks**](https://www.nexusmods.com/morrowind/mods/45689) by Guinefort1  
