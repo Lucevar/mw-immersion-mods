@@ -3,6 +3,7 @@
 [**Something's Not Right**](https://www.nexusmods.com/morrowind/mods/46497) by Cliffworms  
 [**Seven Graces Shrines Enhanced**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara  
 [**Ashlander Crops and Livestock**](https://www.nexusmods.com/morrowind/mods/46961) by HereJust4Mods  
+[**Ashlander Camps Expanded**](https://www.nexusmods.com/morrowind/mods/44784/) by twilotspankle  
 [**Vampire Clans - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47259) by Tel Shadow  
 [**More Ashstorms on Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47464/) by iskuss  
 
