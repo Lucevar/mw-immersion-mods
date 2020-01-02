@@ -12,6 +12,7 @@
 # Large/Mixed Packs
 [**Nordic Chef MMM Resources**](https://www.nexusmods.com/morrowind/mods/46142) by Team Nordic Chefs  
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Project Tamriel  
+[**Outlander Asset Library**](https://www.patreon.com/posts/outlander-11784257) by LondonRook  
 
 ## Terrain
 [**Wolli's Mountain Resources**](https://www.nexusmods.com/morrowind/mods/46483) by Wollibeebee  
@@ -26,6 +27,8 @@
 [**Uvirith (Telvanni) Resources**](http://download.fliggerty.com/download--1191) by Stuporstar  
 [**Telvanni Resources**](https://www.nexusmods.com/morrowind/mods/33271) by JonSatriani and Karpik777  
 [**Inverted Telvanni Meshes**](http://download.fliggerty.com/download-135-918) by DonnerGott  
+[**Telvanni Trap Door Resource**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk  
+[**Outlander Asset Library**](https://www.patreon.com/posts/outlander-11784257) by LondonRook  
 
 ## Hlaalu
 [**R-Zero's Random Resources**](https://www.nexusmods.com/morrowind/mods/43729) by R-Zero  
@@ -67,7 +70,7 @@ Adds Divine-specific variations of the Imperial Cult altars.
 [**Better Grindstone**](https://www.nexusmods.com/morrowind/mods/45346) by Rubberman  
 [**Skyrim Smithing Set**](https://www.nexusmods.com/morrowind/mods/42372) by Rubberman  
 [**Smith and Crafting Resource**](http://download.fliggerty.com/download--1052) by Stuporstar  
-
+[**Outlander Asset Library**](https://www.patreon.com/posts/outlander-11784257) by LondonRook  
 
 ## food
 
@@ -90,6 +93,7 @@ Adds Divine-specific variations of the Imperial Cult altars.
 [**Cat Basket**](https://download.fliggerty.com/download-56-452) by Calislahn  
 [**Dunmer Saints Tapestries**](https://www.nexusmods.com/morrowind/mods/47082) by Dietbob  
 [**High Back Chairs**](https://www.nexusmods.com/morrowind/mods/47075) by Dietbob  
+[**Outlander Asset Library**](https://www.patreon.com/posts/outlander-11784257) by LondonRook  
 
 ## clutter
 [**Functional Dice**](http://download.fliggerty.com/download--1047) by Stuporstar  
@@ -165,6 +169,7 @@ This one has the globe.
 Included here rather than in common because it's a completely new tileset and doesn't match vanilla.  
 [**Huckleberry Raft Resource**](http://download.fliggerty.com/download-135-924) by DonnerGott  
 [**The Old Wizard's Library**](https://www.nexusmods.com/morrowind/mods/47263) by afroamerican  
+[**Outlander Asset Library**](https://www.patreon.com/posts/outlander-11784257) by LondonRook  
 
 # To be investigated
 [**jdoobies taverns**](http://mw.modhistory.com/download-55-15395) by jdooby  
