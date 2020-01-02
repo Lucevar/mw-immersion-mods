@@ -13,6 +13,7 @@
 [**Dragon Toads**](https://www.nexusmods.com/morrowind/mods/47454) by neighgoth and kagz  
 [**Tamriel Rebuilt - Water Sounds**](https://www.nexusmods.com/morrowind/mods/42266) by abot  
 [**Floaty Boaties**](https://www.nexusmods.com/morrowind/mods/44246/) by ventuz  
+[**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424) by Melchior Dahrk  
 
 ## Items
 [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
@@ -24,6 +25,7 @@ A corprus meat replacer.
 [**Magic Diversity**](https://www.nexusmods.com/morrowind/mods/43380) by Arkann  
 [**Particle Arrow Replacer**](http://mw.modhistory.com/download-98-12124) by GhostNull  
 [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194) by rot  
+[**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk  
 
 ## Animations  
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150) by R-Zero  
