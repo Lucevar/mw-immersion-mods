@@ -9,8 +9,6 @@
 [**New Velothi Architecture**](https://www.nexusmods.com/morrowind/mods/43458) by Phaedrus/Gizmologist  
 [**Velothi Forge**](https://www.nexusmods.com/morrowind/mods/42486) by Slaanesh the Corruptor  
 
-
-
 # Large/Mixed Packs
 [**Nordic Chef MMM Resources**](https://www.nexusmods.com/morrowind/mods/46142) by Team Nordic Chefs  
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Project Tamriel  
@@ -19,7 +17,6 @@
 [**Wolli's Mountain Resources**](https://www.nexusmods.com/morrowind/mods/46483) by Wollibeebee  
 [**Creepy Ashland Assets Pack**](https://www.nexusmods.com/morrowind/mods/46228) by Rytelier  
 [**Momo's Palm Resource**](https://www.nexusmods.com/morrowind/mods/40934) by Momo77  
-
 
 # Faction Tilesets
 ## Redoran
@@ -57,6 +54,7 @@ Adds Divine-specific variations of the Imperial Cult altars.
 [**Window Jambs**](http://mw.modhistory.com/download-55-6988) by Dongle  
 [**Stable**](http://mw.modhistory.com/download-55-5987) by Crazyboy  
 [**Extra Common House Interior set**](https://www.nexusmods.com/morrowind/mods/46938) by RubberMan  
+[**Stone bridge**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk  
 
 ## Dunmer 
 [**Inverted Vivec Gondolier Dock**](http://download.fliggerty.com/download-135-805) by DonnerGott  
