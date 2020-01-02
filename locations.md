@@ -32,7 +32,10 @@
 [**Imperial Tradehouse**](https://www.nexusmods.com/morrowind/mods/42999) by CryptsoftheDead  
 [**Kummu Monastery Revisited**](https://www.nexusmods.com/morrowind/mods/46565) by Kursan  
 [**Wayside Inn**](http://mw.modhistory.com/download-45-12759) by Namingway  
+
 [**Remiros's Ascadian Isles Trees 2**](https://www.nexusmods.com/morrowind/mods/45779/) by Remiros  
+[**MD's Replacer for Vurt's Shrooms**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk  
+[**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk  
 
 ## Bitter Coast  
 [**Rainforrest of the Bitter Coast**](http://mw.modhistory.com/download-53-10251) by the viKING
