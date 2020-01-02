@@ -23,6 +23,8 @@
 [**Mournhold Courtiers**](https://www.nexusmods.com/morrowind/mods/44874) by TaiyakaJade   
 [**Plaza Brindisi Fix**](https://www.nexusmods.com/morrowind/mods/46897) by Pinsvinn  
 [**Mournhold Palace Revamped**](http://mw.modhistory.com/download-87-11848) by Princess Stomper  
+[**Interiors of Mournhold**](https://www.nexusmods.com/morrowind/mods/44447/) by Kalian  
+[**Better Mournhold**](https://www.nexusmods.com/morrowind/mods/45986/) by Kalian  
 
 # Bitter Coast
 ## Seyda Neen
