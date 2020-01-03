@@ -114,15 +114,16 @@ Includes an Argonian companion
 * Statue of Azura  
 * [**Reclamations in Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho  
 * [**The Doors of Oblivion**](https://www.nexusmods.com/morrowind/mods/44398) by Ashtaar  
-* Apostates to Oblivion  
+* [**Apostates to Oblivion**](http://mw.modhistory.com/download-68-10394) by Atropos    
 * [**Actual Big Head**](https://www.nexusmods.com/morrowind/mods/44042) by Leyawynn  
 * Big Head's Big Head  
 * [**Big Head's Precious Forks**](https://www.nexusmods.com/morrowind/mods/45689) by Guinefort1  
-* Daedric Sorcery  
+* [**Daedric Sorcery**](http://mw.modhistory.com/download-55-4488) by Edwardsmd  
 * [**Love in the time of daedra**](https://www.nexusmods.com/morrowind/mods/43635) by HangHimHigher  
 * [**Wabbajack**](https://www.nexusmods.com/morrowind/mods/44653) by Team Wretched Netch  
 * [**Advanced Conjuration - Necromancy and Summoning**](https://www.nexusmods.com/morrowind/mods/47465) by Evelyn  
-* [**The Forgotten**](https://www.nexusmods.com/morrowind/mods/45733) by Enclavekiller
+* [**The Forgotten**](https://www.nexusmods.com/morrowind/mods/45733) by Enclavekiller  
+* [**Daedric invocation**](http://mw.modhistory.com/download-55-2222) by Endrek  
 
 ## Sheogorath
 * [**Throwable Eggs**](https://www.nexusmods.com/morrowind/mods/46446)
