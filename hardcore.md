@@ -29,6 +29,7 @@ No more drinking 10 potions at once!
 [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade  
 [**Permanently Perished**](https://www.nexusmods.com/morrowind/mods/45672) by NullCascade  
 [**The Levitation Act**](https://www.nexusmods.com/morrowind/mods/47345) by OperatorJack and Gavrilo93  
+[**Anchor Teleportation**](https://www.nexusmods.com/morrowind/mods/47413) by OperatorJack  
 
 ## Weather
 [**Ashfall**]() by Merlord  
