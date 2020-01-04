@@ -6,4 +6,6 @@
 [**Skyrim Style Splash Screens**](https://www.nexusmods.com/morrowind/mods/43026) by cookiemonster16  
 [**Skyrim Style Splash Screens with Quotes**](https://www.nexusmods.com/morrowind/mods/43429) by yuredew  
 [**Morrowind Screens Redone**](https://www.nexusmods.com/morrowind/mods/46259) by Gudleif  
-[**RFD's Splash Screens**](https://www.nexusmods.com/morrowind/mods/47400?tab=description) by RedFurryDemon  
+[**RFD's Splash Screens**](https://www.nexusmods.com/morrowind/mods/47400) by RedFurryDemon  
+[**Cut Bethesda Splash Screens**](https://www.nexusmods.com/morrowind/mods/45050) by Ragox  
+[**Official Xbox Screens**](https://www.nexusmods.com/morrowind/mods/46422) by PoodleSandwich  
