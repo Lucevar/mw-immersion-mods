@@ -18,6 +18,7 @@
 [**Ports of Vvardenfell**](https://www.nexusmods.com/morrowind/mods/44823) by Mick083  
 [**Velothi Strider Port Lights**](https://www.nexusmods.com/morrowind/mods/46453) by Ashtaar  
 [**The Serendipitous Traveller**](https://www.nexusmods.com/morrowind/mods/44714) by Kursan  
+[**Unique Signs and Banners**](http://mw.modhistory.com/download-44-6950) by Bart Notelaers  
 
 # Tamriel Rebuilt
 [**Unique Tavern Signs for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/46794) by Rats  
