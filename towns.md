@@ -19,6 +19,9 @@
 [**Velothi Strider Port Lights**](https://www.nexusmods.com/morrowind/mods/46453) by Ashtaar  
 [**The Serendipitous Traveller**](https://www.nexusmods.com/morrowind/mods/44714) by Kursan  
 
+# Tamriel Rebuilt
+[**Unique Tavern Signs for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/46794) by Rats  
+
 # Mournhold
 [**A Walk in the Park - Mournhold Temple Courtyard Overhaul**](https://www.nexusmods.com/morrowind/mods/46861) by seelof  
 [**Mournhold Courtiers**](https://www.nexusmods.com/morrowind/mods/44874) by TaiyakaJade   
