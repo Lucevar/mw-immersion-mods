@@ -10,6 +10,7 @@
 [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich  
 [**Balmora Rumour Fix**](https://www.nexusmods.com/morrowind/mods/47455) by Lucevar  
 [**Caius Cosades Anti-Journal**](https://www.nexusmods.com/morrowind/mods/47224) by Lucevar  
+[**LDM - Abolitionists**](https://www.nexusmods.com/morrowind/mods/47499) by Lucevar  
 
 ## Audio
 [**VGreetings**](http://mw.modhistory.com/download-42-13335) by TheOtherFelix  
