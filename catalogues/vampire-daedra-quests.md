@@ -23,6 +23,8 @@ Makes Big Head's shack more fork-y, so he can show off his hoarded collection be
 #### A Cure for Vampirism
 * [**A Cure for Vampirism - Skink's Solution**](https://www.nexusmods.com/morrowind/mods/47375) by Gavrilo93  
 If you completed Skink-in-Tree's-Shade's quest regarding Galur Rithari's papers, he won't act ignorant when asked about the cure for vampirism later. Additionally, picking up Galur Rithari's papers no longer puts an open quest in your journal.  
+* [**Molag Bal's Charm**](https://www.nexusmods.com/morrowind/mods/47496) by Revya   
+Alternate path to A Cure for Vampirism that grants you a charm to remove sun damage - for the minor cost of forever giving up your humanity and relinquishing your soul to Molag Bal, of course. Should be compatible with Gavrilo's changes to the original path through this quest.  
 
 # Clan Aundae's Quests
 #### Blood Ties
