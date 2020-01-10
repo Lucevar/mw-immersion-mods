@@ -44,6 +44,7 @@ Adds Divine-specific variations of the Imperial Cult altars.
 [**Imperial Plaza Resource**](https://www.nexusmods.com/morrowind/mods/42184) by Slartibartfast1  
 [**Ruins**](https://www.nexusmods.com/morrowind/mods/21255) by Battery86  
 [**Inverted Imperial Spiral Set**](http://download.fliggerty.com/download-135-776) by DonnerGott  
+[**Imperial Castle Meshes**](http://mw.modhistory.com/download-45-13315) by Ghostnull  
 
 ## common
 [**Built in bookcase resource**](https://download.fliggerty.com/download--591) by Kiteflyer61 and Latendresse76  
