@@ -1,4 +1,8 @@
 # Graphics Replacers  
+# Base Pack
+[**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros  
+
+# Specific Replacers
 [**Clutter Retexture**](https://www.nexusmods.com/morrowind/mods/45972?) by Qwertyquit  
 [**Labeled Potions**](https://www.nexusmods.com/morrowind/mods/44374) by R-zero and Greatness7  
 [**Dwemer Puzzle Box Replacer - PBR**](https://www.nexusmods.com/morrowind/mods/45006) by Remiros  
@@ -14,3 +18,5 @@
 [**Key Replacer**](https://www.nexusmods.com/morrowind/mods/6749) by Daduke  
 [**Visually Filled Soulgems**](https://www.nexusmods.com/morrowind/mods/467090) by NullCascade  
 [**Thickle-Lo - The Succulent Hackle-Lo Replacer**](https://www.nexusmods.com/morrowind/mods/47502/) by Melchior Dahrk  
+[**Arukinn's Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100) by Arukinn  
+[**Old Dwemer Books**](https://www.nexusmods.com/morrowind/mods/43339) by Yar-Yulme  
