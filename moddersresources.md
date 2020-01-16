@@ -95,6 +95,7 @@ Adds Divine-specific variations of the Imperial Cult altars.
 [**Dunmer Saints Tapestries**](https://www.nexusmods.com/morrowind/mods/47082) by Dietbob  
 [**High Back Chairs**](https://www.nexusmods.com/morrowind/mods/47075) by Dietbob  
 [**Outlander Asset Library**](https://www.patreon.com/posts/outlander-11784257) by LondonRook  
+[**Stripes' Random Resources**](https://www.nexusmods.com/morrowind/mods/47471) by Stripes  
 
 ## clutter
 [**Functional Dice**](http://download.fliggerty.com/download--1047) by Stuporstar  
