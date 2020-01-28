@@ -31,3 +31,10 @@
 - Caves and tombs are randomly assigned a lock level  
 - Shops have more barriers to prevent casual tresspassing  
 - Cities lock up at night  
+
+## Stop, criminal scum!
+- Mental manipulation is Bad (MetaBarj0's manipulated)
+- Levitation is outlawed (The Levitation Act)
+- Summoning in towns is illegal (Illegal Summoning)
+- Restricted contraband
+- Hospitality Papers
