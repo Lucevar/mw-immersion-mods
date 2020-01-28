@@ -6,14 +6,16 @@
 - Alchemy: Chance to be poisoned by noxious fumes if you fail to create a potion or poison.  
 - Security: Chance to set off a trap if you fail a probe attempt. Chance to jam a lock if you fail a lockpick attempt, causing the lock value to go up.  
 
-## Everything Hurts = Environmental Hazards
+## Everything Hurts - Environmental Hazards
 - Fire hurts  
 - Steam vents hurt  
-- Ash storms hurt  
-- Walking on metal barely suspended above lava hurts  
-- Being in freezing water hurts  
-- Being in blight/ash storms carries a risk of blight  
+- Ash storms hurt (Weather Effects?)   
+- Walking on metal barely suspended above lava hurts (Ashfall temp mechanics?)  
+- Being in freezing water hurts (Ashfall temp mechanics?)  
+- Being in blight/ash storms carries a risk of blight (Blight storms restored?)  
 - Hanging around in sewers or swamps carries a risk of disease  
+- Scumponds slow your movement
+- Earthquakes have a risk of hurting you if you're inside (R-zero's earthquake mod)
 
 ## Plague Inc - Disease Mechanics
 - Some NPCs randomly have diseases  
