@@ -44,6 +44,7 @@ A corprus meat replacer.
 [**Kirel's Interior Weather**](http://mw.modhistory.com/download-90-3021) by Kirel  
 [**Outdoor Banners with Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
 [**Tavern Ambience**](https://www.nexusmods.com/morrowind/mods/252) by Erik Be  
+[**Sheep-no-more**](https://www.nexusmods.com/morrowind/mods/45168) by mcchuggernaut  
 
 [**Sea of Sound**](https://www.nexusmods.com/morrowind/mods/45737) by CptJoker  
 [**Shut the fck up cliff racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
