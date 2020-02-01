@@ -11,6 +11,7 @@
 [**Morrowind's Epic Ladies**](https://www.nexusmods.com/morrowind/mods/41589) by Meldiocre  
 [**Morrowind's Epic Ladies - WE Addon**](https://www.nexusmods.com/morrowind/mods/41650) by Meldiocre  
 [**Morrowind's Epic Ladies - DE Addon**](https://www.nexusmods.com/morrowind/mods/41737) by Meldiocre  
+[**MEL's Dunmer Addon - Eye Glow Fix**](https://www.nexusmods.com/morrowind/mods/47552) by Funposter  
 [**Morrowind's Epic Ladies - HE Addon**](https://www.nexusmods.com/morrowind/mods/41784) by Meldiocre  
 [**Morrowind's Epic Ladies - Redguard Addon**](https://www.nexusmods.com/morrowind/mods/41678) by Meldiocre  
 [**Pluginless Khajiit Head Pack**](https://www.nexusmods.com/morrowind/mods/43110) by ashiraniir  
