@@ -85,6 +85,7 @@ The Shrine of Daring isn't compatible with Holidays Across Tamriel/Dramatic Vive
 [**The Lizard's Head**](https://www.nexusmods.com/morrowind/mods/39748) by DebiDalio  
 [**Nemon's Vivec Interiorator**](http://mw.modhistory.com/download-80-11740) by Nemon  
 [**Vivec Guild of Mages Expanded**](https://www.nexusmods.com/morrowind/mods/44935) by Mordaxis  
+[**The Secret Library**](http://mw.modhistory.com/download-68-6500) by Master Sam  
 
 ## Ebonheart
 These affect different parts of Ebonheart and are therefore compatible.  
@@ -95,6 +96,7 @@ These affect different parts of Ebonheart and are therefore compatible.
 
 ## Rethan Manor
 [**Resplendent Rethan - Jewel of the Odai**](https://www.nexusmods.com/morrowind/mods/47281) by Team Azturnal  
+[**Rethan Estate**](https://www.nexusmods.com/morrowind/mods/47422) by Qirin Domean  
 
 # Azura's Coast
 ## Tel Branora
@@ -168,6 +170,9 @@ or
 [**Reclaim Gnisis**](https://www.nexusmods.com/morrowind/mods/43971) by Alxemical  
 [**Gnisis Docks**](https://www.nexusmods.com/morrowind/mods/45994) by Gavrilo93  
 [**An Arvs-Drelen Expansion**](https://www.nexusmods.com/morrowind/mods/44091/) by hlaalu66  
+[**Gnisis Expanded Remaster**](https://www.nexusmods.com/morrowind/mods/47479) by zobator and craigor  
+
+or  [**TM - New Gnisis**](https://www.nexusmods.com/morrowind/mods/42235) by Trancemaster  
 
 ## Ald Velothi
 [**Tales of Ald Velothi**](https://www.nexusmods.com/morrowind/mods/47276) by Team Balmora Bandits  
@@ -197,6 +202,7 @@ Balmora has a ridiculous number of mods - it's a meme for a reason! I recommend 
 [**Balmora Redecorated**](https://www.nexusmods.com/morrowind/mods/42580) by Lucevar  
 [**South Wall, Den of Iniquity**](http://mw.modhistory.com/download-87-13449) by Balasthustrius  
 [**The Seedy Plates**](https://www.nexusmods.com/morrowind/mods/19006) by Von Django  
+[**Brevur of Balmora**](https://www.nexusmods.com/morrowind/mods/47557/) by R-zero  
 
 [**Fort Moonmoth Expanded**](https://www.nexusmods.com/morrowind/mods/46963) by Yommumoi  
 
