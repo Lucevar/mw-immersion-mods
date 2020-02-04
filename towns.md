@@ -171,6 +171,7 @@ or
 [**Gnisis Docks**](https://www.nexusmods.com/morrowind/mods/45994) by Gavrilo93  
 [**An Arvs-Drelen Expansion**](https://www.nexusmods.com/morrowind/mods/44091/) by hlaalu66  
 [**Gnisis Expanded Remaster**](https://www.nexusmods.com/morrowind/mods/47479) by zobator and craigor  
+[**Talos Cult Revised**](https://www.nexusmods.com/morrowind/mods/44577) by Cheydin  
 
 or  [**TM - New Gnisis**](https://www.nexusmods.com/morrowind/mods/42235) by Trancemaster  
 
