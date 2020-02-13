@@ -43,26 +43,32 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 [**Redoran Council Hall Improvements**](https://www.nexusmods.com/morrowind/mods/44931?tab=files) by Kalian  
 
 ## Tribunal Temple
-[**Velothi Wall Art**]()  
-[**Ald-ruhn Temple Expansion**]()  
-[**Urbanopticum**]()  
-[**Gnisis Hand**]()  
-[**Shrines of the Seven Graces**]()  
+[**Velothi Wall Art**](https://www.nexusmods.com/morrowind/mods/46454) by Ashtaar  
+[**Ald-ruhn Temple Expansion**](http://mw.modhistory.com/download-31-14377) by Xeth-Ban  
+[**Bigger Temples - Urbanopticum of Vvardenfell**](https://www.nexusmods.com/morrowind/mods/46184) by Tyddy & Colt17  
+[**RR Mod Series - Better Gnisis Arch**](https://www.nexusmods.com/morrowind/mods/46224) by Team RR  
+[**Stav's Boxes - Gnisis Minaret**](https://www.nexusmods.com/morrowind/mods/43237) by Stavroguin  
+[**Shrines of the Seven Graces**](https://www.nexusmods.com/morrowind/mods/46417) by QueenLunara  
 [**Passage of Prayers**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn    
-[**Illuminated Palace**]()  
-[**Prison Moon Enhanced II**]()  
-[**Holy Art**]()
+[**Illuminated Palace**](https://www.nexusmods.com/morrowind/mods/44585) by vojteek   
+[**Prison Moon Enhanced II**](http://www.fliggerty.com/phpBB3/viewtopic.php?f=50&t=6024) by Nahtaivel    
+[**Holy Art**](https://www.nexusmods.com/morrowind/mods/47107) by vonwolfe  
+[**Holy Art Retexture**](https://www.nexusmods.com/morrowind/mods/47220) by Brujoloco  
 [**Temples with Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
 [**Blight Bounties**](https://www.nexusmods.com/morrowind/mods/45595) by Ivza  
 [**Muck Shovel of Vivec**](http://mw.modhistory.com/download-11-8669) by dongle  
+[**Shrine of Mount Assarnibibi**](https://www.nexusmods.com/morrowind/mods/46858) by istreddify  
+
+[**Shrines - Restore Health and Cancel Options**](https://www.nexusmods.com/morrowind/mods/43233) by Skrawafunda  
+[**Descriptive Shrines**](https://www.nexusmods.com/morrowind/mods/46119) by SuperQuail  
 
 ## Great House Telvanni
 [**LGNPC**]()
-[**Quest Tweaks and Alternatives**]() by Stuporstar  
+[**Quest Tweaks and Alternatives**](https://stuporstar.sarahdimento.com/updates/downloads/) by Stuporstar  
 [**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Gavrilo93  
-[**Uvirith's Legacy**]() by Stuporstar  
-[**Building Up Uvirith's Legacy**]() by  
-[**Tel Uvirith LITE**]()  
+[**Uvirith's Legacy**](https://stuporstar.sarahdimento.com/updates/downloads/) by Stuporstar  
+[**Building Up Uvirith's Legacy**](http://mw.modhistory.com/download-69-11851) by Acheron & Artimis Fowl  
+[**Tel Uvirith LITE**](https://www.nexusmods.com/morrowind/mods/45615) by mala  
 [**Of Ash And Blight - Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk
 
 # Imperial Factions
