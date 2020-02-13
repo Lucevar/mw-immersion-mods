@@ -126,6 +126,7 @@ This mod started as a simple house mod and expanded into an entire smuggling fac
 [**Errands for Orvas**](https://calezane.home.xs4all.nl/mw/mwmods.htm) by Calezane  
 
 ## Vampire Clans
+[**Quarra Clan**](http://mw.modhistory.com/download-21-4404) by Jonathan Nash  
 
 ## Ashlanders 
 [**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
