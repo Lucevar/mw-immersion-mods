@@ -67,13 +67,14 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 
 # Imperial Factions
 ## Mages Guild
-[**Mage Robes**]() by Melchior Dahrk  
-[**Magical Missions**]()  
-[**Dagon Fel Mages Guild**]()  
+[**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739) by Melchior Dahrk  
+[**Antares' Mage Robes**](https://www.nexusmods.com/morrowind/mods/45905) by Arcimaestro Antares
+[**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by Von Django    
+[**Dagon Fel Mages Guild**](https://www.nexusmods.com/morrowind/mods/44576) by Utseeva  
 [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
-[**Caldera Mages Guild Expanded**]() by Lucevar  
-[**Vivec Guild of Mages Expanded**](https://www.nexusmods.com/morrowind/mods/44935)  
-[**Scrolls of the Nine Barriers**]() by Melchior Dahrk
+[**Caldera Mages Guild Expanded**](https://www.nexusmods.com/morrowind/mods/45750) by Lucevar  
+[**Vivec Guild of Mages Expanded**](https://www.nexusmods.com/morrowind/mods/44935) by Mordaxis    
+[**Scrolls of the Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831) by Melchior Dahrk
 [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126) by Melchior Dahrk  
 [**King of Worms**](https://www.nexusmods.com/morrowind/mods/46611) by Tel Shadow and Caeris  
 
@@ -131,16 +132,22 @@ Adds a number of new quests for the Ashlanders.
 Adds a number of roleplaying options to the main quest, including alternate paths to completing it, the ability to turn it down completely, and a number of new quests for the Ashlanders.
 
 ## House Dagoth
-[**Great House Dagoth**]()  
-[**Endrek's Sixth House**]()  
+[**Great House Dagoth**](http://mw.modhistory.com/download-56-8052) by The Mad God  
+[**Endrek's Sixth House**](http://mw.modhistory.com/download-90-7126) by Endrek  
 [**After the Blight**](https://www.nexusmods.com/morrowind/mods/46099) by Team Purist Pariahs   
 
 ## Twin Lamps
 [**Twin Lamps**](http://mw.modhistory.com/download-53-7283) by Brother juniper  
 [**Nevena's Twin Lamps and Slave Hunters -- 2019 update**](https://www.nexusmods.com/morrowind/mods/47420) by Nevena and l1lartur0  
 
+## Talos Cult
+[**The Talos Cult Conspiracy**](https://www.nexusmods.com/morrowind/mods/47576) by Gavrilo93 & Caeris  
+[**Talos Cult Revised - G93's Version**](https://www.nexusmods.com/morrowind/mods/47571) by Gavrilo93 & Cheydin  
+[**Talos Cult Revised - with Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44577) by Cheydin  
+
 # New Factions
 [**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by Gavrilo93  
 [**Guild of Vampire Hunters**](https://www.nexusmods.com/morrowind/mods/45832) by Gavrilo93  
 [**Vvardenfell Brotherhood**](https://www.nexusmods.com/morrowind/mods/47314) by Caeris  
 [**To Serve Sithis**](https://www.nexusmods.com/morrowind/mods/45005) by Emerys  
+[**Rise of House Sadras**](https://www.nexusmods.com/morrowind/mods/45200) by RubberMan  
