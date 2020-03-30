@@ -9,6 +9,11 @@ Dwarven War Axe
 Glass War Axe  
 Ebony War Axe  
 
+Conoon Chodala's Axe  
+Karpal's Friend  
+War Axe of Airan Ammu  
+Wind of Ahaz  
+
 ### 2-hand
 Miner's Pick  
 Iron Battle Axe  
@@ -17,6 +22,11 @@ Steel Battle Axe
 Dwarven Battle Axe   
 Orcish Battle Axe  
 Daedric Battle Axe  
+
+Cloudcleaver  
+Dwemer Pneuma-Trap  
+Stormkiss  
+Widowmaker  
 
 ## Blunt Weapons
 ### 1-hand
@@ -32,6 +42,11 @@ Dwarven Mace
 Ebony Mace  
 Daedric Mace  
 
+Ane Teria's Mace  
+Anora's Club  
+Clutterbane  
+Light of Day  
+
 ### 2-hand Close
 Iron Warhammer  
 Steel Warhammer  
@@ -39,6 +54,9 @@ Dwarven Warhammer
 Orc Warhammer  
 Sixth House Bell Hammer
 Daedric Warhammer  
+
+BanHammer  
+Veloth's Judgement  
 
 ### 2-hand Wide
 Wooden Staff  
@@ -48,6 +66,15 @@ Dreugh Staff
 Glass Staff  
 Ebony Staff  
 Daedric Staff  
+
+Ancestral Wisdom Staff  
+Hellfire Staff  
+Herder's Crook  
+Maryon's Staff  
+Staff of the Silver Dawn  
+Silver Staff of Hunger  
+Staff of Llevule  
+Trebonius' Staff  
 
 ## Short Blades
 Iron Fork  
@@ -71,6 +98,14 @@ Ebony Shortsword
 Daedric Tanto  
 Daedric Shortsword  
 Daedric Wakizashi  
+
+Black Hands Dagger  
+Dagger of Judgement  
+A Rusty Dagger  
+Flawed Dwemer Jinksword  
+Racerbeak  
+Shimsil  
+Soul Drinker  
 
 ## Long Blades
 ### 1-hand
@@ -102,6 +137,11 @@ Glass Claymore
 Daedric Claymore  
 Daedric Dai-katana  
 
+Fury  
+Magebane  
+Sword of Agustas  
+Temreki, Shackler of Souls  
+
 ## Spears
 Chitin Spear  
 Iron Spear  
@@ -116,6 +156,14 @@ Ebony Spear
 Glass Halberd  
 Daedric Spear  
 
+Airan-Ahhe's Spirit Spear  
+Bthuangth's Harvester  
+Ebony Spear (Theldyn Virith)  
+Erud-Dan's Spear  
+Greed  
+Illkurok  
+Stormforge  
+
 ## Marksman
 ### Bows
 Chitin Short Bow
@@ -124,6 +172,9 @@ Long Bow
 Steel Longbow  
 Bonemold Long Bow  
 Daedric Long Bow  
+
+Bonebiter Bow of Sul-Senipul  
+Shortbow of Sanguine Sureflight  
 
 ### Arrows
 Corkbulb Arrow
@@ -159,3 +210,5 @@ Glass Throwing Star
 Ebony Dart  
 Ebony Throwing Star  
 Daedric Dart  
+
+Dart of Judgement  
