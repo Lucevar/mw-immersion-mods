@@ -12,7 +12,7 @@
 - Ash storms hurt (Weather Effects?)   
 - Walking on metal barely suspended above lava hurts (Ashfall temp mechanics?)  
 - Being in freezing water hurts (Ashfall temp mechanics?)  
-- Being in blight/ash storms carries a risk of blight
+- Being in blight/ash storms carries a risk of blight  
 -- [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558) by Half11  
 - Hanging around in sewers or swamps carries a risk of disease  
 - Scumponds slow your movement
