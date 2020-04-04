@@ -81,13 +81,16 @@
 - [**Morrowind Bandits Unlocked**](http://mw.modhistory.com/download-24-2844) by Cliffworms -- adds keys to locked doors and containers in bandit caves  
 - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7 -- now people without skill in security or alteration can open locks too. Beware, it's hard on your kit, and if you're using Realistic Repair it might not be so easy to repair.  
 
-## Stop, criminal scum!
+## Stop right there, criminal scum!
 - Mental manipulation is Bad (MetaBarj0's [**Manipulated**](https://www.nexusmods.com/morrowind/mods/47222))  
 - Levitation is outlawed ([**The Levitation Act**](https://www.nexusmods.com/morrowind/mods/47345) by Operator Jack and Gavrilo93) - except by the Telvanni, of course. Those with superior willpower can get away more speedily -- [**Wings of Will**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel    
 - Summoning in towns is illegal ([**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105) by OperatorJack)   
 - Restricted contraband - [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich  
 - Hospitality Papers - [**Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by PoodleSandwich, Quorn, Superquail and Jeff Baker  
 - [**Bounty Hunters**](http://mw.modhistory.com/download-55-6173) by Arcimaestro Antares -- adds bounty hunters that will try to apprehend you if you have a bounty above 500 septims.  
+- [**Regional Bounty**](https://www.nexusmods.com/morrowind/mods/47285/) by Sushi -- why does someone in Mournhold know you stole a loaf of bread in Dagon Fel? Now they don't.  
+- [**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786) by Lucevar -- provides additional options for clearing your bounty beyond turning yourself in or cooperating with the Thieves Guild.  
+- [**What Thieves Guild?**](https://www.nexusmods.com/morrowind/mods/47728) by Von Djangos -- you know how theft is illegal, and the Camonna Tong are trying to wipe the Thieves Guild off the face of Nirn? Now they're a bit more discreet about their profession.  
 
 ## Live by the sword die by the sword
 - [**Defensive Stance**](https://www.nexusmods.com/morrowind/mods/46845) by Merlord - Crouching with a shield equipped increases block, reduces speed.  
