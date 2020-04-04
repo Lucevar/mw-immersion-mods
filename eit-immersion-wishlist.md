@@ -1,5 +1,9 @@
 # The Everything Is Terrible Wishlist of Dreams
 
+## Economic Recession is Here
+- [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11  
+- [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by mort  
+
 ## Oops You Screwed Up - Consequences for skill failure  
 - Armorer: Damage or (rarely) destroy armor you attempt to repair, if your armorer skill is very low.  
 - Enchant: Chance that a soulwraith appears and attacks you if you fail to enchant or recharge an item.  
@@ -44,8 +48,8 @@
 - Cities lock up at night  
 
 ## Stop, criminal scum!
-- Mental manipulation is Bad (MetaBarj0's manipulated)
-- Levitation is outlawed (The Levitation Act)
-- Summoning in towns is illegal (Illegal Summoning)
-- Restricted contraband
-- Hospitality Papers
+- Mental manipulation is Bad (MetaBarj0's [**Manipulated**](https://www.nexusmods.com/morrowind/mods/47222))  
+- Levitation is outlawed ([**The Levitation Act**](https://www.nexusmods.com/morrowind/mods/47345) by Operator Jack and Gavrilo93) - except by the Telvanni, of course.  
+- Summoning in towns is illegal ([**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105) by OperatorJack)   
+- Restricted contraband - [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich  
+- Hospitality Papers - [**Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by PoodleSandwich, Quorn, Superquail and Jeff Baker  
