@@ -1,5 +1,9 @@
 # The Everything Is Terrible Wishlist of Dreams
 
+## Take shelter you fool
+- Ashfall by Merlord
+- [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) by Half11  
+
 ## Economic Recession is Here
 - [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11  
 - [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by mort  
@@ -23,8 +27,10 @@
 - Earthquakes have a risk of hurting you if you're inside (R-zero's earthquake mod)
 
 ## Plague Inc - Disease Mechanics
+- Creatures now carry a wider variety of diseases  
+-- [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228) by Half11  
 - Some NPCs randomly have diseases  
-- They can also catch diseases from you (Plaguebearer?)  
+- They can also catch diseases from you ([[**Plaguebearer**](https://www.nexusmods.com/morrowind/mods/45760) by R-zero)    
 - Small (randomly selected, including nothing) reward for curing them (aka low effort radiant healer quests)  
 - Healers actually heal you (for a price)  
 -- [**Healers**](https://www.nexusmods.com/morrowind/mods/47752) by Raejak (Simbelmyne Edit)  
@@ -49,7 +55,7 @@
 
 ## Stop, criminal scum!
 - Mental manipulation is Bad (MetaBarj0's [**Manipulated**](https://www.nexusmods.com/morrowind/mods/47222))  
-- Levitation is outlawed ([**The Levitation Act**](https://www.nexusmods.com/morrowind/mods/47345) by Operator Jack and Gavrilo93) - except by the Telvanni, of course.  
+- Levitation is outlawed ([**The Levitation Act**](https://www.nexusmods.com/morrowind/mods/47345) by Operator Jack and Gavrilo93) - except by the Telvanni, of course. Those with superior willpower can get away more speedily -- [**Wings of Will**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel    
 - Summoning in towns is illegal ([**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105) by OperatorJack)   
 - Restricted contraband - [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich  
 - Hospitality Papers - [**Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by PoodleSandwich, Quorn, Superquail and Jeff Baker  
