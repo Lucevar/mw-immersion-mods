@@ -10,6 +10,7 @@
 * Paralysis -
 * * Existing non-Lua: [**Full Paralysis**](http://mw.modhistory.com/download-37-12981)
 * Better Telekinesis 
+* * Fulfilled by Operator Jack and Kurpulio: [**MM - Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534)  
 * * Existing non-Lua: [**Better Telekinesis**](http://mw.modhistory.com/download-37-13222)
 * Swimming Realism
 * * Existing non-Lua: [**Yacoby's Swimming Realism**](http://mw.modhistory.com/download-90-10456)
