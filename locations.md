@@ -14,6 +14,7 @@
 [**Lake Nabia Region**](https://www.nexusmods.com/morrowind/mods/45939) by Petethegoat  
 [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423/) by Melchior Dahrk  
 [**Ash Mire**](https://www.nexusmods.com/morrowind/mods/44200) by Reizeron  
+[**Strider Burial**](https://www.nexusmods.com/morrowind/mods/47661) by Anumaril  
 
 ## Molag Amur
 [**Shrine of Mount Assarnibi**](https://www.nexusmods.com/morrowind/mods/46858) by istreddify  
