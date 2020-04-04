@@ -31,6 +31,12 @@
 - Hanging around in sewers or swamps carries a risk of disease  
 - Carrying corprus meat carries a risk of blight  
 - Diseases worsen over time / have actual effects  
+- Blighted animals display visual signs of their disease  
+-- [**Blighted Animals Retextured**](https://www.nexusmods.com/morrowind/mods/42245) by Catherine and PeterBitt  
+- Protective masks - certain helmets will provide protection against blight and common diseases    
+-- [**Protective Masks Redux**](https://www.nexusmods.com/morrowind/mods/47068) by Half11. 
+- Blighted mines affect workers  
+-- [**Blighted Mines Mean Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Gavrilo93  
 
 ## N'wahs out
 - Caves and tombs are randomly assigned a lock level  
