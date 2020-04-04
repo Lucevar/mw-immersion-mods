@@ -48,6 +48,7 @@
 - [**Visually Filled Soulgems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade -- Enchanted items have visual markers. Now soul gems do too.  
 - [**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657) by NullCascade -- Soul gems will sometimes produce the sounds of the creatures they contain. Very creepy.  
 - [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade -- Rate limits potion drinking, preventing some exploits.  
+- [**Pointy Ingredients Hurt Coming Out**](https://www.nexusmods.com/morrowind/mods/44932) by mort -- if you eat glass it's not going to feel great.  
 
 ## Bad Life Choices
 - [**Immersive Alcohol**](https://www.nexusmods.com/morrowind/mods/45589) by Merlord -- get drunk and black out, and other unfun side effects of drinking too much.  
@@ -114,7 +115,7 @@
 - [**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786) by Lucevar -- provides additional options for clearing your bounty beyond turning yourself in or cooperating with the Thieves Guild.  
 - [**What Thieves Guild?**](https://www.nexusmods.com/morrowind/mods/47728) by Von Djangos -- you know how theft is illegal, and the Camonna Tong are trying to wipe the Thieves Guild off the face of Nirn? Now they're a bit more discreet about their profession.  
 - [**The Last Witness**](https://www.nexusmods.com/morrowind/mods/46684) by NullCascade -- if you kill witnesses to your crimes quickly enough you can prevent gaining a bounty.  
-
+- [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581) by mort -- essentially restores the pickpocketing mechanic.  
 
 ## Live by the sword die by the sword
 - [**Defensive Stance**](https://www.nexusmods.com/morrowind/mods/46845) by Merlord - Crouching with a shield equipped increases block, reduces speed.  
