@@ -48,6 +48,7 @@
 - Hanging around in sewers or swamps carries a risk of disease  
 - Scumponds slow your movement
 - Earthquakes have a risk of hurting you if you're inside (R-zero's earthquake mod)
+- [**Realistic Sun Damage**](https://www.nexusmods.com/morrowind/mods/47540) by OperatorJack - adds a randomness element to sun damage to account for cloud cover, etc.  
 
 ## Plague Inc - Disease Mechanics
 - Creatures now carry a wider variety of diseases  
@@ -80,6 +81,8 @@
 - [**Morrowind Cities Unlocked**](https://www.nexusmods.com/morrowind/mods/33917) by Cliffworms -- adds keys to most locked doors and containers, for an enterprising thief to find  
 - [**Morrowind Bandits Unlocked**](http://mw.modhistory.com/download-24-2844) by Cliffworms -- adds keys to locked doors and containers in bandit caves  
 - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7 -- now people without skill in security or alteration can open locks too. Beware, it's hard on your kit, and if you're using Realistic Repair it might not be so easy to repair.  
+- [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot -- syncs the lock status of loading doors. Great with mods like Pursuit Revisited or DragonDoor, and gives the lock spell a purpose in combination with those mods.  
+- [**Pursuit Revisited**](https://www.nexusmods.com/morrowind/mods/45904) by Svengineer -- Enemies will now follow you through load doors, based on a number of sensible AI calculations (animals can't open doors, vampires won't follow you outside unless it's night, etc). Guards will come inside if an NPC calls the alarm. There's a delay based on distance. NPCs will eventually go back to their original positions. You can now yield to guards. Travel restrictions during combat. You can now lock doors with lockpicks. NPCs will flee if their health is too low. And more (read the description thoroughly for this one!)  
 
 ## Stop right there, criminal scum!
 - Mental manipulation is Bad (MetaBarj0's [**Manipulated**](https://www.nexusmods.com/morrowind/mods/47222))  
@@ -97,9 +100,13 @@
 - [**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) by Merlord -- distant targets are more difficult to hit. Crouching provides a bonus.  
 - [**No Combat Menu**](https://www.nexusmods.com/morrowind/mods/46732) by Merlord -- you can no longer access your inventory (or containers or corpses) while in combat. Better make good use of your hotkeys!  
 - [**Realistic Movement Speed**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack -- Movement speed is now tactically important. Ever thought it was odd that the player and NPCs can all run backwards at full speed? Now you can't. Strafing is also nerfed.  
+- [**Realistic Healing and Injuries**](https://www.nexusmods.com/morrowind/mods/47084) by Aracelliy -- you can now incur injuries in combat that you must rest to heal. Pairs well with mods like Bed Buddies and No Rest Without A Bed that make resting more difficult.  
 
 ## Some people are just dicks
 - [**Ajira's Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/47550) by Danae and Merlord -- randomises the locations of Ajira's stolen alchemy reports.  
+
+## Making a living
+- [**Game of Three Cups**](http://mw.modhistory.com/download-55-6173) by Arcimaestro Antares -- gain (or lose) some money by gambling.  
 
 ## It just makes sense
 - [**Fargoth's Ring Unbarrelled**](https://www.nexusmods.com/morrowind/mods/47224) by Lucevar -- ever thought that your character wouldn't rummage around in a filthy barrel? Now the ring is lying on the ground instead - and you can decide whether to keep it or try to find its owner.  
