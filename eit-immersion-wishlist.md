@@ -26,7 +26,7 @@
 -- [**Healers**](https://www.nexusmods.com/morrowind/mods/47752) by Raejak (Simbelmyne Edit)  
 - Being in blight/ash storms carries a risk of blight  
 -- [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558) by Half11 
-- Corprus creatures will spawn in blight storms
+- Corprus creatures will spawn in blight storms  
 -- [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11  
 - Hanging around in sewers or swamps carries a risk of disease  
 - Carrying corprus meat carries a risk of blight  
