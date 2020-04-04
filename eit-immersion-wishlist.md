@@ -14,6 +14,7 @@
 - [**Camonna Tong's Violence**](http://mw.modhistory.com/download-55-6173) by Arcimaestro Antares -- NPCs in the Balmora Council Club will now attack you if their disposition is too low. If you're foolhardy enough to rent a bed there, they may rob you in your sleep or try to kill you.  
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius -- Prevents rest (not waiting) without a bed. Encourages the player to rent a room or buy a house, or use potions and spells for healing.  
 - [**Tired and Hungry - Economics**](https://www.nexusmods.com/morrowind/mods/45364) by Ket - increases the cost of food and rented rooms.  
+- [**Get Lost**](https://www.nexusmods.com/morrowind/mods/45981) by NullCascade -- no more magical compass. If you get lost far from civilization, you'll have to find your own way back. NOTE: INCOMPATIBLE with [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071).  
 
 ## Economic Recession is Here
 - [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11  
@@ -42,6 +43,11 @@
 - [**MM - Homing Projectiles**](https://www.nexusmods.com/morrowind/mods/47403) by OperatorJack -- control the flight path of spells and enchantments
 - [**MM - Cast-On-Swing Enchantments**](https://www.nexusmods.com/morrowind/mods/47338) by OperatorJack -- swinging your weapon is now enough to trigger a cast-on-use or cast-on-strike enchantment, you don't need to "cast" the enchantment, or hit a target.  
 - [**Anchor Teleportation**](https://www.nexusmods.com/morrowind/mods/47413) by Operator Jack -- Mark and Recall now behave as in Daggerfall. When you cast Recall, your Mark is cleared, and you must recast it to use Recall again.  
+- [**Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7 -- ui improvements for alchemy  
+- [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7 -- you can now craft poisons.  
+- [**Visually Filled Soulgems**](https://www.nexusmods.com/morrowind/mods/46709) by NullCascade -- Enchanted items have visual markers. Now soul gems do too.  
+- [**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657) by NullCascade -- Soul gems will sometimes produce the sounds of the creatures they contain. Very creepy.  
+- [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade -- Rate limits potion drinking, preventing some exploits.  
 
 ## Bad Life Choices
 - [**Immersive Alcohol**](https://www.nexusmods.com/morrowind/mods/45589) by Merlord -- get drunk and black out, and other unfun side effects of drinking too much.  
@@ -95,6 +101,7 @@
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot -- syncs the lock status of loading doors. Great with mods like Pursuit Revisited or DragonDoor, and gives the lock spell a purpose in combination with those mods.  
 - [**Pursuit Revisited**](https://www.nexusmods.com/morrowind/mods/45904) by Svengineer -- Enemies will now follow you through load doors, based on a number of sensible AI calculations (animals can't open doors, vampires won't follow you outside unless it's night, etc). Guards will come inside if an NPC calls the alarm. There's a delay based on distance. NPCs will eventually go back to their original positions. You can now yield to guards. Travel restrictions during combat. You can now lock doors with lockpicks. NPCs will flee if their health is too low. And more (read the description thoroughly for this one!)  
 - [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack --  adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.  
+- [**More Traps**](https://www.nexusmods.com/morrowind/mods/44279) by abot -- dynamically traps containers. If you're using Containers Animated, load this AFTER Containers Animated.  
 
 ## Stop right there, criminal scum!
 - Mental manipulation is Bad (MetaBarj0's [**Manipulated**](https://www.nexusmods.com/morrowind/mods/47222))  
@@ -106,6 +113,8 @@
 - [**Regional Bounty**](https://www.nexusmods.com/morrowind/mods/47285/) by Sushi -- why does someone in Mournhold know you stole a loaf of bread in Dagon Fel? Now they don't.  
 - [**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786) by Lucevar -- provides additional options for clearing your bounty beyond turning yourself in or cooperating with the Thieves Guild.  
 - [**What Thieves Guild?**](https://www.nexusmods.com/morrowind/mods/47728) by Von Djangos -- you know how theft is illegal, and the Camonna Tong are trying to wipe the Thieves Guild off the face of Nirn? Now they're a bit more discreet about their profession.  
+- [**The Last Witness**](https://www.nexusmods.com/morrowind/mods/46684) by NullCascade -- if you kill witnesses to your crimes quickly enough you can prevent gaining a bounty.  
+
 
 ## Live by the sword die by the sword
 - [**Defensive Stance**](https://www.nexusmods.com/morrowind/mods/46845) by Merlord - Crouching with a shield equipped increases block, reduces speed.  
@@ -114,6 +123,7 @@
 - [**Realistic Movement Speed**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack -- Movement speed is now tactically important. Ever thought it was odd that the player and NPCs can all run backwards at full speed? Now you can't. Strafing is also nerfed.  
 - [**Realistic Healing and Injuries**](https://www.nexusmods.com/morrowind/mods/47084) by Aracelliy -- you can now incur injuries in combat that you must rest to heal. Pairs well with mods like Bed Buddies and No Rest Without A Bed that make resting more difficult.  
 - [**No N'wah Allowed**]() by R-zero  
+- [**Permanently Perished**](https://www.nexusmods.com/morrowind/mods/45672) by NullCascade -- now death is permanent (after a configurable number of deaths).  
 
 ## Some people are just dicks
 - [**Ajira's Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/47550) by Danae and Merlord -- randomises the locations of Ajira's stolen alchemy reports.  
@@ -121,5 +131,20 @@
 ## Making a living
 - [**Game of Three Cups**](http://mw.modhistory.com/download-55-6173) by Arcimaestro Antares -- gain (or lose) some money by gambling.  
 
-## It just makes sense
+## It just makes sense (misc)
 - [**Fargoth's Ring Unbarrelled**](https://www.nexusmods.com/morrowind/mods/47224) by Lucevar -- ever thought that your character wouldn't rummage around in a filthy barrel? Now the ring is lying on the ground instead - and you can decide whether to keep it or try to find its owner.  
+- [**Plain Paper Fix**](https://www.nexusmods.com/morrowind/mods/47735) by abot -- you no longer have to "read" plain paper, you can just pick it up.  
+- [**Morrowind Containers Animated**](https://www.nexusmods.com/morrowind/mods/42238/) by qqqbbb -- containers will now visibly open.  
+- [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by Greatness7 & the community -- Does it make sense that you can hide a claymore in your pocket? No? Now weapons are visible while sheathed. Also get [**Weapon Sheathing - Tamriel Rebuilt Addon**](https://www.nexusmods.com/morrowind/mods/46603) by Leyawynn if you use TR.  
+- [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade -- jumping takes energy. You can no longer limitlessly leap around the world.  
+- [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade -- you now pick books up by default instead of reading them. No more browsing in book stores without paying, or gaining skill points without paying. Careful: this does mean that the default action is to *steal* owned books now. Plays well with Illiterate -- illiterate characters will now no longer gain skill points from books just because they want to pick them up.  
+- [**Illiterate**](https://www.nexusmods.com/morrowind/mods/46600) by Petethegoat -- if your character falls below a certain level of intelligence they won't be able to read. Includes toggle for permanent illiteracy, for characters who have never learned to read.  
+- [**Give a Gift**](https://www.nexusmods.com/morrowind/mods/46661) by NullCascade -- give NPCs items as a gift in lieu of bribes.  
+- [**Drop Light**](https://www.nexusmods.com/morrowind/mods/46694) by NullCascade -- equipping a shield, two handed weapon, etc while having a light equipped will cause the light to be dropped at your feet.  
+- [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Melchior Dahrk and Greatness7 -- lights grow fainter over their lifespan.  
+- [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk -- windows light up at night, there are also interior sunrays at windows on bright days.  
+- [**Not Clairvoyant Nerevarine**](https://www.nexusmods.com/morrowind/mods/47102) by qqqbbb -- You have to talk to people to know their names. You have to use objects to know what their properties are.  
+- [**Write Notes**](https://www.nexusmods.com/morrowind/mods/43839) by qqqbbb -- you can now write notes on plain paper.  
+- [**Advanced NPCs**](https://www.nexusmods.com/morrowind/mods/43409) by qqqbbb -- NPCs will now greet each other.  
+- [**Advanced Bartering**](https://www.nexusmods.com/morrowind/mods/43305) by qqqbbb -- barter with any npc. invest in businesses.  
+- [**Graphic Herbalism**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7 -- plants you pick now visually show that they've been picked.  
