@@ -49,9 +49,12 @@
 -- [**Blighted Mines Mean Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Gavrilo93  
 
 ## N'wahs out
-- Caves and tombs are randomly assigned a lock level  
-- Shops have more barriers to prevent casual tresspassing  
-- Cities lock up at night  
+- Caves and Tombs are locked and sometimes trapped to keep out interfering n'wah [**Locked Caves and Tombs**](http://mw.modhistory.com/download-24-11439) by Solescape  
+- NPCs in areas that are meant to be off-limits will report you for trespassing - [**Trespasser**](https://www.nexusmods.com/morrowind/mods/47159) by tdef  
+- Shops have more barriers to prevent casual tresspassing -- [**No Trespassing**](http://mw.modhistory.com/download-55-6173) by Arcimaestro Antares adds more doors and barriers to shops in a number of cities to make it harder to rob them.    
+- Cities lock up at night - [**Nighttime Door Locks**](https://www.nexusmods.com/morrowind/mods/45526) by LDones   
+- [**Morrowind Cities Unlocked**](https://www.nexusmods.com/morrowind/mods/33917) by Cliffworms -- adds keys to most locked doors and containers, for an enterprising thief to find  
+- [**Morrowind Bandits Unlocked**](http://mw.modhistory.com/download-24-2844) by Cliffworms -- adds keys to locked doors and containers in bandit caves  
 
 ## Stop, criminal scum!
 - Mental manipulation is Bad (MetaBarj0's [**Manipulated**](https://www.nexusmods.com/morrowind/mods/47222))  
