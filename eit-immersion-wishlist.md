@@ -1,5 +1,10 @@
 # The Everything Is Terrible Wishlist of Dreams
 
+## Man's gotta do what a man's gotta do
+- Ashfall by Merlord  
+- [**Tired and Hungry**](https://www.nexusmods.com/morrowind/mods/45364) by Ket  
+- [**Bread and Water for Ashfall**](https://www.nexusmods.com/morrowind/mods/47224) by Lucevar -- adds food and drink to some taverns that didn't have any available.  
+
 ## Take shelter you fool
 - Ashfall by Merlord
 - [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) by Half11  
@@ -7,6 +12,8 @@
 - [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord -- now you can no longer sleep in owned beds, unless the owner really likes you... or is deceased.  
 - [**Limited Intervention**](https://www.nexusmods.com/morrowind/mods/46687) by Merlord -- why would gods you don't believe in help you out? Intervention spells are now limited by your rank in the Tribunal Temple or Imperial Cult. Scrolls and Enchantments are unaffected.  
 - [**Camonna Tong's Violence**](http://mw.modhistory.com/download-55-6173) by Arcimaestro Antares -- NPCs in the Balmora Council Club will now attack you if their disposition is too low. If you're foolhardy enough to rent a bed there, they may rob you in your sleep or try to kill you.  
+- [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius -- Prevents rest (not waiting) without a bed. Encourages the player to rent a room or buy a house, or use potions and spells for healing.  
+- [**Tired and Hungry - Economics**](https://www.nexusmods.com/morrowind/mods/45364) by Ket - increases the cost of food and rented rooms.  
 
 ## Economic Recession is Here
 - [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11  
@@ -50,6 +57,7 @@
 - Small (randomly selected, including nothing) reward for curing them (aka low effort radiant healer quests)  
 - Healers actually heal you (for a price)  
 -- [**Healers**](https://www.nexusmods.com/morrowind/mods/47752) by Raejak (Simbelmyne Edit)  
+-- [**Descriptive Shrines - Healing**](https://www.nexusmods.com/morrowind/mods/46119) by SuperQuail - Shrine blessings will now tell you what they do before you accept the blessing, and asking for healing is now an option.  
 - Being in blight/ash storms carries a risk of blight  
 -- [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558) by Half11 
 - Corprus creatures will spawn in blight storms  
@@ -89,3 +97,6 @@
 
 ## Some people are just dicks
 - [**Ajira's Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/47550) by Danae and Merlord -- randomises the locations of Ajira's stolen alchemy reports.  
+
+## It just makes sense
+- [**Fargoth's Ring Unbarrelled**](https://www.nexusmods.com/morrowind/mods/47224) by Lucevar -- ever thought that your character wouldn't rummage around in a filthy barrel? Now the ring is lying on the ground instead - and you can decide whether to keep it or try to find its owner.  
