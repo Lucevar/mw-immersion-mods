@@ -113,6 +113,7 @@
 - [**No Combat Menu**](https://www.nexusmods.com/morrowind/mods/46732) by Merlord -- you can no longer access your inventory (or containers or corpses) while in combat. Better make good use of your hotkeys!  
 - [**Realistic Movement Speed**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack -- Movement speed is now tactically important. Ever thought it was odd that the player and NPCs can all run backwards at full speed? Now you can't. Strafing is also nerfed.  
 - [**Realistic Healing and Injuries**](https://www.nexusmods.com/morrowind/mods/47084) by Aracelliy -- you can now incur injuries in combat that you must rest to heal. Pairs well with mods like Bed Buddies and No Rest Without A Bed that make resting more difficult.  
+- [**No N'wah Allowed**]() by R-zero  
 
 ## Some people are just dicks
 - [**Ajira's Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/47550) by Danae and Merlord -- randomises the locations of Ajira's stolen alchemy reports.  
