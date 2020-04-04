@@ -164,6 +164,11 @@ or
 or  
 [**More Detailed Places - Dagon Fel**](https://www.nexusmods.com/morrowind/mods/30047) by Ragox  
 
+## Ald Redaynia  
+[**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646) by R-Zero  
+or  
+[**Redaynia Village**](https://www.nexusmods.com/morrowind/mods/17935) by Darkelfguy  
+
 # West Gash
 ## Gnisis
 [**Better Gnisis Arch**](https://www.nexusmods.com/morrowind/mods/46224) by the Resdayn Revival Team  
