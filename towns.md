@@ -19,6 +19,7 @@
 [**Velothi Strider Port Lights**](https://www.nexusmods.com/morrowind/mods/46453) by Ashtaar  
 [**The Serendipitous Traveller**](https://www.nexusmods.com/morrowind/mods/44714) by Kursan  
 [**Unique Signs and Banners**](http://mw.modhistory.com/download-44-6950) by Bart Notelaers  
+[**Exterior Guild Lighting**](https://www.nexusmods.com/morrowind/mods/46990) by SuperQuail  
 
 # Tamriel Rebuilt
 [**Unique Tavern Signs for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/46794) by Rats  
