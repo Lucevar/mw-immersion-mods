@@ -12,7 +12,8 @@
 - Ash storms hurt (Weather Effects?)   
 - Walking on metal barely suspended above lava hurts (Ashfall temp mechanics?)  
 - Being in freezing water hurts (Ashfall temp mechanics?)  
-- Being in blight/ash storms carries a risk of blight (Blight storms restored?)  
+- Being in blight/ash storms carries a risk of blight
+-- [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558) by Half11  
 - Hanging around in sewers or swamps carries a risk of disease  
 - Scumponds slow your movement
 - Earthquakes have a risk of hurting you if you're inside (R-zero's earthquake mod)
@@ -22,7 +23,11 @@
 - They can also catch diseases from you (Plaguebearer?)  
 - Small (randomly selected, including nothing) reward for curing them (aka low effort radiant healer quests)  
 - Healers actually heal you (for a price)  
+-- [**Healers**](https://www.nexusmods.com/morrowind/mods/47752) by Raejak (Simbelmyne Edit)  
 - Being in blight/ash storms carries a risk of blight  
+-- [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558) by Half11 
+- Corprus creatures will spawn in blight storms
+-- [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11  
 - Hanging around in sewers or swamps carries a risk of disease  
 - Carrying corprus meat carries a risk of blight  
 - Diseases worsen over time / have actual effects  
