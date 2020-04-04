@@ -31,13 +31,24 @@
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord -- you can only repair items if you have access to a forge or an anvil. Corsair's [**Realistic Repair Addon**](https://www.nexusmods.com/morrowind/mods/47461) also provides support for a number of non-vanilla workstations, as well as adding some to towns and cities.  
 - [**Immersive Mining**](https://www.nexusmods.com/morrowind/mods/46041) by Merlord -- now you have to actually swing a pick at ore to mine it.  
 
+## Magical Magic  
+- [**Enchantment Services**](https://www.nexusmods.com/morrowind/mods/45554) -- npc enchanters can now recharge enchanting items, create additional copies of scrolls, or decipher a scroll so that you can use the spell it contains. For a price, naturally.  
+- [**Better Enchantments**](https://www.nexusmods.com/morrowind/mods/47136) by Aracelliy -- this is a bit of a controversial one. Changes the feel of enchanted items by converting a large number of cast on use enchantments to constant effect.  
+- [**Magicka Enhanced**](https://www.nexusmods.com/morrowind/mods/47111) by OperatorJack and RedFurryDemon -- adds a vast number of spells and spell tomes. A requirement of the MM series and many other mods.   
+- [**MM - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672) by OperatorJack, Greatness7, and Kurpulio  
+- [**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565) by OperatorJack, Vtastek, and Kurpulio  
+- [**MM - Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534) by OperatorJack and Kurpulio  
+- [**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480) by OperatorJack, RedFurryDemon, and Kurpulio  
+- [**MM - Homing Projectiles**](https://www.nexusmods.com/morrowind/mods/47403) by OperatorJack -- control the flight path of spells and enchantments
+- [**MM - Cast-On-Swing Enchantments**](https://www.nexusmods.com/morrowind/mods/47338) by OperatorJack -- swinging your weapon is now enough to trigger a cast-on-use or cast-on-strike enchantment, you don't need to "cast" the enchantment, or hit a target.  
+- [**Anchor Teleportation**](https://www.nexusmods.com/morrowind/mods/47413) by Operator Jack -- Mark and Recall now behave as in Daggerfall. When you cast Recall, your Mark is cleared, and you must recast it to use Recall again.  
 
 ## Bad Life Choices
 - [**Immersive Alcohol**](https://www.nexusmods.com/morrowind/mods/45589) by Merlord -- get drunk and black out, and other unfun side effects of drinking too much.  
 - [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort -- makes booze less OP.  
 
-
 ## Everything Hurts - Environmental Hazards
+- [**MGE-XE Sunrise and Sunset Season and Latitude Scaling**](https://www.nexusmods.com/morrowind/mods/44375) by Svengineer -- adjusts sunrise/sunset times based on latitude and season. Either great for vampires... or dreadful.  
 - Fire hurts  
 - Steam vents hurt  
 - Ash storms hurt (Weather Effects?)   
@@ -83,6 +94,7 @@
 - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7 -- now people without skill in security or alteration can open locks too. Beware, it's hard on your kit, and if you're using Realistic Repair it might not be so easy to repair.  
 - [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot -- syncs the lock status of loading doors. Great with mods like Pursuit Revisited or DragonDoor, and gives the lock spell a purpose in combination with those mods.  
 - [**Pursuit Revisited**](https://www.nexusmods.com/morrowind/mods/45904) by Svengineer -- Enemies will now follow you through load doors, based on a number of sensible AI calculations (animals can't open doors, vampires won't follow you outside unless it's night, etc). Guards will come inside if an NPC calls the alarm. There's a delay based on distance. NPCs will eventually go back to their original positions. You can now yield to guards. Travel restrictions during combat. You can now lock doors with lockpicks. NPCs will flee if their health is too low. And more (read the description thoroughly for this one!)  
+- [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack --  adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.  
 
 ## Stop right there, criminal scum!
 - Mental manipulation is Bad (MetaBarj0's [**Manipulated**](https://www.nexusmods.com/morrowind/mods/47222))  
