@@ -21,3 +21,6 @@
 [**Arukinn's Better Books and Scrolls**](https://www.nexusmods.com/morrowind/mods/43100) by Arukinn  
 [**Old Dwemer Books**](https://www.nexusmods.com/morrowind/mods/43339) by Yar-Yulme  
 [**Yellow border b-gone imperial flag**](https://www.nexusmods.com/morrowind/mods/47685) by Leetmorry  
+
+# Mod Replacers
+[**Red sclera eyes for Julan**](https://www.nexusmods.com/morrowind/mods/47277?tab=description) by Leetmorry  
