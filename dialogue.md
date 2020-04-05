@@ -78,6 +78,7 @@ Donate money to the paupers of Vvardenfell and help them get back on their feet.
 
 # NPC
 [**Caius Romance**](http://mw.modhistory.com/download-90-7208) by Princess Stomper  
+[**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962) by Alxemical  
 
 # Factions
 See factions list 
