@@ -94,6 +94,7 @@ These affect different parts of Ebonheart and are therefore compatible.
 [**Ebonheart Outskirt & Lighthouse District**](https://www.nexusmods.com/morrowind/mods/44994) by arimon  
 [**More Detailed Places - Ebonheart**](https://www.nexusmods.com/morrowind/mods/29542) by Ragox  
 [**Ebonheart Interior Expansion**](http://mw.modhistory.com/download-87-7146) by Princess Stomper  
+[**Big Imperial Halls**](https://www.nexusmods.com/morrowind/mods/47533) by Zobator  
 
 ## Rethan Manor
 [**Resplendent Rethan - Jewel of the Odai**](https://www.nexusmods.com/morrowind/mods/47281) by Team Azturnal  
@@ -196,6 +197,7 @@ Alternatively, [**Vvardenfell Revisited - Khuul**](https://www.nexusmods.com/mor
 [**Caldera Mages Guild Expanded**](https://www.nexusmods.com/morrowind/mods/45750) by Lucevar  
 [**Caldera Clutter**](https://www.nexusmods.com/morrowind/mods/43773) by Jason210  
 [**Caldera Mine Expanded**](https://www.nexusmods.com/morrowind/mods/45194) by Team Dreamy Dremora  
+[**Big Imperial Halls**](https://www.nexusmods.com/morrowind/mods/47533) by Zobator  
 or
 [**Caldera Mine - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47260) by Tel Shadow  
 [**Caldera Windmills**](http://mw.modhistory.com/download-80-6218) by Ayse  
