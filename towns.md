@@ -95,6 +95,7 @@ These affect different parts of Ebonheart and are therefore compatible.
 [**More Detailed Places - Ebonheart**](https://www.nexusmods.com/morrowind/mods/29542) by Ragox  
 [**Ebonheart Interior Expansion**](http://mw.modhistory.com/download-87-7146) by Princess Stomper  
 [**Big Imperial Halls**](https://www.nexusmods.com/morrowind/mods/47533) by Zobator  
+[**Ebonheart Western Docks**](https://www.nexusmods.com/morrowind/mods/47607) by Zobator  
 
 ## Rethan Manor
 [**Resplendent Rethan - Jewel of the Odai**](https://www.nexusmods.com/morrowind/mods/47281) by Team Azturnal  
