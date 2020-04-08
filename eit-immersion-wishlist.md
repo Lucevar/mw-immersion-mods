@@ -56,33 +56,36 @@
 
 ## Everything Hurts - Environmental Hazards
 - [**MGE-XE Sunrise and Sunset Season and Latitude Scaling**](https://www.nexusmods.com/morrowind/mods/44375) by Svengineer -- adjusts sunrise/sunset times based on latitude and season. Either great for vampires... or dreadful.  
+- [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558) by Half11 -- Being in blight/ash storms carries a risk of blight    
+- [**Realistic Sun Damage**](https://www.nexusmods.com/morrowind/mods/47540) by OperatorJack - adds a randomness element to sun damage to account for cloud cover, etc.  
+
+**Wishlist**  
+- Hanging around in sewers or swamps carries a risk of disease  
+- Scumponds slow your movement
+- Earthquakes have a risk of hurting you if you're inside (R-zero's earthquake mod)
 - Fire hurts  
 - Steam vents hurt  
 - Ash storms hurt (Weather Effects?)   
 - Walking on metal barely suspended above lava hurts (Ashfall temp mechanics?)  
 - Being in freezing water hurts (Ashfall temp mechanics?)  
-- Being in blight/ash storms carries a risk of blight  
--- [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558) by Half11  
-- Hanging around in sewers or swamps carries a risk of disease  
-- Scumponds slow your movement
-- Earthquakes have a risk of hurting you if you're inside (R-zero's earthquake mod)
-- [**Realistic Sun Damage**](https://www.nexusmods.com/morrowind/mods/47540) by OperatorJack - adds a randomness element to sun damage to account for cloud cover, etc.  
 
 ## Plague Inc - Disease Mechanics
 - [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228) by Half11 -- Creatures now carry a wider variety of diseases  
-- Some NPCs randomly have diseases  
 - [**Plaguebearer**](https://www.nexusmods.com/morrowind/mods/45760) by R-zero -- NPCs can also catch diseases from you   
 - Small (randomly selected, including nothing) reward for curing them (aka low effort radiant healer quests)    
 - [**Healers**](https://www.nexusmods.com/morrowind/mods/47752) by Raejak (Simbelmyne Edit) -- Healers actually heal you (for a price)  
 - [**Descriptive Shrines - Healing**](https://www.nexusmods.com/morrowind/mods/46119) by SuperQuail - Shrine blessings will now tell you what they do before you accept the blessing, and asking for healing is now an option.  
 - [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558) by Half11 -- Being in blight/ash storms carries a risk of blight  
 - [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11 -- Corprus creatures will spawn in blight storms    
-- Hanging around in sewers or swamps carries a risk of disease  
-- Carrying corprus meat carries a risk of blight  
-- Diseases worsen over time / have actual effects  
 - [**Blighted Animals Retextured**](https://www.nexusmods.com/morrowind/mods/42245) by Catherine and PeterBitt -- Blighted animals display visual signs of their disease    
 - [**Protective Masks Redux**](https://www.nexusmods.com/morrowind/mods/47068) by Half11 -- Protective masks - certain helmets will provide protection against blight and common diseases    
 - [**Blighted Mines Mean Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Gavrilo93 -- Blighted mines affect workers standing outside    
+
+**Wishlist**  
+- Hanging around in sewers or swamps carries a risk of disease  
+- Carrying corprus meat carries a risk of blight  
+- Diseases worsen over time / have actual effects  
+- Some NPCs randomly have diseases  
 
 ## N'wahs out
 - [**Locked Caves and Tombs**](http://mw.modhistory.com/download-24-11439) by Solescape -- Caves and Tombs are locked and sometimes trapped to keep out interfering n'wah   
