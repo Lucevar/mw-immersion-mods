@@ -69,33 +69,26 @@
 - [**Realistic Sun Damage**](https://www.nexusmods.com/morrowind/mods/47540) by OperatorJack - adds a randomness element to sun damage to account for cloud cover, etc.  
 
 ## Plague Inc - Disease Mechanics
-- Creatures now carry a wider variety of diseases  
--- [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228) by Half11  
+- [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228) by Half11 -- Creatures now carry a wider variety of diseases  
 - Some NPCs randomly have diseases  
-- They can also catch diseases from you ([[**Plaguebearer**](https://www.nexusmods.com/morrowind/mods/45760) by R-zero)    
-- Small (randomly selected, including nothing) reward for curing them (aka low effort radiant healer quests)  
-- Healers actually heal you (for a price)  
--- [**Healers**](https://www.nexusmods.com/morrowind/mods/47752) by Raejak (Simbelmyne Edit)  
--- [**Descriptive Shrines - Healing**](https://www.nexusmods.com/morrowind/mods/46119) by SuperQuail - Shrine blessings will now tell you what they do before you accept the blessing, and asking for healing is now an option.  
-- Being in blight/ash storms carries a risk of blight  
--- [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558) by Half11 
-- Corprus creatures will spawn in blight storms  
--- [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11  
+- [**Plaguebearer**](https://www.nexusmods.com/morrowind/mods/45760) by R-zero -- NPCs can also catch diseases from you   
+- Small (randomly selected, including nothing) reward for curing them (aka low effort radiant healer quests)    
+- [**Healers**](https://www.nexusmods.com/morrowind/mods/47752) by Raejak (Simbelmyne Edit) -- Healers actually heal you (for a price)  
+- [**Descriptive Shrines - Healing**](https://www.nexusmods.com/morrowind/mods/46119) by SuperQuail - Shrine blessings will now tell you what they do before you accept the blessing, and asking for healing is now an option.  
+- [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558) by Half11 -- Being in blight/ash storms carries a risk of blight  
+- [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11 -- Corprus creatures will spawn in blight storms    
 - Hanging around in sewers or swamps carries a risk of disease  
 - Carrying corprus meat carries a risk of blight  
 - Diseases worsen over time / have actual effects  
-- Blighted animals display visual signs of their disease  
--- [**Blighted Animals Retextured**](https://www.nexusmods.com/morrowind/mods/42245) by Catherine and PeterBitt  
-- Protective masks - certain helmets will provide protection against blight and common diseases    
--- [**Protective Masks Redux**](https://www.nexusmods.com/morrowind/mods/47068) by Half11. 
-- Blighted mines affect workers  
--- [**Blighted Mines Mean Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Gavrilo93  
+- [**Blighted Animals Retextured**](https://www.nexusmods.com/morrowind/mods/42245) by Catherine and PeterBitt -- Blighted animals display visual signs of their disease    
+- [**Protective Masks Redux**](https://www.nexusmods.com/morrowind/mods/47068) by Half11 -- Protective masks - certain helmets will provide protection against blight and common diseases    
+- [**Blighted Mines Mean Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Gavrilo93 -- Blighted mines affect workers standing outside    
 
 ## N'wahs out
-- Caves and Tombs are locked and sometimes trapped to keep out interfering n'wah -- [**Locked Caves and Tombs**](http://mw.modhistory.com/download-24-11439) by Solescape  
-- NPCs in areas that are meant to be off-limits will report you for trespassing - [**Trespasser**](https://www.nexusmods.com/morrowind/mods/47159) by tdef  
-- Shops have more barriers to prevent casual tresspassing -- [**No Trespassing**](http://mw.modhistory.com/download-55-6173) by Arcimaestro Antares adds more doors and barriers to shops in a number of cities to make it harder to rob them.    
-- Cities lock up at night -- [**Nighttime Door Locks**](https://www.nexusmods.com/morrowind/mods/45526) by LDones   
+- [**Locked Caves and Tombs**](http://mw.modhistory.com/download-24-11439) by Solescape -- Caves and Tombs are locked and sometimes trapped to keep out interfering n'wah   
+- [**Trespasser**](https://www.nexusmods.com/morrowind/mods/47159) by tdef -- NPCs in areas that are meant to be off-limits will report you for trespassing   
+- [**No Trespassing**](http://mw.modhistory.com/download-55-6173) by Arcimaestro Antares -- Shops have more barriers to prevent casual tresspassing -- adds more doors and barriers to shops in a number of cities to make it harder to rob them.  
+- [**Nighttime Door Locks**](https://www.nexusmods.com/morrowind/mods/45526) by LDones -- Cities lock up at night  
 - [**Morrowind Cities Unlocked**](https://www.nexusmods.com/morrowind/mods/33917) by Cliffworms -- adds keys to most locked doors and containers, for an enterprising thief to find  
 - [**Morrowind Bandits Unlocked**](http://mw.modhistory.com/download-24-2844) by Cliffworms -- adds keys to locked doors and containers in bandit caves  
 - [**Lock Bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7 -- now people without skill in security or alteration can open locks too. Beware, it's hard on your kit, and if you're using Realistic Repair it might not be so easy to repair.  
@@ -103,13 +96,15 @@
 - [**Pursuit Revisited**](https://www.nexusmods.com/morrowind/mods/45904) by Svengineer -- Enemies will now follow you through load doors, based on a number of sensible AI calculations (animals can't open doors, vampires won't follow you outside unless it's night, etc). Guards will come inside if an NPC calls the alarm. There's a delay based on distance. NPCs will eventually go back to their original positions. You can now yield to guards. Travel restrictions during combat. You can now lock doors with lockpicks. NPCs will flee if their health is too low. And more (read the description thoroughly for this one!)  
 - [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack --  adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.  
 - [**More Traps**](https://www.nexusmods.com/morrowind/mods/44279) by abot -- dynamically traps containers. If you're using Containers Animated, load this AFTER Containers Animated.  
+- [**Skill-based Trap Detection**](https://www.nexusmods.com/morrowind/mods/47120) by AdituV  
 
 ## Stop right there, criminal scum!
-- Mental manipulation is Bad (MetaBarj0's [**Manipulated**](https://www.nexusmods.com/morrowind/mods/47222))  
-- Levitation is outlawed ([**The Levitation Act**](https://www.nexusmods.com/morrowind/mods/47345) by Operator Jack and Gavrilo93) - except by the Telvanni, of course. Those with superior willpower can get away more speedily -- [**Wings of Will**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel    
-- Summoning in towns is illegal ([**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105) by OperatorJack)   
-- Restricted contraband - [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich  
-- Hospitality Papers - [**Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by PoodleSandwich, Quorn, Superquail and Jeff Baker  
+- [**Manipulated**](https://www.nexusmods.com/morrowind/mods/47222) by MetaBarj0 -- Mental manipulation is now illegal  
+- [**The Levitation Act**](https://www.nexusmods.com/morrowind/mods/47345) by Operator Jack and Gavrilo93 -- Levitation is outlawed - except by the Telvanni, of course. 
+- [**Wings of Will**](https://www.nexusmods.com/morrowind/mods/46626) by Sataniel  -- Levitation speed is now determined by willpower instead of speed.    
+- [**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105) by OperatorJack -- Summoning in towns is illegal   
+-  [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich -- Restricted contraband  
+- [**Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by PoodleSandwich, Quorn, Superquail and Jeff Baker  
 - [**Bounty Hunters**](http://mw.modhistory.com/download-55-6173) by Arcimaestro Antares -- adds bounty hunters that will try to apprehend you if you have a bounty above 500 septims.  
 - [**Regional Bounty**](https://www.nexusmods.com/morrowind/mods/47285/) by Sushi -- why does someone in Mournhold know you stole a loaf of bread in Dagon Fel? Now they don't.  
 - [**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786) by Lucevar -- provides additional options for clearing your bounty beyond turning yourself in or cooperating with the Thieves Guild.  
