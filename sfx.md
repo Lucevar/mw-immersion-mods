@@ -20,6 +20,7 @@
 [**R-Zero's Throbbing Meat**](https://www.nexusmods.com/morrowind/mods/45339) by R-Zero  
 A corprus meat replacer.  
 [**Draggle-Tail Torches**](http://mw.modhistory.com/download-26-14297) by Danjb  
+[**Fire and Frost Salts**](https://www.nexusmods.com/morrowind/mods/47784) by hater8  
 
 ## Particles
 [**Magic Diversity**](https://www.nexusmods.com/morrowind/mods/43380) by Arkann  
