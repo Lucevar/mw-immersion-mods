@@ -155,6 +155,8 @@ Farmer mod
 [**Balmora guilds expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
 [**Swamp Fever**](https://www.nexusmods.com/morrowind/mods/46640) by Luccar and Rubberman  
 [**Would you like healing?**](https://www.nexusmods.com/morrowind/mods/46973) by Master Jinroku  
+* [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
+
 
 # Hoarder/Collecter
 * [**Unique Items**](https://www.nexusmods.com/morrowind/mods/44530)
@@ -178,6 +180,8 @@ Adds a number of roleplaying options to the main quest, including alternate path
 * [**Standard Bearer**](http://mw.modhistory.com/download-53-12717) by Danjb  
 * [**Imperial Contraband**](http://mw.modhistory.com/download-53-13016) by Nogi.Fox  
 * [**Hlormaren Reclaimed - Slightly Improved**](https://www.nexusmods.com/morrowind/mods/47301) by Gavrilo93  
+* [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
+
 
 # Merchant
 [**Wages and Bonds**](https://www.nexusmods.com/morrowind/mods/46394)  
@@ -267,6 +271,7 @@ Holy Art
 * [**Repentance for your sins - hair shirts**](https://www.nexusmods.com/morrowind/mods/47382) by Anos-Seloth  
 * [**Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich2  
 * [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506) by Zobator  
+* [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
 
 # Thief
 * [Stealable Ash Mask](https://www.nexusmods.com/morrowind/mods/46207).  
@@ -295,6 +300,7 @@ The underground
 Merlord vampire mod  
 Vampire dreams  
 Random vampire attacks  
+[**Less Shunned Vampires**](https://www.nexusmods.com/morrowind/mods/47849) by Necrolesian  
 
 # Warrior / Gladiator
 [**Bucklers Remastered**](https://www.nexusmods.com/morrowind/mods/46388) by Pikachuno  
