@@ -14,6 +14,7 @@
 [**Tamriel Rebuilt - Water Sounds**](https://www.nexusmods.com/morrowind/mods/42266) by abot  
 [**Floaty Boaties**](https://www.nexusmods.com/morrowind/mods/44246/) by ventuz  
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424) by Melchior Dahrk  
+[**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903) by Melchior Dahrk  
 
 ## Items
 [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
@@ -46,6 +47,7 @@ A corprus meat replacer.
 [**Outdoor Banners with Sound**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
 [**Tavern Ambience**](https://www.nexusmods.com/morrowind/mods/252) by Erik Be  
 [**Sheep-no-more**](https://www.nexusmods.com/morrowind/mods/45168) by mcchuggernaut  
+[**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
 
 [**Silent Hits**](https://www.nexusmods.com/morrowind/mods/44556) by Jxrdan  
 [**Sea of Sound**](https://www.nexusmods.com/morrowind/mods/45737) by CptJoker  
