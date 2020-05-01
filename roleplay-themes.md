@@ -338,7 +338,13 @@ Random vampire attacks
 * [**Customizable MWSE Multi Mark & Harder Recall**](https://www.nexusmods.com/morrowind/mods/47065) by Virnetch  
 * [**Chrysopoeia**](https://www.nexusmods.com/morrowind/mods/47008) by OperatorJack  
 * [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) by OperatorJack and RedFurryDemon  
-* Scripted Spells
+* [**Magical Mechanics - Cast-on-Swing Enchantments**](https://www.nexusmods.com/morrowind/mods/47338) by OperatorJack  
+* [**Magical Mechanics - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480) by OperatorJack, Kurpulio, Redfurrydemon    
+* [**Magical Mechanics - Homing Projectiles**](https://www.nexusmods.com/morrowind/mods/47403) by OperatorJack  
+* [**Magical Mechanics - Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534) by OperatorJack, Kurpulio  
+* [**Magical Mechanics - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565) by OperatorJack, Kurpulio, Vtastek  
+* [**Magical Mechanics - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672) by OperatorJack  
+* [**Anchor Teleportation**](https://www.nexusmods.com/morrowind/mods/47413) by OperatorJack  
 * [**Elemental Magicka II**](https://www.nexusmods.com/morrowind/mods/42106) by NMZMaster  
 * [**Useful Starting Spells**](https://www.nexusmods.com/morrowind/mods/40439) by Tizzo  
 * [**Miscast Mod**](http://mw.modhistory.com/download-53-12215) by Huskobar & Magius  
@@ -346,6 +352,9 @@ Random vampire attacks
 * [**Mastering Magicka**](https://www.nexusmods.com/morrowind/mods/42269) by dopeyFish  
 * [**Magic Diversity**](https://www.nexusmods.com/morrowind/mods/43380) by Arkann  
 * [**dopey Necromancy**](https://www.nexusmods.com/morrowind/mods/43313) by dopeyFish  
+* [**Circinates**](https://www.nexusmods.com/morrowind/mods/47899) by OperatorJack  
+* [**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105) by OperatorJack  
+* [**The Levitation Act**](https://www.nexusmods.com/morrowind/mods/47345) by OperatorJack and Gavrilo93  
 
 ## Objects
 * [**Spell Tomes**](https://www.nexusmods.com/morrowind/mods/47217) by MateWushu  
@@ -359,3 +368,5 @@ Random vampire attacks
 * [**The Astral Pocket**](https://www.nexusmods.com/morrowind/mods/46226)
 * [**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Gavrilo93  
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
+* [**Galerion's Tools**](https://www.nexusmods.com/morrowind/mods/47901) by OperatorJack  
+* [**Chrysopeia**]() by OperatorJack  
