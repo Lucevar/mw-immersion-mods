@@ -73,13 +73,15 @@
 - [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228) by Half11 -- Creatures now carry a wider variety of diseases  
 - [**Plaguebearer**](https://www.nexusmods.com/morrowind/mods/45760) by R-zero -- NPCs can also catch diseases from you   
 - Small (randomly selected, including nothing) reward for curing them (aka low effort radiant healer quests)    
-- [**Healers**](https://www.nexusmods.com/morrowind/mods/47752) by Raejak (Simbelmyne Edit) -- Healers actually heal you (for a price)  
+- [**Healers**](https://www.nexusmods.com/morrowind/mods/47752) by Raejak (Simbelmyne Edit) -- Healers actually heal you (for a price)
+- [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris -- also adds healers. Not compatible with Healers.  
 - [**Descriptive Shrines - Healing**](https://www.nexusmods.com/morrowind/mods/46119) by SuperQuail - Shrine blessings will now tell you what they do before you accept the blessing, and asking for healing is now an option.  
 - [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558) by Half11 -- Being in blight/ash storms carries a risk of blight  
 - [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11 -- Corprus creatures will spawn in blight storms    
 - [**Blighted Animals Retextured**](https://www.nexusmods.com/morrowind/mods/42245) by Catherine and PeterBitt -- Blighted animals display visual signs of their disease    
 - [**Protective Masks Redux**](https://www.nexusmods.com/morrowind/mods/47068) by Half11 -- Protective masks - certain helmets will provide protection against blight and common diseases    
 - [**Blighted Mines Mean Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Gavrilo93 -- Blighted mines affect workers standing outside    
+- [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian -- Blight storms start appearing in regions outside Red Mountain as the main quest progresses. Also comes with base weather tweaks that enables a chance of ash storms outside the ashlands.  
 
 **Wishlist**  
 - Hanging around in sewers or swamps carries a risk of disease  
@@ -147,3 +149,4 @@
 - [**Advanced NPCs**](https://www.nexusmods.com/morrowind/mods/43409) by qqqbbb -- NPCs will now greet each other.  
 - [**Advanced Bartering**](https://www.nexusmods.com/morrowind/mods/43305) by qqqbbb -- barter with any npc. invest in businesses.  
 - [**Graphic Herbalism**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7 -- plants you pick now visually show that they've been picked.  
+- [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris -- Temple and Imperial Cult are now mutually exclusive.  
