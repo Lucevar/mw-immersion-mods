@@ -7,6 +7,66 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
+# New Dec 23 2019 - May 10 2020
+
+
+[**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787) by abot  
+Smart Merchants for MWSE-Lua inspired from HotFusion's Economy Adjuster and Wakim's game settings, no need of a separate .esp, and no need of extra dialog greetings  
+
+[**Bag of Holding**](https://www.nexusmods.com/morrowind/mods/47778) by OperatorJack  
+Adds a D&D style Bag of Holding to the game. The bag has a constant weight of 15. The bag can hold a constant weight of 500.  
+
+[**Tiered Magicka**](https://www.nexusmods.com/morrowind/mods/47698) by OperatorJack  
+Makes it so that all spells have a spell tier and the player has a casting tier. If the player's casting tier is less than the spell tier, the player cannot cast the spell.
+
+[**Cosmetic Overrides**](https://www.nexusmods.com/morrowind/mods/47713) by OperatorJack  
+Adds the ability to use cosmetic overrides for clothing and armour. Cosmetic Overrides do not affect enchantments, stats, or other gameplay mechanics; they simply change what is rendered on the player.
+
+[**Essential NPCS Are Immortal**](https://www.nexusmods.com/morrowind/mods/47719) by OperatorJack  
+Nullifies all forms of damage against NPCs marked as "Essential", in all cases. Install this mod if you are too used to being protected from your own actions in Oblivion or Skyrim and cannot handle responsibility.  
+
+[**No Accidental Stealing**](https://www.nexusmods.com/morrowind/mods/47733) by OperatorJack  
+You can no longer interact with owned items unless you are sneaking.
+
+[**Plain Paper Fix**](https://www.nexusmods.com/morrowind/mods/47735) by abot  
+A MWSE-Lua mod allowing to pick up a blank sheet of paper without having to read it in Scroll context and then click on "TAKE" from the Scroll Interface before getting it. Differently from standard scripting available mods it does it without having to attach a local script to the sheet of paper, so you can keep stacking them in the inventory.  
+
+[**Magical Mechanics - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672) by OperatorJack, Greatness7 and Kurpulio  
+The light magic effect has been replaced with a Skyrim-style magelight effect. Using the new magelight effect creates an orb of light that will follow and float around you and other NPCs. Casting the magelight on a target location will create an orb of light at the location for the duration of the spell.  
+
+[**Restrictive Saving**](https://www.nexusmods.com/morrowind/mods/47584) by Anumaril21  
+Restrictive Saving is a simple, configurable immersion and challenge mod that allows saving only when resting, once a day, forbids saving altogether, or prevents the player from saving under a number of other conditions.  
+
+[**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581) by Mort  
+Adds a custom real-time menu to pickpocketing and restores a formerly-useless mechanic.
+
+[**Magical Mechanics - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565) by OperatorJack, Kurpulio & Vtastek  
+ Using invisibility now changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you. Also, under the effect of invisibility, Daedra and undead creatures will seem... different.
+
+[**Ajira's Alchemy Reports Randomizer**](https://www.nexusmods.com/morrowind/mods/47550) by Danae and Merlord  
+Look for Ajira's stolen reports once again: their location changes every time.  
+
+[**Magical Mechanics - Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534) by OperatorJack & Kurpulio  
+This mod is inspired by Fliggerty's Better Telekinesis. Using telekinesis will now propel objects towards you with new VFX instead of immediately picking the item up.  
+
+[**Realistic Sun Damage**](https://www.nexusmods.com/morrowind/mods/47540) by OperatorJack  
+This mod adds a +/- 50% random modifier to the sun damage calculation. It doesn't make sense that sun damage is a constant value for the given time and weather, as clouds and coverage can change. It does not modify the sun damage formula in any other way. So, for example, if the vanilla sun damage calculation returns 4, the new calculation could return 2, 3, 4, 5 or 6.  
+
+[**Class Description Tooltip**](https://www.nexusmods.com/morrowind/mods/47527) by Merlord  
+This mod restores the class description tooltip to the class selection menu. In vanilla, the class description can only be read from the stats menu after you have already selected a class. Adding it back to the class selection menu makes it easier to decide which class you want to go with.  
+
+[**Summon Creeper**](https://www.nexusmods.com/morrowind/mods/47510) by CaptainCanti  
+This mod utilizes MWSE and OperatorJack's Magicka Expanded framework to add a spell called "Summon Creeper" that, as the name implies, allows you to summon the scamp merchant residing in Ghorak Manor in Caldera.  
+
+[**Magical Mechanics - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480) by OperatorJack, RedFurryDemon, Kurpulio  
+This mod adds new Oblivion-inspired visual effects and mechanics for the vanilla detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors. It does all of this without requiring an ESP.
+
+[**Smart Journal**](https://www.nexusmods.com/morrowind/mods/47492) by abot  
+Adds several new options for journal pages and quests list, including extra support for mod-added quests.
+
+[**Mort's Ultimate Leveling Experience**](https://www.nexusmods.com/morrowind/mods/47452) by mort  
+A fully customizable leveling mod that removes the level-up screen entirely. Never worry about min/maxing skill ups ever again. The functionality of GCD/MADD, but fully customizable and conflict-free. Play how you want, and leave leveling to the MULE.
+
 # New Nov 1 - Dec 23, 2019
 [**Harder Merchants**](https://www.nexusmods.com/morrowind/mods/47416) by Corsair83  
 Harder Merchants is a simple, but effective mod, that forces merchant's mercantile skill to grow as the player increases in level; removing the static nature of their stat, and thus making it much more of a challenge when bartering with them. Used in conjunction with Harder Barter player's can expect to have a more difficult time trying to buy/sell their ill-gotten goods; severely decreasing the chances of "get rich, quick" play throughs. Together, they can serve as a modern replacement for older mods, such as HotFusion's Economy Adjuster, which did something similar with NPC's mercantile skill, but now with far less lines of code.
@@ -17,6 +77,12 @@ Pluginless mwse-lua armor rebalancer using properties based on hollaajith's Armo
 [**The Levitation Act**](https://www.nexusmods.com/morrowind/mods/47345) by OperatorJack and Gavrilo93  
 "3E 421 — The Levitation Act is passed throughout the Empire, outlawing the use of levitation magic."  
 This mod makes it so that performing a levitation spell is illegal, as it is supposed to be according to The Levitation Act. Performing a levitation spell or using a levitation enchantment and being caught while doing so will give you a bounty of 500 gold per levitation effect, per cast! However, like with other crimes, it is possible to cast a levitation spell and not get caught. Guards will respond similarly to as if you stole an item or attacked someone. This functionality does not apply to NPCs and creatures.  
+
+[**Anchor Teleportation**](https://www.nexusmods.com/morrowind/mods/47413) by OperatorJack  
+This mod makes mark and recall behave like in Daggerfall. Whenever you use recall, the location you have marked will be lost and you must cast mark again, creating an "anchor".  
+
+[**Magical Mechanics - Homing Projectiles**](https://www.nexusmods.com/morrowind/mods/47403) by OperatorJack  
+ Adds the ability to control spell projectiles during flight.
 
 [**Smart Ammo**](https://www.nexusmods.com/morrowind/mods/47383) by abot  
 Ammo autoequip while bow/crossbow/thrown weapon readied. It will remember and prefer last hand-picked ammo if pressing Alt while equipping it.  
