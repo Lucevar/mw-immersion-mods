@@ -8,7 +8,65 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New Dec 23 2019 - May 10 2020
+[**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959) by hardek  
+A simple retroactive health mod implemented in MWSE Lua. Increases health upon level up as though endurance was at its current value for past levels.
 
+[**Douse the Lights**](https://www.nexusmods.com/morrowind/mods/47980) by OperatorJack  
+Channel your inner Thief and douse light sources with your bow, crossbow, or thrown weapons.  
+
+[**Chameleon**](https://www.nexusmods.com/morrowind/mods/47996) by NullCascade & Danae  
+Fixes two major issues with the chameleon spell: 1/ the weid transparency of models (clothes, hair) with alpha channels 2/ How 2% chameleon makes you invisible when sneaking. Now: 1/ Your character is not transparent at all 2/ unless your sneak or chameleon spell are decent, enemies will attack normally.
+
+[**Peaceful Pets**](https://www.nexusmods.com/morrowind/mods/47956) by NullCascade & Danae  
+Pacifies pets (Tribunal and mod-added) that are not meant to fight
+
+[**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948) by OperatorJack  
+Inspired by the Miscast mod from years ago, this mod adds consequences to casting spells that are beyond the caster's abilities. Unique miscast effects for every vanilla magic effect.
+
+[**Actually Unlimited Skeleton Key**](https://www.nexusmods.com/morrowind/mods/47972) by Remiros  
+Gives the Skeleton Key infinite uses (yes, infinite) and a unique tooltip to reflect this.
+
+[**Permanent Corpse Location Randomiser**](https://www.nexusmods.com/morrowind/mods/47937) by MTR  
+This mod randomizes placement of Processus Vitellius and Ernil Omoran bodies. 
+
+[**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903) by Melchior Dahrk  
+This mod uses a previously unused keg droplet texture from the game files to add a new effect to select kegstands in the game. Now you might notice a leaky tap upon closer inspection just like Bethesda may have intended with this texture but never followed through on. Includes a dynamic MWSE and non-MWSE versions.  
+
+[**Naked and Alone**](https://www.nexusmods.com/morrowind/mods/47910) by Lucevar and Petethegoat  
+Calling on the gods to save you from your own mistakes should be a last resort. Intervention now drops your stuff at the cast point, requiring you to either cut your losses or return to danger to retrieve it. Requires MWSE-lua. Optional esp that adds dialogue integration and supporting clutter to Temples and Cult Shrines.
+
+[**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912) by RedFurryDemon  
+Configurable mod for automatical adjustment of lighting, including an override list with TLaD values, cell whitelist, light radius scaling, and a possibility to remove marker lights.
+
+[**Security Success Info**](https://www.nexusmods.com/morrowind/mods/47914) by kindi  
+Shows your lockpick and disarm success.
+
+[**Assetless No-Glow**](https://www.nexusmods.com/morrowind/mods/47925) by NullCascade  
+Pluginless *and* assetless no-glow. Use less memory, get some frames back, and be more compatible!
+
+[**Feed the Animals**](https://www.nexusmods.com/morrowind/mods/47894) by RedFurryDemon and OperatorJack  
+This MWSE-lua mod allows you to feed creatures with appropriate ingredients.  
+
+[**Speed Boost**](https://www.nexusmods.com/morrowind/mods/47896) by OperatorJack  
+Adds an MCM menu to apply a percentage modifier to all movement speeds, for all actors.  
+
+[**OperatorJack's Deleveler**](https://www.nexusmods.com/morrowind/mods/47897) by OperatorJack  
+This mod delevels all levelled lists. similarly to Abot's Deleveler, but this mod works automatically and requires no maintenance.  
+
+[**Circinates**](https://www.nexusmods.com/morrowind/mods/47899) by OperatorJack  
+All spells have a circinate assigned based on the casting cost of the spell, similarly to TES: Arena. This is purely visual and does not affect spells or casting mechanics.
+
+[**Galerion's Tools**](https://www.nexusmods.com/morrowind/mods/47901) by OperatorJack  
+Visit an old but familiar face to embark on a quest to discover an ancient enchanting tool, created by Galerion the Mystic, and unlock an entirely new enchanting mechanic.  
+
+[**Magicka Expanded - Unobtainable Powers**](https://www.nexusmods.com/morrowind/mods/47835) by Gavrilo93  
+Allows you to obtain two unobtainable powers that were present in the CS, but not used in the final game, through the Magicka Expanded framework.
+
+[**Clothing Requirements**](https://www.nexusmods.com/morrowind/mods/47813) by Remiros and Necrolesian  
+Implements level requirements to equip all of Morrowind's clothing items.  
+
+[**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
+Water Sound for MWSE-Lua - simulate water sound when colliding with generic fake animated water meshes  
 
 [**Smart Merchants**](https://www.nexusmods.com/morrowind/mods/47787) by abot  
 Smart Merchants for MWSE-Lua inspired from HotFusion's Economy Adjuster and Wakim's game settings, no need of a separate .esp, and no need of extra dialog greetings  
