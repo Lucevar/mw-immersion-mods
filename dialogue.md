@@ -15,6 +15,7 @@
 [**LDM - Vampire Talk**](https://www.nexusmods.com/morrowind/mods/47556) by Lucevar  
 [**Raym's Vampire Rumours**](https://www.wolflore.net/viewtopic.php?f=108&t=2035) by Raym  
 [**Balmora/Ascadian Isles Dialogue**](http://mw.modhistory.com/download-53-8218) by Brother Juniper  
+[**People of Pelagiad**](https://www.nexusmods.com/morrowind/mods/47520) by Caeris  
 
 ## Audio
 [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero  
