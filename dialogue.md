@@ -30,6 +30,7 @@
 [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by vonwolfe  
 [**It's a Deal**](https://www.nexusmods.com/morrowind/mods/47968) by Petethegoat and vonwolfe  
 [**Empty Threats Disabler**](https://www.nexusmods.com/morrowind/mods/44671) by Rot  
+[**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603) by R-zero  
 
 ## Greetings
 [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
