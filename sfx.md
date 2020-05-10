@@ -27,7 +27,7 @@ A corprus meat replacer.
 [**Magic Diversity**](https://www.nexusmods.com/morrowind/mods/43380) by Arkann  
 [**Particle Arrow Replacer**](https://www.nexusmods.com/morrowind/mods/47749) by GhostNull  
 [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194) by rot  
-[**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk  
+[**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755) by Melchior Dahrk  
 
 ## Animations  
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150) by R-Zero  
