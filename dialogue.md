@@ -25,7 +25,8 @@
 [**Outlander Yourself**](https://www.nexusmods.com/morrowind/mods/45674) by rot  
 [**Looks Good Naked**](https://calezane.home.xs4all.nl/mw/mwmods.htm) by Calezane  
 [**FMI - Not All Dunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
-[**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by vonwolfe 
+[**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by vonwolfe  
+[**It's a Deal**](https://www.nexusmods.com/morrowind/mods/47968) by Petethegoat and vonwolfe  
 
 ## Greetings
 [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
