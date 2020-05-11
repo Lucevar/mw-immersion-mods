@@ -7,7 +7,10 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
-# New Dec 23 2019 - May 10 2020
+# New Dec 23 2019 - May 11 2020
+[**MTR Alternative Unforgiving Levelling**](https://www.nexusmods.com/morrowind/mods/48007) by MTR  
+This mod attempts to change levelling to be entirely dependent on the skills. It changes the levelling process in a number of ways.  
+
 [**Retroactive Health Gain**](https://www.nexusmods.com/morrowind/mods/47959) by hardek  
 A simple retroactive health mod implemented in MWSE Lua. Increases health upon level up as though endurance was at its current value for past levels.
 
