@@ -8,6 +8,9 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New Dec 23 2019 - May 11 2020
+[**Timely Escape**](https://www.nexusmods.com/morrowind/mods/48013) by JaceyS  
+Instead of reloading after you die, you are teleported away, with configurable penalties for dying.  
+
 [**MTR Alternative Unforgiving Levelling**](https://www.nexusmods.com/morrowind/mods/48007) by MTR  
 This mod attempts to change levelling to be entirely dependent on the skills. It changes the levelling process in a number of ways.  
 
