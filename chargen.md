@@ -15,7 +15,11 @@ Randomise everything!
 [**Merlords Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795) by Merlord  
 After chargen (vanilla or modded) ends, this mod adds an extra step: choose your character's background. Some are simple stat boosts/maluses, others add scripted events such as challengers seeking to challenge a Famed Warrior or the Framed background which boosts your stealth skills at the cost of sometimes finding yourself with a bounty on your head. It really adds an interesting extra dimension to character generation.  
 
+[**MTR By The Divines**](https://www.nexusmods.com/morrowind/mods/48031) by MTR  
+This mods adds a bunch of deities for player to choose from in a manner seen in Merlord's Character Backgrounds. Beliefs grant some simple abilities to the player, but it's mostly for purpose of role-playing.
+
 [**The Role They Were to Play**](https://www.nexusmods.com/morrowind/mods/46411) by PoodleSandwich  
+Changes the intro video to be gender-neutral.
 
 [**Advantages & Disadvantages**](http://mw.modhistory.com/download-4-583) by Cid88  
 
