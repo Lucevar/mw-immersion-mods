@@ -17,6 +17,9 @@ This mod fixes a bug where GMST values are not applied properly when raising a s
 [**Infected Wounds**](https://www.nexusmods.com/morrowind/mods/48027) by RamblingMonk  
 If the player has severe wounds (more than half of their total health missing) this mod adds a chance that the player will develop an infection (a common disease). The less fatigue the player has, the weaker their immune system is in trying to prevent infections, and the deeper the wound the more likely it is that an infection might set in.
 
+[**Cover Yourself**](https://www.nexusmods.com/morrowind/mods/48016) by Merzasphor  
+This mod allows the player to choose which armor and clothing slots will be included in the PC Clothing Modifier check that's used in dialogue.
+
 [**Timely Escape**](https://www.nexusmods.com/morrowind/mods/48013) by JaceyS  
 Instead of reloading after you die, you are teleported away, with configurable penalties for dying.  
 
