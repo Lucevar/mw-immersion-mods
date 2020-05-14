@@ -151,6 +151,13 @@ This mods adds a bunch of deities for player to choose from in a manner seen in 
 - [**Timely Escape**](https://www.nexusmods.com/morrowind/mods/48013) by JaceyS  
 Instead of reloading after you die, you are teleported away, with configurable penalties for dying.  
 
+## Light and Shadow
+- [**Drop Light**](https://www.nexusmods.com/morrowind/mods/46694) by NullCascade -- equipping a shield, two handed weapon, etc while having a light equipped will cause the light to be dropped at your feet.  
+- [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Melchior Dahrk and Greatness7 -- lights grow fainter over their lifespan.  
+- [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk -- windows light up at night, there are also interior sunrays at windows on bright days.  
+- [**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912) by RedFurryDemon -- configurable light tweaks, no need for an esp.
+- [**Douse the Lights**](https://www.nexusmods.com/morrowind/mods/47980) by OperatorJack -- now you can put out all those pesky lights.
+
 ## It just makes sense (misc)
 - [**Fargoth's Ring Unbarrelled**](https://www.nexusmods.com/morrowind/mods/47224) by Lucevar -- ever thought that your character wouldn't rummage around in a filthy barrel? Now the ring is lying on the ground instead - and you can decide whether to keep it or try to find its owner.  
 - [**Plain Paper Fix**](https://www.nexusmods.com/morrowind/mods/47735) by abot -- you no longer have to "read" plain paper, you can just pick it up.  
@@ -159,9 +166,6 @@ Instead of reloading after you die, you are teleported away, with configurable p
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade -- jumping takes energy. You can no longer limitlessly leap around the world.  
 - [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade -- you now pick books up by default instead of reading them. No more browsing in book stores without paying, or gaining skill points without paying. Careful: this does mean that the default action is to *steal* owned books now. Plays well with Illiterate -- illiterate characters will now no longer gain skill points from books just because they want to pick them up.  
 - [**Illiterate**](https://www.nexusmods.com/morrowind/mods/46600) by Petethegoat -- if your character falls below a certain level of intelligence they won't be able to read. Includes toggle for permanent illiteracy, for characters who have never learned to read.  
-- [**Drop Light**](https://www.nexusmods.com/morrowind/mods/46694) by NullCascade -- equipping a shield, two handed weapon, etc while having a light equipped will cause the light to be dropped at your feet.  
-- [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Melchior Dahrk and Greatness7 -- lights grow fainter over their lifespan.  
-- [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk -- windows light up at night, there are also interior sunrays at windows on bright days.  
 - [**Not Clairvoyant Nerevarine**](https://www.nexusmods.com/morrowind/mods/47102) by qqqbbb -- You have to talk to people to know their names. You have to use objects to know what their properties are.  
 - [**Write Notes**](https://www.nexusmods.com/morrowind/mods/43839) by qqqbbb -- you can now write notes on plain paper.  
 - [**Graphic Herbalism**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7 -- plants you pick now visually show that they've been picked.  
