@@ -8,6 +8,15 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New Dec 23 2019 - May 11 2020
+[**MTR By The Divines**](https://www.nexusmods.com/morrowind/mods/48031) by MTR  
+This mods adds a bunch of deities for player to choose from in a manner seen in Merlord's Character Backgrounds. Beliefs grant some simple abilities to the player, but it's mostly for purpose of role-playing.
+
+[**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) by Merzasphor  
+This mod fixes a bug where GMST values are not applied properly when raising a skill via NPC training or a skill book.
+
+[**Infected Wounds**](https://www.nexusmods.com/morrowind/mods/48027) by RamblingMonk  
+If the player has severe wounds (more than half of their total health missing) this mod adds a chance that the player will develop an infection (a common disease). The less fatigue the player has, the weaker their immune system is in trying to prevent infections, and the deeper the wound the more likely it is that an infection might set in.
+
 [**Timely Escape**](https://www.nexusmods.com/morrowind/mods/48013) by JaceyS  
 Instead of reloading after you die, you are teleported away, with configurable penalties for dying.  
 
