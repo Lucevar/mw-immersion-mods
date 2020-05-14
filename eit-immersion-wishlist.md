@@ -19,6 +19,7 @@
 ## Economic Recession is Here
 - [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11  
 - [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by mort  
+- [**Harder Merchants**](https://www.nexusmods.com/morrowind/mods/47416) by Corsair  
 - [**Outlaws**](https://www.nexusmods.com/morrowind/mods/46404) by Danae -- hardship has forced a lot of people to take to banditry and pickpocketing. Better keep an eye on your purse.  
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord -- equipment you loot from enemies will be damaged, and you'll have to repair it before it's useful - or valuable.  
 
@@ -82,6 +83,8 @@
 - [**Protective Masks Redux**](https://www.nexusmods.com/morrowind/mods/47068) by Half11 -- Protective masks - certain helmets will provide protection against blight and common diseases    
 - [**Blighted Mines Mean Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Gavrilo93 -- Blighted mines affect workers standing outside    
 - [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian -- Blight storms start appearing in regions outside Red Mountain as the main quest progresses. Also comes with base weather tweaks that enables a chance of ash storms outside the ashlands.  
+- [**Infected Wounds**](https://www.nexusmods.com/morrowind/mods/48027) by RamblingMonk  
+If the player has severe wounds (more than half of their total health missing) this mod adds a chance that the player will develop an infection (a common disease). The less fatigue the player has, the weaker their immune system is in trying to prevent infections, and the deeper the wound the more likely it is that an infection might set in.
 
 **Wishlist**  
 - Hanging around in sewers or swamps carries a risk of disease  
@@ -125,12 +128,28 @@
 - [**Realistic Healing and Injuries**](https://www.nexusmods.com/morrowind/mods/47084) by Aracelliy -- you can now incur injuries in combat that you must rest to heal. Pairs well with mods like Bed Buddies and No Rest Without A Bed that make resting more difficult.  
 - [**No N'wah Allowed**]() by R-zero  
 - [**Permanently Perished**](https://www.nexusmods.com/morrowind/mods/45672) by NullCascade -- now death is permanent (after a configurable number of deaths).  
+- [**Infected Wounds**](https://www.nexusmods.com/morrowind/mods/48027) by RamblingMonk  
+If the player has severe wounds (more than half of their total health missing) this mod adds a chance that the player will develop an infection (a common disease). The less fatigue the player has, the weaker their immune system is in trying to prevent infections, and the deeper the wound the more likely it is that an infection might set in.
 
 ## Some people are just dicks
 - [**Ajira's Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/47550) by Danae and Merlord -- randomises the locations of Ajira's stolen alchemy reports.  
 
 ## Making a living
 - [**Game of Three Cups**](http://mw.modhistory.com/download-55-6173) by Arcimaestro Antares -- gain (or lose) some money by gambling.  
+
+## Talk is Cheap
+- [**Give a Gift**](https://www.nexusmods.com/morrowind/mods/46661) by NullCascade -- give NPCs items as a gift in lieu of bribes.  
+- [**Advanced NPCs**](https://www.nexusmods.com/morrowind/mods/43409) by qqqbbb -- NPCs will now greet each other.  
+- [**Advanced Bartering**](https://www.nexusmods.com/morrowind/mods/43305) by qqqbbb -- barter with any npc. invest in businesses.  
+- [**Cover Yourself**](https://www.nexusmods.com/morrowind/mods/48016) by Merzasphor  
+This mod allows the player to choose which armor and clothing slots will be included in the PC Clothing Modifier check that's used in dialogue.
+
+## Losing My Religion
+- [**MTR By The Divines**](https://www.nexusmods.com/morrowind/mods/48031) by MTR  
+This mods adds a bunch of deities for player to choose from in a manner seen in Merlord's Character Backgrounds. Beliefs grant some simple abilities to the player, but it's mostly for purpose of role-playing.  
+- [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris -- Temple and Imperial Cult are now mutually exclusive.  
+- [**Timely Escape**](https://www.nexusmods.com/morrowind/mods/48013) by JaceyS  
+Instead of reloading after you die, you are teleported away, with configurable penalties for dying.  
 
 ## It just makes sense (misc)
 - [**Fargoth's Ring Unbarrelled**](https://www.nexusmods.com/morrowind/mods/47224) by Lucevar -- ever thought that your character wouldn't rummage around in a filthy barrel? Now the ring is lying on the ground instead - and you can decide whether to keep it or try to find its owner.  
@@ -140,13 +159,9 @@
 - [**Limited Leaping**](https://www.nexusmods.com/morrowind/mods/46299) by NullCascade -- jumping takes energy. You can no longer limitlessly leap around the world.  
 - [**Book Pickup**](https://www.nexusmods.com/morrowind/mods/46625) by NullCascade -- you now pick books up by default instead of reading them. No more browsing in book stores without paying, or gaining skill points without paying. Careful: this does mean that the default action is to *steal* owned books now. Plays well with Illiterate -- illiterate characters will now no longer gain skill points from books just because they want to pick them up.  
 - [**Illiterate**](https://www.nexusmods.com/morrowind/mods/46600) by Petethegoat -- if your character falls below a certain level of intelligence they won't be able to read. Includes toggle for permanent illiteracy, for characters who have never learned to read.  
-- [**Give a Gift**](https://www.nexusmods.com/morrowind/mods/46661) by NullCascade -- give NPCs items as a gift in lieu of bribes.  
 - [**Drop Light**](https://www.nexusmods.com/morrowind/mods/46694) by NullCascade -- equipping a shield, two handed weapon, etc while having a light equipped will cause the light to be dropped at your feet.  
 - [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Melchior Dahrk and Greatness7 -- lights grow fainter over their lifespan.  
 - [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk -- windows light up at night, there are also interior sunrays at windows on bright days.  
 - [**Not Clairvoyant Nerevarine**](https://www.nexusmods.com/morrowind/mods/47102) by qqqbbb -- You have to talk to people to know their names. You have to use objects to know what their properties are.  
 - [**Write Notes**](https://www.nexusmods.com/morrowind/mods/43839) by qqqbbb -- you can now write notes on plain paper.  
-- [**Advanced NPCs**](https://www.nexusmods.com/morrowind/mods/43409) by qqqbbb -- NPCs will now greet each other.  
-- [**Advanced Bartering**](https://www.nexusmods.com/morrowind/mods/43305) by qqqbbb -- barter with any npc. invest in businesses.  
 - [**Graphic Herbalism**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7 -- plants you pick now visually show that they've been picked.  
-- [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris -- Temple and Imperial Cult are now mutually exclusive.  
