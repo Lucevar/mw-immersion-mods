@@ -7,7 +7,62 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
-# New Dec 23 2019 - May 11 2020
+# New since May 14th 2020
+
+
+[**Cursed Item Random Summon**](https://www.nexusmods.com/morrowind/mods/48142) by Eq  
+Picking up a cursed item will spawn a variety of daedra
+
+[**Alchemy Helper Menu - MWSE Lua**](https://www.nexusmods.com/morrowind/mods/48141) by Mag  
+This is a simple mod that sorts your ingredients by magical effects in order to be used as a reference while making potions.
+It also shows you a list of your current ingredients as well as a list of all magical effects.  
+
+[**MWSE State-Based Health**](https://www.nexusmods.com/morrowind/mods/48133) by Necrolesian  
+A retroactive, state-based health mod implemented in MWSE. Health is now calculated based on current strength, endurance and level.
+
+[**MWSE Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48129) by Anumaril21  
+MWSE Magicka Regen provides functional and configurable magicka regeneration for the player, NPCs, and creatures within Morrowind.  
+
+[**Disenchant**](https://www.nexusmods.com/morrowind/mods/48111) by Unappendixed  
+Adds a spell to disenchant enchanted items, whether they're player enchanted or from the base game. No more hesitating to enchant those daedric boots you found because your enchant skill isn't high enough for a suitably powerful effect. Requires MWSE.
+
+[**The Law is Sacred**](https://www.nexusmods.com/morrowind/mods/48130) by JaceyS  
+Everyday criminals that resist arrest get knocked out and dragged to jail, with an extra sentence for making things difficult. Lethal measures are saved for vampires, werewolves, and (configurably) very high profile criminals.
+
+[**Misc Mates**](https://www.nexusmods.com/morrowind/mods/48122) by Merlord  
+NPCs will allow you to take small inexpensive items if their disposition towards you is high enough. The disposition required is based on the gold value of the item and the player's personality.
+
+[**Neo Combat**](https://www.nexusmods.com/morrowind/mods/48120) by OEA  
+Yet another combat mod. This mod uses Lua to create additional keybindings to add new effects--active blocking, shield bashing, Rage, and countering.
+
+[**Dwemer Teleportation Box**](https://www.nexusmods.com/morrowind/mods/48062) by OperatorJack  
+Once again delve into the depths of Arkngthand to find a Dwemer Teleportation Box, a tool that teleports you to the closest Dwemer ruin when equipped.
+
+[**Class Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110) by Necrolesian  
+An MWSE leveling mod that implements several features of Galsiah's Character Development.  
+
+[**More Character Backgrounds for Merlord's Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/48076) by IsNaN  
+Adds a handful of new backgrounds to Merlord's character backgrounds. Some provide more of a flying start, but they all have harsher setbacks or challenges for later.  
+
+[**Essential NPC Modifiers**](https://www.nexusmods.com/morrowind/mods/48075) by Anumaril21  
+Essential NPC Modifiers provides a number of ways to manage the 'essential' status of Morrowind's important NPCs, allowing you the options to remove the status once they've served their purpose, render them invincible, disable the status entirely, or provide it to vital NPCs that weren't considered 'essential' before.
+
+[**Worth Its Weight**](https://www.nexusmods.com/morrowind/mods/48070) by JaceyS  
+Adds configurable weight to gold. By implementing gold weight using MWSE Lua, this mod works reliably without the need for dummy items or burden spell effects. It is also able to show the weight of a stack of gold in the tooltip.
+
+[**Passing Time While Reading - MWSE Lua Version**](https://www.nexusmods.com/morrowind/mods/48059) by abot  
+Time passes while reading.  
+
+[**3E 427 A Space Odyssey**](https://www.nexusmods.com/morrowind/mods/48019) by OperatorJack and Gavrilo93  
+Tarhiel has long dreamed of reaching the sun. Save him from his perilous experiments with the Scrolls of Icarian Flight to go on a quest to unlock a completely new kind of levitation magic: flotation.
+
+[**Hotkeys Extended**](https://www.nexusmods.com/morrowind/mods/48055) by Virnetch  
+Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells. Requires MWSE 2.1
+
+[**MWSE Blood Diversity**](https://www.nexusmods.com/morrowind/mods/47913) by Anumaril21  
+MWSE Blood Diversity provides a variety of new blood types for the creatures of Morrowind, Tribunal, Bloodmoon, the Official Plugins, and a variety of mods based on real-world and lore considerations.
+
+# New Dec 23 2019 - May 14 2020
 [**MTR By The Divines**](https://www.nexusmods.com/morrowind/mods/48031) by MTR  
 This mods adds a bunch of deities for player to choose from in a manner seen in Merlord's Character Backgrounds. Beliefs grant some simple abilities to the player, but it's mostly for purpose of role-playing.
 
