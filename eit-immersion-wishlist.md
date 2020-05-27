@@ -14,7 +14,10 @@
 - [**Camonna Tong's Violence**](http://mw.modhistory.com/download-55-6173) by Arcimaestro Antares -- NPCs in the Balmora Council Club will now attack you if their disposition is too low. If you're foolhardy enough to rent a bed there, they may rob you in your sleep or try to kill you.  
 - [**No Rest Without Beds**](https://www.nexusmods.com/morrowind/mods/46724) by Kaedius -- Prevents rest (not waiting) without a bed. Encourages the player to rent a room or buy a house, or use potions and spells for healing.  
 - [**Tired and Hungry - Economics**](https://www.nexusmods.com/morrowind/mods/45364) by Ket - increases the cost of food and rented rooms.  
-- [**Get Lost**](https://www.nexusmods.com/morrowind/mods/45981) by NullCascade -- no more magical compass. If you get lost far from civilization, you'll have to find your own way back. NOTE: INCOMPATIBLE with [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071).  
+- [**Get Lost**](https://www.nexusmods.com/morrowind/mods/45981) by NullCascade -- no more magical compass. If you get lost far from civilization, you'll have to find your own way back. NOTE: INCOMPATIBLE with [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071). 
+- [**Naked and Alone**](https://www.nexusmods.com/morrowind/mods/47910) by Petethegoat & Lucevar  
+- [**The Law is Sacred**](https://www.nexusmods.com/morrowind/mods/48130) by JaceyS  
+- [**Timely Escape**](https://www.nexusmods.com/morrowind/mods/48013) by JaceyS  
 
 ## Economic Recession is Here
 - [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11  
