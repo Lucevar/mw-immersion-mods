@@ -107,6 +107,7 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 [**What Thieves Guild?**](http://mw.modhistory.com/download-48-13858) by von Django  
 Ever felt that for law breaking gang of thieves and robbers, finding their guild was as easy as walking into a random building? This mod aims to correct that. They're not as hard to find as the guild in oblivion, but it'll take a little more care and winning of their trust to join them now.  
 [**Strike at the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/46865) by ProfArmitage  
+[**Bal Molagmer Add-on**](https://www.nexusmods.com/morrowind/mods/48198) by Gavrilo93  
 
 ## Misc Smuggling Operations
 [**Adanumuran Reclaimed**](https://www.nexusmods.com/morrowind/mods/43340) by Danae  
