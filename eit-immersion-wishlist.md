@@ -87,7 +87,9 @@
 - [**Blighted Mines Mean Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Gavrilo93 -- Blighted mines affect workers standing outside    
 - [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian -- Blight storms start appearing in regions outside Red Mountain as the main quest progresses. Also comes with base weather tweaks that enables a chance of ash storms outside the ashlands.  
 - [**Infected Wounds**](https://www.nexusmods.com/morrowind/mods/48027) by RamblingMonk  
-If the player has severe wounds (more than half of their total health missing) this mod adds a chance that the player will develop an infection (a common disease). The less fatigue the player has, the weaker their immune system is in trying to prevent infections, and the deeper the wound the more likely it is that an infection might set in.
+If the player has severe wounds (more than half of their total health missing) this mod adds a chance that the player will develop an infection (a common disease). The less fatigue the player has, the weaker their immune system is in trying to prevent infections, and the deeper the wound the more likely it is that an infection might set in.  
+- [**Better Blight**](https://www.nexusmods.com/morrowind/mods/48395) by Cognatogen  
+Changes the effects of Blight Diseases to make them more interesting and unique, rather than just more potent versions of the common diseases.
 
 **Wishlist**  
 - Hanging around in sewers or swamps carries a risk of disease  
