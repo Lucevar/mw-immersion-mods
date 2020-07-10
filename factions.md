@@ -35,6 +35,9 @@ __*Lucevar's Note*__: These are fairly limited in scope - they're not full-fledg
 [**LGNPC**]()  
 [**Olyn Hleran: A Redoran Companion**](https://www.nexusmods.com/morrowind/mods/45197) by Team Mythic Beasts  
 __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see the mod page: the screenshots are fairly representative of what I mean). Mod was created for MMM2017 and may have some rough edges.  
+[**Hiring Guards for the Redoran Stronghold - Honourable Solution**](https://www.nexusmods.com/morrowind/mods/48243) by Gavrilo93  
+[**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953) by Gavrilo93  
+[**Morvayn Manor in Maar Gan**](https://www.nexusmods.com/morrowind/mods/48024) by Gavrilo93  
 
 [**Reinforced Redoran**](https://www.nexusmods.com/morrowind/mods/42386) by bruno13069  
 [**Redoran Vault Extended**](https://www.nexusmods.com/morrowind/mods/42098) by Tarius  
@@ -99,6 +102,7 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 ## Imperial Cult
 [**Illy's Oh My Goddess**](http://mw.modhistory.com/download-4-14546) by Illuminiel  
 [**The Divines**](https://www.nexusmods.com/morrowind/mods/40784) by Ratfink333  
+[**Imperial Cult Templar Armour**](https://www.nexusmods.com/morrowind/mods/48233) by FrankG2229  
 
 # Misc
 ## Thieves Guild
@@ -108,6 +112,7 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 Ever felt that for law breaking gang of thieves and robbers, finding their guild was as easy as walking into a random building? This mod aims to correct that. They're not as hard to find as the guild in oblivion, but it'll take a little more care and winning of their trust to join them now.  
 [**Strike at the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/46865) by ProfArmitage  
 [**Bal Molagmer Add-on**](https://www.nexusmods.com/morrowind/mods/48198) by Gavrilo93  
+[**Lore-Friendly Bal Molagmer Gloves**](https://www.nexusmods.com/morrowind/mods/48053) by Gavrilo93  
 
 ## Misc Smuggling Operations
 [**Adanumuran Reclaimed**](https://www.nexusmods.com/morrowind/mods/43340) by Danae  
