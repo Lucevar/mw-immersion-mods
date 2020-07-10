@@ -26,6 +26,7 @@
 [**Dreamers Expansion**](https://www.nexusmods.com/morrowind/mods/42990) by Aoimhevelho  
 [**Buoyant Armigers Armour**](https://www.nexusmods.com/morrowind/mods/43143) by Aoimhevelho  
 [**Dunmer Noble Overhaul**](https://www.nexusmods.com/morrowind/mods/43835) by Aoimhevelho  
+[**Dunmer Nobles Overhaul - Westly Hairs Patch**](https://www.nexusmods.com/morrowind/mods/48313) by RandomPal
 [**Armored Robe Compilation & NPC Changes**](https://www.nexusmods.com/morrowind/mods/44096) by Aoimhevelho  
 [**Redoran Guard Glove Fix**](https://www.nexusmods.com/morrowind/mods/45935) by Petethegoat  
 [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269) by Melchior Dahrk and quorn  
@@ -36,6 +37,7 @@
 [**Redoran Founder's Armor**](https://www.nexusmods.com/morrowind/mods/44860) by NaxoX9
 [**Morag Tong Armor**](https://www.nexusmods.com/morrowind/mods/44938) by NazoX9  
 [**NPC Faction Affiliation Fix**](https://www.nexusmods.com/morrowind/mods/47743) by Gavrilo93  
+[**Imperial Cult Templar Armour**](https://www.nexusmods.com/morrowind/mods/48233) by FrankG2229  
 
 ## New NPCS
 [**TriangleTooth's Missing NPCs**](https://www.nexusmods.com/morrowind/mods/46234) by TriangleTooth  
