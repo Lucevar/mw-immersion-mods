@@ -8,6 +8,36 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since May 26th 2020
+[**Time Scale Menu**](https://www.nexusmods.com/morrowind/mods/48459) by Stripes  
+Adds a Mod Configuration Menu to adjust the ratio of game time to real time.
+
+[**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458) by Merlord  
+This mod provides one simple feature: any menu can be exited by right clicking. This includes dialog and barter menus, any service menus, as well as the main menu, save/load menu etc.
+
+[**Map and Compass - Wagner Style Map Replacers**](https://www.nexusmods.com/morrowind/mods/48460) by Brujoloco  
+A small replacement pack of maps for Maps and Compass! I wanted darker, more worn maps for my Immersion Playthrough, so decided to tweak a bit the included maps in the Wagner style.
+
+[**Map and Compass -- Gridmap Pack**](https://www.nexusmods.com/morrowind/mods/48456) by JaceyS  
+This file holds an additional map pack for Map and Compass, made from the TES III Cartography Club resource, The Gridmap. These are the most accurate maps available at this point for Map and Compass, but they are more utilitarian than the other maps. I have hidden the eponymous grid, and all locations except for settlements.
+
+[**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455) by JaceyS  
+Want to get lost, but NullCascade's "Get Lost" is a bit too much? This mod allows you to replace the magical vanilla map with a selection of more mundane maps, and the minimap with a compass.
+
+[**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454) by Necrolesian  
+Automatically hides your drugs so you don't have to dump them on the floor in order to trade. Uses MWSE, no plugin required.
+
+[**Activate With A Click**](https://www.nexusmods.com/morrowind/mods/48453) by celediel  
+Activate/interact with a click of the mouse, because simply mapping activate to a mouse button doesn't work when activating objects that are made interactive by an MWSE Lua script. Fixes interactivity with objects such as wells and kegs in Ashfall, and tameable guars in The Guar Whisperer.
+
+[**MWSE Daleth's Book Jackets**](https://www.nexusmods.com/morrowind/mods/48449) by Daleth and Necrolesian
+An MWSE implementation of Daleth's Book Jackets, using MWSE-lua to give each book a unique cover with no plugins required.
+
+[**No Console**](https://www.nexusmods.com/morrowind/mods/48448) by Necrolesian  
+Disables the console. That's it.
+
+[**Limited Recall**](https://www.nexusmods.com/morrowind/mods/48438) by Necrolesian  
+This configurable MWSE mod allows you to limit the casting of Recall in various ways.
+
 [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373) by JaceyS  
 Creatures and NPCs affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time.
 
