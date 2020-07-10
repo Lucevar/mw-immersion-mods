@@ -77,6 +77,8 @@ Alternatives:
 [**Better Bodies**](https://www.nexusmods.com/morrowind/mods/3880) by Psychodog Studios  
 [**Slof's Better Beasts**](https://www.nexusmods.com/morrowind/mods/46160) by AlienSlof  
 [**Westly's Pluginless Head Replacer**](https://download.fliggerty.com/download--874) by Westly  
+or  
+[**Better Bodies 3.0**](https://www.nexusmods.com/morrowind/mods/48387) 
 
 ## Equipment
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by Greatness7 & the community  
