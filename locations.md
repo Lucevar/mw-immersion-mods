@@ -56,6 +56,7 @@
 ## Sheogorad
 [**The Grove of Ben'Abi**](https://www.nexusmods.com/morrowind/mods/46137) by Remiros  
 [**Sanctus Shrine**](https://www.nexusmods.com/morrowind/mods/47841) by hater8  
+[**Sheogorad - Groves of the North**](https://www.nexusmods.com/morrowind/mods/48240) by Tapetenklaus
 
 ## Solstheim
 [**VSW - Solstheim Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810) by Wollibeebee  
