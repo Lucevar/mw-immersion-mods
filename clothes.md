@@ -23,3 +23,8 @@ Duke's Silver Armor:
 [**Iron Variants**](https://www.nexusmods.com/morrowind/mods/43260) by Stavroguin  
 [**Telvanni Warriors**](https://www.nexusmods.com/morrowind/mods/43254?) by Stavroguin  
 [**Sathil Mercenary Armor 2.1**](https://www.nexusmods.com/morrowind/mods/48340) by RuffinVangarr and Ashtaar  
+[**Imperial Cult Templar Armour**](https://www.nexusmods.com/morrowind/mods/48233) by FrankG2229  
+
+[**Practical Pauldrons**](https://www.nexusmods.com/morrowind/mods/48523) by Kyim  
+[**Gloved Bracers**](https://www.nexusmods.com/morrowind/mods/48497) by Kyim  
+[**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473) by Kyim  
