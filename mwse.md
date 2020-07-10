@@ -8,6 +8,12 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since May 26th 2020
+[**Keyboard Layout Changer**](https://www.nexusmods.com/morrowind/mods/48569) by Celediel  
+Allows the use of non-qwerty keyboard layouts in any in-game text input. Currently supported: Dvorak, Colemak, and Workman (US and UK variants).
+
+[**Bound to Balance**](https://www.nexusmods.com/morrowind/mods/48563) by OEA  
+Bound weapons' damage and bound armor's AR scales with Conjuration or Willpower. Only affects vanilla and Magicka Expanded bound items.
+
 [**Vanity**](https://www.nexusmods.com/morrowind/mods/48529) by Abot  
 Visible equipped amulets & rings
 
