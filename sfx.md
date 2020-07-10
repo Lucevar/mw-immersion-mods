@@ -29,6 +29,7 @@ A corprus meat replacer.
 [**Particle Arrow Replacer**](https://www.nexusmods.com/morrowind/mods/47749) by GhostNull  
 [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194) by rot  
 [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755) by Melchior Dahrk  
+[**Glowing Ghosts**](https://www.nexusmods.com/morrowind/mods/48226) by Sataniel  
 
 ## Animations  
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150) by R-Zero  
