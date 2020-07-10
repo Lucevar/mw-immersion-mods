@@ -16,7 +16,8 @@
 [**Raym's Vampire Rumours**](https://www.nexusmods.com/morrowind/mods/48469) by Raym  
 [**Balmora/Ascadian Isles Dialogue**](http://mw.modhistory.com/download-53-8218) by Brother Juniper  
 [**People of Pelagiad**](https://www.nexusmods.com/morrowind/mods/47520) by Caeris  
-[**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar
+[**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
+[**Sexual Harassment Remover**](https://www.nexusmods.com/morrowind/mods/48541) by JaceyS  
 
 ## Audio
 [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero  
