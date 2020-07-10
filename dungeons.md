@@ -373,7 +373,7 @@ Allows the player to buy and run a mine.
 **Anudnabia** - [**Forge of Hilbongard**](http://download.fliggerty.com/download--702)  
 **Khartag Point**  
 **Magas Volar**  
-**Shrine of Azura**  
+**Shrine of Azura** - [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278)   
 **Shrine of Boethia**  
 **Shrine of Mephala** - [**The Shrine of Mephala**](http://mw.modhistory.com/download-112-11326)  
 
