@@ -221,6 +221,7 @@ Balmora has a ridiculous number of mods - it's a meme for a reason! I recommend 
 [**The Seedy Plates**](https://www.nexusmods.com/morrowind/mods/19006) by Von Django  
 [**Brevur of Balmora**](https://www.nexusmods.com/morrowind/mods/47557/) by R-zero  
 [**Balmora Rooftop Apartments**](https://www.nexusmods.com/morrowind/mods/47974) by WulfShaman  
+[**Drarayne Thelas's House Overhaul**](https://www.nexusmods.com/morrowind/mods/48326) by Endify
 
 [**Fort Moonmoth Expanded**](https://www.nexusmods.com/morrowind/mods/46963) by Yommumoi  
 
