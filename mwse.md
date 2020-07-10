@@ -8,6 +8,30 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since May 26th 2020
+[**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373) by JaceyS  
+Creatures and NPCs affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time.
+
+[**TimeScale Friendly Purist Health and Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48384) by Stripes  
+A purists friendly regen mod for players that don't use the default timescale
+
+[**Caveat Nerevar**](https://www.nexusmods.com/morrowind/mods/48389) by OEA  
+Adjusts the economy in a compatible, pluginless way, by directly modifying both item prices and sellers' Mercantile.
+
+[**Hidden Robe Armour**](https://www.nexusmods.com/morrowind/mods/48425) by Merlord  
+This mod hides pauldrons and bracers when wearing a robe. Includes MCM menu for full customisation.
+
+[**More Heads and Diversity MWSE**](https://www.nexusmods.com/morrowind/mods/48429) by OEA  
+A Lua script designed to randomly distribute the new heads in More Heads and Diversity Expansion to the general population, without making any edits to NPCs.
+
+[**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435) by Melchior Dahrk  
+This mod adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows. Inspired by an unused texture, these particles will appear in multiple tomb-like cell-types in the game or mods thanks to the included MWSE code. This has been extensively optimized such that minimal to no performance loss is expected.
+
+[**Magicka-Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330) by JaceyS  
+Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
+
+[**Sepulchural Curses**](https://www.nexusmods.com/morrowind/mods/48332) by inpv  
+Makes robbing tombs harder by adding a chance of summoning a random angry undead while opening a chest/urn. A pluginless MWSE solution.  
+
 [**Weather Chances Adjuster**](https://www.nexusmods.com/morrowind/mods/48335) by Necrolesian  
 Allows you to configure the weather chances for each of the game's regions.
 
