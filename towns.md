@@ -80,6 +80,7 @@ The Shrine of Daring isn't compatible with Holidays Across Tamriel/Dramatic Vive
 [**Concept Art Palace (Vivec City)**](https://www.nexusmods.com/morrowind/mods/48136) by NobuRed and NMTeam  
 [**Vivec Temple Exterior Overhaul**](https://www.nexusmods.com/morrowind/mods/48191) by Dmettler  
 Has a version which is compatible with Dramatic Vivec  
+[**Rethinking Vivec**](https://www.nexusmods.com/morrowind/mods/48256) by Atrayonis  
 
 [**Canalworks Connected**](https://www.nexusmods.com/morrowind/mods/47354) by iLoveOnFear  
 [**Jobasha's Rare Books Expanded**](https://www.nexusmods.com/morrowind/mods/45153) twgear2  
@@ -88,6 +89,7 @@ Has a version which is compatible with Dramatic Vivec
 [**Nemon's Vivec Interiorator**](http://mw.modhistory.com/download-80-11740) by Nemon  
 [**Vivec Guild of Mages Expanded**](https://www.nexusmods.com/morrowind/mods/44935) by Mordaxis  
 [**The Secret Library**](http://mw.modhistory.com/download-68-6500) by Master Sam  
+[**Arantamo's Room**](https://www.nexusmods.com/morrowind/mods/48249) by Endify  
 
 ## Ebonheart
 These affect different parts of Ebonheart and are therefore compatible.  
@@ -97,6 +99,7 @@ These affect different parts of Ebonheart and are therefore compatible.
 [**Ebonheart Interior Expansion**](http://mw.modhistory.com/download-87-7146) by Princess Stomper  
 [**Big Imperial Halls**](https://www.nexusmods.com/morrowind/mods/47533) by Zobator  
 [**Ebonheart Western Docks**](https://www.nexusmods.com/morrowind/mods/47607) by Zobator  
+[**Duke's Throne Room Overhaul**](https://www.nexusmods.com/morrowind/mods/48235) by Gavrilo93  
 
 ## Rethan Manor
 [**Resplendent Rethan - Jewel of the Odai**](https://www.nexusmods.com/morrowind/mods/47281) by Team Azturnal  
@@ -190,6 +193,7 @@ or  [**TM - New Gnisis**](https://www.nexusmods.com/morrowind/mods/42235) by Tra
 ## Khuul
 [**Khuul Expanded**](https://www.nexusmods.com/morrowind/mods/32643) by caseytucker  
 [**More Detailed Places - Khuul**](https://www.nexusmods.com/morrowind/mods/29965) by Ragox  
+[**Cool Khuul Docks**](https://www.nexusmods.com/morrowind/mods/47852) by Gavrilo93  
 
 Alternatively, [**Vvardenfell Revisited - Khuul**](https://www.nexusmods.com/morrowind/mods/46614) by EnnetWinterhoof, or [**Milik's Khuul Facelift**](https://www.nexusmods.com/morrowind/mods/19657) by Milik.    
 
@@ -226,6 +230,7 @@ Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014)
 [**Redoran Council Hall Improvements**](https://www.nexusmods.com/morrowind/mods/44931) by Kalian  
 [**The Rat in the Pot**](https://www.nexusmods.com/morrowind/mods/34186) by DebiDalio  
 [**Aldruhn Council Club**](https://www.nexusmods.com/morrowind/mods/34185) by DebiDalio  
+[**Morvayn Manor in Maar Gan**](https://www.nexusmods.com/morrowind/mods/48024) by Gavrilo93  
 or  
 [**Epic Aldruhn**](https://www.nexusmods.com/morrowind/mods/43072) by mike_and_ike  
 or
@@ -239,6 +244,7 @@ or
 [**More Detailed Places - Maar Gan**](https://www.nexusmods.com/morrowind/mods/29602) by Ragox  
 [**Unique Maar Gan**](http://mw.modhistory.com/download-1-11884) by basswalker  
 [**Maar Gan Extended**](http://mw.modhistory.com/download-1-11437) by ManualIntelligence  
+[**Morvayn Manor in Maar Gan**](https://www.nexusmods.com/morrowind/mods/48024) by Gavrilo93  
 
 # Molag Mar
 [**Fortified Molag Mar**](https://www.nexusmods.com/morrowind/mods/47270) by Team Voluptuous Velks  
