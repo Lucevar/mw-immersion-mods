@@ -113,6 +113,7 @@ Ever felt that for law breaking gang of thieves and robbers, finding their guild
 [**Strike at the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/46865) by ProfArmitage  
 [**Bal Molagmer Add-on**](https://www.nexusmods.com/morrowind/mods/48198) by Gavrilo93  
 [**Lore-Friendly Bal Molagmer Gloves**](https://www.nexusmods.com/morrowind/mods/48053) by Gavrilo93  
+[**Arantamo's Room**](https://www.nexusmods.com/morrowind/mods/48249) by Endify  
 
 ## Misc Smuggling Operations
 [**Adanumuran Reclaimed**](https://www.nexusmods.com/morrowind/mods/43340) by Danae  
