@@ -36,6 +36,7 @@ A corprus meat replacer.
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150) by R-Zero  
 [**Animated Morrowind**](http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50) by Arcimaestro Antares and abot  
 [**Animated Containers**](https://www.nexusmods.com/morrowind/mods/42238) by qqqbbb  
+[**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes  
 
 # Audio
 [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586) by R-zero  
@@ -51,6 +52,7 @@ A corprus meat replacer.
 [**Tavern Ambience**](https://www.nexusmods.com/morrowind/mods/252) by Erik Be  
 [**Sheep-no-more**](https://www.nexusmods.com/morrowind/mods/45168) by mcchuggernaut  
 [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
+[**AURA**](https://www.nexusmods.com/morrowind/mods/48255) by tewlwolow  
 
 [**Silent Hits**](https://www.nexusmods.com/morrowind/mods/44556) by Jxrdan  
 [**Sea of Sound**](https://www.nexusmods.com/morrowind/mods/45737) by CptJoker  
