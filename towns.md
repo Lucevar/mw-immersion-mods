@@ -67,8 +67,6 @@ For a more restrained aesthetic. Adds appropriate clutter to Gnaar Mok but doesn
 [**Docks of Suran**](https://www.nexusmods.com/morrowind/mods/44853) by Vallylilly  
 
 ## Vivec
-These are all compatible, but whether or not you think they're aeshetically compatible (or whether your computer can handle them) are entirely different questions.  
-
 [**Dramatic Vivec**](https://www.nexusmods.com/morrowind/mods/43385) by LondonRook  
 Patch for Holidays Across Tamriel [here](https://www.nexusmods.com/morrowind/mods/44222).  
 [**Passage of Prayers**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn, Sataniel & Remiros  
@@ -79,6 +77,9 @@ Patch for Holidays Across Tamriel [here](https://www.nexusmods.com/morrowind/mod
 [**Prison Moon Enhanced II**](http://download.fliggerty.com/download--929) by Spirithawke  
 [**Shrines of the Seven Graces**](https://www.nexusmods.com/morrowind/mods/46417?tab=files) by QueenLunara  
 The Shrine of Daring isn't compatible with Holidays Across Tamriel/Dramatic Vivec. I recommend getting the other six and leaving that one out.  
+[**Concept Art Palace (Vivec City)**](https://www.nexusmods.com/morrowind/mods/48136) by NobuRed and NMTeam  
+[**Vivec Temple Exterior Overhaul**](https://www.nexusmods.com/morrowind/mods/48191) by Dmettler  
+Has a version which is compatible with Dramatic Vivec  
 
 [**Canalworks Connected**](https://www.nexusmods.com/morrowind/mods/47354) by iLoveOnFear  
 [**Jobasha's Rare Books Expanded**](https://www.nexusmods.com/morrowind/mods/45153) twgear2  
