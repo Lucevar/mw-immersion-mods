@@ -24,6 +24,7 @@ A corprus meat replacer.
 [**Draggle-Tail Torches**](http://mw.modhistory.com/download-26-14297) by Danjb  
 [**Fire and Frost Salts**](https://www.nexusmods.com/morrowind/mods/47784) by hater8  
 [**Crystal Soul Gems**](https://www.nexusmods.com/morrowind/mods/48300) by SVNR and SpaceDevo  
+[**Immersive Telvanni Bug Musk**](https://www.nexusmods.com/morrowind/mods/48327) by RandomPal  
 
 ## Particles
 [**Magic Diversity**](https://www.nexusmods.com/morrowind/mods/43380) by Arkann  
