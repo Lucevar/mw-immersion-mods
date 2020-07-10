@@ -15,6 +15,7 @@
 [**Floaty Boaties**](https://www.nexusmods.com/morrowind/mods/44246/) by ventuz  
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424) by Melchior Dahrk  
 [**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903) by Melchior Dahrk  
+[**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
 
 ## Items
 [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
