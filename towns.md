@@ -101,6 +101,7 @@ These affect different parts of Ebonheart and are therefore compatible.
 [**Big Imperial Halls**](https://www.nexusmods.com/morrowind/mods/47533) by Zobator  
 [**Ebonheart Western Docks**](https://www.nexusmods.com/morrowind/mods/47607) by Zobator  
 [**Duke's Throne Room Overhaul**](https://www.nexusmods.com/morrowind/mods/48235) by Gavrilo93  
+[**Ebonheart Dragon Statue Replacer**](https://www.nexusmods.com/morrowind/mods/48310) by RandomPal  
 
 ## Rethan Manor
 [**Resplendent Rethan - Jewel of the Odai**](https://www.nexusmods.com/morrowind/mods/47281) by Team Azturnal  
@@ -219,10 +220,11 @@ Balmora has a ridiculous number of mods - it's a meme for a reason! I recommend 
 [**South Wall, Den of Iniquity**](http://mw.modhistory.com/download-87-13449) by Balasthustrius  
 [**The Seedy Plates**](https://www.nexusmods.com/morrowind/mods/19006) by Von Django  
 [**Brevur of Balmora**](https://www.nexusmods.com/morrowind/mods/47557/) by R-zero  
+[**Balmora Rooftop Apartments**](https://www.nexusmods.com/morrowind/mods/47974) by WulfShaman  
 
 [**Fort Moonmoth Expanded**](https://www.nexusmods.com/morrowind/mods/46963) by Yommumoi  
 
-Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014) by mike_and_ike, [**Balmora Underworld**](https://www.nexusmods.com/morrowind/mods/42448) by Fulgore, the classic [**Balmora Expansion**](https://www.nexusmods.com/morrowind/mods/42342), [**Walled City of Balmora**](https://www.nexusmods.com/morrowind/mods/42524), [**Concept Art Balmora**](https://www.nexusmods.com/morrowind/mods/45149), [**City of Balmora - Hlaalu Expansion**](https://www.nexusmods.com/morrowind/mods/45324) by Praedator and EnvyDeveloper, [**Balmora Ragoxified**](https://www.nexusmods.com/morrowind/mods/38235) by Ragox, [**Balmora Market and Ghetto Shacks**](https://www.nexusmods.com/morrowind/mods/43434) by ThanMan16, or [**Balmora Ghetto**](http://mw.modhistory.com/download-56-5163) by Princess Stomper.    
+Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014) by mike_and_ike, [**Balmora Underworld**](https://www.nexusmods.com/morrowind/mods/42448) by Fulgore, the classic [**Balmora Expansion**](https://www.nexusmods.com/morrowind/mods/42342), [**Walled City of Balmora**](https://www.nexusmods.com/morrowind/mods/42524), [**Concept Art Balmora**](https://www.nexusmods.com/morrowind/mods/45149), [**City of Balmora - Hlaalu Expansion**](https://www.nexusmods.com/morrowind/mods/45324) by Praedator and EnvyDeveloper, [**Balmora Ragoxified**](https://www.nexusmods.com/morrowind/mods/38235) by Ragox, [**Balmora Market and Ghetto Shacks**](https://www.nexusmods.com/morrowind/mods/43434) by ThanMan16, or [**Balmora Ghetto**](http://mw.modhistory.com/download-56-5163) by Princess Stomper, [**Epic Balmora Redux**](https://www.nexusmods.com/morrowind/mods/48307) by RandomPal.    
 
 # Ashlands
 ## Ald-ruhn
