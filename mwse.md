@@ -8,7 +8,17 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since May 26th 2020
+[**Vanity**](https://www.nexusmods.com/morrowind/mods/48529) by Abot  
+Visible equipped amulets & rings
 
+[**Locks and Traps Detection**](https://www.nexusmods.com/morrowind/mods/48528) by AdituV and VitruvianGuar  
+Makes locks and traps detection a random chance based on the player's Security skill. Requires lates version of MWSE.
+
+[**No Translation Tooltips**](https://www.nexusmods.com/morrowind/mods/48540) by OEA  
+Removes the tooltips (messages) from road signs and/or hanging banners. To be used with "real signpost"-type mods.
+
+[**Lua Lockbashing**](https://www.nexusmods.com/morrowind/mods/48544) by OEA and Greatness7  
+Adds in lock-bashing from Daggerfall, but using Lua.
 
 [**Enhanced Detection LITE**](https://www.nexusmods.com/morrowind/mods/48471) by Necrolesian and OperatorJack  
 Lite version of Enhanced Detection that adds the cool new visual effects without non-purist changes such as new magic effects and spells.
