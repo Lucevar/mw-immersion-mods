@@ -8,7 +8,38 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since May 26th 2020
+[**Weather Chances Adjuster**](https://www.nexusmods.com/morrowind/mods/48335) by Necrolesian  
+Allows you to configure the weather chances for each of the game's regions.
 
+[**Quick Equip**](https://www.nexusmods.com/morrowind/mods/48341) by Merlord  
+Holding down a hotkey (default left shift) while clicking an item in your inventory will equip that item instead of picking it up. Uses MWSE+Lua.
+
+[**Master Training Manuals**](https://www.nexusmods.com/morrowind/mods/48305) by bjm1981  
+Cheat mod. Adds a Master training manual for each of the 3 skill types (combat, magic, stealth).
+
+[**Travel Tooltips**](https://www.nexusmods.com/morrowind/mods/48306) by tewlwolow and Stuporstar  
+Adds tooltips with location descriptions and maps to travel menu.
+
+[**One Life to Live**](https://www.nexusmods.com/morrowind/mods/48316) by Necrolesian  
+Implements permadeath, with a configurable number of lives. Once you've lost your last life, you're dead forever. There are no 1-ups.
+
+[**Sneaky Strike**](https://www.nexusmods.com/morrowind/mods/48317) by VitruvianGuar  
+MWSE-lua mod which modifies critical strike coefficient depending on the weapon you use.
+
+[**Mesh Snatcher**](https://www.nexusmods.com/morrowind/mods/48282) by Petetehgoat  
+Uses MWSE Lua to provide a hotkey to identify mesh paths and instantly import them into Blender.
+
+[**Dynamic Timescale**](https://www.nexusmods.com/morrowind/mods/48287) by Necrolesian  
+Changes how quickly time passes in-game depending on where you are and what you're doing.
+
+[**Less Aggressive Creatures**](https://www.nexusmods.com/morrowind/mods/48292) by Merlord  
+Allows you to create a list of creatures which will have a chance to be spawned passively, with an MCM option to set the passive chance. Defaults to a 50% chance of non-diseased cliff racers being passive.
+
+[**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293) by Merlord  
+Toggle lights on and off. Town lights turn off during the day. Lights no longer destroyed underwater. Lanterns aren't destroyed when they run out of fuel. Refill lanterns with candles and lamps with oil.
+
+[**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295) by RedFurryDemon  
+Removes "Diseased", "Blighted", and similar adjectives from creature names using MWSE-lua.
 
 [**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) by Virnetch  
 Adds tooltips with the effect's name to shrines when hovering over the different options. Includes descriptions for shrines from Tamriel_Data.
