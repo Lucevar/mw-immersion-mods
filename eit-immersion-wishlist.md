@@ -62,6 +62,7 @@
 - [**MGE-XE Sunrise and Sunset Season and Latitude Scaling**](https://www.nexusmods.com/morrowind/mods/44375) by Svengineer -- adjusts sunrise/sunset times based on latitude and season. Either great for vampires... or dreadful.  
 - [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558) by Half11 -- Being in blight/ash storms carries a risk of blight    
 - [**Realistic Sun Damage**](https://www.nexusmods.com/morrowind/mods/47540) by OperatorJack - adds a randomness element to sun damage to account for cloud cover, etc.  
+- [**Tramatic Experience**](https://www.nexusmods.com/morrowind/mods/48466) by RedFurryDemon  - trama hurts if you walk into it
 
 **Wishlist**  
 - Hanging around in sewers or swamps carries a risk of disease  
