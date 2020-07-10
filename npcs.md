@@ -1,4 +1,5 @@
 # Npcs
+[**Rayms Absolutely Aleatory Accoutrements**](https://www.nexusmods.com/morrowind/mods/48468) by Raym  
 
 ## Guards
 [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11  
