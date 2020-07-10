@@ -8,6 +8,26 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since May 26th 2020
+
+
+[**Shrine Tooltips**](https://www.nexusmods.com/morrowind/mods/48275) by Virnetch  
+Adds tooltips with the effect's name to shrines when hovering over the different options. Includes descriptions for shrines from Tamriel_Data.
+
+[**Better Quest List**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
+Allows highlighting and hiding quests in the Journal questlist. Shift-Click on a quest to highlight it, Shift-Click again to hide and Shift-Click a third time to return to normal.
+
+[**Quest Skill Reward Fix**](https://www.nexusmods.com/morrowind/mods/48269) by Merzasphor  
+This mod makes the game treat skill increases from quests as if there were raised via normal means.
+
+[**Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48267) by Anumaril  
+Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work.
+
+[**Accidental Theft Protection**](https://www.nexusmods.com/morrowind/mods/48264) by Merlord  
+Prevents you from stealing items or opening owned containers unless you are sneaking. Items/containers can be blacklisted in the MCM.
+
+[**Call Incarnate**](https://www.nexusmods.com/morrowind/mods/48263) by OperatorJack and Gavrilo93  
+Adds a new power named 'Call Incarnate' which summons a Failed Incarnate of the Nerevarine to fight alongside you. The mod also overhauls the Failed Incarnate NPCs in the Cavern of Incarnate.
+
 [**AURA**](https://www.nexusmods.com/morrowind/mods/48255) by tewlwolow  
 Lua-based sound overhaul. Ambient sounds, interior weather, extended voices, and more. Compatible with TR/PT/SHotN. Easily customizable.
 
