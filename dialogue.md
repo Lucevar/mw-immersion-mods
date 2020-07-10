@@ -13,9 +13,10 @@
 [**Caius Cosades Anti-Journal**](https://www.nexusmods.com/morrowind/mods/47224) by Lucevar  
 [**LDM - Abolitionists**](https://www.nexusmods.com/morrowind/mods/47499) by Lucevar  
 [**LDM - Vampire Talk**](https://www.nexusmods.com/morrowind/mods/47556) by Lucevar  
-[**Raym's Vampire Rumours**](https://www.wolflore.net/viewtopic.php?f=108&t=2035) by Raym  
+[**Raym's Vampire Rumours**](https://www.nexusmods.com/morrowind/mods/48469) by Raym  
 [**Balmora/Ascadian Isles Dialogue**](http://mw.modhistory.com/download-53-8218) by Brother Juniper  
 [**People of Pelagiad**](https://www.nexusmods.com/morrowind/mods/47520) by Caeris  
+[**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar
 
 ## Audio
 [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero  
