@@ -8,6 +8,14 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since May 26th 2020
+
+
+[**Enhanced Detection LITE**](https://www.nexusmods.com/morrowind/mods/48471) by Necrolesian and OperatorJack  
+Lite version of Enhanced Detection that adds the cool new visual effects without non-purist changes such as new magic effects and spells.
+
+[**Tramatic Experience**](https://www.nexusmods.com/morrowind/mods/48466) by RedFurryDemon  
+This mod makes trama hurt the player if they walk into it. Really, just that.
+
 [**Time Scale Menu**](https://www.nexusmods.com/morrowind/mods/48459) by Stripes  
 Adds a Mod Configuration Menu to adjust the ratio of game time to real time.
 
