@@ -81,6 +81,7 @@ The Shrine of Daring isn't compatible with Holidays Across Tamriel/Dramatic Vive
 [**Vivec Temple Exterior Overhaul**](https://www.nexusmods.com/morrowind/mods/48191) by Dmettler  
 Has a version which is compatible with Dramatic Vivec  
 [**Rethinking Vivec**](https://www.nexusmods.com/morrowind/mods/48256) by Atrayonis  
+[**(Slightly Less) Dramatic Vivec - Temple**](https://www.nexusmods.com/morrowind/mods/48261) by Dagoth Slayer  
 
 [**Canalworks Connected**](https://www.nexusmods.com/morrowind/mods/47354) by iLoveOnFear  
 [**Jobasha's Rare Books Expanded**](https://www.nexusmods.com/morrowind/mods/45153) twgear2  
