@@ -86,6 +86,7 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 [**Scrolls of the Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831) by Melchior Dahrk
 [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126) by Melchior Dahrk  
 [**King of Worms**](https://www.nexusmods.com/morrowind/mods/46611) by Tel Shadow and Caeris  
+[**Ald-ruhn Mages Guild Expansion**](https://www.nexusmods.com/morrowind/mods/48321) by Endify  
 
 ## Fighters Guild  
 [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
