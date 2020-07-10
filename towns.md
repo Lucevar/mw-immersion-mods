@@ -232,6 +232,7 @@ Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014)
 [**The Rat in the Pot**](https://www.nexusmods.com/morrowind/mods/34186) by DebiDalio  
 [**Aldruhn Council Club**](https://www.nexusmods.com/morrowind/mods/34185) by DebiDalio  
 [**Morvayn Manor in Maar Gan**](https://www.nexusmods.com/morrowind/mods/48024) by Gavrilo93  
+[**Ald-ruhn Mages Guild Expansion**](https://www.nexusmods.com/morrowind/mods/48321) by Endify  
 or  
 [**Epic Aldruhn**](https://www.nexusmods.com/morrowind/mods/43072) by mike_and_ike  
 or
