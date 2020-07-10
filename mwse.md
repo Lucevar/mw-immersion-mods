@@ -1,7 +1,7 @@
 # MGE/MWSE Mods List
 **Updated**: 2020/05/26
 
-First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) and the most recent version of [**MWSE**](https://nullcascade.com/mwse/mwse-dev.zip) and the [**Morrowind Code Patch (MCP)**](https://www.nexusmods.com/morrowind/mods/19510) for good measure.  
+First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102), then run MWSE-update.exe, and get the [**Morrowind Code Patch (MCP)**](https://www.nexusmods.com/morrowind/mods/19510) for good measure.  
 
 This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mods. Unless otherwise stated I don't vouch for quality or compatibility.  
 
@@ -64,9 +64,6 @@ This configurable MWSE mod allows you to limit the casting of Recall in various 
 
 [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373) by JaceyS  
 Creatures and NPCs affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time.
-
-[**TimeScale Friendly Purist Health and Magicka Regen**](https://www.nexusmods.com/morrowind/mods/48384) by Stripes  
-A purists friendly regen mod for players that don't use the default timescale
 
 [**Caveat Nerevar**](https://www.nexusmods.com/morrowind/mods/48389) by OEA  
 Adjusts the economy in a compatible, pluginless way, by directly modifying both item prices and sellers' Mercantile.
@@ -220,9 +217,6 @@ This mods adds a bunch of deities for player to choose from in a manner seen in 
 
 [**Skill Increase GMST Fix**](https://www.nexusmods.com/morrowind/mods/48029) by Merzasphor  
 This mod fixes a bug where GMST values are not applied properly when raising a skill via NPC training or a skill book.
-
-[**Infected Wounds**](https://www.nexusmods.com/morrowind/mods/48027) by RamblingMonk  
-If the player has severe wounds (more than half of their total health missing) this mod adds a chance that the player will develop an infection (a common disease). The less fatigue the player has, the weaker their immune system is in trying to prevent infections, and the deeper the wound the more likely it is that an infection might set in.
 
 [**Cover Yourself**](https://www.nexusmods.com/morrowind/mods/48016) by Merzasphor  
 This mod allows the player to choose which armor and clothing slots will be included in the PC Clothing Modifier check that's used in dialogue.
