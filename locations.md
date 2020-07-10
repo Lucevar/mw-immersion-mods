@@ -39,7 +39,8 @@
 [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk  
 
 ## Bitter Coast  
-[**Rainforrest of the Bitter Coast**](http://mw.modhistory.com/download-53-10251) by the viKING
+[**Rainforrest of the Bitter Coast**](http://mw.modhistory.com/download-53-10251) by the viKING  
+[**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
 
 ## West Gash
 [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187)  
