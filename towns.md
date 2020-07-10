@@ -42,7 +42,7 @@ For a more sweeping change, you could also try [**Seyda Neen - Imperial Port**](
 
 For new quests, try [**Tales of Seyda Neen**](http://mw.modhistory.com/download-44-10951) by Denunci.  
 
-Other alternatives include but are not limited to [**Seyda Neen Slums**](https://www.nexusmods.com/morrowind/mods/46837?tab=posts), [**More Detailed Places Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46231), [**Seyda Neen Tree Removal**](https://www.nexusmods.com/morrowind/mods/45990) for an expanded and treeless Seyda Neen, [**Lived Towns - Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46703), [**Seyda Neen Houseboat**](https://www.nexusmods.com/morrowind/mods/43364), [**Princess Docks**](http://mw.modhistory.com/download-90-7147), [**More Seyda Neen**](http://mw.modhistory.com/download-4-5133) by -J, [**Seyda Neen Harbour**](https://www.nexusmods.com/morrowind/mods/42433) by Ian Bitters, [**Mireneye's Vistas - Seyda Neen**](http://mw.modhistory.com/download-44-11876), [**Prancing Ash Inn**](https://www.nexusmods.com/morrowind/mods/41220) by ChakaZg, [**The Silver Barrel**](https://www.nexusmods.com/morrowind/mods/42236) and [**Trancemaster's New Seyda Neen**](https://www.nexusmods.com/morrowind/mods/42234).
+Other alternatives include but are not limited to [**Seyda Neen Slums**](https://www.nexusmods.com/morrowind/mods/46837?tab=posts), [**More Detailed Places Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46231), [**Seyda Neen Tree Removal**](https://www.nexusmods.com/morrowind/mods/45990) for an expanded and treeless Seyda Neen, [**Lived Towns - Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46703), [**Seyda Neen Houseboat**](https://www.nexusmods.com/morrowind/mods/43364), [**Princess Docks**](http://mw.modhistory.com/download-90-7147), [**More Seyda Neen**](http://mw.modhistory.com/download-4-5133) by -J, [**Seyda Neen Harbour**](https://www.nexusmods.com/morrowind/mods/42433) by Ian Bitters, [**Mireneye's Vistas - Seyda Neen**](http://mw.modhistory.com/download-44-11876), [**Prancing Ash Inn**](https://www.nexusmods.com/morrowind/mods/41220) by ChakaZg, [**The Silver Barrel**](https://www.nexusmods.com/morrowind/mods/42236) and [**Trancemaster's New Seyda Neen**](https://www.nexusmods.com/morrowind/mods/42234), [**Coyote's Expanded Seyda Neen**](https://www.nexusmods.com/morrowind/mods/48388).
 
 ## Hla Oad
 [**The Drop Off**](https://www.nexusmods.com/morrowind/mods/46827) by Darkry115  
@@ -65,6 +65,7 @@ For a more restrained aesthetic. Adds appropriate clutter to Gnaar Mok but doesn
 ## Suran
 [**White Suran**](https://www.nexusmods.com/morrowind/mods/44153) by Melchior Dahrk  
 [**Docks of Suran**](https://www.nexusmods.com/morrowind/mods/44853) by Vallylilly  
+[**Simple Suran Docks**](https://www.nexusmods.com/morrowind/mods/48398) by Endify  
 
 ## Vivec
 [**Dramatic Vivec**](https://www.nexusmods.com/morrowind/mods/43385) by LondonRook  
@@ -259,6 +260,7 @@ or
 [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190) by Atrayonis  
 
 # New Towns
-## New Arenthia
+[**Hamlets of Vvardenfell - Stoneforest**](https://www.nexusmods.com/morrowind/mods/48396) by Vingamer  
+
 [**New Arenthia**](https://www.nexusmods.com/morrowind/mods/46830)
 Located near Vivec. Adds a town founded by a Bosmer winemaker and his assorted friends and retainers.
