@@ -379,7 +379,7 @@ Allows the player to buy and run a mine.
 
 ## <a name="dunmer"></a>Dunmer Strongholds
 **Andasreth**  - [**Andasreth Stronghold**](https://www.nexusmods.com/morrowind/mods/46604)  
-**Berandas**  
+**Berandas**  - [**Berandas Overhaul**](https://www.nexusmods.com/morrowind/mods/48236) by seelof  
 **Falasmaryon**  - [**Falasmaryon Overhaul**](https://www.nexusmods.com/morrowind/mods/46460)  
 **Falensarano** - [**Falensarano - The Ruined Stronghold**](https://www.nexusmods.com/morrowind/mods/44244) by *CarrotFerret*  
 **Hlormaren** - [**MRenewal - Hlormaren**](https://www.nexusmods.com/morrowind/mods/46648), [**Hlormaren Reclaimed - Slightly Improved**](https://www.nexusmods.com/morrowind/mods/47301)  
