@@ -7,9 +7,32 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
+# New since May 26th 2020
+[**AURA**](https://www.nexusmods.com/morrowind/mods/48255) by tewlwolow  
+Lua-based sound overhaul. Ambient sounds, interior weather, extended voices, and more. Compatible with TR/PT/SHotN. Easily customizable.
+
+[**Morrowind Mouse Control**](https://www.nexusmods.com/morrowind/mods/48254) by cpassuel  
+Tired of using keyboard for cycle through weapons and spells and to switch between Weapon Ready and Spell Ready mode ? If so, this mod is made for you. With this mod, you can control them using only the mouse wheel and the middle button. It replaces Prev Spell, Next Spell, Prev Weapon and Next Weapon keyboard commands with mouse commands
+
+[**Nimble Armour**](https://www.nexusmods.com/morrowind/mods/48251) by VitruvianGuar  
+MWSE-lua mod which makes armor contribute to player and npcs evasion modifier as well as allows evading attacks to practice unarmored and light armor skills.
+
+[**The Guar Whisperer**](https://www.nexusmods.com/morrowind/mods/48247) by Merlord  
+A strong contestant for the best mod ever made, right up there with Expeditious Exit. Allows you to tame and breed guars, and keep them as companions. Intelligent command menu gives unprecedented control over your guar. Attack enemies, fetch items, harvest plants etc. Build trust over time by keeping them happy and healthy to unlock more commands. Fight and play games to level up your guar.
+
+[**Take a Hike**](https://www.nexusmods.com/morrowind/mods/48197) by Necrolesian  
+Disables (almost) all methods of travel except your own two feet.
+
+[**Daedric Intervention**](https://www.nexusmods.com/morrowind/mods/48199) by Danae  
+After completing any of the Daedric Princes' quest, you are granted the Daedric Intervention spell.
+
+[**Pass the Time**](https://www.nexusmods.com/morrowind/mods/48217) by Necrolesian  
+Drastically speed up time while a key is pressed, a more natural way to wait than the vanilla wait menu. Also configure the normal timescale.
+
+[**Fargoth Intervention**](https://www.nexusmods.com/morrowind/mods/48173) by OperatorJack and Gavrilo93  
+Adds a new spell: Fargoth Intervention (teleports you to Fargoth) and a short quest to acquire it.
+
 # New since May 14th 2020
-
-
 [**Cursed Item Random Summon**](https://www.nexusmods.com/morrowind/mods/48142) by Eq  
 Picking up a cursed item will spawn a variety of daedra
 
