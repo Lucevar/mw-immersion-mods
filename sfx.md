@@ -16,6 +16,7 @@
 [**Better Waterfalls**](https://www.nexusmods.com/morrowind/mods/45424) by Melchior Dahrk  
 [**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903) by Melchior Dahrk  
 [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
+[**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435) by Melchior Dahrk  
 
 ## Items
 [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
@@ -58,3 +59,6 @@ A corprus meat replacer.
 [**Silent Hits**](https://www.nexusmods.com/morrowind/mods/44556) by Jxrdan  
 [**Sea of Sound**](https://www.nexusmods.com/morrowind/mods/45737) by CptJoker  
 [**Shut the fck up cliff racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
+[**Nifty Inventory and Player-Related Sounds**](https://www.nexusmods.com/morrowind/mods/48372) by HazyBass  
+[**XBOX Menu Sound**](https://www.nexusmods.com/morrowind/mods/48426) by CiceroTR  
+
