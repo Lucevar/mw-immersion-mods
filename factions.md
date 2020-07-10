@@ -138,7 +138,8 @@ This mod started as a simple house mod and expanded into an entire smuggling fac
 
 ## Ashlanders 
 [**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
-Adds a number of new quests for the Ashlanders.
+Adds a number of new quests for the Ashlanders.  
+[**Trouble at Valenvaryon**](https://www.nexusmods.com/morrowind/mods/48543) by rumeely  
 
 ## Blades
 [**Blades Quest**](http://lovkullen.net/Emma/blade.htm) by Emma  
