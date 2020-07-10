@@ -22,3 +22,4 @@ Duke's Silver Armor:
 [**Falconer's Leather**](http://mw.modhistory.com/download-44-12242) by Korana  
 [**Iron Variants**](https://www.nexusmods.com/morrowind/mods/43260) by Stavroguin  
 [**Telvanni Warriors**](https://www.nexusmods.com/morrowind/mods/43254?) by Stavroguin  
+[**Sathil Mercenary Armor 2.1**](https://www.nexusmods.com/morrowind/mods/48340) by RuffinVangarr and Ashtaar  
