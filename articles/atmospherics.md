@@ -6,3 +6,4 @@
 [**Morrowind Containers Animated**](https://www.nexusmods.com/morrowind/mods/42238) by qqqbbb  
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by Greatness7 & the community  
 [**Graphic Herbalism**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar & Greatness7  
+[**Vanity**](https://www.nexusmods.com/morrowind/mods/48529) by abot  
