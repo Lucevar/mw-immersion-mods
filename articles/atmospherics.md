@@ -9,3 +9,4 @@
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by Greatness7 & the community  
 [**Graphic Herbalism**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar & Greatness7  
 [**Vanity**](https://www.nexusmods.com/morrowind/mods/48529) by abot  
+[**Shattered Stones**](https://www.nexusmods.com/morrowind/mods/45105) by R-zero and Greatness7
