@@ -18,6 +18,8 @@
 - [**Naked and Alone**](https://www.nexusmods.com/morrowind/mods/47910) by Petethegoat & Lucevar  
 - [**The Law is Sacred**](https://www.nexusmods.com/morrowind/mods/48130) by JaceyS  
 - [**Timely Escape**](https://www.nexusmods.com/morrowind/mods/48013) by JaceyS  
+- [**Find Shelter MWSE**](https://www.nexusmods.com/morrowind/mods/48583) by Stripes -- Resting outside is disabled in bad weather.  
+- [**Improved Inns Expanded**](https://www.nexusmods.com/morrowind/mods/48610) by RandomPal -- merges Improved Inns and The Publicans as well as AST Arrille Attic, extends the Improved Inns functionality to TR inns, and adds compatibility with Entertainers Expanded/Entertainers Expanded Again.  
 
 ## Economic Recession is Here
 - [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros and Half11  
@@ -90,7 +92,9 @@
 - [**Infected Wounds**](https://www.nexusmods.com/morrowind/mods/48027) by RamblingMonk  
 If the player has severe wounds (more than half of their total health missing) this mod adds a chance that the player will develop an infection (a common disease). The less fatigue the player has, the weaker their immune system is in trying to prevent infections, and the deeper the wound the more likely it is that an infection might set in.  
 - [**Better Blight**](https://www.nexusmods.com/morrowind/mods/48395) by Cognatogen  
-Changes the effects of Blight Diseases to make them more interesting and unique, rather than just more potent versions of the common diseases.
+Changes the effects of Blight Diseases to make them more interesting and unique, rather than just more potent versions of the common diseases.  
+- [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian  
+Implements the possibility of contracting blight diseases while out in a blight storm, using MWSE-lua  
 
 **Wishlist**  
 - Hanging around in sewers or swamps carries a risk of disease  
@@ -111,6 +115,9 @@ Changes the effects of Blight Diseases to make them more interesting and unique,
 - [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack --  adds hotkeys for lockpicks and probes, as well as hotkey cycling options, ordering options, and auto-equip options for activating locked or trapped objects.  
 - [**More Traps**](https://www.nexusmods.com/morrowind/mods/44279) by abot -- dynamically traps containers. If you're using Containers Animated, load this AFTER Containers Animated.  
 - [**Skill-based Trap Detection**](https://www.nexusmods.com/morrowind/mods/47120) by AdituV  
+- [**Lightweight Lua Scheduling**](https://www.nexusmods.com/morrowind/mods/48584) by OEA -- Uses Lua to create a dynamic NPC "schedule": NPCs disappear, lock doors, and can't be talked to inside between 8 and 8. These three features can be toggled in an MCM.  
+- [**More Attentive Guards**](https://www.nexusmods.com/morrowind/mods/48622) by Celediel - An MWSE-Lua mod that replicates Inquisitive Guards by RubberMan and Protective Guards by Fliggerty. Guards that catch the player sneaking about in town will follow them for a length of time dependent on their sneak skill and will come to the aid of an unwanted player who is attacked unprovoked    
+
 
 ## Stop right there, criminal scum!
 - [**Manipulated**](https://www.nexusmods.com/morrowind/mods/47222) by MetaBarj0 -- Mental manipulation is now illegal  
@@ -136,6 +143,8 @@ Changes the effects of Blight Diseases to make them more interesting and unique,
 - [**Permanently Perished**](https://www.nexusmods.com/morrowind/mods/45672) by NullCascade -- now death is permanent (after a configurable number of deaths).  
 - [**Infected Wounds**](https://www.nexusmods.com/morrowind/mods/48027) by RamblingMonk  
 If the player has severe wounds (more than half of their total health missing) this mod adds a chance that the player will develop an infection (a common disease). The less fatigue the player has, the weaker their immune system is in trying to prevent infections, and the deeper the wound the more likely it is that an infection might set in.
+- [**S.U.F.F.E.R**](https://www.nexusmods.com/morrowind/mods/48570) by Stripes -- full fatigue effects overhaul. Fatigue now effects health and magicka generation, you'll collapse if you run out, and bad weather will now have an impact as well.  
+- [**MWSE FAST**](https://www.nexusmods.com/morrowind/mods/48581) by Stripes  -- All NPCs, Creatures, and the Player will move slower and slower as their fatigue drains.
 
 ## Some people are just dicks
 - [**Ajira's Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/47550) by Danae and Merlord -- randomises the locations of Ajira's stolen alchemy reports.  
