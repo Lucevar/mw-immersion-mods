@@ -1,11 +1,45 @@
 # MGE/MWSE Mods List
-**Updated**: 2020/05/26
+**Updated**: 2020/07/10
 
 First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102), then run MWSE-update.exe, and get the [**Morrowind Code Patch (MCP)**](https://www.nexusmods.com/morrowind/mods/19510) for good measure.  
 
 This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mods. Unless otherwise stated I don't vouch for quality or compatibility.  
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
+
+# New since July 10th 2020
+[**Visible Persuasion Chance**](https://www.nexusmods.com/morrowind/mods/48634) by skmrSharma  
+A simple mod that displays the percentage chance you have in successfully persuading someone, without using any esp file. Get those sweet percentages on your admire, intimidate or bribe attempts. And make a logical decision.
+
+[**Door Randomizer**](https://www.nexusmods.com/morrowind/mods/48632) by Celediel  
+Randomizes the destination of all cell-change doors. Configuration options such as: randomize chance; pick only cells of type: interior, exterior, both, or match original destination; only pick cells that have a door to place the player near, as if they entered from that door.  
+
+[**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian  
+Implements the possibility of contracting blight diseases while out in a blight storm, using MWSE-lua.
+
+[**More Attentive Guards**](https://www.nexusmods.com/morrowind/mods/48622) by Celediel  
+An MWSE-Lua mod that replicates Inquisitive Guards by RubberMan and Protective Guards by Fliggerty. Guards that catch the player sneaking about in town will follow them for a length of time dependent on their sneak skill and will come to the aid of an unwanted player who is attacked unprovoked
+
+[**Visible Alchemy Success Chance**](https://www.nexusmods.com/morrowind/mods/48608) by skmrSharma  
+A simple, pluginless mod that displays the percentage success chance in potion making.
+
+[**Echoes of the Fallen**](https://www.nexusmods.com/morrowind/mods/48603) by Merlord  
+Drop a tombstone at the place of your death, along with an epitaph and an item from your inventory. The next character to come across the tombstone will be able to pay their respects and receive the item as a relic. Intended for permadeath runs.
+
+[**Notifications**](https://www.nexusmods.com/morrowind/mods/48600) by Stripes  
+Notifies you with details via messagebox when some events occur, including when an NPC dies or a crime is witnessed.  
+
+[**Sola Lingua Bona - The Only Good Language**](https://www.nexusmods.com/morrowind/mods/48588?tab=description) by Safebox  
+“Sola lingua bona est lingua mortua”, a pig-Latin phrase meaning “the only good language is a dead language”. But what good is that to the people of Vvardenfell? This mod introduces Dunmer translations for all the towns and races of the island, alongside Imperial translations for non-Mer races.
+
+[**Lightweight Lua Scheduling**](https://www.nexusmods.com/morrowind/mods/48584) by OEA  
+Uses Lua to create a dynamic NPC "schedule": NPCs disappear, lock doors, and can't be talked to inside between 8 and 8. These three features can be toggled in an MCM.
+
+[**Find Shelter MWSE**](https://www.nexusmods.com/morrowind/mods/48583) by Stripes  
+Resting outside is disabled in bad weather.
+
+[**MWSE FAST**](https://www.nexusmods.com/morrowind/mods/48581) by Stripes  
+All NPC's, Creatures, and the Player will move slower and slower as their fatigue drains.
 
 # New since May 26th 2020
 [**Keyboard Layout Changer**](https://www.nexusmods.com/morrowind/mods/48569) by Celediel  
