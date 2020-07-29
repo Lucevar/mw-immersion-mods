@@ -83,6 +83,7 @@ The Shrine of Daring isn't compatible with Holidays Across Tamriel/Dramatic Vive
 Has a version which is compatible with Dramatic Vivec  
 [**Rethinking Vivec**](https://www.nexusmods.com/morrowind/mods/48256) by Atrayonis  
 [**(Slightly Less) Dramatic Vivec - Temple**](https://www.nexusmods.com/morrowind/mods/48261) by Dagoth Slayer  
+[**Concept Art Vivec Ports**](https://www.nexusmods.com/morrowind/mods/48611) by RandomPal & Atrayonis  
 
 [**Canalworks Connected**](https://www.nexusmods.com/morrowind/mods/47354) by iLoveOnFear  
 [**Jobasha's Rare Books Expanded**](https://www.nexusmods.com/morrowind/mods/45153) twgear2  
@@ -187,6 +188,8 @@ or
 [**An Arvs-Drelen Expansion**](https://www.nexusmods.com/morrowind/mods/44091/) by hlaalu66  
 [**Gnisis Expanded Remaster**](https://www.nexusmods.com/morrowind/mods/47479) by zobator and craigor  
 [**Talos Cult Revised**](https://www.nexusmods.com/morrowind/mods/44577) by Cheydin  
+[**36 Lessons of Vivec - Audible Gnisis Sermons**](https://www.nexusmods.com/morrowind/mods/48615) by kruzhem  
+[**Heart of the Velothi -- Gnisis**](https://www.nexusmods.com/morrowind/mods/47978) by HOTV Team  
 
 or  [**TM - New Gnisis**](https://www.nexusmods.com/morrowind/mods/42235) by Trancemaster  
 
