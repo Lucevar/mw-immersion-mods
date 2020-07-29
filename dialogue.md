@@ -33,6 +33,7 @@
 [**It's a Deal**](https://www.nexusmods.com/morrowind/mods/47968) by Petethegoat and vonwolfe  
 [**Empty Threats Disabler**](https://www.nexusmods.com/morrowind/mods/44671) by Rot  
 [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603) by R-zero  
+[**FMBP - Michael Michael Michael**](https://www.nexusmods.com/morrowind/mods/48598) by PoodleSandwich - fixes Redguard dialogue.  
 
 ## Greetings
 [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
@@ -86,6 +87,8 @@ Donate money to the paupers of Vvardenfell and help them get back on their feet.
 # NPC
 [**Caius Romance**](http://mw.modhistory.com/download-90-7208) by Princess Stomper  
 [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962) by Alxemical  
+[**Teach Nels Llendo a Lesson**](https://www.nexusmods.com/morrowind/mods/48589) by Gavrilo93  
+[**Nels Llendo Has Standards**](https://www.nexusmods.com/morrowind/mods/48592) by R-zero  
 
 # Factions
 See factions list 
