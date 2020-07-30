@@ -33,6 +33,8 @@ Adds a variety of new Dreamer enemies for you to face, from well-armored warrior
 Corprus Stalker and Lame Corprus textures are replaced with Dunmer equivalents.
 
 ## Protect Yourself
+![Improved Inns - AST Arrille's Attic](https://staticdelivery.nexusmods.com/mods/100/images/36017-1-1292084856.jpg)
+
 - [**Find Shelter MWSE**](https://www.nexusmods.com/morrowind/mods/48583) by Stripes  
 Resting outside is disabled in bad weather, further disincentivising travel.  
 - [**Improved Inns Expanded**](https://www.nexusmods.com/morrowind/mods/48610) by RandomPal  
