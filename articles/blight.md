@@ -7,7 +7,7 @@ So much of Morrowind's atmosphere comes from the creeping threat of the Blight: 
 But unfortunately, in vanilla the blight storms are just that: atmospheric. They're not dangerous. Thankfully, that's what we have mods for. 
 
 NOTE: This list assumes that you're using MGE XE and MWSE-lua: there are mwscript alternatives compatible with OpenMW for some of these mods, but not all of them.
-NOTE2: images in this article courtesy of some of the mods listed below (Creeping Blight, Corprus Natives, Improved Inns Enhanced: AST Arrille's Attic Addon)
+NOTE2: images in this article courtesy of some of the mods listed below (Creeping Blight, Corprus Natives, Improved Inns Expanded: AST Arrille's Attic Addon)
 
 ## More Dangerous Blight Diseases
 - [**Better Blight**](https://www.nexusmods.com/morrowind/mods/48395) by Cognatogen  
