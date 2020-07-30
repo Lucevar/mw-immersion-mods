@@ -1,6 +1,7 @@
 # UI
 [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
 [**De-outlandered main menu & daedric ui textures**](https://www.nexusmods.com/morrowind/mods/46805) by RedFurryDemon  
+[**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455) by JaceyS  
 
 ## Load Menu
 [**Petes UI Mods**](https://www.nexusmods.com/morrowind/mods/45859) by Petethegoat  
@@ -24,6 +25,8 @@ No saving in battle!
 [**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
 [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
 [**Lock-bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7  
+[**Visible Alchemy Success Chance**](https://www.nexusmods.com/morrowind/mods/48608) by skmrSharma  
+[**Visible Persuasion Success Chance**](https://www.nexusmods.com/morrowind/mods/48634) by skmrSharma  
 
 ## Objects
 [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord  
@@ -34,3 +37,4 @@ No saving in battle!
 
 ## NPCS / Dialogue /Persuasion
 [**Universal Companion Share**](http://download.fliggerty.com/download--14) by Fliggerty 
+[**Travel Tooltips**](https://www.nexusmods.com/morrowind/mods/48306) by tewlwolow  
