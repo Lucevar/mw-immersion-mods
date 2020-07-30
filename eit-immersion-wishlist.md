@@ -95,6 +95,7 @@ If the player has severe wounds (more than half of their total health missing) t
 Changes the effects of Blight Diseases to make them more interesting and unique, rather than just more potent versions of the common diseases.  
 - [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian  
 Implements the possibility of contracting blight diseases while out in a blight storm, using MWSE-lua  
+- [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295) by RedFurryDemon -- you can no longer tell from the label whether an animal is blighted or not.  
 
 **Wishlist**  
 - Hanging around in sewers or swamps carries a risk of disease  
