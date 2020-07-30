@@ -33,7 +33,7 @@ No saving in battle!
 [**Ownership Indicator**](https://www.nexusmods.com/morrowind/mods/45940) by Petethegoat  
 [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by Anumaril  
 [**Journal Search and Edit**](https://www.nexusmods.com/morrowind/mods/46756) by Svengineer99  
-
+[**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
 
 ## NPCS / Dialogue /Persuasion
 [**Universal Companion Share**](http://download.fliggerty.com/download--14) by Fliggerty 
