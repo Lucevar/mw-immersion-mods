@@ -1,5 +1,7 @@
 # The Modded Blight Experience on Vvardenfell
 
+![test](https://staticdelivery.nexusmods.com/mods/100/images/47649/47649-1583005325-1943968796.png)
+
 ## More Dangerous Blight Diseases
 - [**Better Blight**](https://www.nexusmods.com/morrowind/mods/48395) by Cognatogen  
 Changes the effects of Blight Diseases to make them more interesting and unique, rather than just more potent versions of the common diseases.  
