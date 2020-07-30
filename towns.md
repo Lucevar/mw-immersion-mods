@@ -47,6 +47,7 @@ Other alternatives include but are not limited to [**Seyda Neen Slums**](https:/
 ## Hla Oad
 [**The Drop Off**](https://www.nexusmods.com/morrowind/mods/46827) by Darkry115  
 Overhauls Fat Leg's Drop off to make it much more interesting - and practical as the smuggling warehouse it's meant to be. Optionally extends the Hla Oad docks and adds extra lights.  
+[**Vvardenfell Revisited - Hla Oad**](https://www.nexusmods.com/morrowind/mods/47819) by Ennet Winterhoof  
 [**Racer's Roost**](https://www.nexusmods.com/morrowind/mods/42563) by WH-Reaper and Baratheon  
 
 ## Gnaar Mok
