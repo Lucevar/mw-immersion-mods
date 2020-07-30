@@ -17,6 +17,8 @@ Blight storms start appearing in regions outside Red Mountain as the main quest 
 Travelling in inclement weather now inflicts penalties, including ash and blight storms.
 
 ## Blight Affects Creatures Too
+![Corprus Natives](https://staticdelivery.nexusmods.com/mods/100/images/45674/45674-1526611451-1056904407.jpeg)
+
 - [**Blighted Mines Mean Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Gavrilo93  
 Workers standing outside blighted mines will also be blighted.  
 - [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295) by RedFurryDemon  
