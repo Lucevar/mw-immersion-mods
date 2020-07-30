@@ -1,6 +1,6 @@
 # The Modded Blight Experience on Vvardenfell
 
-![test](https://staticdelivery.nexusmods.com/mods/100/images/47649/47649-1583005325-1943968796.png)
+![test](url)
 
 ## More Dangerous Blight Diseases
 - [**Better Blight**](https://www.nexusmods.com/morrowind/mods/48395) by Cognatogen  
