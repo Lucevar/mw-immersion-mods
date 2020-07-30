@@ -1,6 +1,6 @@
 # The Modded Blight Experience on Vvardenfell
 
-![test](url)
+![Creeping Blight: Blight in Aldruhn](https://staticdelivery.nexusmods.com/mods/100/images/47904/47904-1588318090-1695244591.png)
 
 ## More Dangerous Blight Diseases
 - [**Better Blight**](https://www.nexusmods.com/morrowind/mods/48395) by Cognatogen  
