@@ -33,6 +33,7 @@ Adds critical strike mechanics for the player and npcs based on luck.
 [**Arcane Archery**](https://www.nexusmods.com/morrowind/mods/37672) by Karpik777  
 [**Projectile Overhaul**](https://www.nexusmods.com/morrowind/mods/43195?) by Mr Magic  
 [**Arrow Diversity**](https://www.nexusmods.com/morrowind/mods/45236) by Turelek  
+[**Crossbows Enhanced**](https://www.nexusmods.com/morrowind/mods/48586) by Avienus, Alaisiagae, and WHReaper  
 
 ## Companions
 [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord  
@@ -46,9 +47,12 @@ Adds critical strike mechanics for the player and npcs based on luck.
 [**Purist Friendly Magicka Regen**](https://www.nexusmods.com/morrowind/mods/45636) by Remiros & Greatness7  
 [**Elemental Magicka II**](https://www.nexusmods.com/morrowind/mods/42106) by NMZMaster  
 [**4NM Magic**](https://www.nexusmods.com/morrowind/mods/47095) by Archimag  
-[**Miscast Mod**](http://mw.modhistory.com/download-53-12215) by Huskobar & Magius  
+[**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948) by Operator Jack
+-- use [**Miscast Mod**](http://mw.modhistory.com/download-53-12215) by Huskobar & Magius if you don't have MWSE  
 
 ## New Weapons
 [**An Issue of Thrust**](https://www.nexusmods.com/morrowind/mods/44650) by Team Cutie Kagouti  
 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
 [**Hunter's Mark**](https://www.nexusmods.com/morrowind/mods/46656) by Remiros  
+[**More Saber**](https://www.nexusmods.com/morrowind/mods/47918) by Sir Thom  
+[**Crossbows Enhanced**](https://www.nexusmods.com/morrowind/mods/48586) by Avienus, Alaisiagae, and WHReaper  
