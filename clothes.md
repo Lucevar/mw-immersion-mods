@@ -12,6 +12,7 @@
 Duke's Silver Armor:
 * [**Resources**](https://www.nexusmods.com/morrowind/mods/35562?) by Alaisiagae  
 * [**Implementation**](https://www.nexusmods.com/morrowind/mods/46828) by SfinnaIronfoot
+[**Redvayn's Humble Head Gear**](https://www.nexusmods.com/morrowind/mods/48647) by Shehriazad  
 
 [**Netch Adamantium Armour**](https://www.nexusmods.com/morrowind/mods/1430) by Cythus  
 [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269) by Melchior Dahrk and quorn  
@@ -28,3 +29,4 @@ Duke's Silver Armor:
 [**Practical Pauldrons**](https://www.nexusmods.com/morrowind/mods/48523) by Kyim  
 [**Gloved Bracers**](https://www.nexusmods.com/morrowind/mods/48497) by Kyim  
 [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473) by Kyim  
+[**Silver and Nordic Cuirasses Fixed**](https://www.nexusmods.com/morrowind/mods/48646) by Explorer1911  
