@@ -1,6 +1,9 @@
 ## Bodies
 [**Slof's Better Beasts**](https://www.nexusmods.com/morrowind/mods/46160) by AlienSlof  
 
+## Vanilla Race Changes
+[**Aquatic Argonians**](https://www.nexusmods.com/morrowind/mods/48641) by RogiVagel  
+
 ## Races
 [**Altaran**](http://mw.modhistory.com/download-70-10802) by Westly  
 [**Dremora Markynaz**](http://mw.modhistory.com/download-53-10978) by Westly  
