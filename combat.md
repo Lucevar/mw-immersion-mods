@@ -47,7 +47,7 @@ Adds critical strike mechanics for the player and npcs based on luck.
 [**Purist Friendly Magicka Regen**](https://www.nexusmods.com/morrowind/mods/45636) by Remiros & Greatness7  
 [**Elemental Magicka II**](https://www.nexusmods.com/morrowind/mods/42106) by NMZMaster  
 [**4NM Magic**](https://www.nexusmods.com/morrowind/mods/47095) by Archimag  
-[**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948) by Operator Jack
+[**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948) by Operator Jack  
 -- use [**Miscast Mod**](http://mw.modhistory.com/download-53-12215) by Huskobar & Magius if you don't have MWSE  
 
 ## New Weapons
