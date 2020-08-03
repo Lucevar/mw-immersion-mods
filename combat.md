@@ -12,6 +12,7 @@ No saving in battle!
 [**Blood and Gore**](http://mw.modhistory.com/download-44-14938) by TheLys  
 [**Blood and Gore Retexture**](https://www.nexusmods.com/morrowind/mods/44296) by Corsair  
 [**Realistic Blood**](http://mw.modhistory.com/download-26-10419) by Leatherpoker  
+[**MWSE Blood Diversity**](https://www.nexusmods.com/morrowind/mods/47913) by Anumaril  
 
 ## Healing / Recovery
 [**Realistic Healing and Injuries**](https://www.nexusmods.com/morrowind/mods/47084) by Aracelliy  
