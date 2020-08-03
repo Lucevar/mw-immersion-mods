@@ -121,6 +121,7 @@ Believe it or not... all of these are compatible (with one or two small bugs). U
 [**Sadrith Mora Alterations**](https://www.nexusmods.com/morrowind/mods/45516?tab=files) by Lougian (it's listed as an optional file)  
 [**Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn and PoodleSandwich - includes voice lines by the original Dunmer voice actor!!  
 [**Sadrith Mora Closed City**](https://www.nexusmods.com/morrowind/mods/8359) by Crustacean  
+[**The Merchants of Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/48654) by Lucevar  
 
 [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by Mort  
 Have you ever thought that Wolverine Hall must have been designed by Sheogorath, specifically to frustrate you? So did mort. So he fixed it (and gave the mages some beds while he was at it.)  
@@ -243,6 +244,8 @@ Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014)
 [**Ald-ruhn Mages Guild Expansion**](https://www.nexusmods.com/morrowind/mods/48321) by Endify  
 or  
 [**Epic Aldruhn**](https://www.nexusmods.com/morrowind/mods/43072) by mike_and_ike  
+or  
+[**Epic Aldruhn Redux**](https://www.nexusmods.com/morrowind/mods/48652) by RandomPal  
 or
 [**Aldruhn Temple Expansion**](http://mw.modhistory.com/download-80-14377) by Xeth-Ban  
 
