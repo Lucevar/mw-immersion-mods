@@ -6,6 +6,12 @@ First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102), then ru
 This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mods. Unless otherwise stated I don't vouch for quality or compatibility.  
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
+# New since July 29th 2020
+[**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
+Lower first-person sneak, but without a plugin, and adjustable on the fly. Made with MWSE-Lua.
+
+[**Watch the Skies**](https://www.nexusmods.com/morrowind/mods/48636) by tewlwolow  
+Randomised cloud texture on each weather transition. Easily customizable. Optional texture pack and a concept art-inspired Weather Adjuster preset available.
 
 # New since July 10th 2020
 [**Visible Persuasion Chance**](https://www.nexusmods.com/morrowind/mods/48634) by skmrSharma  
