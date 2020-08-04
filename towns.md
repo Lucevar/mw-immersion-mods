@@ -192,8 +192,8 @@ or
 [**Talos Cult Revised**](https://www.nexusmods.com/morrowind/mods/44577) by Cheydin  
 [**36 Lessons of Vivec - Audible Gnisis Sermons**](https://www.nexusmods.com/morrowind/mods/48615) by kruzhem  
 [**Heart of the Velothi -- Gnisis**](https://www.nexusmods.com/morrowind/mods/47978) by HOTV Team  
-
-or  [**TM - New Gnisis**](https://www.nexusmods.com/morrowind/mods/42235) by Trancemaster  
+[**Lightweight Concept Art Gnisis**](https://www.nexusmods.com/morrowind/mods/48659/) by RandomPal  
+[**TM - New Gnisis**](https://www.nexusmods.com/morrowind/mods/42235) by Trancemaster  
 
 ## Ald Velothi
 [**Tales of Ald Velothi**](https://www.nexusmods.com/morrowind/mods/47276) by Team Balmora Bandits  
