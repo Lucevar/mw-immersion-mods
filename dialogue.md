@@ -18,6 +18,7 @@
 [**People of Pelagiad**](https://www.nexusmods.com/morrowind/mods/47520) by Caeris  
 [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
 [**Sexual Harassment Remover**](https://www.nexusmods.com/morrowind/mods/48541) by JaceyS  
+[**Local Lore - Silt Striders and Caravaners**](https://www.nexusmods.com/morrowind/mods/48063) by Kilcunda  
 
 ## Audio
 [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero  
