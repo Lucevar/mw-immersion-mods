@@ -61,6 +61,7 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 [**Blight Bounties**](https://www.nexusmods.com/morrowind/mods/45595) by Ivza  
 [**Muck Shovel of Vivec**](http://mw.modhistory.com/download-11-8669) by dongle  
 [**Shrine of Mount Assarnibibi**](https://www.nexusmods.com/morrowind/mods/46858) by istreddify  
+[**Sarandas Family Hearth**](https://www.nexusmods.com/morrowind/mods/48056?tab=description) by Endoran  
 
 [**Shrines - Restore Health and Cancel Options**](https://www.nexusmods.com/morrowind/mods/43233) by Skrawafunda  
 [**Descriptive Shrines**](https://www.nexusmods.com/morrowind/mods/46119) by SuperQuail  
