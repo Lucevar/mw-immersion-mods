@@ -29,6 +29,7 @@
 
 ## Placement
 [**Dagoth's Chosen**](https://www.nexusmods.com/morrowind/mods/31429) by von Django  
+[**Wild Goblins**](https://www.nexusmods.com/morrowind/mods/48169) by Stripes  
 
 ## New Creatures  
 [**Spriggans and Twiggans**](https://www.nexusmods.com/morrowind/mods/43350) by Melchior Dahrk  
@@ -39,3 +40,4 @@
 [**Centurion Submariner**](https://www.nexusmods.com/morrowind/mods/47350) by Autoclock  
 [**Centurion Superspiders**](https://www.nexusmods.com/morrowind/mods/47351) by Autoclock  
 [**Antares Creature Integration**](https://www.nexusmods.com/morrowind/mods/43249) by Melchior Dahrk  
+[**Peaceful Fish**](https://www.nexusmods.com/morrowind/mods/47882) by DeadAnarchy  
