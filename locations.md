@@ -23,6 +23,8 @@
 [**Mountainous Red Mountain**](https://www.nexusmods.com/morrowind/mods/42125) by Piratelord  
 [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204) by Digmen  
 [**Dagoth Ur's Citadel Rework**](https://www.nexusmods.com/morrowind/mods/45858) by Ito-Puritikiti  
+[**Red Mountain Reborn**](https://www.nexusmods.com/morrowind/mods/48669) by Knots and Trancemaster  
+[**RR - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822) by the Resdayn Revival Team  
 
 ## Azura's Coast
 [**Holamayan Monastery Replacer**](https://www.nexusmods.com/morrowind/mods/43524) by Resdayn Revival Team  
