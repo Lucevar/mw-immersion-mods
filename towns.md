@@ -20,6 +20,7 @@
 [**The Serendipitous Traveller**](https://www.nexusmods.com/morrowind/mods/44714) by Kursan  
 [**Unique Signs and Banners**](http://mw.modhistory.com/download-44-6950) by Bart Notelaers  
 [**Exterior Guild Lighting**](https://www.nexusmods.com/morrowind/mods/46990) by SuperQuail  
+[**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
 
 # Tamriel Rebuilt
 [**Unique Tavern Signs for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/46794) by Rats  
@@ -67,6 +68,8 @@ For a more restrained aesthetic. Adds appropriate clutter to Gnaar Mok but doesn
 [**White Suran**](https://www.nexusmods.com/morrowind/mods/44153) by Melchior Dahrk  
 [**Docks of Suran**](https://www.nexusmods.com/morrowind/mods/44853) by Vallylilly  
 [**Simple Suran Docks**](https://www.nexusmods.com/morrowind/mods/48398) by Endify  
+[**Suran - The Pearl of the Ascadian Isles**](https://www.nexusmods.com/morrowind/mods/48675) by RandomPal  
+[**Concept Art Hlaalu Balconies**](https://www.nexusmods.com/morrowind/mods/48667) by RandomPal  
 
 ## Vivec
 [**Dramatic Vivec**](https://www.nexusmods.com/morrowind/mods/43385) by LondonRook  
@@ -228,6 +231,7 @@ Balmora has a ridiculous number of mods - it's a meme for a reason! I recommend 
 [**Brevur of Balmora**](https://www.nexusmods.com/morrowind/mods/47557/) by R-zero  
 [**Balmora Rooftop Apartments**](https://www.nexusmods.com/morrowind/mods/47974) by WulfShaman  
 [**Drarayne Thelas's House Overhaul**](https://www.nexusmods.com/morrowind/mods/48326) by Endify
+[**Concept Art Hlaalu Balconies**](https://www.nexusmods.com/morrowind/mods/48667) by RandomPal  
 
 [**Fort Moonmoth Expanded**](https://www.nexusmods.com/morrowind/mods/46963) by Yommumoi  
 
