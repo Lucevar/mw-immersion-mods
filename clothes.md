@@ -28,6 +28,9 @@ Duke's Silver Armor:
 [**Void Gear**](https://www.nexusmods.com/morrowind/mods/1789) by Kieve  
 [**Westly Presents Creed of the Assassin**](http://mw.modhistory.com/download-98-13393) by Westly  
 
+[**TA - Ashur-Tul's Ashlander Articles**](https://www.nexusmods.com/morrowind/mods/48677) by Shehriazad  
+[**TA - Redvayn's Humble Headgear**](https://www.nexusmods.com/morrowind/mods/48647) by Shehrizad  
+
 [**Practical Pauldrons**](https://www.nexusmods.com/morrowind/mods/48523) by Kyim  
 [**Gloved Bracers**](https://www.nexusmods.com/morrowind/mods/48497) by Kyim  
 [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473) by Kyim  
