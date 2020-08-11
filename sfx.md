@@ -62,3 +62,6 @@ A corprus meat replacer.
 [**Nifty Inventory and Player-Related Sounds**](https://www.nexusmods.com/morrowind/mods/48372) by HazyBass  
 [**XBOX Menu Sound**](https://www.nexusmods.com/morrowind/mods/48426) by CiceroTR  
 
+# Sound Overhauls
+[**Better Sounds**](https://www.nexusmods.com/morrowind/mods/9967?) by JEKA and TJ  
+[**Better Sounds - Fixed and Cleaned**](https://www.nexusmods.com/morrowind/mods/46516) by 1lartur0  
