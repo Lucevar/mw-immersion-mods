@@ -362,6 +362,7 @@ Random vampire attacks
 * [**Mage Lights**](https://www.nexusmods.com/morrowind/mods/46768) by Stripes  
 * [**Scrolls of the Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831)  
 * [**Hidden Treasure**](https://www.nexusmods.com/morrowind/mods/47365) by C3pa  
+* [**Scrollmaker**](https://www.nexusmods.com/morrowind/mods/45065) by Axeljk  
 
 ## Quests
 * [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126)
