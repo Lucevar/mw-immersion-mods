@@ -9,3 +9,4 @@
 [**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
 [**PC smithy - Ebonheart**](http://mw.modhistory.com/download-35-10219) by aimeekae  
 [**Morrowind Crafting**](http://mw.modhistory.com/download-1-10477) by Drac and Toccatta  
+[**Scrollmaker**](https://www.nexusmods.com/morrowind/mods/45065) by Axeljk  
