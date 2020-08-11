@@ -54,7 +54,6 @@ A corprus meat replacer.
 [**Tavern Ambience**](https://www.nexusmods.com/morrowind/mods/252) by Erik Be  
 [**Sheep-no-more**](https://www.nexusmods.com/morrowind/mods/45168) by mcchuggernaut  
 [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
-[**AURA**](https://www.nexusmods.com/morrowind/mods/48255) by tewlwolow  
 
 [**Silent Hits**](https://www.nexusmods.com/morrowind/mods/44556) by Jxrdan  
 [**Sea of Sound**](https://www.nexusmods.com/morrowind/mods/45737) by CptJoker  
@@ -65,3 +64,4 @@ A corprus meat replacer.
 # Sound Overhauls
 [**Better Sounds**](https://www.nexusmods.com/morrowind/mods/9967?) by JEKA and TJ  
 [**Better Sounds - Fixed and Cleaned**](https://www.nexusmods.com/morrowind/mods/46516) by 1lartur0  
+[**AURA**](https://www.nexusmods.com/morrowind/mods/48255) by tewlwolow  
