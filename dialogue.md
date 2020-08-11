@@ -35,6 +35,7 @@
 [**Empty Threats Disabler**](https://www.nexusmods.com/morrowind/mods/44671) by Rot  
 [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603) by R-zero  
 [**FMBP - Michael Michael Michael**](https://www.nexusmods.com/morrowind/mods/48598) by PoodleSandwich - fixes Redguard dialogue.  
+[**AURA - Service Lines module**](https://www.nexusmods.com/morrowind/mods/48255) by tewlwolow  
 
 ## Greetings
 [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
