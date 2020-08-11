@@ -17,3 +17,4 @@ Includes an Argonian companion
 [**Gwen of Rivenspire**](https://www.nexusmods.com/morrowind/mods/46960) by RubberMan   
 [**Belial, A Dismal Dremora Companion**](https://www.nexusmods.com/morrowind/mods/44341) by Hanghimhigher  
 [**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Gavrilo93  
+[**MWSE Enhanced Healer Companion**](https://www.nexusmods.com/morrowind/mods/48678) by Stripes  
