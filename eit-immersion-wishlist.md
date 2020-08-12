@@ -27,6 +27,7 @@
 - [**Harder Merchants**](https://www.nexusmods.com/morrowind/mods/47416) by Corsair  
 - [**Outlaws**](https://www.nexusmods.com/morrowind/mods/46404) by Danae -- hardship has forced a lot of people to take to banditry and pickpocketing. Better keep an eye on your purse.  
 - [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord -- equipment you loot from enemies will be damaged, and you'll have to repair it before it's useful - or valuable.  
+- [**Scripted Alchemy Vendors Restock Rebalance**](https://www.nexusmods.com/morrowind/mods/46105) by RandomPal and Stuporstar -- no more infinite restocking of alchemy ingredients. Plus, alchemists now have different ingredients over time, so they're worth checking in on.
 
 ## Oops You Screwed Up - Consequences for skill failure  
 - Armorer: Damage or (rarely) destroy armor you attempt to repair, if your armorer skill is very low.  
