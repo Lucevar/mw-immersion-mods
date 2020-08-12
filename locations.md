@@ -23,6 +23,7 @@
 
 ## Red Mountain
 [**Mountainous Red Mountain**](https://www.nexusmods.com/morrowind/mods/42125) by Piratelord  
+[**Mountainous Red Mountain - Non-Pointy**](https://www.nexusmods.com/morrowind/mods/48682) by Hollaajith and Piratelord  
 [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204) by Digmen  
 [**Dagoth Ur's Citadel Rework**](https://www.nexusmods.com/morrowind/mods/45858) by Ito-Puritikiti  
 [**Red Mountain Reborn**](https://www.nexusmods.com/morrowind/mods/48669) by Knots and Trancemaster  
