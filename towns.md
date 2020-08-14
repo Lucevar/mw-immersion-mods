@@ -38,6 +38,7 @@
 There have been a lot of mods for Seyda Neen over the years. A LOT. My recommendation is: 
 
 [**Immersive Seyda Neen**](https://www.nexusmods.com/morrowind/mods/44441) by DremoraLord98  
+[**The Grand Pharos**](https://www.nexusmods.com/morrowind/mods/47938) by mdsouthworth  
 
 For a more sweeping change, you could also try [**Seyda Neen - Imperial Port**](https://www.nexusmods.com/morrowind/mods/46954) by Aitrus.  
 
