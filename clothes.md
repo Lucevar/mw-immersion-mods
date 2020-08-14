@@ -11,8 +11,9 @@
 Duke's Silver Armor:
 * [**Resources**](https://www.nexusmods.com/morrowind/mods/35562?) by Alaisiagae  
 * [**Implementation**](https://www.nexusmods.com/morrowind/mods/46828) by SfinnaIronfoot  
-[**Cloth Helm**](https://www.nexusmods.com/morrowind/mods/47783) by Axeljk  
 
+[**Cloth Helm**](https://www.nexusmods.com/morrowind/mods/47783) by Axeljk  
+[**Imperial Silver Armour**](https://www.nexusmods.com/morrowind/mods/47751) by Endoran  
 [**Netch Adamantium Armour**](https://www.nexusmods.com/morrowind/mods/1430) by Cythus  
 [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269) by Melchior Dahrk and quorn  
 [**RR - Better Telvanni Cephalopod Armour**](https://www.nexusmods.com/morrowind/mods/44837)
