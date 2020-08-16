@@ -63,7 +63,9 @@ For a more restrained aesthetic. Adds appropriate clutter to Gnaar Mok but doesn
 
 # Ascadian Isles
 ## Pelagiad
+[**Pelagiad - The Cozy Imperial Town**](https://www.nexusmods.com/morrowind/mods/48687) by RandomPal  
 [**Vvardenfell Revisited - Pelagiad**](https://www.nexusmods.com/morrowind/mods/46776) by EnnetWinterhoof  
+[**Stav's Boxes - Pelagiad**](https://www.nexusmods.com/morrowind/mods/44075) by Stavroguin/Heinrich  
 
 ## Suran
 [**White Suran**](https://www.nexusmods.com/morrowind/mods/44153) by Melchior Dahrk  
@@ -120,7 +122,9 @@ These affect different parts of Ebonheart and are therefore compatible.
 [**RR - Tel Branora Lighthouse**](https://www.nexusmods.com/morrowind/mods/42664) by Resdayn Revival Team  
 
 ## Sadrith Mora
-Believe it or not... all of these are compatible (with one or two small bugs). Use [**this patch**](https://drive.google.com/open?id=1VYELi7cuma_wtXXOL9nJos65OrAL26OL) to fix the landscaping errors (load it last).  
+[**Sadrith Mora - Seat of Power of House Telvanni**](https://www.nexusmods.com/morrowind/mods/48689) by RandomPal  
+A mega-merge of most of the popular Sadrith Mora mods, edited for performance and compatibility. 
+
 [**Epic Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/43057) by mike_and_ike  
 [**Sadrith Mora Expanded**](https://www.nexusmods.com/morrowind/mods/44113) by Hlaalu66  
 [**Sadrith Mora Alterations**](https://www.nexusmods.com/morrowind/mods/45516?tab=files) by Lougian (it's listed as an optional file)  
