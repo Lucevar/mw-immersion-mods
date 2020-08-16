@@ -39,4 +39,5 @@ Duke's Silver Armor:
 [**Practical Pauldrons**](https://www.nexusmods.com/morrowind/mods/48523) by Kyim  
 [**Gloved Bracers**](https://www.nexusmods.com/morrowind/mods/48497) by Kyim  
 [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473) by Kyim  
-[**Silver and Nordic Cuirasses Fixed**](https://www.nexusmods.com/morrowind/mods/48646) by Explorer1911  
+[**Silver and Nordic Cuirasses Fixed**](https://www.nexusmods.com/morrowind/mods/48646) by Explorer1911   
+[**Indie Whip**](https://www.nexusmods.com/morrowind/mods/48690) by ignatious  
