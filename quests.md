@@ -21,6 +21,7 @@ Removes level requirements for a number of quests.
 [**Django's Dialogue**](https://www.nexusmods.com/morrowind/mods/47253) by von Djangos  
 [**Drakes Pride Refusal**](https://www.nexusmods.com/morrowind/mods/46894) by chryssvoler  
 [**Non-Legion Dandsa Rescue Fix**](https://www.nexusmods.com/morrowind/mods/46927) by chryssvoler  
+[**Kurapli Seeks Justice**](https://www.nexusmods.com/morrowind/mods/48697) by stripes  
 
 ## Factions
 [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von Django  
