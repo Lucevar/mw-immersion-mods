@@ -6,7 +6,23 @@ First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102), then ru
 This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mods. Unless otherwise stated I don't vouch for quality or compatibility.  
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
+
 # New since July 29th 2020
+[**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711) by Greatness7 & NullCascade  
+Not to be mistaken for Ashfall, which is a very different mod. This one dynamically adds ash decals to people, places, things, and probably concepts during ash storms, and is awesome.  
+
+[**Ashlander Huntress Companion**](https://www.nexusmods.com/morrowind/mods/48716) by Stripes  
+Ashlander huntress companion found in Seyda Neen. MWSE not required, but in the MWSE version she'll buff your fatigue at the start of fights.  
+
+[**3rd Person Crosshair**](https://www.nexusmods.com/morrowind/mods/48691) by OEA  
+Makes the crosshair visible in 3rd-person. To be used with shoulder-cam features (MCP or MGE XE).  
+
+[**Better Music System - MUSE Version**](https://www.nexusmods.com/morrowind/mods/48665) by Necrolesian, Rytelier, Xiran, BTB  
+A collection of custom MUSE config files that (mostly) implement the functionality of BTB's version of Better Music System.
+
+[**MWSE Enhanced Healer Companion**](https://www.nexusmods.com/morrowind/mods/48678) by Stripes  
+Adds an Altmer healer companion named Yarinil to Balmora, Tyermaillin's House. He will cast heal on player or any other follower when they drop below 50% health if he has enough magicka.
+
 [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
 Lower first-person sneak, but without a plugin, and adjustable on the fly. Made with MWSE-Lua.
 
