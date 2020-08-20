@@ -6,6 +6,7 @@
 [**Ashlander Camps Expanded**](https://www.nexusmods.com/morrowind/mods/44784/) by twilotspankle  
 [**Vampire Clans - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47259) by Tel Shadow  
 [**More Ashstorms on Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47464/) by iskuss  
+[**Ashlanders Herd**](https://www.nexusmods.com/morrowind/mods/48720) by Anumaril  
 
 ## Ashlands
 [**RR - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822) by the Resdayn Revival Team  
@@ -15,6 +16,7 @@
 [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423/) by Melchior Dahrk  
 [**Ash Mire**](https://www.nexusmods.com/morrowind/mods/44200) by Reizeron  
 [**Strider Burial**](https://www.nexusmods.com/morrowind/mods/47661) by Anumaril    
+[**Urshilaku Spiritual**](https://www.nexusmods.com/morrowind/mods/48699) by Vegetto  
 
 ## Molag Amur
 [**Shrine of Mount Assarnibi**](https://www.nexusmods.com/morrowind/mods/46858) by istreddify  
