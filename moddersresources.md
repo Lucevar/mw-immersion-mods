@@ -13,6 +13,7 @@
 [**Nordic Chef MMM Resources**](https://www.nexusmods.com/morrowind/mods/46142) by Team Nordic Chefs  
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Project Tamriel  
 [**Outlander Asset Library**](https://www.patreon.com/posts/outlander-11784257) by LondonRook  
+[**Nif Resources**](https://www.nexusmods.com/morrowind/mods/43064) by YarYulme  
 
 ## Terrain
 [**Wolli's Mountain Resources**](https://www.nexusmods.com/morrowind/mods/46483) by Wollibeebee  
@@ -29,6 +30,7 @@
 [**Inverted Telvanni Meshes**](http://download.fliggerty.com/download-135-918) by DonnerGott  
 [**Telvanni Trap Door Resource**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk  
 [**Outlander Asset Library**](https://www.patreon.com/posts/outlander-11784257) by LondonRook  
+[**Nif Resources**](https://www.nexusmods.com/morrowind/mods/43064) by YarYulme  
 
 ## Hlaalu
 [**R-Zero's Random Resources**](https://www.nexusmods.com/morrowind/mods/43729) by R-Zero  
@@ -114,6 +116,7 @@ Silveri's resources tend to be very vibrant, but since most of the resources in 
 This one has the globe.  
 [**Candle Holders & Boxes**](http://download.fliggerty.com/download-135-1012) by DonnerGott  
 [**Broken Vanilla Crates**](https://www.nexusmods.com/morrowind/mods/46982) by RubberMan  
+[**Nif Resources**](https://www.nexusmods.com/morrowind/mods/43064) by YarYulme  
 
 # Dungeons
 ## Dunmer Stronghold
