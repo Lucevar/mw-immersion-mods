@@ -39,6 +39,10 @@ This mod rebalances Bloodmoon as if it shipped with Morrowind. Recommended level
 * [**More Dangerous Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745) by AutumnBramble  
 230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights. Designed to work alongside Mort's overhauls.  
 **Install Note:** Shouldn't matter which order this is installed in wrt Mort's rebalances, but it should load **after** Anti-Cheese.  
+* [**Synthesis Series - Creatures and Diseases**](https://www.nexusmods.com/morrowind/mods/48279) by Half11  
+Adds missing diseases and diseased creature variants.  
+* [**Less Aggressive Creatures**](https://www.nexusmods.com/morrowind/mods/48292) by Merlord  
+Some creatures now have a chance to spawn as non-aggressive. Highly configurable.  
 
 # Equipment
 * [**Clothing Requirements**](https://www.nexusmods.com/morrowind/mods/47813) by Necrolesian  
