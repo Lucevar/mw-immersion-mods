@@ -1,5 +1,5 @@
 # MGE/MWSE Mods List
-**Updated**: 2020/07/10
+**Updated**: 2020/08/24
 
 First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102), then run MWSE-update.exe, and get the [**Morrowind Code Patch (MCP)**](https://www.nexusmods.com/morrowind/mods/19510) for good measure.  
 
