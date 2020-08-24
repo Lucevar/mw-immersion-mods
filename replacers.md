@@ -1,6 +1,7 @@
 # Graphics Replacers  
 # Base Pack
 [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros  
+[**FMGS - Unique Items Compilation**](https://www.nexusmods.com/morrowind/mods/46433) by PoodleSandwich  
 
 # Specific Replacers
 [**Clutter Retexture**](https://www.nexusmods.com/morrowind/mods/45972?) by Qwertyquit  
@@ -22,6 +23,7 @@
 [**Old Dwemer Books**](https://www.nexusmods.com/morrowind/mods/43339) by Yar-Yulme  
 [**Yellow border b-gone imperial flag**](https://www.nexusmods.com/morrowind/mods/47685) by Leetmorry  
 [**Crystal Soul Gems**](https://www.nexusmods.com/morrowind/mods/48300) by SVNR  
+[**MWSE Daleth's Book Jackets**](https://www.nexusmods.com/morrowind/mods/48449) by Necrolesian and Daleth  
 
 # Mod Replacers
 [**Red sclera eyes for Julan**](https://www.nexusmods.com/morrowind/mods/47277?tab=description) by Leetmorry  
