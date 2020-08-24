@@ -16,7 +16,8 @@ Adds configurable weight to gold. By implementing gold weight using MWSE Lua, th
 
 # Ownership
 * [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros  
-This mod attempts to fix the most glaring exploits and balance issues in the game in the most sensible way. It's supposed to be an addendum to other great balance mod like Mort's rebalances. Commonly Used Containers Nerfed, Container Ownership and Rarer Scrap Metal by Half11 have been incorporated into this mod.
+This mod attempts to fix the most glaring exploits and balance issues in the game in the most sensible way. Adds guards to prevent level 1 characters walking away with easy loot, fixes badly designed enchantments, equipment values have been made much more sensible, etc.  
+**Install note:** Load very early. Specifically, before Ownership Overhaul and MDMD.  
 * [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
 This mod assigns ownership to the many, many items and containers in Morrowind that rightly should be owned but weren't, and otherwise cleans up and adjusts item ownership.  
 **Compatibility Note:** Needs to have the Solstheim changes removed or patched to be compatible with HotV Solstheim.  
@@ -37,6 +38,7 @@ This mod is intended to rebalance the Bloodmoon expansion in a variety of ways, 
 This mod rebalances Bloodmoon as if it shipped with Morrowind. Recommended levels: 5-30. 
 * [**More Dangerous Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745) by AutumnBramble  
 230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights. Designed to work alongside Mort's overhauls.
+**Install Note:** Shouldn't matter which order this is installed in wrt Mort's rebalances, but it should load **after** Anti-Cheese.  
 
 # Equipment
 * [**Clothing Requirements**](https://www.nexusmods.com/morrowind/mods/47813) by Necrolesian  
