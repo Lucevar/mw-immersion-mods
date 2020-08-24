@@ -30,4 +30,6 @@ Goes excellentlty with [**Dartboards Expanded**](https://www.nexusmods.com/morro
 # Objects
 ![Throbbing Meat](https://staticdelivery.nexusmods.com/mods/100/images/45339/45339-1519417720-361595880.jpeg)
 [**R-Zero's Throbbing Meat**](https://www.nexusmods.com/morrowind/mods/45339) by R-Zero  
+
+![Nocturnal Moths](https://staticdelivery.nexusmods.com/mods/100/images/44148-0-1457131648.jpg)
 [**Nocturnal Moths**](https://www.nexusmods.com/morrowind/mods/44148) by R-zero  
