@@ -8,6 +8,9 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since August 19th 2020
+[**Coloured Enchantments**](https://www.nexusmods.com/morrowind/mods/48739) by Safebox  
+Adds a single greyscale texture with a basic MWSE script to replace and tint the existing enchanted UI element.
+
 [**Enchant Capacity Rebalance**](https://www.nexusmods.com/morrowind/mods/48742) by Necrolesian  
 Adjusts the enchant capacities of weapons, armor and clothing for balance and consistency. An MWSE version and a plugin version are included.
 
