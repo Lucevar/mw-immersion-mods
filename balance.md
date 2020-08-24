@@ -47,7 +47,7 @@ Adds configurable weight to gold. By implementing gold weight using MWSE Lua, th
 # Ownership
 * [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
 This mod assigns ownership to the many, many items and containers in Morrowind that rightly should be owned but weren't, and otherwise cleans up and adjusts item ownership.
-** **Compatibility Note:** Needs to have the Solstheim changes removed or patched to be compatible with HotV Solstheim.
+**Compatibility Note:** Needs to have the Solstheim changes removed or patched to be compatible with HotV Solstheim.  
 * [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros  
 This mod attempts to fix the most glaring exploits and balance issues in the game in the most sensible way. It's supposed to be an addendum to other great balance mod like Mort's rebalances. Commonly Used Containers Nerfed, Container Ownership and Rarer Scrap Metal﻿ by Half11 have been incorporated into this mod.
 * [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
