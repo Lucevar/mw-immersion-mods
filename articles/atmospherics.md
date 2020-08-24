@@ -7,15 +7,15 @@ If you've been following Darkelfguy's Morrowind Modding Showcases for a while, y
 **Compatibility:** OpenMW and MWSE-Lua
 
 [**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293) by Merlord  
-This is the perfect companion to Glow in the Dahrk. Ever thought it was odd that people left lanterns on all day every day? Candles are too expensive for that! Cost-saving measures have been brought in all across Vvardenfell, and outside lanterns are now lit on a schedule. The schedule is staggered so that the lights don't all come on at once. On its own that would have been enough to make this an awesome mod, but wait, there's more! You can now manually toggle lights on and off - perfect for adjusting the atmosphere in your player home, or in any place you find yourself in, really. And if your held lights are running low on fuel, you can now buy refills from shops, or gather oil from the previously-useless ashmires in the Ashlands.
+This is the perfect companion to Glow in the Dahrk. Ever thought it was odd that people left lanterns on all day every day? Candles are too expensive for that! Cost-saving measures have been brought in all across Vvardenfell, and outside lanterns are now lit on a schedule. The schedule is staggered so that the lights don't all come on at once. On its own that would have been enough to make this an awesome mod, but wait, there's more! You can now manually toggle lights on and off - perfect for adjusting the atmosphere in your player home, or in any place you find yourself in, really. And if your held lights are running low on fuel, you can now buy refills from shops, or gather oil from the previously-useless ashmires in the Ashlands.  
 **Compatibility:** MWSE-Lua only
 
 [**Douse the Lights**](https://www.nexusmods.com/morrowind/mods/47980) by OperatorJack  
-Missing that Thief gameplay feeling? Want to turn off a light, but you don't want to walk across the room to do it? Want to feel like a ninja? Just throw your daggers at those pesky lights to turn 'em off! Shoot guards to blow out their torches. You can also shoot fires to douse them, which is something Midnight Oil doesn't cover I think.
+Missing that Thief gameplay feeling? Want to turn off a light, but you don't want to walk across the room to do it? Want to feel like a ninja? Just throw your daggers at those pesky lights to turn 'em off! Shoot guards to blow out their torches. You can also shoot fires to douse them, which is something Midnight Oil doesn't cover I think.  
 **Compatibility:** MWSE-Lua only.
 
 [**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Greatness7 and Melchior Dahrk  
-Ever thought it was odd that your torches and lights are fine one moment, gone instantly the next? Now lights will begin to dim as they reach the end of their lifespan, giving you a visual cue that they're about to run out - and you should top them up with the refills from The Midnight Oil.  
+Ever thought it was odd that your torches and lights are fine one moment, gone instantly the next? Now lights will begin to dim as they reach the end of their lifespan, giving you a visual cue that they're about to run out - and you should top them up with the refills from The Midnight Oil.   
 **Compatibility:** MWSE-Lua only.
 
 [**Blinking Dwemer Lights**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=73&Itemid=50&-Dwemer-Blinking-Lights-1-1) by abot. Requires [Dwemer Blinking Lights](https://www.nexusmods.com/morrowind/mods/42274) by qqqbbb.  
