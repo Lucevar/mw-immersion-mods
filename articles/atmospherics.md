@@ -7,6 +7,8 @@ If you've been following Darkelfguy's Morrowind Modding Showcases for a while, y
 **Compatibility:** OpenMW and MWSE-Lua
 
 [**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293) by Merlord  
+This is the perfect companion to Glow in the Dahrk. Ever thought it was odd that people left lanterns on all day every day? Candles are too expensive for that! Cost-saving measures have been brought in all across Vvardenfell, and outside lanterns are now lit on a schedule. The schedule is staggered so that the lights don't all come on at once. On its own that would have been enough to make this an awesome mod, but wait, there's more! You can now manually toggle lights on and off - perfect for adjusting the atmosphere in your player home, or in any place you find yourself in, really. And if your held lights are running low on fuel, you can now buy refills from shops, or gather oil from the previously-useless ashmires in the Ashlands.
+**Compatibility:** MWSE-Lua only
 
 [**Douse the Lights**](https://www.nexusmods.com/morrowind/mods/47980) by OperatorJack  
 Missing that Thief gameplay feeling? Want to turn off a light, but you don't want to walk across the room to do it? Want to feel like a ninja? Just throw your daggers at those pesky lights to turn 'em off! Shoot guards to blow out their torches. You can also shoot fires to douse them, which is something Midnight Oil doesn't cover I think.
@@ -21,7 +23,10 @@ Some of the electric lights in Dwemer ruins will now flicker on and off, complet
 **Warning:** May not be suitable for sufferers of epilepsy - the flickering is quite pronounced.  
 **Compatibility:** Should be compatible with either OpenMW or the original engine.  
 
+![Well Lit Lanterns](https://staticdelivery.nexusmods.com/mods/100/images/45801/45801-1529454496-766047059.jpeg)
 [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
+Travel lanterns now glow properly at night - a small change, but it makes a surprisingly big difference.  
+**Compatibility:** Should be compatible with either OpenMW or the original engine.
 
 **Bonus Mention:** It's not a special effects mod as such, but RedFurryDemon's [**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912) is the most customisable overhaul available for general lighting. Run it alongside these other mods for optimal effect.  
 **Compatibility**: MWSE-Lua only.  
