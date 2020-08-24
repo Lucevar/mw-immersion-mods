@@ -1,11 +1,30 @@
+I've included compatibility notes, but most of these mods are available for the original engine with MWSE-Lua only. A few are compatible with OpenMW. Remember to check the compatibility section!
+
 # Lights and Lighting
-[**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912) by RedFurryDemon    
-[**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293) by Merlord  
-[**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
-[**Douse the Lights**](https://www.nexusmods.com/morrowind/mods/47980) by OperatorJack  
 ![Glow in the Dahrk](https://staticdelivery.nexusmods.com/mods/100/images/45886/45886-1532322751-262693364.png)
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk  
+If you've been following Darkelfguy's Morrowind Modding Showcases for a while, you'll already know about this one. For a while it got a mention in every new video that game out. And, honestly, I'm 100% with Darkelfguy on this one. This is an incredible mod that makes a huge difference to the atmosphere of the game. As darkness falls, lights start appearing in town windows - staggered so that they all don't switch on at once. As the sun starts to rise, they turn off again. Interior windows brighten or darken depending on the weather or the time of day. On bright days, you can have sunrays shine through interior windows. Telvanni settlements now have dormer windows. You can have Nordic village windows and Raven Rock windows light up, too. And the best part? Glow in the Dahrk is highly modular, so if you don't like one of these features, you can probably choose to turn it off.  
+**Compatibility:** OpenMW and MWSE-Lua
+
+[**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293) by Merlord  
+
+[**Douse the Lights**](https://www.nexusmods.com/morrowind/mods/47980) by OperatorJack  
+Missing that Thief gameplay feeling? Want to turn off a light, but you don't want to walk across the room to do it? Want to feel like a ninja? Just throw your daggers at those pesky lights to turn 'em off! Shoot guards to blow out their torches. You can also shoot fires to douse them, which is something Midnight Oil doesn't cover I think.
+**Compatibility:** MWSE-Lua only.
+
+[**Light Decay**](https://www.nexusmods.com/morrowind/mods/46671) by Greatness7 and Melchior Dahrk  
+Ever thought it was odd that your torches and lights are fine one moment, gone instantly the next? Now lights will begin to dim as they reach the end of their lifespan, giving you a visual cue that they're about to run out - and you should top them up with the refills from The Midnight Oil.  
+**Compatibility:** MWSE-Lua only.
+
 [**Blinking Dwemer Lights**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=73&Itemid=50&-Dwemer-Blinking-Lights-1-1) by abot. Requires [Dwemer Blinking Lights](https://www.nexusmods.com/morrowind/mods/42274) by qqqbbb.  
+Some of the electric lights in Dwemer ruins will now flicker on and off, complete with eerie sound effects. Really adds to the atmosphere of these ruins, making them feel appropriately derelict.    
+**Warning:** May not be suitable for sufferers of epilepsy - the flickering is quite pronounced.  
+**Compatibility:** Should be compatible with either OpenMW or the original engine.  
+
+[**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
+
+**Bonus Mention:** It's not a special effects mod as such, but RedFurryDemon's [**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912) is the most customisable overhaul available for general lighting. Run it alongside these other mods for optimal effect.  
+**Compatibility**: MWSE-Lua only.  
 
 # Equipment
 ![Weapon Sheathing](https://staticdelivery.nexusmods.com/mods/100/images/46069/46069-1538638827-645975529.png)
