@@ -1,3 +1,8 @@
+# A Quick and Incomplete Guide To SFX Mods for Morrowind
+by Lucevar
+
+Special effects are possibly my favourite category of Morrowind mod - they're often lightweight but have a huge impact on immersion and atmosphere. Below, you'll find some of my all-time favourites, although I unfortunately can't cover all of the mods that deserve to be covered.
+
 I've included compatibility notes, but most of these mods are available for the original engine with MWSE-Lua only. A few are compatible with OpenMW. Remember to check the compatibility section!
 
 # Lights and Lighting
@@ -64,3 +69,5 @@ Goes excellentlty with [**Dartboards Expanded**](https://www.nexusmods.com/morro
 
 ![Nocturnal Moths](https://staticdelivery.nexusmods.com/mods/100/images/44148-0-1457131648.jpg)
 [**Nocturnal Moths**](https://www.nexusmods.com/morrowind/mods/44148) by R-zero  
+
+And that's it for now! Thanks for sticking with me this far, and happy Morrowind-ing. For even more SFX mods (but way less waffle), check out my [SFX mods list](https://github.com/Lucevar/mw-immersion-mods/blob/master/sfx.md)
