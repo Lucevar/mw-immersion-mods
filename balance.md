@@ -63,3 +63,6 @@ Realistic Repair overhauls the repair mechanic, by making it so that repair hamm
 Alcohol is far too common to have effects 5x that of some potions. Why even make strength potions when sujamma costs 30g and gives you +50 hulk strength? This changes that.
 * [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581) by Mort  
 Rebalances pickpocketing in the sense that it makes it actually viable.  
+* [**Speechcraft Rebalance**](https://www.nexusmods.com/morrowind/mods/43113) by Androl  
+Vanilla Speechcraft is unpredictable and frustrating and one bad dice roll can completely ruin your day. This mod fixes the problem by tweaking a few game settings related to Speechcraft. With this mod, you should succeed at Speechcraft at least half of the time, regardless of the NPC's disposition, but your Speechcraft skill and the corresponding die roll now has a bigger impact on the NPC's disposition change.  
+**Luce Note:** Needs testing to check if Speechcraft is now too reliable.  
