@@ -15,7 +15,6 @@
 [**Unique Dreugh Cuirass**](https://www.nexusmods.com/morrowind/mods/46508) by Leyawynn
 [**Accurate Madstone**](https://www.nexusmods.com/morrowind/mods/46397) by Leyawynn  
 [**Unique Icecap**](https://www.nexusmods.com/morrowind/mods/46362) by Leyawynn  
-[**Unique Dagoth Dagger**](https://www.nexusmods.com/morrowind/mods/46363) by Leyawynn  
 [**Key Replacer**](https://www.nexusmods.com/morrowind/mods/6749) by Daduke  
 [**Visually Filled Soulgems**](https://www.nexusmods.com/morrowind/mods/467090) by NullCascade  
 [**Thickle-Lo - The Succulent Hackle-Lo Replacer**](https://www.nexusmods.com/morrowind/mods/47502/) by Melchior Dahrk  
