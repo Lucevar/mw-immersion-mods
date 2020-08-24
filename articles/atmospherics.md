@@ -39,9 +39,13 @@ Travel lanterns now glow properly at night - a small change, but it makes a surp
 # Equipment
 ![Weapon Sheathing](https://staticdelivery.nexusmods.com/mods/100/images/46069/46069-1538638827-645975529.png)
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by Greatness7 & the community  
+Did you ever stop to wonder how everyone in Morrowind can hide a claymore in their pocket? Miss the quivers and sheathes from later games? No need to miss them any more, they're here! Weapons and ammunition will now show up on your character model when equipped. Vanilla weapons come with their own unique sheathes, created as part of a big collaboration by the Morrowind modding community, but there's even in-built compatibility for mod-added weapons. By default the mod-added weapon will display, but by using the correct suffix on the mesh name Weapon Sheathing will be able to automatically detect mod-added sheathes too.  
+**Compatibility:** Compatible with both OpenMW and MWSE-Lua.
 
 ![Vanity](https://staticdelivery.nexusmods.com/mods/100/images/48529/48529-1593772508-1108946024.jpeg)
 [**Vanity**](https://www.nexusmods.com/morrowind/mods/48529) by abot  
+Vanity is for rings and amulets what Weapon Sheathing is for weapons. Now when you deck yourself out in bling, you'll be able to really appreciate it. Ideally use this with the Morrowind Code Patch option that allows you to wear three rings.  
+**Compatibility:** MWSE-Lua only.  
 
 # Sounds
 [**AURA**](https://www.nexusmods.com/morrowind/mods/48255) by tewlwolow  
