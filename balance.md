@@ -37,7 +37,7 @@ This mod rebalances Tribunal as if it shipped with Morrowind. Recommended levels
 This mod is intended to rebalance the Bloodmoon expansion in a variety of ways, most importantly by editing the stats of creatures and npcs.
 This mod rebalances Bloodmoon as if it shipped with Morrowind. Recommended levels: 5-30. 
 * [**More Dangerous Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745) by AutumnBramble  
-230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights. Designed to work alongside Mort's overhauls.
+230+ NPCs are given unique spells, enchantments, and items, to make Morrowind deadlier AND more varied. Faction bosses, Artifact owners, and Daedric cultists have been given customized, flavorful make-overs to become more difficult AND more memorable. Players are encouraged to carry resists, dispels, restores, and prepare ahead for big fights. Designed to work alongside Mort's overhauls.  
 **Install Note:** Shouldn't matter which order this is installed in wrt Mort's rebalances, but it should load **after** Anti-Cheese.  
 
 # Equipment
