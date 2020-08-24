@@ -3,11 +3,15 @@
 [**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293) by Merlord  
 [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
 [**Douse the Lights**](https://www.nexusmods.com/morrowind/mods/47980) by OperatorJack  
+![Glow in the Dahrk](https://staticdelivery.nexusmods.com/mods/100/images/45886/45886-1532322751-262693364.png)
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk  
 [**Blinking Dwemer Lights**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=73&Itemid=50&-Dwemer-Blinking-Lights-1-1) by abot. Requires [Dwemer Blinking Lights](https://www.nexusmods.com/morrowind/mods/42274) by qqqbbb.  
 
 # Equipment
+![Weapon Sheathing](https://staticdelivery.nexusmods.com/mods/100/images/46069/46069-1538638827-645975529.png)
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by Greatness7 & the community  
+
+![Vanity](https://staticdelivery.nexusmods.com/mods/100/images/48529/48529-1593772508-1108946024.jpeg)
 [**Vanity**](https://www.nexusmods.com/morrowind/mods/48529) by abot  
 
 # Sounds
