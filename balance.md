@@ -8,6 +8,23 @@ This mod makes the game treat skill increases from quests as if there were raise
 * [**Magicka Based Skill Progression -- MWSE-Lua Edition**](https://www.nexusmods.com/morrowind/mods/48330) by JaceyS  
 Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
 
+# Economy
+* [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by Mort  
+Dynamically adjusts how much merchants will pay for items. Pluginless, compatible with everything.  
+* [**Worth Its Weight**](https://www.nexusmods.com/morrowind/mods/48070) by JaceyS  
+Adds configurable weight to gold. By implementing gold weight using MWSE Lua, this mod works reliably without the need for dummy items or burden spell effects. It is also able to show the weight of a stack of gold in the tooltip.
+
+# Ownership
+* [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
+This mod assigns ownership to the many, many items and containers in Morrowind that rightly should be owned but weren't, and otherwise cleans up and adjusts item ownership.  
+**Compatibility Note:** Needs to have the Solstheim changes removed or patched to be compatible with HotV Solstheim.  
+* [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros  
+This mod attempts to fix the most glaring exploits and balance issues in the game in the most sensible way. It's supposed to be an addendum to other great balance mod like Mort's rebalances. Commonly Used Containers Nerfed, Container Ownership and Rarer Scrap Metal﻿ by Half11 have been incorporated into this mod.
+* [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
+Bed Buddies prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
+* [**Misc Mates**](https://www.nexusmods.com/morrowind/mods/48122) by Merlord  
+NPCs will allow you to take small inexpensive items if their disposition towards you is high enough. The disposition required is based on the gold value of the item and the player's personality.
+
 # Enemies
 * [**Mort's Beware the Sixth House**](https://www.nexusmods.com/morrowind/mods/46036) by Mort  
 Makes the Sixth House, properly, the most difficult content in the game. Assaulting Red Mountain is now properly end-game stuff, unlike vanilla where ash vampires are overshadowed by wolves. In addition, killing ash vampires now weakens Dagoth Ur, as it should. 
@@ -37,23 +54,6 @@ Takes into account the distance to target when calculating the hit chance for ra
 Crouching with a shield equipped increases your block and reduces your speed.
 * [**Reactive Resistance**](https://www.nexusmods.com/morrowind/mods/48373) by JaceyS  
 Creatures and NPCs affected by a disabling magic effect (like Paralyze) will gain a temporary immunity after a configurable period of time.
-
-# Economy
-* [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by Mort  
-Dynamically adjusts how much merchants will pay for items. Pluginless, compatible with everything.  
-* [**Worth Its Weight**](https://www.nexusmods.com/morrowind/mods/48070) by JaceyS  
-Adds configurable weight to gold. By implementing gold weight using MWSE Lua, this mod works reliably without the need for dummy items or burden spell effects. It is also able to show the weight of a stack of gold in the tooltip.
-
-# Ownership
-* [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
-This mod assigns ownership to the many, many items and containers in Morrowind that rightly should be owned but weren't, and otherwise cleans up and adjusts item ownership.  
-**Compatibility Note:** Needs to have the Solstheim changes removed or patched to be compatible with HotV Solstheim.  
-* [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros  
-This mod attempts to fix the most glaring exploits and balance issues in the game in the most sensible way. It's supposed to be an addendum to other great balance mod like Mort's rebalances. Commonly Used Containers Nerfed, Container Ownership and Rarer Scrap Metal﻿ by Half11 have been incorporated into this mod.
-* [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
-Bed Buddies prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.
-* [**Misc Mates**](https://www.nexusmods.com/morrowind/mods/48122) by Merlord  
-NPCs will allow you to take small inexpensive items if their disposition towards you is high enough. The disposition required is based on the gold value of the item and the player's personality.
 
 # Crafts
 * [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
