@@ -7,6 +7,13 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
+# New since August 19th 2020
+[**Enchant Capacity Rebalance**](https://www.nexusmods.com/morrowind/mods/48742) by Necrolesian  
+Adjusts the enchant capacities of weapons, armor and clothing for balance and consistency. An MWSE version and a plugin version are included.
+
+[**Oblivion tyle Crosshair for Essential Indicators**](https://www.nexusmods.com/morrowind/mods/48743) by Knots  
+Adds an Oblivion style crosshair as an option for [Essential Indicators](https://www.nexusmods.com/morrowind/mods/48267) by Anumaril21
+
 # New since July 29th 2020
 [**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711) by Greatness7 & NullCascade  
 Not to be mistaken for Ashfall, which is a very different mod. This one dynamically adds ash decals to people, places, things, and probably concepts during ash storms, and is awesome.  
