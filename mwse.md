@@ -1,5 +1,5 @@
 # MGE/MWSE Mods List
-**Updated**: 2020/08/24
+**Updated**: 2020/08/25
 
 First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102), then run MWSE-update.exe, and get the [**Morrowind Code Patch (MCP)**](https://www.nexusmods.com/morrowind/mods/19510) for good measure.  
 
@@ -8,6 +8,9 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since August 19th 2020
+[**Companion Combat Communication**](https://www.nexusmods.com/morrowind/mods/48752) by Stripes  
+Allows dialogue with followers in combat simply by looking at them and pressing a key
+
 [**Coloured Enchantments**](https://www.nexusmods.com/morrowind/mods/48739) by Safebox  
 Adds a single greyscale texture with a basic MWSE script to replace and tint the existing enchanted UI element.
 
