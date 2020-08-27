@@ -13,6 +13,7 @@
 [**Class Conscious**](https://www.nexusmods.com/morrowind/mods/46902) by Petethegoat  
 [**Tidy Charsheet**](https://www.nexusmods.com/morrowind/mods/45939) by Petethegoat  
 [**The Role They Were To Play**](https://www.nexusmods.com/morrowind/mods/46411) by PoodleSandwich  
+[**Class Kirkbridezation - (Concept Art Class Art)**](https://www.nexusmods.com/morrowind/mods/48758) by Yar-Yulme  
 
 ## Combat
 [**Quick Loadouts**](https://www.nexusmods.com/morrowind/mods/46708) by Merlord  
@@ -36,5 +37,5 @@ No saving in battle!
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
 
 ## NPCS / Dialogue /Persuasion
-[**Universal Companion Share**](http://download.fliggerty.com/download--14) by Fliggerty 
+[**Universal Companion Share**](http://download.fliggerty.com/download--14) by Fliggerty  
 [**Travel Tooltips**](https://www.nexusmods.com/morrowind/mods/48306) by tewlwolow  
