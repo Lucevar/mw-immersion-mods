@@ -68,21 +68,33 @@ An alternate interior weather sounds mod, if you
 # Worldspace
 ![Mistify](https://staticdelivery.nexusmods.com/mods/100/images/48112/48112-1590162673-1655438406.jpeg)
 [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
+**Compatibility:** Should be compatible with both OpenMW and MWSE-lua.
+
 ![Unto Dust](https://staticdelivery.nexusmods.com/mods/100/images/48435/48435-1592855559-940453982.jpeg)
 [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435) by Melchior Dahrk  
+**Compatibility:** MWSE-Lua only.  
 
 ![Pincushion](https://staticdelivery.nexusmods.com/mods/100/images/46862/46862-1559435310-101526044.jpeg)
 [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) by Hrnchamd  
 Goes excellentlty with [**Dartboards Expanded**](https://www.nexusmods.com/morrowind/mods/47976)!
+**Compatibility:** MWSE-Lua only.  
+
 [**Morrowind Containers Animated**](https://www.nexusmods.com/morrowind/mods/42238) by qqqbbb  
+**Compatibility:** Link above is for MWSE-Lua, OpenMW compatible version [available here](https://www.nexusmods.com/morrowind/mods/46232).
+
 [**Graphic Herbalism**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar & Greatness7  
+**Compatibility:** Compatible with both MWSE-Lua and OpenMW.  
+
 [**Shattered Stones**](https://www.nexusmods.com/morrowind/mods/45105) by R-zero and Greatness7
+**Compatibility:** MWSE-Lua only.  
 
 # Objects
 ![Throbbing Meat](https://staticdelivery.nexusmods.com/mods/100/images/45339/45339-1519417720-361595880.jpeg)
 [**R-Zero's Throbbing Meat**](https://www.nexusmods.com/morrowind/mods/45339) by R-Zero  
+**Compatibility:** Should be compatible with both MWSE-Lua and OpenMW.  
 
 ![Nocturnal Moths](https://staticdelivery.nexusmods.com/mods/100/images/44148-0-1457131648.jpg)
 [**Nocturnal Moths**](https://www.nexusmods.com/morrowind/mods/44148) by R-zero  
+**Compatibility:** Should be compatible with both MWSE-Lua and OpenMW.  
 
 And that's it for now! Thanks for sticking with me this far, and happy Morrowind-ing. For even more SFX mods (but way less waffle), check out my [SFX mods list](https://github.com/Lucevar/mw-immersion-mods/blob/master/sfx.md)
