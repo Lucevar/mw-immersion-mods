@@ -49,11 +49,11 @@ Vanity is for rings and amulets what Weapon Sheathing is for weapons. Now when y
 
 # Sounds
 [**AURA**](https://www.nexusmods.com/morrowind/mods/48255) by tewlwolow  
-A MWSE-based, highly customisable sound overhaul. Also includes some optional vanilla sound replacements. 
+A MWSE-based, highly customisable sound overhaul. Also includes some optional vanilla sound replacements. This mod probably has too many features for me to fully explain here (and it's still under active development!), but some highlights include new ambient sounds for the outdoors, interior weather sounds, and shipmasters and caravaners will now play an audio line when you use their travel services. 
 **Compatibility:** MWSE-Lua only.  
 
 [**Kirel's Interior Weather**](http://mw.modhistory.com/download-90-3021) by Kirel  
-An alternate interior weather sounds mod, if you use OpenMW or if, like me, you find AURA's interior weathers difficult to hear. It definitely reduces the feeling that 
+An alternate interior weather sounds mod, if you use OpenMW or if, like me, you find AURA's interior weathers difficult to hear. It definitely reduces the feeling that you're walking into a sterile bubble any time you transfer into an interior cell. You can hear the muted burble of rain on the roof or the low roar of an ashstorm raging outside.
 **Compatibility:** Should be compatible with both OpenMW and MWSE-lua.
 
 [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178/) by OperatorJack and RedFurryDemon  
@@ -61,16 +61,18 @@ Hear the still-beating heart of Lorkhan, faint at first as you approach Red Moun
 **Compatibility:** MWSE-Lua only.  
 
 [**Sound of Souls**](https://www.nexusmods.com/morrowind/mods/45657) by NullCascade  
+If you've ever thought that it's a little bit creepy that Tamriel is so blasé about people walking around casually killing things so that their souls can be eternally imprisoned and used to power enchantments for cheap trinkets, this mod isn't going to change your mind. Soulgems in the worldspace, in the inventory, or being interacted with (ie being used for enchanting) now have a chance to play one of the sounds belonging to their creature. By the power of MWSE-Lua this also applies to soulgems containing creatures added by mods. Haunting and creepy. Avoid enchanters!
 **Compatibility:** MWSE-Lua only.  
 
 [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586) by R-zero  
-Many Imperial shops now have chimes on the doors. Now whenever you enter a shop, one of four random sounds will play. The chimes are separate objects attached to the doors, so you can even walk up and ring them manually if you want. Like the interior weather mods, this one is great for getting rid of that sense that you're stepping into a completely different world when you enter an interior - it really helps make the transition feel grounded.  
+Many Imperial shops and taverns now have chimes on the doors. Now whenever you enter a shop, one of four random sounds will play. The chimes are separate objects attached to the doors, so you can even walk up and ring them manually if you want. Like the interior weather mods, this one is great for getting rid of that sense that you're stepping into a completely different world when you enter an interior - it really helps make the transition feel grounded.  
 **Compatibility:** Should be compatible with both OpenMW and MWSE-lua.
 
 
 # Worldspace
 ![Mistify](https://staticdelivery.nexusmods.com/mods/100/images/48112/48112-1590162673-1655438406.jpeg)
 [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
+Mistify causes mist to appear at night or in certain weather conditions all throughout the Bitter Coast. It makes the swamps much spookier, and also incredibly beautiful. It's been optimised so the FPS impact should be relatively small.
 **Compatibility:** Should be compatible with both OpenMW and MWSE-lua.
 
 ![Unto Dust](https://staticdelivery.nexusmods.com/mods/100/images/48435/48435-1592855559-940453982.jpeg)
