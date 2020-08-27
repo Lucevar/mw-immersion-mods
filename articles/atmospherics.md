@@ -64,7 +64,7 @@ Hear the still-beating heart of Lorkhan, faint at first as you approach Red Moun
 **Compatibility:** MWSE-Lua only.  
 
 [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586) by R-zero  
-Many Imperial shops now have chimes on the doors. Like the interior weather mods, this one is great for getting rid of that sense that you're stepping into a completely different world when you enter an interior - it really helps make the transition feel grounded.  
+Many Imperial shops now have chimes on the doors. Now whenever you enter a shop, one of four random sounds will play. The chimes are separate objects attached to the doors, so you can even walk up and ring them manually if you want. Like the interior weather mods, this one is great for getting rid of that sense that you're stepping into a completely different world when you enter an interior - it really helps make the transition feel grounded.  
 **Compatibility:** Should be compatible with both OpenMW and MWSE-lua.
 
 
