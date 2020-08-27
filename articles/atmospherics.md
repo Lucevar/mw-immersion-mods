@@ -49,10 +49,21 @@ Vanity is for rings and amulets what Weapon Sheathing is for weapons. Now when y
 
 # Sounds
 [**AURA**](https://www.nexusmods.com/morrowind/mods/48255) by tewlwolow  
+**Compatibility:** MWSE-Lua only.  
+
 [**Kirel's Interior Weather**](http://mw.modhistory.com/download-90-3021) by Kirel  
+An alternate interior weather sounds mod, if you
+**Compatibility:** Should be compatible with both OpenMW and MWSE-lua.
+
 [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178/) by OperatorJack and RedFurryDemon  
+**Compatibility:** MWSE-Lua only.  
+
 [**Sound of Souls**](https://www.nexusmods.com/morrowind/mods/45657) by NullCascade  
+**Compatibility:** MWSE-Lua only.  
+
 [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586) by R-zero  
+**Compatibility:** Should be compatible with both OpenMW and MWSE-lua.
+
 
 # Worldspace
 ![Mistify](https://staticdelivery.nexusmods.com/mods/100/images/48112/48112-1590162673-1655438406.jpeg)
