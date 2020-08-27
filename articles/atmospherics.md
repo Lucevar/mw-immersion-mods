@@ -77,7 +77,7 @@ Mistify causes mist to appear at night or in certain weather conditions all thro
 
 ![Unto Dust](https://staticdelivery.nexusmods.com/mods/100/images/48435/48435-1592855559-940453982.jpeg)
 [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435) by Melchior Dahrk  
-
+Uses MWSE-Lua to detect the tileset being used, so the dust will appear even in modded tombs and catacombs.  
 **Compatibility:** MWSE-Lua only.  
 
 ![Pincushion](https://staticdelivery.nexusmods.com/mods/100/images/46862/46862-1559435310-101526044.jpeg)
@@ -102,7 +102,7 @@ This is an animated replacer for corprus meat chunks, based on the premise that 
 
 ![Nocturnal Moths](https://staticdelivery.nexusmods.com/mods/100/images/44148-0-1457131648.jpg)
 [**Nocturnal Moths**](https://www.nexusmods.com/morrowind/mods/44148) by R-zero  
-On clear nights, moths will now be attracted to outside lanterns, swarming around them.
+On clear nights, moths will now be attracted to outside lanterns, swarming around them. Works for lanterns placed by mods, too. Watch the video [**here**](https://www.youtube.com/watch?v=M2KrpwVK4M4) to get a real sense for the mod - screenshots really don't cut it!
 **Compatibility:** Should be compatible with both MWSE-Lua and OpenMW.  
 
 And that's it for now! Thanks for sticking with me this far, and happy Morrowind-ing. For even more SFX mods (but way less waffle), check out my [SFX mods list](https://github.com/Lucevar/mw-immersion-mods/blob/master/sfx.md)
