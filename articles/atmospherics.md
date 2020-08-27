@@ -49,19 +49,22 @@ Vanity is for rings and amulets what Weapon Sheathing is for weapons. Now when y
 
 # Sounds
 [**AURA**](https://www.nexusmods.com/morrowind/mods/48255) by tewlwolow  
+A MWSE-based, highly customisable sound overhaul. Also includes some optional vanilla sound replacements. 
 **Compatibility:** MWSE-Lua only.  
 
 [**Kirel's Interior Weather**](http://mw.modhistory.com/download-90-3021) by Kirel  
-An alternate interior weather sounds mod, if you
+An alternate interior weather sounds mod, if you use OpenMW or if, like me, you find AURA's interior weathers difficult to hear. It definitely reduces the feeling that 
 **Compatibility:** Should be compatible with both OpenMW and MWSE-lua.
 
 [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178/) by OperatorJack and RedFurryDemon  
+Hear the still-beating heart of Lorkhan, faint at first as you approach Red Mountain, increasing in intensity as you ascend towards the crater citadels. An incredibly atmospheric addition to the game.
 **Compatibility:** MWSE-Lua only.  
 
 [**Sound of Souls**](https://www.nexusmods.com/morrowind/mods/45657) by NullCascade  
 **Compatibility:** MWSE-Lua only.  
 
 [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586) by R-zero  
+Many Imperial shops now have chimes on the doors. Like the interior weather mods, this one is great for getting rid of that sense that you're stepping into a completely different world when you enter an interior - it really helps make the transition feel grounded.  
 **Compatibility:** Should be compatible with both OpenMW and MWSE-lua.
 
 
