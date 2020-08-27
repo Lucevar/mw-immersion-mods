@@ -72,11 +72,12 @@ Many Imperial shops and taverns now have chimes on the doors. Now whenever you e
 # Worldspace
 ![Mistify](https://staticdelivery.nexusmods.com/mods/100/images/48112/48112-1590162673-1655438406.jpeg)
 [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
-Mistify causes mist to appear at night or in certain weather conditions all throughout the Bitter Coast. It makes the swamps much spookier, and also incredibly beautiful. It's been optimised so the FPS impact should be relatively small.
+Mistify causes mist to appear at night or in certain weather conditions all throughout the Bitter Coast. It makes the swamps much spookier, and also incredibly beautiful. It's been optimised so the FPS impact should be relatively small.  
 **Compatibility:** Should be compatible with both OpenMW and MWSE-lua.
 
 ![Unto Dust](https://staticdelivery.nexusmods.com/mods/100/images/48435/48435-1592855559-940453982.jpeg)
 [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435) by Melchior Dahrk  
+
 **Compatibility:** MWSE-Lua only.  
 
 ![Pincushion](https://staticdelivery.nexusmods.com/mods/100/images/46862/46862-1559435310-101526044.jpeg)
@@ -96,10 +97,12 @@ Goes excellentlty with [**Dartboards Expanded**](https://www.nexusmods.com/morro
 # Objects
 ![Throbbing Meat](https://staticdelivery.nexusmods.com/mods/100/images/45339/45339-1519417720-361595880.jpeg)
 [**R-Zero's Throbbing Meat**](https://www.nexusmods.com/morrowind/mods/45339) by R-Zero  
+This is an animated replacer for corprus meat chunks, based on the premise that even when they're cut off from their host, the hunks continue to "live" and mutate. Corprus meat now sometimes has eyes, teeth, and hair - and it visibly throbs and pulses. It is vile, disgusting, disturbing on a visceral level... and thus incredibly effective at what it sets out to do. 10/10 would recommend.  
 **Compatibility:** Should be compatible with both MWSE-Lua and OpenMW.  
 
 ![Nocturnal Moths](https://staticdelivery.nexusmods.com/mods/100/images/44148-0-1457131648.jpg)
 [**Nocturnal Moths**](https://www.nexusmods.com/morrowind/mods/44148) by R-zero  
+On clear nights, moths will now be attracted to outside lanterns, swarming around them.
 **Compatibility:** Should be compatible with both MWSE-Lua and OpenMW.  
 
 And that's it for now! Thanks for sticking with me this far, and happy Morrowind-ing. For even more SFX mods (but way less waffle), check out my [SFX mods list](https://github.com/Lucevar/mw-immersion-mods/blob/master/sfx.md)
