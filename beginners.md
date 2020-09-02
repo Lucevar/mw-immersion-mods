@@ -74,6 +74,7 @@ Alternatives:
 [**Pluginless No Glow**](http://mw.modhistory.com/download-4-11984) by Plangkye
 
 ## Character Models, Heads & Hair
+[**Pluginless Better Bodies & Westly's Pluginless Head Replacer**](https://www.nexusmods.com/morrowind/mods/48005)
 [**Better Bodies**](https://www.nexusmods.com/morrowind/mods/3880) by Psychodog Studios  
 [**Slof's Better Beasts**](https://www.nexusmods.com/morrowind/mods/46160) by AlienSlof  
 [**Westly's Pluginless Head Replacer**](https://download.fliggerty.com/download--874) by Westly  
