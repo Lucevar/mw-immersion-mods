@@ -7,6 +7,28 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
+# New since August 25th 2020
+[**PC Voice**](https://www.nexusmods.com/morrowind/mods/48865) by Stripes  
+Gives your character hello voice lines when you look at a NPC within activation range using vanilla voice files, similar to how NPC hellos work. Adds some additional voice files using edited vanilla files to make them work in context.
+
+[**Who's Where**](https://www.nexusmods.com/morrowind/mods/48843) by abot  
+Shows in a dedicated MCM panel the interesting actors you talked to and where you encountered them.
+
+[**The Gridmap Pack for Map and Compass - Brujoloco Edition**](https://www.nexusmods.com/morrowind/mods/48830) by JaceyS & Brujoloco  
+The JaceyS Gridmap Pack for Map and Compass looking completely different and retexturized!
+
+[**Peaceful Races**](https://www.nexusmods.com/morrowind/mods/48822) by Merlord and Danae  
+If you are playing an undead, daedric or corprus race, creatures of the same type won't attack you.
+
+[**Enlightened Flames**](https://www.nexusmods.com/morrowind/mods/48816) by R-zero and Greatness7  
+Replaces the game's particle-based candle flames with new, higher quality and better performance billboard-based ones.
+
+[**No More Friendly Fire**](https://www.nexusmods.com/morrowind/mods/48801) by Celediel  
+Stop friendly fire. Player companions can't damage the player, the player can't damage companions, and companions can't damage each other. Option to stop combat from occurring between friendly actors. That's it.
+
+[**Immersive Wait**](https://www.nexusmods.com/morrowind/mods/48769) by Snowball91  
+No more progress bar when waiting/resting in the wild - hold a button and see time dynamically accelerate while your fatigue (when waiting), health and magicka (when resting) regenerate over time according to vanilla rates.
+
 # New since August 19th 2020
 [**Companion Combat Communication**](https://www.nexusmods.com/morrowind/mods/48752) by Stripes  
 Allows dialogue with followers in combat simply by looking at them and pressing a key
