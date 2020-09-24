@@ -23,7 +23,13 @@ For even quicker and more advanced mod testing.
 ## UI Improvements
 [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071) by NullCascade    
-[**Perfect Placement**](https://www.nexusmods.com/morrowind/mods/46562) by Hrnchamd  
+[**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
+
+## Music  
+[**MUSE 2**](https://www.nexusmods.com/morrowind/mods/46200) by Rytelier  
+Delete the default config files in MWSE\config\MS, along with any empty music directories in music\MS, to avoid confusion later.  
+[**Better Music System - MUSE Version**](https://www.nexusmods.com/morrowind/mods/48665) by Necrolesian  
+This page has several performance related tweaks - make sure to carry these changes over when reinstalling  
 
 # Bug Fixes
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096?) by Half11  
@@ -54,12 +60,19 @@ Mort's suite of balance mods make the expansions actually playable without hyper
 ## Expansion Integration
 [**LDM - Choices and Consequences**]() by Lucevar  
 Currently a Discord exclusive. The current alpha is available for download on the Morrowind Modding Community discord in the pinned posts of the #ldm channel.  
+[**Area Effect Arrows Integrated**](https://www.nexusmods.com/morrowind/mods/47745) by Necrolesian  
+Use the Particle Arrow Replacer version, and make sure to grab the necessary meshes from [**here**](https://www.nexusmods.com/morrowind/mods/47749).  
+[**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian  
 
 ## Leveling
 [**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110) by Necrolesian  
 
 ## Mechanics  
 [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581) by Mort  
+[**Ashfall**]() by Merlord  
+[**Clothing Requirements**](https://www.nexusmods.com/morrowind/mods/47813) by Necrolesian  
+[**Perfect Placement**](https://www.nexusmods.com/morrowind/mods/46562) by Hrnchamd  
+
 
 ## SFX
 [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) by Hrnchamd  
@@ -76,6 +89,9 @@ Currently a Discord exclusive. The current alpha is available for download on th
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by Greatness7 & the community  
 [**FM - Unique Items Compilation**](https://www.nexusmods.com/morrowind/mods/46433) by PoodleSandwich  
 [**IceNioLiv Robe Replacer**]() by CanadianIce and NioLiv  
+
+## Objects
+[**MWSE Daleth's Book Jackets**](https://www.nexusmods.com/morrowind/mods/48449) by Necrolesian and Daleth  
 
 ## Groundcover
 [**Remiros Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros  
