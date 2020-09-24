@@ -24,6 +24,8 @@ For even quicker and more advanced mod testing.
 [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071) by NullCascade    
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
+[**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458) by Merlord  
+[**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954) by Necrolesian  
 
 ## Music  
 [**MUSE 2**](https://www.nexusmods.com/morrowind/mods/46200) by Rytelier  
@@ -64,19 +66,60 @@ Currently a Discord exclusive. The current alpha is available for download on th
 Use the Particle Arrow Replacer version, and make sure to grab the necessary meshes from [**here**](https://www.nexusmods.com/morrowind/mods/47749).  
 [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian  
 
-## Leveling
+## Leveling & Chargen  
 [**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110) by Necrolesian  
+[**Merlord's Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795) by Merlord  
+[**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283) by Merlord  
 
 ## Mechanics  
+[**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034) by Merlord  
 [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581) by Mort  
 [**Ashfall**]() by Merlord  
 [**Clothing Requirements**](https://www.nexusmods.com/morrowind/mods/47813) by Necrolesian  
 [**Perfect Placement**](https://www.nexusmods.com/morrowind/mods/46562) by Hrnchamd  
+[**Go Fletch**](https://www.nexusmods.com/morrowind/mods/46752) by Merlord  
+[**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
+[**Realistic Sun Damage**](https://www.nexusmods.com/morrowind/mods/47540) by OperatorJack  
+[**No Accidental Stealing**](https://www.nexusmods.com/morrowind/mods/47733) by OperatorJack  
+[**Douse the Lights**](https://www.nexusmods.com/morrowind/mods/47980) by OperatorJack  
+[**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
+[**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
+[**Immersive Alcohol**](https://www.nexusmods.com/morrowind/mods/45589) by Merlord  
+[**Bardic Inspiration**](https://www.nexusmods.com/morrowind/mods/45441) by Merlord  
+[**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293) by Merlord  
+[**Misc Mates**](https://www.nexusmods.com/morrowind/mods/48122) by Merlord  
+[**Quick Loadouts**](https://www.nexusmods.com/morrowind/mods/46708) by Merlord  
+[**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
 
+## Combat  
+[**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
+[**Speed Boost**](https://www.nexusmods.com/morrowind/mods/47896) by OperatorJack  
+[**Brutal Backstabbing**](https://www.nexusmods.com/morrowind/mods/45890) by Merlord  
+[**Defensive Stance**](https://www.nexusmods.com/morrowind/mods/46845) by Merlord  
+[**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord  
+[**Marksman Rebalanced**](https://www.nexusmods.com/morrowind/mods/46715) by Merlord  
+
+## Magic  
+[**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948) by OperatorJack  
+[**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105) by OperatorJack  
+[**The Levitation Act**](https://www.nexusmods.com/morrowind/mods/47345) by OperatorJack & Gavrilo93  
+[**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) by OperatorJack and RedFurryDemon  
+[**Magic Mechanics - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672) by OperatorJack, Greatness7 & Kurpulio  
+[**Magic Mechanics - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565) by OperatorJack, Vtastek & Kurpulio  
+[**Magic Mechanics - Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534) by OperatorJack & Kurpulio  
+[**Magic Mechanics - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480) by OperatorJack, RedFurryDemon & Kurpulio  
+[**Magic Mechanics - Cast-on-Swing Enchantments**](https://www.nexusmods.com/morrowind/mods/47338) by OperatorJack  
+[**Better Enchantments**](https://www.nexusmods.com/morrowind/mods/47136) by Aracelliy  
+[**Limited Intervention**](https://www.nexusmods.com/morrowind/mods/46687) by Merlord  
+
+## Creatures
+[**Less Aggressive Creatures**](https://www.nexusmods.com/morrowind/mods/48292) by Merlord  
+[**The Guar Whisperer**](https://www.nexusmods.com/morrowind/mods/48247) by Merlord  
 
 ## SFX
 [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) by Hrnchamd  
 [**Morrowind Containers Animated**](https://www.nexusmods.com/morrowind/mods/42238) by qqqbbb  
+[**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912) by RedFurryDemon  
 
 # Graphics Replacers
 ## Magic Effects
