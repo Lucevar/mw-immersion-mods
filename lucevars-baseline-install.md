@@ -8,9 +8,7 @@ These are listed in roughly the order you should install them.
 # Essential 3rd Party Utilities
 [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510) by Hrnchamd  
 [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) by Hrnchamd & MGE Team   
-Make sure to get [**DirectX 9.0c**](https://www.microsoft.com/en-us/download/details.aspx?id=35) as well - yes, future me reading this, it does have to be THIS version of DirectX.  
-[**MWSE 2.1**](https://nullcascade.com/mwse/mwse-dev.zip) by NullCascade & MWSE Team  
-Note: included in MGE XE 0.11.0 installer. Make sure to run the MWSE updater.  
+Make sure to get [**DirectX 9.0c**](https://www.microsoft.com/en-us/download/details.aspx?id=35) as well - yes, future me reading this, it does have to be THIS version of DirectX. MWSE is included in this installer. Make sure to run MWSE-update.exe.    
 [**Wrye Mash (Polemos Fork) 2018**](https://www.nexusmods.com/morrowind/mods/45439) by Polemos & Wrye  
 
 ## Utilities for Mod-Makers
