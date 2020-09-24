@@ -26,6 +26,15 @@ For even quicker and more advanced mod testing.
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
 [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458) by Merlord  
 [**Consistent Keys**](https://www.nexusmods.com/morrowind/mods/47954) by Necrolesian  
+[**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
+NOTE: check compatibility with Memory Monitor  
+[**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
+[**Visible Alchemy Success Chance**](https://www.nexusmods.com/morrowind/mods/48608) by skmrSharma  
+[**Visible Persuasion Success Chance**](https://www.nexusmods.com/morrowind/mods/48634) by skmrSharma  
+[**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord  
+[**Ownership Indicator**](https://www.nexusmods.com/morrowind/mods/45940) by Petethegoat  
+[**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by Anumaril  
+[**Travel Tooltips**](https://www.nexusmods.com/morrowind/mods/48306) by tewlwolow  
 
 ## Music  
 [**MUSE 2**](https://www.nexusmods.com/morrowind/mods/46200) by Rytelier  
@@ -75,6 +84,7 @@ Use the Particle Arrow Replacer version, and make sure to grab the necessary mes
 [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915) by Petethegoat  
 [**FMI - The Role They Were To Play**](https://www.nexusmods.com/morrowind/mods/46411) by PoodleSandwich  
 [**Expanded Birthsigns for Purists**](https://www.nexusmods.com/morrowind/mods/18016) by Cael_Aurion  
+[**Class Kirkbridezation - (Concept Art Class Art)**](https://www.nexusmods.com/morrowind/mods/48758) by Yar-Yulme  
 
 ## Mechanics  
 [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034) by Merlord  
@@ -95,6 +105,7 @@ Use the Particle Arrow Replacer version, and make sure to grab the necessary mes
 [**Misc Mates**](https://www.nexusmods.com/morrowind/mods/48122) by Merlord  
 [**Quick Loadouts**](https://www.nexusmods.com/morrowind/mods/46708) by Merlord  
 [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
+[**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
 
 ## Combat  
 [**Realistic Movement Speeds**](https://www.nexusmods.com/morrowind/mods/46248) by OperatorJack  
