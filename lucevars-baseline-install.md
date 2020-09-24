@@ -144,16 +144,6 @@ Use vanilla sounds version
 ## Objects
 [**MWSE Daleth's Book Jackets**](https://www.nexusmods.com/morrowind/mods/48449) by Necrolesian and Daleth  
 
-## Groundcover
-[**Remiros Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros  
-* Includes groundcover for Tamriel Rebuilt  
-* Use Ashlands and West Gash esps
-[**Aesthesia Groundcover**](https://www.nexusmods.com/morrowind/mods/46377) by Rytelier  
-* Includes groundcover for Tamriel Rebuilt  
-* Use Grazelands and Ascadian Isles esps
-[**Ozzy's Groundcover**](https://www.moddb.com/mods/ozzys-grass-merged-openmw-compatible/downloads/ozzys-grass-merged-103) by Ozzy 
-* Use Bitter Coast esp
-
 # Interaction
 ## Audio
 [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948) by Vonwolfe  
@@ -186,3 +176,13 @@ Use vanilla sounds version
 [**Bitter Coast Redux I - Landscape**](https://www.nexusmods.com/morrowind/mods/45708) by CptJoker  
 [**Bitter Coast Redux II - Trees & Flora**](https://www.nexusmods.com/morrowind/mods/45762) by CptJoker  
 [**Scum Retexture - Alternative 2**](https://www.nexusmods.com/morrowind/mods/42582) by Lougian  
+
+## Groundcover
+[**Remiros Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros  
+* Includes groundcover for Tamriel Rebuilt  
+* Use Ashlands and West Gash esps
+[**Aesthesia Groundcover**](https://www.nexusmods.com/morrowind/mods/46377) by Rytelier  
+* Includes groundcover for Tamriel Rebuilt  
+* Use Grazelands and Ascadian Isles esps
+[**Ozzy's Groundcover**](https://www.moddb.com/mods/ozzys-grass-merged-openmw-compatible/downloads/ozzys-grass-merged-103) by Ozzy 
+* Use Bitter Coast esp
