@@ -20,7 +20,6 @@ For quicker mod testing.
 For even quicker and more advanced mod testing.
 
 # General Gameplay
-
 ## UI Improvements
 [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071) by NullCascade    
@@ -48,11 +47,19 @@ Balances a lot of content that was way out of line of the game's overall balance
 [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort  
 [**Beware the Sixth House**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
 [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745) by AutumnBramble  
+[**Harter Barter**](https://www.nexusmods.com/morrowind/mods/46188) by mort  
+[**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort  
 Mort's suite of balance mods make the expansions actually playable without hyper-efficient min-maxing or an extremely late-game character. It's no longer instant death for a sub-lvl30 character to walk around on Solstheim. The main questlines of the expansions are still tough. Beware the Sixth House rebalances the main quest so that Dagoth Ur and his minions are the game's most difficult challenge - as it should be. MDMD is a rebalance mod for NPCs, made to work alongside Mort's rebalances.  
 
 ## Expansion Integration
 [**LDM - Choices and Consequences**]() by Lucevar  
 Currently a Discord exclusive. The current alpha is available for download on the Morrowind Modding Community discord in the pinned posts of the #ldm channel.  
+
+## Leveling
+[**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110) by Necrolesian  
+
+## Mechanics  
+[**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581) by Mort  
 
 ## SFX
 [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) by Hrnchamd  
@@ -63,12 +70,7 @@ Currently a Discord exclusive. The current alpha is available for download on th
 [**Assetless No Glow**](https://www.nexusmods.com/morrowind/mods/47925) by NullCascade
 
 ## Character Models, Heads & Hair
-[**Pluginless Better Bodies & Westly's Pluginless Head Replacer**](https://www.nexusmods.com/morrowind/mods/48005)
-[**Better Bodies**](https://www.nexusmods.com/morrowind/mods/3880) by Psychodog Studios  
-[**Slof's Better Beasts**](https://www.nexusmods.com/morrowind/mods/46160) by AlienSlof  
-[**Westly's Pluginless Head Replacer**](https://download.fliggerty.com/download--874) by Westly  
-or  
-[**Better Bodies 3.0**](https://www.nexusmods.com/morrowind/mods/48387) 
+[**Pluginless Better Bodies & Westly's Pluginless Head Replacer**](https://www.nexusmods.com/morrowind/mods/48005)  
 
 ## Equipment
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by Greatness7 & the community  
