@@ -64,9 +64,15 @@ Balances a lot of content that was way out of line of the game's overall balance
 [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort  
 [**Beware the Sixth House**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
 [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745) by AutumnBramble  
-[**Harter Barter**](https://www.nexusmods.com/morrowind/mods/46188) by mort  
+**Install Note:** Shouldn't matter which order this is installed in wrt Mort's rebalances, but it should load **after** Anti-Cheese.  
 [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort  
+[**Enchant Capacity Rebalance**](https://www.nexusmods.com/morrowind/mods/48742) by Necrolesian  
+
 Mort's suite of balance mods make the expansions actually playable without hyper-efficient min-maxing or an extremely late-game character. It's no longer instant death for a sub-lvl30 character to walk around on Solstheim. The main questlines of the expansions are still tough. Beware the Sixth House rebalances the main quest so that Dagoth Ur and his minions are the game's most difficult challenge - as it should be. MDMD is a rebalance mod for NPCs, made to work alongside Mort's rebalances.  
+
+## Economy
+[**Worth Its Weight**](https://www.nexusmods.com/morrowind/mods/48070) by JaceyS  
+[**Harter Barter**](https://www.nexusmods.com/morrowind/mods/46188) by mort  
 
 ## Expansion Integration
 [**LDM - Choices and Consequences**]() by Lucevar  
@@ -75,8 +81,12 @@ Currently a Discord exclusive. The current alpha is available for download on th
 Use the Particle Arrow Replacer version, and make sure to grab the necessary meshes from [**here**](https://www.nexusmods.com/morrowind/mods/47749).  
 [**Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/47731) by Necrolesian  
 
-## Leveling & Chargen  
+## Leveling 
+[**Magicka Based Skill Progression -- MWSE-Lua Edition**](https://www.nexusmods.com/morrowind/mods/48330) by JaceyS  
+Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
 [**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110) by Necrolesian  
+
+## Chargen  
 [**Merlord's Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795) by Merlord  
 [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283) by Merlord  
 [**Useful Starting Spells**](https://www.nexusmods.com/morrowind/mods/40439) by Tizzo  
