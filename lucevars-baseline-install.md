@@ -70,6 +70,11 @@ Use the Particle Arrow Replacer version, and make sure to grab the necessary mes
 [**Class-Conscious Character Progression**](https://www.nexusmods.com/morrowind/mods/48110) by Necrolesian  
 [**Merlord's Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795) by Merlord  
 [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283) by Merlord  
+[**Useful Starting Spells**](https://www.nexusmods.com/morrowind/mods/40439) by Tizzo  
+[**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Aleister  
+[**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915) by Petethegoat  
+[**FMI - The Role They Were To Play**](https://www.nexusmods.com/morrowind/mods/46411) by PoodleSandwich  
+[**Expanded Birthsigns for Purists**](https://www.nexusmods.com/morrowind/mods/18016) by Cael_Aurion  
 
 ## Mechanics  
 [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034) by Merlord  
@@ -116,14 +121,17 @@ Use the Particle Arrow Replacer version, and make sure to grab the necessary mes
 [**Less Aggressive Creatures**](https://www.nexusmods.com/morrowind/mods/48292) by Merlord  
 [**The Guar Whisperer**](https://www.nexusmods.com/morrowind/mods/48247) by Merlord  
 
+# Graphics
+
 ## SFX
 [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) by Hrnchamd  
 [**Morrowind Containers Animated**](https://www.nexusmods.com/morrowind/mods/42238) by qqqbbb  
 [**Let There Be Darkness - Lua Lighting Overhaul**](https://www.nexusmods.com/morrowind/mods/47912) by RedFurryDemon  
 
-# Graphics Replacers
 ## Magic Effects
-[**Assetless No Glow**](https://www.nexusmods.com/morrowind/mods/47925) by NullCascade
+[**Assetless No Glow**](https://www.nexusmods.com/morrowind/mods/47925) by NullCascade  
+[**Magic Diversity**](https://www.nexusmods.com/morrowind/mods/43380) by Arkann  
+Use vanilla sounds version
 
 ## Character Models, Heads & Hair
 [**Pluginless Better Bodies & Westly's Pluginless Head Replacer**](https://www.nexusmods.com/morrowind/mods/48005)  
