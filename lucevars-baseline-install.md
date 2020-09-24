@@ -5,7 +5,7 @@ A list of mods that I personally use for every game, listed here so that I don't
 
 These are listed in roughly the order you should install them.
 
-# Essential 3rd Party Utilities
+## Essential 3rd Party Utilities
 [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510) by Hrnchamd  
 [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) by Hrnchamd & MGE Team   
 Make sure to get [**DirectX 9.0c**](https://www.microsoft.com/en-us/download/details.aspx?id=35) as well - yes, future me reading this, it does have to be THIS version of DirectX. MWSE is included in this installer. Make sure to run MWSE-update.exe.    
@@ -19,7 +19,9 @@ For quicker mod testing.
 [**Cheat Menu**](https://www.nexusmods.com/morrowind/mods/47143) by qqqbbb  
 For even quicker and more advanced mod testing.
 
-# UI Improvements
+# General Gameplay
+
+## UI Improvements
 [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071) by NullCascade    
 [**Perfect Placement**](https://www.nexusmods.com/morrowind/mods/46562) by Hrnchamd  
@@ -39,8 +41,6 @@ This simple mod provides an in-game HUD element as the game approaches critical 
 [**Morrowind Optimisation Patch**](https://www.nexusmods.com/morrowind/mods/45384) by Greatness7 and Remiros  
 [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by Project Atlas Team  
 
-## Dialogue Fixes  
-
 ## Balance Fixes
 [**Morrowind Anti-Cheese**](https://www.nexusmods.com/morrowind/mods/47305) by Remiros  
 Balances a lot of content that was way out of line of the game's overall balance curve, and removes a lot of easy exploits.  
@@ -50,11 +50,11 @@ Balances a lot of content that was way out of line of the game's overall balance
 [**MDMD - More Deadly Morrowind Denizens**](https://www.nexusmods.com/morrowind/mods/48745) by AutumnBramble  
 Mort's suite of balance mods make the expansions actually playable without hyper-efficient min-maxing or an extremely late-game character. It's no longer instant death for a sub-lvl30 character to walk around on Solstheim. The main questlines of the expansions are still tough. Beware the Sixth House rebalances the main quest so that Dagoth Ur and his minions are the game's most difficult challenge - as it should be. MDMD is a rebalance mod for NPCs, made to work alongside Mort's rebalances.  
 
-# Expansion Integration
+## Expansion Integration
 [**LDM - Choices and Consequences**]() by Lucevar  
 Currently a Discord exclusive. The current alpha is available for download on the Morrowind Modding Community discord in the pinned posts of the #ldm channel.  
 
-# SFX
+## SFX
 [**Pincushion**](https://www.nexusmods.com/morrowind/mods/46862) by Hrnchamd  
 [**Morrowind Containers Animated**](https://www.nexusmods.com/morrowind/mods/42238) by qqqbbb  
 
@@ -84,6 +84,20 @@ or
 * Use Grazelands and Ascadian Isles esps
 [**Ozzy's Groundcover**](https://www.moddb.com/mods/ozzys-grass-merged-openmw-compatible/downloads/ozzys-grass-merged-103) by Ozzy 
 * Use Bitter Coast esp
+
+# Interaction
+## Audio
+[**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948) by Vonwolfe  
+[**It's a Deal**](https://www.nexusmods.com/morrowind/mods/47968) by Vonwolfe and Petethegoat  
+[**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Vonwolfe  
+
+## Dialogue 
+[**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786) by Lucevar  
+[**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
+[**LDM - Choices and Consequences**]() by Lucevar  
+[**Django's Dialogue 1.4**](https://www.nexusmods.com/morrowind/mods/47253) by Vonwolfe  
+[**What Thieves Guild**](https://www.nexusmods.com/morrowind/mods/47728) by Vonwolfe  
+[**Local Lore - Silt Striders and Caravaners**](https://www.nexusmods.com/morrowind/mods/48063) by Kilcunda  
 
 ## NPCS
 [**Yet Another Guard Diversity**](https://www.nexusmods.com/morrowind/mods/45894) by Half11  
