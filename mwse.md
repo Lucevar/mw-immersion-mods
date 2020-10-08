@@ -7,6 +7,42 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
+# New since September 23rd 2020
+[**Auto Yes to All**](https://www.nexusmods.com/morrowind/mods/48863) by Svengineer99  
+Automatically proceeds through load errors, warnings and game play prompts with 'Yes' / 'No' and (if enabled in MGE-XE) 'Yes to All' buttons. Customize which messages are auto-accepted through MCM.
+
+[**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872) by Stripes  
+Endurance determines how long you can hold your breath under water. 
+
+[**No Taunting**](https://www.nexusmods.com/morrowind/mods/48889) by Necrolesian  
+Disables the "taunt" option in the persuasion menu.
+
+[**MWSE Eagle Eye**](https://www.nexusmods.com/morrowind/mods/48895) by Svengineer99  
+2 convenience features: 1) Lock the cursor on objects when their tooltip pops up. Helpful to examine, pick up small objects. 2) Increase the distance that object tooltips display at. Nice not to have to walk right up to objects to see what (or who) they are.
+
+[**Main Menu Quick Keys**](https://www.nexusmods.com/morrowind/mods/48902) by Svengineer99  
+Supports quick keys for main menu buttons default:  
+**C**: Continue  
+**M**: MCM  
+**E**: Exit  
+**X**: Exit  
+**R**: Return  
+**S**: Save  
+**L**: Load  
+**N**: New Game  
+**O**: Options  
+Re-configurable by MCM  
+
+[**MCM Quick Keys**](https://www.nexusmods.com/morrowind/mods/48904) by Svengineer99  
+Adds Quick Keys for Selecting MCM menu Mod Pages:  
+**Ctrl-<a-z>**: selects the next Mod starting with that letter  
+**Ctrl-<up/down arrow key, mouse wheel>**: selects the prev/next Mod  
+**On re-opening the MCM**: selects the last open Mod MCM page.  
+Re-configurable by MCM  
+
+[**Instant Load**](https://www.nexusmods.com/morrowind/mods/48907) by Svengineer99  
+Instantly continue your last save, or load a specific save game, without stopping or stalling at the Main Menu, even after alt-tab. Hold the space bar down during loading to stop at the Main Menu. Continue compatible. MCM configurable.
+
 # New since August 25th 2020
 [**PC Voice**](https://www.nexusmods.com/morrowind/mods/48865) by Stripes  
 Gives your character hello voice lines when you look at a NPC within activation range using vanilla voice files, similar to how NPC hellos work. Adds some additional voice files using edited vanilla files to make them work in context.
