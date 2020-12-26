@@ -32,6 +32,7 @@
 [**Mournhold Palace Revamped**](http://mw.modhistory.com/download-87-11848) by Princess Stomper  
 [**Interiors of Mournhold**](https://www.nexusmods.com/morrowind/mods/44447/) by Kalian  
 [**Better Mournhold**](https://www.nexusmods.com/morrowind/mods/45986/) by Kalian  
+[**King Helseth's Vault**](https://www.nexusmods.com/morrowind/mods/48922) by thevampman242  
 
 # Bitter Coast
 ## Seyda Neen
