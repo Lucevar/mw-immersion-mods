@@ -93,6 +93,8 @@ Has a version which is compatible with Dramatic Vivec
 [**(Slightly Less) Dramatic Vivec - Temple**](https://www.nexusmods.com/morrowind/mods/48261) by Dagoth Slayer  
 [**Concept Art Vivec Ports**](https://www.nexusmods.com/morrowind/mods/48611) by RandomPal & Atrayonis  
 [**Vivec Palace Illuminated - Redux**](https://www.nexusmods.com/morrowind/mods/48681) by Shehriazad  
+[**Glass Domes of Vivec - Performance-friendly Open-ish Cantons**](https://www.nexusmods.com/morrowind/mods/48935) by Sade1212  
+[**Glass Domes of Vivec - Moonrain Edition**](https://www.nexusmods.com/morrowind/mods/48946) by tewlwolow  
 
 [**Canalworks Connected**](https://www.nexusmods.com/morrowind/mods/47354) by iLoveOnFear  
 [**Jobasha's Rare Books Expanded**](https://www.nexusmods.com/morrowind/mods/45153) twgear2  
