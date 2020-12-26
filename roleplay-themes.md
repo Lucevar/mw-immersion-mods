@@ -247,6 +247,7 @@ Rubberman sharpen mod
 * [**Adanumuran reclaimed**](https://www.nexusmods.com/morrowind/mods/43340) by Danae  
 * [**Dura gra-Bol and the Grab-All gang**](https://www.nexusmods.com/morrowind/mods/46772)  
 * [**Errands for Orvas**](https://calezane.home.xs4all.nl/mw/mwmods.htm) by Calezane  
+* [**Smuggler's Guild**](https://www.nexusmods.com/morrowind/mods/48926) by Ignatious9  
 
 # Temple
 [Kummu Monastery Revisited](https://www.nexusmods.com/morrowind/mods/46565)
