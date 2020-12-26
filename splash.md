@@ -10,3 +10,4 @@
 [**Cut Bethesda Splash Screens**](https://www.nexusmods.com/morrowind/mods/45050) by Ragox  
 [**Official Xbox Screens**](https://www.nexusmods.com/morrowind/mods/46422) by PoodleSandwich  
 [**Lore-Based (Almost Skyrim-like) Load Screens**](https://www.nexusmods.com/morrowind/mods/48932) by jvogel2112  
+[**Splash Screens for Morrowind (Mainly from ESO)**](https://www.nexusmods.com/morrowind/mods/49038) by EinBlonderTraum  
