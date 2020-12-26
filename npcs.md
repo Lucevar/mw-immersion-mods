@@ -65,6 +65,7 @@
 [**Drunk Fargoth**](https://www.nexusmods.com/morrowind/mods/45133) by The Doogster  
 [**Ooh You're Naked begone: Immersive Crassius Curio Greetings**](https://www.nexusmods.com/morrowind/mods/47284) by Lucevar  
 [**Hul, Stop**](https://www.nexusmods.com/morrowind/mods/47121) by PoodleSandwich  
+[**Hlaalu Nobles Facial Overhaul**](https://www.nexusmods.com/morrowind/mods/48916) by Leyawynn  
 
 ### Sorkvild the Raven
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
