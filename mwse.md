@@ -10,6 +10,15 @@ If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 # New since October 8th 2020
 
 
+[**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036) by VitruvianGuar  
+MWSE-lua mod, which fixes gameplay and interface inconsistencies in alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering ingredient effects.
+
+[**Hostility Indicator**](https://www.nexusmods.com/morrowind/mods/49030) by Merlord  
+Hold down a hotkey to show a tooltip which indicates the hostility level of distant NPCs and Creatures. Uses MWSE-Lua.
+
+[**Class Starting Spells**](https://www.nexusmods.com/morrowind/mods/49010) by VitruvianGuar  
+MWSE lua mod, which changes the distribution of starting spells and gives its own list of them for every class, depending on the its central theme. Requires Magicka Expanded.
+
 [**MWSE Random NPC**](https://www.nexusmods.com/morrowind/mods/48992) by N'Wahs and Mushrooms Team  
 Using lua scripts populates Morrowind with new citizens. NPC will appear in suitable locations. For example, in Sadrith Mora there are wizards and slaves. Fishermen are in coastal villages. And many more.
 
