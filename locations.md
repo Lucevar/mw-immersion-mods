@@ -7,6 +7,7 @@
 [**Vampire Clans - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47259) by Tel Shadow  
 [**More Ashstorms on Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47464/) by iskuss  
 [**Ashlanders Herd**](https://www.nexusmods.com/morrowind/mods/48720) by Anumaril  
+[**Desertification**](https://www.nexusmods.com/morrowind/mods/48915) by Leyawynn  
 
 ## Ashlands
 [**RR - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822) by the Resdayn Revival Team  
@@ -22,6 +23,7 @@
 [**Shrine of Mount Assarnibi**](https://www.nexusmods.com/morrowind/mods/46858) by istreddify  
 [**Abandoned Outpost**](https://www.nexusmods.com/morrowind/mods/45040) by Axeljk  
 [**Shattered Stones**](https://www.nexusmods.com/morrowind/mods/45105) by R-Zero, Greatness7, Vtastek  
+[**The Great Scathes**](https://www.nexusmods.com/morrowind/mods/48918) by Leyawynn  
 
 ## Red Mountain
 [**Mountainous Red Mountain**](https://www.nexusmods.com/morrowind/mods/42125) by Piratelord  
