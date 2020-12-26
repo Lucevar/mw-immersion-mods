@@ -23,6 +23,7 @@
 [**Yellow border b-gone imperial flag**](https://www.nexusmods.com/morrowind/mods/47685) by Leetmorry  
 [**Crystal Soul Gems**](https://www.nexusmods.com/morrowind/mods/48300) by SVNR  
 [**MWSE Daleth's Book Jackets**](https://www.nexusmods.com/morrowind/mods/48449) by Necrolesian and Daleth  
+[**Perfectly Proficient Parasol Particles Performance Patch**](https://www.nexusmods.com/morrowind/mods/48923) by revenorror  
 
 # Mod Replacers
 [**Red sclera eyes for Julan**](https://www.nexusmods.com/morrowind/mods/47277?tab=description) by Leetmorry  
