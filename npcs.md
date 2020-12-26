@@ -46,6 +46,8 @@
 [**More NPCs**](https://www.nexusmods.com/morrowind/mods/45594) by EternalSteelFan  
 [**Blades of Vvardenfell**](https://www.nexusmods.com/morrowind/mods/44551) by febbles  
 [**Children of Morrowind**](http://lovkullen.net/Emma/kids.htm) by Emma  
+[**Daggerlad**](https://www.nexusmods.com/morrowind/mods/49065) by Ashtaar  
+[**Alvur Relds**](https://www.nexusmods.com/morrowind/mods/49064) by Ashtaar  
 
 ## New Handplaced Enemies
 [**Smugglers and Pirates**](https://www.nexusmods.com/morrowind/mods/44914) by Darusthemodder  
@@ -67,6 +69,7 @@
 [**Hul, Stop**](https://www.nexusmods.com/morrowind/mods/47121) by PoodleSandwich  
 [**Hlaalu Nobles Facial Overhaul**](https://www.nexusmods.com/morrowind/mods/48916) by Leyawynn  
 [**Fancy Barenziah**](https://www.nexusmods.com/morrowind/mods/49009) by qwertyquit  
+[**Emerald Armor (Orvas Dren)**](https://www.nexusmods.com/morrowind/mods/49051) by Anroha  
 
 ### Sorkvild the Raven
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
