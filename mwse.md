@@ -7,6 +7,48 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
+# New since October 8th 2020
+
+
+[**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973) by vtastek & tewlwolow  
+Adds a heat haze shader controller by MGE XE and MWSE-lua.
+
+[**Stop Summoning My Ancestors!**](https://www.nexusmods.com/morrowind/mods/48972) by OEA  
+Ever think it weird that you, some random Argonain n'wah with 25 conjuration, can summon the ghost of your ancestors, despite not even having any ancestors in ghost form? Then this is the mod for you! It almost entirely eliminates the Summon Ancestral Ghost effect. A MWSE-Lua mod.
+
+[**Borrowed Time**](https://www.nexusmods.com/morrowind/mods/48971) by Vitruvian Guar  
+MWSE lua mod, which prevents Fortify Health and Drain Health effects from killing actors outright, leaving them at least one health point.
+
+[**MM - Enhanced Reflection**](https://www.nexusmods.com/morrowind/mods/48956) by OperatorJack  
+This mod adds reflection mechanics to the Reflect, Shield, Fire Shield, Shock Shield, and Frost Shield magic effects for both the Player and NPCs.
+
+[**Poison Redux-ion**](https://www.nexusmods.com/morrowind/mods/48948) by OEA  
+A modernized, visualized take on making and applying poisons (like Poison Crafting). Poisons now become part of the enchantment, as in Skyrim (I think, I haven't played in a while). A MWSE-Lua mod.
+
+[**Visually Trapped Objects**](https://www.nexusmods.com/morrowind/mods/48936) by Anumaril21  
+Visually Trapped Objects applies the enchanted effect to any doors or containers with traps.
+
+[**No Auto Vanity Camera**](https://www.nexusmods.com/morrowind/mods/48933) by Necrolesian  
+Disables automatic switching to vanity camera due to inactivity. Does not prevent manually enabling vanity camera.
+
+[**Read Aloud**](https://www.nexusmods.com/morrowind/mods/48930) by abot  
+Makes the player (and only the player) able to read aloud books, scrolls, signs, banners and road markers, updated Journal entries, Journal pages, selected dialog choices, and Daedric text translated from enchanted scrolls.  
+
+[**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929) by OperatorJack  
+This mod adds new controls for swimming and levitating. Use the jump key to float upwards, and the sneak key to sink downwards.
+
+[**MWSE Staff Skill**](https://www.nexusmods.com/morrowind/mods/48924) by inpv & RedFurryDemon  
+Whenever a staff weapon is equipped, a dedicated Endurance-based Staff skill is used. Includes all staves from the vanilla game, expansions and Tamriel Rebuilt by default.  
+
+[**Simple Combat Mechanics**](https://www.nexusmods.com/morrowind/mods/48921) by OperatorJack  
+Adds a few new, simple, combat mechanics to improve combat variety: combat scavenging for NPCs, disarming (and being disarmed), as well as bystanders that will sometimes flee or assist in some situations.
+
+[**4NM Menu**](https://www.nexusmods.com/morrowind/mods/48912) by Archimag  
+Improves the spell creation menu, spell book, adds an alchemical filter.  
+
+[**Ket's Poison**](https://www.nexusmods.com/morrowind/mods/48911) by KetGolosov  
+This mod allows you to use any harmful potions to poison your weapons. The potion's effects will be applied to the enemy you hit.
+
 # New since September 23rd 2020
 [**Auto Yes to All**](https://www.nexusmods.com/morrowind/mods/48863) by Svengineer99  
 Automatically proceeds through load errors, warnings and game play prompts with 'Yes' / 'No' and (if enabled in MGE-XE) 'Yes to All' buttons. Customize which messages are auto-accepted through MCM.
