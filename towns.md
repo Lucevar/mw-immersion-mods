@@ -33,6 +33,7 @@
 [**Interiors of Mournhold**](https://www.nexusmods.com/morrowind/mods/44447/) by Kalian  
 [**Better Mournhold**](https://www.nexusmods.com/morrowind/mods/45986/) by Kalian  
 [**King Helseth's Vault**](https://www.nexusmods.com/morrowind/mods/48922) by thevampman242  
+[**Whitney's Velas Manor**](https://www.nexusmods.com/morrowind/mods/49027) by Whitnedak  
 
 # Bitter Coast
 ## Seyda Neen
@@ -52,6 +53,7 @@ Other alternatives include but are not limited to [**Seyda Neen Slums**](https:/
 Overhauls Fat Leg's Drop off to make it much more interesting - and practical as the smuggling warehouse it's meant to be. Optionally extends the Hla Oad docks and adds extra lights.  
 [**Vvardenfell Revisited - Hla Oad**](https://www.nexusmods.com/morrowind/mods/47819) by Ennet Winterhoof  
 [**Racer's Roost**](https://www.nexusmods.com/morrowind/mods/42563) by WH-Reaper and Baratheon  
+[**Hla Oad**](https://www.nexusmods.com/morrowind/mods/49035) by N'wahs and Mushrooms  
 
 ## Gnaar Mok
 [**New Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/22029) by Melchior Dahrk  
@@ -95,6 +97,7 @@ Has a version which is compatible with Dramatic Vivec
 [**Vivec Palace Illuminated - Redux**](https://www.nexusmods.com/morrowind/mods/48681) by Shehriazad  
 [**Glass Domes of Vivec - Performance-friendly Open-ish Cantons**](https://www.nexusmods.com/morrowind/mods/48935) by Sade1212  
 [**Glass Domes of Vivec - Moonrain Edition**](https://www.nexusmods.com/morrowind/mods/48946) by tewlwolow  
+[**Mixed Cantons of Vivec**](https://www.nexusmods.com/morrowind/mods/49037) by RandomPal  
 
 [**Canalworks Connected**](https://www.nexusmods.com/morrowind/mods/47354) by iLoveOnFear  
 [**Jobasha's Rare Books Expanded**](https://www.nexusmods.com/morrowind/mods/45153) twgear2  
@@ -170,6 +173,7 @@ or
 # Molag Amur
 ## Molag Mar
 [**Molag Mar X**](https://www.nexusmods.com/morrowind/mods/46273) by SammyB27  
+[**Molag Mar**](https://www.nexusmods.com/morrowind/mods/49005) by N'wahs and Mushrooms  
 
 ## Tel Uvirith
 [**Uvirith's Legacy**](http://stuporstar.sarahdimento.com/updates/downloads/) by Stuporstar
