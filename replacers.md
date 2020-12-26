@@ -24,6 +24,9 @@
 [**Crystal Soul Gems**](https://www.nexusmods.com/morrowind/mods/48300) by SVNR  
 [**MWSE Daleth's Book Jackets**](https://www.nexusmods.com/morrowind/mods/48449) by Necrolesian and Daleth  
 [**Perfectly Proficient Parasol Particles Performance Patch**](https://www.nexusmods.com/morrowind/mods/48923) by revenorror  
+[**Silt Strider for Vanilla Textures**](https://www.nexusmods.com/morrowind/mods/49023) by Revenorror  
+[**Assorted Patches**](https://www.nexusmods.com/morrowind/mods/49023) by Revenorror  
+[**New Common Exteriors**](https://www.nexusmods.com/morrowind/mods/49031) by RubberMan  
 
 # Mod Replacers
 [**Red sclera eyes for Julan**](https://www.nexusmods.com/morrowind/mods/47277?tab=description) by Leetmorry  
