@@ -18,6 +18,7 @@
 [**Ash Mire**](https://www.nexusmods.com/morrowind/mods/44200) by Reizeron  
 [**Strider Burial**](https://www.nexusmods.com/morrowind/mods/47661) by Anumaril    
 [**Urshilaku Spiritual**](https://www.nexusmods.com/morrowind/mods/48699) by Vegetto  
+[**OAAB - The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/49047) by Remiros  
 
 ## Molag Amur
 [**Shrine of Mount Assarnibi**](https://www.nexusmods.com/morrowind/mods/46858) by istreddify  
@@ -64,6 +65,7 @@
 
 ## Grazelands
 [**Trackless Grazelands**](https://www.nexusmods.com/morrowind/mods/44194) by R-zero  
+[**OAAB Golden Reeds**](https://www.nexusmods.com/morrowind/mods/49045?tab=files) by Melchior Dahrk  
 
 ## Sheogorad
 [**The Grove of Ben'Abi**](https://www.nexusmods.com/morrowind/mods/46137) by Remiros  
