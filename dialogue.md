@@ -19,6 +19,7 @@
 [**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
 [**Sexual Harassment Remover**](https://www.nexusmods.com/morrowind/mods/48541) by JaceyS  
 [**Local Lore - Silt Striders and Caravaners**](https://www.nexusmods.com/morrowind/mods/48063) by Kilcunda  
+[**Immersive Omens and Fortune Tellers**](https://www.nexusmods.com/morrowind/mods/49026) by super1422223   
 
 ## Audio
 [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero  
