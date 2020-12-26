@@ -51,3 +51,4 @@ Removes level requirements for a number of quests.
 [**Fetchers of Morrowind**](https://www.nexusmods.com/morrowind/mods/47417) by dmbaturin  
 [**Twin Lamps and Slavehunters -- Cleaned and Edited**](https://www.nexusmods.com/morrowind/mods/47420) by Nevena and l1lartur0  
 [**Ancient Foes**](https://www.nexusmods.com/morrowind/mods/44705?tab=files) by Darkelfguy  
+[**Smuggler's Guild**](https://www.nexusmods.com/morrowind/mods/48926) by Ignatious9  
