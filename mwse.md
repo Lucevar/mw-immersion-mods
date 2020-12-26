@@ -10,6 +10,21 @@ If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 # New since October 8th 2020
 
 
+[**MWSE Random NPC**](https://www.nexusmods.com/morrowind/mods/48992) by N'Wahs and Mushrooms Team  
+Using lua scripts populates Morrowind with new citizens. NPC will appear in suitable locations. For example, in Sadrith Mora there are wizards and slaves. Fishermen are in coastal villages. And many more.
+
+[**Beast Boots MWSE**](https://www.nexusmods.com/morrowind/mods/48990) by Adrala  
+This mod makes all boots equippable by beast races. By using MWSE, this is done seamlessly without requiring separate boot items for beast races.
+
+[**Class Skill Limit**](https://www.nexusmods.com/morrowind/mods/48989) by VitruvianGuar  
+MWSE lua mod, which imposes configurable skill caps for major, minor and misc skills, making the class choice more important and motivating to stay faithful to it.
+
+[**Hot Quests**](https://www.nexusmods.com/morrowind/mods/48976) by abot  
+hotkeys for journal Quests and Topics
+
+[**Unidentified Items**](https://www.nexusmods.com/morrowind/mods/48964) by Danae, Aurel & Axemagister  
+Adds unidentified rings, amulets, belts, robes, pants and shirts to the game, as well as an Identify Service from Enchanters. 200+ trait, some 30 undesirable ones. Thousands of possible items with one or two traits. Players skilled in Mysticism and Enchant can learn to Identify.
+
 [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973) by vtastek & tewlwolow  
 Adds a heat haze shader controller by MGE XE and MWSE-lua.
 
