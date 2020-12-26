@@ -39,8 +39,9 @@ See [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/cha
 
 
 # Alcohol
-[**The Brew Master**](https://www.nexusmods.com/morrowind/mods/45472) by Merlord  
-[**Immersive Alcohol**](https://www.nexusmods.com/morrowind/mods/45589) by Merlord  
+* [**The Brew Master**](https://www.nexusmods.com/morrowind/mods/45472) by Merlord  
+* [**Immersive Alcohol**](https://www.nexusmods.com/morrowind/mods/45589) by Merlord  
+* [**Booze for Purists**](https://www.nexusmods.com/morrowind/mods/48914) by Danae  
 
 # Alchemist
 [**A Strange Plant**](https://www.nexusmods.com/morrowind/mods/42009)  
@@ -168,6 +169,8 @@ Farmer mod
 * [**Treasures of Magic**](https://www.nexusmods.com/morrowind/mods/45251) by Team Wool and Floof  
 * [**Pearls Enhanced**] by Melchior Dahrk  
 * [**More Gems**] by Gawain  
+* [**Shinies**](https://www.nexusmods.com/morrowind/mods/48903) by Danae  
+* [**Booze for Purists**](https://www.nexusmods.com/morrowind/mods/48914) by Danae  
 
 # Imperial Loyalist
 * [**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Gavrilo93  
@@ -288,6 +291,7 @@ Holy Art
 [**Lock-bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7  
 [**Ownership Indicator**](https://www.nexusmods.com/morrowind/mods/45940) by Petethegoat  
 [**Fake Gold**](http://mw.modhistory.com/download-53-12720) by Danjb  
+[**King Helseth's Vault**](https://www.nexusmods.com/morrowind/mods/48922) by thevampman242  
 
 # Vampire
 * [**Comfy pillow for a restful sleep**](https://www.nexusmods.com/morrowind/mods/46613)
