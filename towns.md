@@ -266,7 +266,9 @@ or
 or
 [**Aldruhn Temple Expansion**](http://mw.modhistory.com/download-80-14377) by Xeth-Ban  
 
-[**The Doors - Aldruhn**](https://www.nexusmods.com/morrowind/mods/42512) by Arcimaestro Antares and WH-Reaper
+[**The Doors - Aldruhn**](https://www.nexusmods.com/morrowind/mods/42512) by Arcimaestro Antares and WH-Reaper  
+[**Edwinna's Study**](https://www.nexusmods.com/morrowind/mods/49050) by Whitnedak  
+[**Lights Ald-ruhn**](https://www.nexusmods.com/morrowind/mods/49063) by Ashtaar  
 
 ## Bal Isra
 
