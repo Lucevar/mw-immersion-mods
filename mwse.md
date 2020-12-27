@@ -8,7 +8,41 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since October 8th 2020
+[**Practice Makes Perfect**](https://www.nexusmods.com/morrowind/mods/49142) by OEA  
+Grants a configurable percentage of XP on failure as well as success, for a variety of different skills. A MWSE-Lua mod.
 
+[**Smarter Soul Trap**](https://www.nexusmods.com/morrowind/mods/49121) by NullCascade  
+Allows soultrap to make more intelligent use of available soul gems, including soul displacement and relocation. Includes optional leveling requirements.
+
+[**Teleportation Menu**](https://www.nexusmods.com/morrowind/mods/49119) by Mag4152  
+This mod adds a menu for teleportation written for MWSE. This mod uses a hot key, that can be changed, which opens the menu.  
+
+[**Resting Doesn't Heal**](https://www.nexusmods.com/morrowind/mods/49095) by Googlepox  
+Resting no longer heals the player. You'll have to actually use healers now.
+
+[**Ashfall Patch for Morrowind Jobs**](https://www.nexusmods.com/morrowind/mods/49087) by RingComics  
+Makes the fire wood and fishing systems in Morrowind Jobs compatible with Ashfall.
+
+[**OAAB - The Astral Pocket**](https://www.nexusmods.com/morrowind/mods/49077) by OperatorJack  
+Obtain a spell to teleport to the Astral Pocket, a small pocket realm that a Telvanni wizard has found himself lost in.
+
+[**Talking Trains Speechcraft**](https://www.nexusmods.com/morrowind/mods/49076) by Googlepox  
+Tired of having to grind persuasion attempts to level Speechcraft? With this mod you can raise your Speechcraft skill simply by talking to NPC's normally.
+
+[**Bestow Binding**](https://www.nexusmods.com/morrowind/mods/49084) by Merzasphor  
+Enables on touch, on target, and area effect bound item spells.
+
+[**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086) by VitruvianGuar  
+MWSE-lua mod, which enhances speechcraft skill via new gameplay mechanics and UI elements.
+
+[**Talking Matters - Speechcraft Overhaul**](https://www.nexusmods.com/morrowind/mods/49089) by sofiaaq  
+This mod tries to make talking more inmersive by making it pass time, train speechcraft and generally giving NPCs a little more agency (being able to leave conversation if you talk too much or get offended if you fail to persuade them) on how the whole conversation business is handled.
+
+[**UI Expansion - Weight Unit Conversion**](https://www.nexusmods.com/morrowind/mods/49046) by Monsterzeichner  
+Proper weight unit conversion in Morrowind item tooltips, container capacity bar, and inventory weightbar. Convert to Metric or Imperial units, or switch the numbers to vague labels for roleplay purposes. This mod uses files of UI Expansion 1.1, which needs a recent version of MGE with MWSE Lua to run on.
+
+[**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057) by Merlord  
+A survival mod with hunger, thirst, tiredness, cooking, camping and temperature mechanics, as well as incredible new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack.  
 
 [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036) by VitruvianGuar  
 MWSE-lua mod, which fixes gameplay and interface inconsistencies in alchemy menu, provides it with built-in effect filter and implements Skyrim-like system for remembering ingredient effects.
