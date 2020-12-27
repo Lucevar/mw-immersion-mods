@@ -32,6 +32,7 @@ Duke's Silver Armor:
 [**The Ebony Warrior**](https://www.nexusmods.com/morrowind/mods/48564) by RuffinVangarr and Caeris  
 [**Dwemer Scrap Armor**](https://www.nexusmods.com/morrowind/mods/47665) by RuffinVangarr and Leyawynn  
 [**Heavy Chitin Armor**](https://www.nexusmods.com/morrowind/mods/47684) by RuffinVangarr and Leyawynn  
+[**Complete and Revised Dreugh Armor**](https://www.nexusmods.com/morrowind/mods/49092) by RuffinVangarr  
 
 [**TA - Ashur-Tul's Ashlander Articles**](https://www.nexusmods.com/morrowind/mods/48677) by Shehriazad  
 [**TA - Redvayn's Humble Headgear**](https://www.nexusmods.com/morrowind/mods/48647) by Shehrizad  
@@ -41,3 +42,4 @@ Duke's Silver Armor:
 [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473) by Kyim  
 [**Silver and Nordic Cuirasses Fixed**](https://www.nexusmods.com/morrowind/mods/48646) by Explorer1911   
 [**Indie Whip**](https://www.nexusmods.com/morrowind/mods/48690) by ignatious  
+[**Dreugh Weapons Additions**](https://www.nexusmods.com/morrowind/mods/49093) by Anroha  
