@@ -26,6 +26,7 @@ Duke's Silver Armor:
 [**Imperial Cult Templar Armour**](https://www.nexusmods.com/morrowind/mods/48233) by FrankG2229  
 [**Void Gear**](https://www.nexusmods.com/morrowind/mods/1789) by Kieve  
 [**Westly Presents Creed of the Assassin**](http://mw.modhistory.com/download-98-13393) by Westly  
+[**Simple Cloth Scarf Mod**](https://www.nexusmods.com/morrowind/mods/49100) by Citadel535  
 
 [**Sathil Mercenary Armor 2.1**](https://www.nexusmods.com/morrowind/mods/48340) by RuffinVangarr and Ashtaar  
 [**Ceremonial Adamantium Armor**](https://www.nexusmods.com/morrowind/mods/46629) by RuffinVangarr  
