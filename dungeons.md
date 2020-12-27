@@ -20,7 +20,8 @@ Title: Dungeons
 
 This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribunal and Bloodmoon, at the bottom) separated by category. Next to the name of the cave is a list of mods that change it. Some mods change a lot of different caves; in that case I've generally just abbreviated the name rather than linking it every time. These include:  
 
-[**Remiros' Tombs Expansion**](https://www.nexusmods.com/morrowind/mods/45616) by *Remiros* - Abbreviated as **RTE**  
+[**OAAB Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131) by *Remiros*  
+Replaces: [**Remiros' Tombs Expansion**](https://www.nexusmods.com/morrowind/mods/45616) by *Remiros* - Abbreviated as **RTE**  
 [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893) by *jsp25* - Abbreviated as **M&C**  
 [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470) by *jsp25* - Abbreviated as **M&CS**, only compatible with Wollibeebee's Tomb of the Snow Prince, not with vanilla. Use LCO's Solstheim changes if you don't use TOTSP.
 [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076) by *Eldermaster28* - Abbreviated as **DD**.  
