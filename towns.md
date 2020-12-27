@@ -21,6 +21,7 @@
 [**Unique Signs and Banners**](http://mw.modhistory.com/download-44-6950) by Bart Notelaers  
 [**Exterior Guild Lighting**](https://www.nexusmods.com/morrowind/mods/46990) by SuperQuail  
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
+[**More Wells - An Addon for Ashfall**](https://www.nexusmods.com/morrowind/mods/49088) by RandomPal  
 
 # Tamriel Rebuilt
 [**Unique Tavern Signs for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/46794) by Rats  
@@ -155,7 +156,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 
 # Grazelands
 ## Tel Vos
-You would think that Tower of Tel Vos and Tel Vos Castle conflict, but as far as I can tell they don't. Lucky us!  
+[**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by Melchior Dahrk  
 
 [**Tower of Tel Vos**](https://www.nexusmods.com/morrowind/mods/43527) by Melchior Dahrk  
 [**Tel Vos Castle - Overhaul**](https://www.nexusmods.com/morrowind/mods/46730?) by Tel Shadow  
@@ -163,6 +164,8 @@ You would think that Tower of Tel Vos and Tel Vos Castle conflict, but as far as
 [**Tel Vos Lighthouse**](https://www.nexusmods.com/morrowind/mods/42744) by the Resdayn Revival Team  
 
 ## Vos
+[**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by Melchior Dahrk  
+or  
 [**Vos X**](https://www.nexusmods.com/morrowind/mods/46959) by Pinsvinn  
 or
 [**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729) by Tyddyner and Melchior Dahrk  
