@@ -41,3 +41,4 @@
 [**Centurion Superspiders**](https://www.nexusmods.com/morrowind/mods/47351) by Autoclock  
 [**Antares Creature Integration**](https://www.nexusmods.com/morrowind/mods/43249) by Melchior Dahrk  
 [**Peaceful Fish**](https://www.nexusmods.com/morrowind/mods/47882) by DeadAnarchy  
+[**N'wahs Work**](https://www.nexusmods.com/morrowind/mods/49103?tab=files) by Nwahs and Mushrooms  
