@@ -77,6 +77,7 @@ For a more restrained aesthetic. Adds appropriate clutter to Gnaar Mok but doesn
 [**Simple Suran Docks**](https://www.nexusmods.com/morrowind/mods/48398) by Endify  
 [**Suran - The Pearl of the Ascadian Isles**](https://www.nexusmods.com/morrowind/mods/48675) by RandomPal  
 [**Concept Art Hlaalu Balconies**](https://www.nexusmods.com/morrowind/mods/48667) by RandomPal  
+[**Izi Cities - Suran**](https://www.nexusmods.com/morrowind/mods/49148) by Izi  
 
 ## Vivec
 [**Dramatic Vivec**](https://www.nexusmods.com/morrowind/mods/43385) by LondonRook  
