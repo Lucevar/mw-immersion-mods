@@ -51,7 +51,7 @@
 
 [**Remiros's Ascadian Isles Trees 2**](https://www.nexusmods.com/morrowind/mods/45779/) by Remiros  
 [**MD's Replacer for Vurt's Shrooms**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk  
-[**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk  
+[**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755) by Melchior Dahrk  
 [**Perfectly Proficient Parasol Particles Performance Patch**](https://www.nexusmods.com/morrowind/mods/48923) by revenorror  
 
 ## Bitter Coast  
