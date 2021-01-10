@@ -35,6 +35,8 @@
 [**Dagoth Ur's Citadel Rework**](https://www.nexusmods.com/morrowind/mods/45858) by Ito-Puritikiti  
 [**Red Mountain Reborn**](https://www.nexusmods.com/morrowind/mods/48669) by Knots and Trancemaster  
 [**RR - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822) by the Resdayn Revival Team  
+[**Ghastly Glowyfence**](https://www.nexusmods.com/morrowind/mods/47982?tab=description) by wazabear  
+[**Ghastly Glowyfence distant land & RR Ghostgate patch**](https://www.nexusmods.com/morrowind/mods/49145?tab=files&file_id=1000022197) by darkfri  
 
 ## Azura's Coast
 [**Holamayan Monastery Replacer**](https://www.nexusmods.com/morrowind/mods/43524) by Resdayn Revival Team  
