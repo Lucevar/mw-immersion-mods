@@ -22,6 +22,7 @@
 
 ## Molag Amur
 [**Shrine of Mount Assarnibi**](https://www.nexusmods.com/morrowind/mods/46858) by istreddify  
+[**We Will Go To Mount Assarnabibi**](https://www.nexusmods.com/morrowind/mods/48867) by vegetto  
 [**Abandoned Outpost**](https://www.nexusmods.com/morrowind/mods/45040) by Axeljk  
 [**Shattered Stones**](https://www.nexusmods.com/morrowind/mods/45105) by R-Zero, Greatness7, Vtastek  
 [**The Great Scathes**](https://www.nexusmods.com/morrowind/mods/48918) by Leyawynn  
