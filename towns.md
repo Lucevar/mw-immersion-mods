@@ -35,6 +35,7 @@
 [**Better Mournhold**](https://www.nexusmods.com/morrowind/mods/45986/) by Kalian  
 [**King Helseth's Vault**](https://www.nexusmods.com/morrowind/mods/48922) by thevampman242  
 [**Whitney's Velas Manor**](https://www.nexusmods.com/morrowind/mods/49027) by Whitnedak  
+[**Winged Guar Balcony**](https://www.nexusmods.com/morrowind/mods/47802?tab=description) by Garilo93  
 
 # Bitter Coast
 ## Seyda Neen
