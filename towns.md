@@ -134,6 +134,7 @@ These affect different parts of Ebonheart and are therefore compatible.
 # Azura's Coast
 ## Tel Branora
 [**RR - Tel Branora Lighthouse**](https://www.nexusmods.com/morrowind/mods/42664) by Resdayn Revival Team  
+[**Sethan's Improvements**](https://www.nexusmods.com/morrowind/mods/48693?tab=description) by OrangeSCi55or  
 
 ## Sadrith Mora
 [**Sadrith Mora - Seat of Power of House Telvanni**](https://www.nexusmods.com/morrowind/mods/48689) by RandomPal  
@@ -281,6 +282,7 @@ or
 [**Epic Aldruhn Redux**](https://www.nexusmods.com/morrowind/mods/48652) by RandomPal  
 or
 [**Aldruhn Temple Expansion**](http://mw.modhistory.com/download-80-14377) by Xeth-Ban  
+[**Edited & Fixed Aldruhn Temple Expansion**](https://www.nexusmods.com/morrowind/mods/47718) by Zobator  
 
 [**The Doors - Aldruhn**](https://www.nexusmods.com/morrowind/mods/42512) by Arcimaestro Antares and WH-Reaper  
 [**Edwinna's Study**](https://www.nexusmods.com/morrowind/mods/49050) by Whitnedak  
