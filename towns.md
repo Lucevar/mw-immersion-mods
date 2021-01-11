@@ -43,6 +43,7 @@ There have been a lot of mods for Seyda Neen over the years. A LOT. My recommend
 [**Immersive Seyda Neen**](https://www.nexusmods.com/morrowind/mods/44441) by DremoraLord98  
 [**The Grand Pharos**](https://www.nexusmods.com/morrowind/mods/47938) by mdsouthworth  
 
+or [**Seyda Neen - Gateway to Vvardenfell**](https://www.nexusmods.com/morrowind/mods/48781) by RandomPal, which merges those two mods (and makes some further additions also.)  
 For a more sweeping change, you could also try [**Seyda Neen - Imperial Port**](https://www.nexusmods.com/morrowind/mods/46954) by Aitrus.  
 
 For new quests, try [**Tales of Seyda Neen**](http://mw.modhistory.com/download-44-10951) by Denunci.  
