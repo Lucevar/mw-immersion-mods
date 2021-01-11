@@ -227,6 +227,7 @@ or
 
 ## Ald Velothi
 [**Tales of Ald Velothi**](https://www.nexusmods.com/morrowind/mods/47276) by Team Balmora Bandits  
+[**Properly Cluttered Ald Velothi**](https://www.nexusmods.com/morrowind/mods/48811) by RandomPal - Tales of Ald Velothi's clutter without the quest attached  
 
 ## Khuul
 [**Khuul Expanded**](https://www.nexusmods.com/morrowind/mods/32643) by caseytucker  
