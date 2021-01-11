@@ -201,11 +201,15 @@ or
 [**Dagon Fel Mill**](https://www.nexusmods.com/morrowind/mods/42981) by Kursan  
 or  
 [**More Detailed Places - Dagon Fel**](https://www.nexusmods.com/morrowind/mods/30047) by Ragox  
+or  
+[**Sheogorad - Groves of the North**](https://www.nexusmods.com/morrowind/mods/48240) by Tapetenklaus  
 
 ## Ald Redaynia  
 [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646) by R-Zero  
 or  
 [**Redaynia Village**](https://www.nexusmods.com/morrowind/mods/17935) by Darkelfguy  
+or  
+[**Sheogorad - Groves of the North**](https://www.nexusmods.com/morrowind/mods/48240) by Tapetenklaus  
 
 # West Gash
 ## Gnisis
