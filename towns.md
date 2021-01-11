@@ -114,6 +114,7 @@ Has a version which is compatible with Dramatic Vivec
 [**Vivec Guild of Mages Expanded**](https://www.nexusmods.com/morrowind/mods/44935) by Mordaxis  
 [**The Secret Library**](http://mw.modhistory.com/download-68-6500) by Master Sam  
 [**Arantamo's Room**](https://www.nexusmods.com/morrowind/mods/48249) by Endify  
+[**Vivec Waistworks Expansion**](https://www.nexusmods.com/morrowind/mods/48834) by autumnbramble  
 
 ## Ebonheart
 These affect different parts of Ebonheart and are therefore compatible.  
