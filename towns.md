@@ -138,6 +138,7 @@ These affect different parts of Ebonheart and are therefore compatible.
 ## Sadrith Mora
 [**Sadrith Mora - Seat of Power of House Telvanni**](https://www.nexusmods.com/morrowind/mods/48689) by RandomPal  
 A mega-merge of most of the popular Sadrith Mora mods, edited for performance and compatibility. 
+[**The Great Treasury Heist of Tel Naga Tower**](https://www.nexusmods.com/morrowind/mods/47710) by mdsouthworth  
 
 [**Epic Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/43057) by mike_and_ike  
 [**Sadrith Mora Expanded**](https://www.nexusmods.com/morrowind/mods/44113) by Hlaalu66  
