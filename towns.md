@@ -48,6 +48,8 @@ For a more sweeping change, you could also try [**Seyda Neen - Imperial Port**](
 
 For new quests, try [**Tales of Seyda Neen**](http://mw.modhistory.com/download-44-10951) by Denunci.  
 
+For a whole-Bitter Coast overhaul, try [**Resdayn Revival - Bitter Coast**](https://www.nexusmods.com/morrowind/mods/47772) by Zobator  
+
 Other alternatives include but are not limited to [**Seyda Neen Slums**](https://www.nexusmods.com/morrowind/mods/46837?tab=posts), [**More Detailed Places Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46231), [**Seyda Neen Tree Removal**](https://www.nexusmods.com/morrowind/mods/45990) for an expanded and treeless Seyda Neen, [**Lived Towns - Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46703), [**Seyda Neen Houseboat**](https://www.nexusmods.com/morrowind/mods/43364), [**Princess Docks**](http://mw.modhistory.com/download-90-7147), [**More Seyda Neen**](http://mw.modhistory.com/download-4-5133) by -J, [**Seyda Neen Harbour**](https://www.nexusmods.com/morrowind/mods/42433) by Ian Bitters, [**Mireneye's Vistas - Seyda Neen**](http://mw.modhistory.com/download-44-11876), [**Prancing Ash Inn**](https://www.nexusmods.com/morrowind/mods/41220) by ChakaZg, [**The Silver Barrel**](https://www.nexusmods.com/morrowind/mods/42236) and [**Trancemaster's New Seyda Neen**](https://www.nexusmods.com/morrowind/mods/42234), [**Coyote's Expanded Seyda Neen**](https://www.nexusmods.com/morrowind/mods/48388), [**Swampy Seyda Neen**](https://www.nexusmods.com/morrowind/mods/48561).
 
 ## Hla Oad
@@ -56,10 +58,12 @@ Overhauls Fat Leg's Drop off to make it much more interesting - and practical as
 [**Vvardenfell Revisited - Hla Oad**](https://www.nexusmods.com/morrowind/mods/47819) by Ennet Winterhoof  
 [**Racer's Roost**](https://www.nexusmods.com/morrowind/mods/42563) by WH-Reaper and Baratheon  
 [**Hla Oad**](https://www.nexusmods.com/morrowind/mods/49035) by N'wahs and Mushrooms  
+[**Resdayn Revival - Bitter Coast**](https://www.nexusmods.com/morrowind/mods/47772) by Zobator  
 
 ## Gnaar Mok
 [**New Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/22029) by Melchior Dahrk  
 A significant expansion to Gnaar Mok - makes it a bustling port town. Includes a new misc quest.
+[**Resdayn Revival - Bitter Coast**](https://www.nexusmods.com/morrowind/mods/47772) by Zobator  
 
 or 
 
@@ -121,6 +125,7 @@ These affect different parts of Ebonheart and are therefore compatible.
 [**Ebonheart Western Docks**](https://www.nexusmods.com/morrowind/mods/47607) by Zobator  
 [**Duke's Throne Room Overhaul**](https://www.nexusmods.com/morrowind/mods/48235) by Gavrilo93  
 [**Ebonheart Dragon Statue Replacer**](https://www.nexusmods.com/morrowind/mods/48310) by RandomPal  
+[**Majestic Ebonheart**](https://www.nexusmods.com/morrowind/mods/48771) by RandomPal  
 
 ## Rethan Manor
 [**Resplendent Rethan - Jewel of the Odai**](https://www.nexusmods.com/morrowind/mods/47281) by Team Azturnal  
