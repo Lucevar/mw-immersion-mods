@@ -17,6 +17,7 @@
 [**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903) by Melchior Dahrk  
 [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
 [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435) by Melchior Dahrk  
+[**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973) by Tewlwolow  
 
 ## Items
 [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
