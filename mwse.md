@@ -7,6 +7,34 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
+# New since 12th December
+[**Soulless Creatures**](https://www.nexusmods.com/morrowind/mods/49215) by Akh  
+Prevents souls of summoned creatures from being trapped. Configurable and expandable on other creatures. Compatible with any creature added by a mod.
+
+[**Sanctioned Indoril Armor**](https://www.nexusmods.com/morrowind/mods/49212) by akh  
+Expands armor restrictions to other Indoril armor pieces and adds configurable conditions under which player is allowed to wear the armor in public.  
+
+[**Enchanting Realism Expansion**](https://www.nexusmods.com/morrowind/mods/49195) by OEA  
+Expands BLV's Enchanting Realism (https://www.nexusmods.com/morrowind/mods/39539) to cover Magicka Expanded effects. A MWSE-Lua mod.
+
+[**Limited Resting and Waiting**](https://www.nexusmods.com/morrowind/mods/49191) by akh  
+Limits conditions under which player can rest, wait and regenerate health. Implemented in MWSE and configurable via MCM.
+
+[**Taunt Fail Penalty**](https://www.nexusmods.com/morrowind/mods/49168) by Haze1103  
+Failing a Taunt will now negate previous successful taunts, reducing that character's will to fight and restoring its ability to flee, rather than doing nothing.
+
+[**Harder Taunting**](https://www.nexusmods.com/morrowind/mods/49106) by Sephumbra  
+Failing at taunting will now reduce an npcs will to fight instead of doing nothing.
+
+[**Vaermina's Quest - Dreams of the Escaped**](https://www.nexusmods.com/morrowind/mods/49172) by Team Tenacious Templars  
+Journey through ancient legendary dreams and events to try and piece together a mystery on behalf of the Prince of Dreams and Nightmares, Vaermina.
+
+[**Pimp My Shrine - Legend of Vernaccus**](https://www.nexusmods.com/morrowind/mods/49173) by Team Scuttling Scribs  
+A lore-friendly quest mod based on an in-game book brought to life, with dungeons, mind-bending puzzles, quests, Daedra, and the power to summon items from oblivion.
+
+[**Invasion of Stormwatch**](https://www.nexusmods.com/morrowind/mods/49174) by Team Ancient Androids  
+Set out on an adventure to Fort Stormwatch, a high security prison that has been taken over by the Inmates. The job is simple; rescue the hostages, kill the Inmates' leader and raise the front gate. But something far more sinister is happening... something that will test the Nerevarine's will and survival.
+
 # New since October 8th 2020
 [**Practice Makes Perfect**](https://www.nexusmods.com/morrowind/mods/49142) by OEA  
 Grants a configurable percentage of XP on failure as well as success, for a variety of different skills. A MWSE-Lua mod.
