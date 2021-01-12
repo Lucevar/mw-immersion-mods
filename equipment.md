@@ -44,3 +44,5 @@ Duke's Silver Armor:
 [**Silver and Nordic Cuirasses Fixed**](https://www.nexusmods.com/morrowind/mods/48646) by Explorer1911   
 [**Indie Whip**](https://www.nexusmods.com/morrowind/mods/48690) by ignatious  
 [**Dreugh Weapons Additions**](https://www.nexusmods.com/morrowind/mods/49093) by Anroha  
+
+[**Sanctioned Indoril Armor**](https://www.nexusmods.com/morrowind/mods/49212) by akh  
