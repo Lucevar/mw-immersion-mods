@@ -22,6 +22,7 @@
 [**Exterior Guild Lighting**](https://www.nexusmods.com/morrowind/mods/46990) by SuperQuail  
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
 [**More Wells - An Addon for Ashfall**](https://www.nexusmods.com/morrowind/mods/49088) by RandomPal  
+[**Guilds**](https://www.nexusmods.com/morrowind/mods/49214?tab=description) by Nwahs and Mushrooms Team   
 
 # Tamriel Rebuilt
 [**Unique Tavern Signs for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/46794) by Rats  
