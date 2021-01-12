@@ -7,7 +7,7 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
-# New since 12th December
+# New since 27th December
 [**Soulless Creatures**](https://www.nexusmods.com/morrowind/mods/49215) by Akh  
 Prevents souls of summoned creatures from being trapped. Configurable and expandable on other creatures. Compatible with any creature added by a mod.
 
