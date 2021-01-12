@@ -35,6 +35,7 @@ Removes level requirements for a number of quests.
 [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
 [**A Widow in Debt**](https://www.nexusmods.com/morrowind/mods/46972) by Miamian  
 [**Bitter and Blighted**](https://www.nexusmods.com/morrowind/mods/47052) by MrWillisTheFetcher  
+[**Hell at Moonmoth**](https://www.nexusmods.com/morrowind/mods/49128) by Ignatious  
 
 # Totally New Quests
 
@@ -52,3 +53,7 @@ Removes level requirements for a number of quests.
 [**Twin Lamps and Slavehunters -- Cleaned and Edited**](https://www.nexusmods.com/morrowind/mods/47420) by Nevena and l1lartur0  
 [**Ancient Foes**](https://www.nexusmods.com/morrowind/mods/44705?tab=files) by Darkelfguy  
 [**Smuggler's Guild**](https://www.nexusmods.com/morrowind/mods/48926) by Ignatious9  
+[**SV - Terrors of the Night**](https://www.nexusmods.com/morrowind/mods/49160) by Siralvek  
+[**Vaermina's Quest - Dreams of the Escaped**](https://www.nexusmods.com/morrowind/mods/49172) by Team Tenacious Templars  
+[**Pimp My Shrine - Legend of Vernaccus**](https://www.nexusmods.com/morrowind/mods/49173) by Team Scuttling Scribs  
+[**Invasion of Stormwatch**](https://www.nexusmods.com/morrowind/mods/49174) by Team Ancient Androids  
