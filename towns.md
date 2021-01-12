@@ -38,6 +38,13 @@
 [**Whitney's Velas Manor**](https://www.nexusmods.com/morrowind/mods/49027) by Whitnedak  
 [**Winged Guar Balcony**](https://www.nexusmods.com/morrowind/mods/47802?tab=description) by Garilo93  
 
+# Sotha Sil
+[**Sotha Sil Revisited**](https://www.nexusmods.com/morrowind/mods/49151) by drowsydryad  
+[**Sotha Sil Expanded**](https://www.nexusmods.com/morrowind/mods/42347) by Team SSE  
+[**Sotha Sil Expanded - Gestalt Revoiced**](https://www.nexusmods.com/morrowind/mods/43642) by Vulon  
+[**Sotha Sil Expanded Retracted**](https://www.nexusmods.com/morrowind/mods/45756) by mort  
+[**Sotha Sil Expanded - Skip Clockwork City Quests**](https://www.nexusmods.com/morrowind/mods/45826) by grasscid  
+
 # Bitter Coast
 ## Seyda Neen
 There have been a lot of mods for Seyda Neen over the years. A LOT. My recommendation is: 
