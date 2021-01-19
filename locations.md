@@ -8,6 +8,7 @@
 [**More Ashstorms on Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47464/) by iskuss  
 [**Ashlanders Herd**](https://www.nexusmods.com/morrowind/mods/48720) by Anumaril  
 [**Desertification**](https://www.nexusmods.com/morrowind/mods/48915) by Leyawynn  
+[**The Ashlanders**](https://www.nexusmods.com/morrowind/mods/49221) by Vegetto and RandomPal  
 
 ## Ashlands
 [**RR - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822) by the Resdayn Revival Team  
@@ -27,6 +28,7 @@
 [**Abandoned Outpost**](https://www.nexusmods.com/morrowind/mods/45040) by Axeljk  
 [**Shattered Stones**](https://www.nexusmods.com/morrowind/mods/45105) by R-Zero, Greatness7, Vtastek  
 [**The Great Scathes**](https://www.nexusmods.com/morrowind/mods/48918) by Leyawynn  
+[**Finding the Erabenimsun Ashlander Camp**](https://www.nexusmods.com/morrowind/mods/49227) by Markond  
 
 ## Red Mountain
 [**Mountainous Red Mountain**](https://www.nexusmods.com/morrowind/mods/42125) by Piratelord  
