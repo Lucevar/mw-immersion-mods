@@ -26,3 +26,4 @@
 [**Oblivion Styled Animated Menus and Splash Screens**](https://www.nexusmods.com/morrowind/mods/47798) by Left4no  
 [**Dagothwave - Animated Main Menu**](https://www.nexusmods.com/morrowind/mods/47532) by Young Scrolls  
 [**Todd Howard Main Menu Replacer**](https://www.nexusmods.com/morrowind/mods/47963) by Endify  
+[**Eliot's Main Menu & LOading Screen**](https://www.nexusmods.com/morrowind/mods/46251) by EL1OT  
