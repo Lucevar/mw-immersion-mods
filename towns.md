@@ -268,6 +268,8 @@ Balmora has a ridiculous number of mods - it's a meme for a reason! I recommend 
 [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
 [**Balmora Redecorated**](https://www.nexusmods.com/morrowind/mods/42580) by Lucevar  
 [**South Wall, Den of Iniquity**](http://mw.modhistory.com/download-87-13449) by Balasthustrius  
+or  
+[**Atmospheric South Wall Cornerclub**](https://www.nexusmods.com/morrowind/mods/49229) by RandomPal, which is SW - DoI without the quests  
 [**The Seedy Plates**](https://www.nexusmods.com/morrowind/mods/19006) by Von Django  
 [**Brevur of Balmora**](https://www.nexusmods.com/morrowind/mods/47557/) by R-zero  
 [**Balmora Rooftop Apartments**](https://www.nexusmods.com/morrowind/mods/47974) by WulfShaman  
