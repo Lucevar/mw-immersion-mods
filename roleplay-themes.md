@@ -349,6 +349,8 @@ Random vampire attacks
 * [**Magical Mechanics - Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534) by OperatorJack, Kurpulio  
 * [**Magical Mechanics - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565) by OperatorJack, Kurpulio, Vtastek  
 * [**Magical Mechanics - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672) by OperatorJack  
+* [**Magical Mechanics - Enhanced Reflection**](https://www.nexusmods.com/morrowind/mods/48956) by OperatorJack  
+* [**Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929) by OperatorJack  
 * [**Anchor Teleportation**](https://www.nexusmods.com/morrowind/mods/47413) by OperatorJack  
 * [**Elemental Magicka II**](https://www.nexusmods.com/morrowind/mods/42106) by NMZMaster  
 * [**Useful Starting Spells**](https://www.nexusmods.com/morrowind/mods/40439) by Tizzo  
@@ -360,6 +362,8 @@ Random vampire attacks
 * [**Circinates**](https://www.nexusmods.com/morrowind/mods/47899) by OperatorJack  
 * [**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105) by OperatorJack  
 * [**The Levitation Act**](https://www.nexusmods.com/morrowind/mods/47345) by OperatorJack and Gavrilo93  
+* [**Bound to Balance**](https://www.nexusmods.com/morrowind/mods/48563?tab=description) by OEA  
+* [**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948) by OperatorJack  
 
 ## Objects
 * [**Spell Tomes**](https://www.nexusmods.com/morrowind/mods/47217) by MateWushu  
@@ -368,11 +372,14 @@ Random vampire attacks
 * [**Scrolls of the Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831)  
 * [**Hidden Treasure**](https://www.nexusmods.com/morrowind/mods/47365) by C3pa  
 * [**Scrollmaker**](https://www.nexusmods.com/morrowind/mods/45065) by Axeljk  
+* [**Dwemer Teleportation Box**](https://www.nexusmods.com/morrowind/mods/48062) by OperatorJack  
 
 ## Quests
 * [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126)
-* [**The Astral Pocket**](https://www.nexusmods.com/morrowind/mods/46226)
+* [**The Astral Pocket**](https://www.nexusmods.com/morrowind/mods/46226) by OperatorJack  
+* [**OAAB The Astral Pocket**](https://www.nexusmods.com/morrowind/mods/49077) by OperatorJack  
 * [**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Gavrilo93  
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
 * [**Galerion's Tools**](https://www.nexusmods.com/morrowind/mods/47901) by OperatorJack  
 * [**Chrysopeia**]() by OperatorJack  
+* [**3E 427 A Space Odyssey**](https://www.nexusmods.com/morrowind/mods/48019) by OperatorJack and Gavrilo93  
