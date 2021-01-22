@@ -26,6 +26,8 @@ Removes level requirements for a number of quests.
 ## Factions
 [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von Django  
 [**Dagon Fel Mages Guild**](https://www.nexusmods.com/morrowind/mods/44576/?)
+[**Strike at the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/46865) by ProfArmitage  
+[**South Wall, Den of Iniquity**]()  
 
 # New Quests, Vanilla Npcs
 [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
