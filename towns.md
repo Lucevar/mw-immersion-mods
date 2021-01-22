@@ -1,4 +1,6 @@
 # Towns
+[**Beautiful Cities of Morrowind**](https://www.nexusmods.com/morrowind/mods/49231) by RandomPal  
+
 # General
 [**Barabus's Fireplaces**](https://www.nexusmods.com/morrowind/mods/45766) by Barabus (update by PoodleSandwich)  
 [**Holidays Across Tamriel**](https://www.nexusmods.com/morrowind/mods/43131/) by Lord Berandas  
@@ -271,6 +273,8 @@ Balmora has a ridiculous number of mods - it's a meme for a reason! I recommend 
 or  
 [**Atmospheric South Wall Cornerclub**](https://www.nexusmods.com/morrowind/mods/49229) by RandomPal, which is SW - DoI without the quests  
 [**The Seedy Plates**](https://www.nexusmods.com/morrowind/mods/19006) by Von Django  
+or  
+[**Even Seedier Eight Plates**](https://www.nexusmods.com/morrowind/mods/49236) by Lucevar  
 [**Brevur of Balmora**](https://www.nexusmods.com/morrowind/mods/47557/) by R-zero  
 [**Balmora Rooftop Apartments**](https://www.nexusmods.com/morrowind/mods/47974) by WulfShaman  
 [**Drarayne Thelas's House Overhaul**](https://www.nexusmods.com/morrowind/mods/48326) by Endify
