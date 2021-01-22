@@ -22,12 +22,24 @@
 No saving in battle!  
 
 ## Skills
+[**Logical Skill Descriptions**](https://www.nexusmods.com/morrowind/mods/48991) by OEA  
+
+### Alchemy
 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
+[**Poison Reduxion**](https://www.nexusmods.com/morrowind/mods/48948) by OEA  
 [**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
+[**Visible Alchemy Success Chance**](https://www.nexusmods.com/morrowind/mods/48608) by skmrSharma  
+[**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036) by Vitruvian Guar  
+
+### Security
 [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
 [**Lock-bashing**](https://www.nexusmods.com/morrowind/mods/44857) by Greatness7  
-[**Visible Alchemy Success Chance**](https://www.nexusmods.com/morrowind/mods/48608) by skmrSharma  
+[**Lua Lock Bashing**](https://www.nexusmods.com/morrowind/mods/48544) by OEA  
+[**Locks and Traps Detection**](https://www.nexusmods.com/morrowind/mods/48528) by Vitruvian Guar  
+
+### Persuasion/Speechcraft 
 [**Visible Persuasion Success Chance**](https://www.nexusmods.com/morrowind/mods/48634) by skmrSharma  
+[**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086) by Vitruvian Guar  
 
 ## Objects
 [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord  
@@ -39,3 +51,35 @@ No saving in battle!
 ## NPCS / Dialogue /Persuasion
 [**Universal Companion Share**](http://download.fliggerty.com/download--14) by Fliggerty  
 [**Travel Tooltips**](https://www.nexusmods.com/morrowind/mods/48306) by tewlwolow  
+
+## Splash / Loading Screen Additions
+
+[**Fresco Splash Screens**](https://www.nexusmods.com/morrowind/mods/45680) by Tyddy OgreOgre & Petethegoat  
+[**Lovely Loading Screens**](https://www.nexusmods.com/morrowind/mods/42313) by von Django  
+[**HD Concept Art Splash Screens**](https://www.nexusmods.com/morrowind/mods/43081) by Say  
+[**Skyrim Style Splash Screens**](https://www.nexusmods.com/morrowind/mods/43026) by cookiemonster16  
+[**Skyrim Style Splash Screens with Quotes**](https://www.nexusmods.com/morrowind/mods/43429) by yuredew  
+[**Morrowind Screens Redone**](https://www.nexusmods.com/morrowind/mods/46259) by Gudleif  
+[**RFD's Splash Screens**](https://www.nexusmods.com/morrowind/mods/47400) by RedFurryDemon  
+[**Cut Bethesda Splash Screens**](https://www.nexusmods.com/morrowind/mods/45050) by Ragox  
+[**Official Xbox Screens**](https://www.nexusmods.com/morrowind/mods/46422) by PoodleSandwich  
+[**Lore-Based (Almost Skyrim-like) Load Screens**](https://www.nexusmods.com/morrowind/mods/48932) by jvogel2112  
+[**Splash Screens for Morrowind (Mainly from ESO)**](https://www.nexusmods.com/morrowind/mods/49038) by EinBlonderTraum  
+[**Ogrim Splash Screen for Purists**](https://www.nexusmods.com/morrowind/mods/49233) by Clearwing  
+
+## Main Menu Replacers
+[**Animated Main Menu for Morrowind**](https://www.nexusmods.com/morrowind/mods/43341?tab=description) by Mikeandike  
+[**HD Concept Art Splash and Main Menu**](https://www.nexusmods.com/morrowind/mods/43081) by Shumafuk  
+[**Main Menu Replacer**](https://www.nexusmods.com/morrowind/mods/43327) by Androl  
+[**2015 Main Menu Background Replacers**](https://www.nexusmods.com/morrowind/mods/43923) by Akratus  
+[**TM - Main Menu Replacer**](https://www.nexusmods.com/morrowind/mods/42309) by johanrosen & lelek1980  
+[**Alternative Main Menu**](https://www.nexusmods.com/morrowind/mods/44845) by krokantor  
+[**De-outlandered Main Menu & UI Textures**](https://www.nexusmods.com/morrowind/mods/46805) by RedFurryDemon  
+[**iNom Main Menu Replacers - HD & 4k**](https://www.nexusmods.com/morrowind/mods/47895) by isNaN  
+[**The Elder of Scrolls Online Theme Menu**](https://www.nexusmods.com/morrowind/mods/45548) by bashlykkazan  
+[**Main Menu Replacer 2020**](https://www.nexusmods.com/morrowind/mods/48364) by Demanufacturer87  
+[**Oblivion Styled Animated Menus and Splash Screens**](https://www.nexusmods.com/morrowind/mods/47798) by Left4no  
+[**Dagothwave - Animated Main Menu**](https://www.nexusmods.com/morrowind/mods/47532) by Young Scrolls  
+[**Todd Howard Main Menu Replacer**](https://www.nexusmods.com/morrowind/mods/47963) by Endify  
+[**Eliot's Main Menu & LOading Screen**](https://www.nexusmods.com/morrowind/mods/46251) by EL1OT  
+
