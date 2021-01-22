@@ -57,3 +57,4 @@ Removes level requirements for a number of quests.
 [**Vaermina's Quest - Dreams of the Escaped**](https://www.nexusmods.com/morrowind/mods/49172) by Team Tenacious Templars  
 [**Pimp My Shrine - Legend of Vernaccus**](https://www.nexusmods.com/morrowind/mods/49173) by Team Scuttling Scribs  
 [**Invasion of Stormwatch**](https://www.nexusmods.com/morrowind/mods/49174) by Team Ancient Androids  
+[**Suran Underworld 3**](https://www.nexusmods.com/morrowind/mods/40299) by Wolli  
