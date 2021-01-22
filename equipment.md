@@ -44,5 +44,12 @@ Duke's Silver Armor:
 [**Silver and Nordic Cuirasses Fixed**](https://www.nexusmods.com/morrowind/mods/48646) by Explorer1911   
 [**Indie Whip**](https://www.nexusmods.com/morrowind/mods/48690) by ignatious  
 [**Dreugh Weapons Additions**](https://www.nexusmods.com/morrowind/mods/49093) by Anroha  
+[**Plangkye Female Ranger Armor**](http://mw.modhistory.com/download-21-14001) by Plangkye  
+[**Falconer Leather**](http://mw.modhistory.com/download-44-12242) by Korana  
 
 [**Sanctioned Indoril Armor**](https://www.nexusmods.com/morrowind/mods/49212) by akh  
+
+[**Black Glass**](http://mw.modhistory.com/download-21-14166) by Kalian  
+
+# Replacers
+[**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
