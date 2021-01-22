@@ -45,6 +45,9 @@ Adds the npc classes from Tamriel Data as playable classes.
 [**Better Character Classes**](https://www.nexusmods.com/morrowind/mods/47078) by Aracelliy  
 Improves the vanilla classes by changing the skills they use to make more sense.  
 
+[**Pianobadger's Class Mod**](https://www.nexusmods.com/morrowind/mods/47958) by Pianobadger  
+Updates vanilla classes to be more useable, makes NPC classes playable, adds a variety of new classes.  
+
 # Starting Abilities and Powers
 [**Beast Race Abilities Toggleable**](https://www.nexusmods.com/morrowind/mods/44948) by PhDinSorcery  
 
@@ -52,7 +55,9 @@ Improves the vanilla classes by changing the skills they use to make more sense.
 
 [**Useful Starting Spells**](https://www.nexusmods.com/morrowind/mods/40439) by Tizzo  
 
-[**Vampire Character Generation**](https://www.nexusmods.com/morrowind/mods/47268) by SuperHobbit
+[**Vampire Character Generation**](https://www.nexusmods.com/morrowind/mods/47268) by SuperHobbit  
+
+[**Class Starting Spells**](https://www.nexusmods.com/morrowind/mods/49010/) by Vitruvian Guar  
 
 # New Starting Equipment
 [**Personal Effects**](https://www.nexusmods.com/morrowind/mods/45338) by R-Zero  
