@@ -50,6 +50,8 @@ Duke's Silver Armor:
 [**Sanctioned Indoril Armor**](https://www.nexusmods.com/morrowind/mods/49212) by akh  
 
 [**Black Glass**](http://mw.modhistory.com/download-21-14166) by Kalian  
+[**Equipment Variants**](https://www.nexusmods.com/morrowind/mods/49253) by Danae  
+[**H.E.L.L.U.V.A Lite and Balanced**](https://www.nexusmods.com/morrowind/mods/47573) by Danae  
 
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
