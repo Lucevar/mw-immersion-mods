@@ -17,7 +17,7 @@ Halfway Tavern - [**Dartboards Expanded**](https://www.nexusmods.com/morrowind/m
 Lucky Lockup  
 Madach Tradehouse - [**Beautiful Cities of Morrowind**](https://www.nexusmods.com/morrowind/mods/49231), [**HOTV Gnisis**](https://www.nexusmods.com/morrowind/mods/47978)    
 No Name Club  
-Plot and Plaster  
+Plot and Plaster - [**Beautiful Cities of Morrowind**](https://www.nexusmods.com/morrowind/mods/49231), [**Tel Aruhn Chronicles**](https://www.nexusmods.com/morrowind/mods/49171)    
 Sethan's Tradehouse - [**Beautiful Cities of Morrowind**](https://www.nexusmods.com/morrowind/mods/49231)  
 Shenk's Shovel - [**Velothi Wall Art**](https://www.nexusmods.com/morrowind/mods/46454), [**Dartboards Expanded**](https://www.nexusmods.com/morrowind/mods/47976)  
 Six Fishes - [**Dartboards Expanded**](https://www.nexusmods.com/morrowind/mods/47976)    
