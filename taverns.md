@@ -10,7 +10,6 @@ Desele's House of Earthly Delights - [**Atmospheric Delights**](https://www.nexu
 Dirty Muriel's Cornerclub - [**Dirty Muriel's Expansion**](https://www.nexusmods.com/morrowind/mods/49622), [**Dirtier Cozier Muriel's Cornerclub**](https://www.nexusmods.com/morrowind/mods/49653), [**Beautiful Cities of Morrowind**](https://www.nexusmods.com/morrowind/mods/49231), [**Dartboards Expanded**](https://www.nexusmods.com/morrowind/mods/47976)  
 Eight Plates - [**Even Seedier Eight Plates**](https://www.nexusmods.com/morrowind/mods/49236), [**Beautiful Cities of Morrowind**](https://www.nexusmods.com/morrowind/mods/49231)  
 Elven Nations Cornerclub  
-End of the World  
 Fara's Hole in the Wall -  [**Beautiful Cities of Morrowind**](https://www.nexusmods.com/morrowind/mods/49231)  
 Gateway Inn  
 Halfway Tavern - [**Dartboards Expanded**](https://www.nexusmods.com/morrowind/mods/47976)  
