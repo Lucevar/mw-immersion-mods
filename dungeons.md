@@ -467,7 +467,7 @@ Allows the player to buy and run a mine.
 **Maesa-Shammus Egg Mine**  
 **Matus-Akin Egg Mine**  
 **Missir-Dadalit Egg Mine**  
-**Mudan-Mul Egg Mine**  
+**Mudan-Mul Egg Mine** - [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075)  
 **Panabanit-Nimawia Egg Mine**  
 **Panud Egg Mine**  
 **Pudai Egg Mine**  
@@ -476,7 +476,7 @@ Allows the player to buy and run a mine.
 **Shulk Egg Mine**  
 **Shurdan-Raplay Egg Mine**  
 **Sinamusa Egg Mine**  
-**Sinarralit Egg Mine**  
+**Sinarralit Egg Mine** - [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075)  
 **Sur Egg Mine**  
 **Vansunalit Egg Mine**  
 **Zalkin-Sul Egg Mine**  
@@ -488,7 +488,7 @@ Allows the player to buy and run a mine.
 **Hanud**  
 **Mababi**  
 **Mawia**  - [**Mawia Overhaul**](https://www.nexusmods.com/morrowind/mods/46884)  
-**Odirniran**  
+**Odirniran** - [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075)  
 **Sanni**  
 **Shara**  
 **Shishara**  
