@@ -5,8 +5,6 @@ Title: Dungeons
 
 **Contents:**
 - [General Replacers](#replacers)
-- [New Dungeons](#new)
-- [Towns](#towns)
 - [Ancestral Tombs](#tombs)
 - [Caves and Caverns](#caves)
 - [Daedric Shrines](#daedric)
@@ -17,6 +15,8 @@ Title: Dungeons
 - [Velothi Towers](#velothi)
 - [Tribunal dungeons](#tribunal)
 - [Bloodmoon dungeons](#bloodmoon)
+- [New Dungeons](#new)
+- [Towns](#towns)
 
 This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribunal and Bloodmoon, at the bottom) separated by category. Next to the name of the cave is a list of mods that change it. Some mods change a lot of different caves; in that case I've generally just abbreviated the name rather than linking it every time. These include:  
 
@@ -35,113 +35,6 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 
 ## <a name="replacers"></a>General Replacers
 **[Lougian's Caverns Bumpmapped](https://www.nexusmods.com/morrowind/mods/42412)** - This texture replacer makes such an incredible difference to the cave experience just on it's own. Requires MCP's Bumpmapping option to be enabled, otherwise you get odd texture results. It's a texture replacer so it's compatible with pretty much all the other mods on this list.  
-
-## <a name="new"></a>New Dungeons
-[**Serpenthis Ancestral Tomb**](https://www.nexusmods.com/morrowind/mods/45701) by *Lord Berandas* - this is a fun new dungeon with some interesting gameplay. Hope you enjoyed Sabrina's gym as a kid!  
-
-[**Dreadful Cavern**](https://www.nexusmods.com/morrowind/mods/46046) by *Lady Eternity* - adds a new cavern near Sadrith Mora.  
-
-[**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739) by *Melchior Dahrk*  
-Doesn't sound dungeon related to begin with, but there's a beautiful new cave system added for the quest in this mod.  
-
-[**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by *Melchior Dahrk*  
-Adds an interesting new dungeon as part of quests added to Tel Mora, as well as being a beautiful town expansion.  
-
-[**Expedition to Mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by *Greatness7, TheDrunkenMudcrab, and Melchior Dahrk*   
-Off the shoreline of the Bitter Coast region, a Dwemer Ruin has appeared. Take up your spells and delve into the deepest and darkest of Dwemer mysteries within an enigmatic study facility that holds far more than it lets on. Beautiful level design and interesting rewards and quests.  
-
-[**Sotha Sil Expanded**](https://www.nexusmods.com/morrowind/mods/42347) by *Team SSE*  
-"Sotha Sil was somewhat disappointing in vanilla Tribunal, so we've made a massive expansion that creates the Clockwork City as it was always meant to be. A sprawling dungeon, a topsy-turvy city, and the madness of the Clockwork God all stand to challenge you!" - a vast expansion to Tribunal's Sotha Sil, with extensive new dungeons and quests.  
-
-[**Of Dungeons and Abodes**](https://www.nexusmods.com/morrowind/mods/44253) by *Darkelfguy*  
-A distraught nephew, a missing uncle, a manor slowly sinking into the swamps of the Bitter Coast, and numerous secrets and hidden dungeons lurking just beneath the surface. Do you have what it takes to tame Velodil Manor and claim it as your own? Of Dungeons and Abodes is a dungeon delving, quest story telling, house building mod.  
-
-[**Face of the Hortator**](https://www.nexusmods.com/morrowind/mods/42928) by *Infragris*  
-Adds a large and varied dungeon for higher-level players in Molag Amur, close to Lake Nabia. Dungeon reward is the fabled Face of the Hortator, a lore friendly unenchanted Daedric artifact.  
-
-[**A Hermit's Request**](https://www.nexusmods.com/morrowind/mods/23714) by *Darkelfguy*  
-To the west of Seyda Neen, along the bitter coast, there lives a hermit by the name of Thexn Akaasul. It would seem that Thexn has a series of tasks for any adventurous soul willing to seek him out, though they deal mostly with the necessities of life rather than adventures of the grandiose sort.  
-
-[**Of Justice and Innocence**](https://www.nexusmods.com/morrowind/mods/34046) by *Darkelfguy*  
-In the small village of Dagon Fel there lives a woman by the name of Rinida Honwyer. She claims her poor, sweet innocent brother has been kidnapped by smugglers. This unfortunate outcome is a result of an unlikely series of events and her poor brother's own naivety. Now Rinida fears for her brothers life, sure that these smugglers mean nothing but harm towards him.  
-
-[**The Reclamation of Hasimminus Mine**](https://www.nexusmods.com/morrowind/mods/46095) by *Team Nordic Chefs*  
-Crawl through treacherous mine shafts, face Sixth House Cultists, and build up a town for your Great House! New quests, people, and town! Part of MMM 2018.  
-
-[**Blackthorn Barrow**](https://www.nexusmods.com/morrowind/mods/45280) by *Corsair83*  
-Follow the clues of a doomed expedition to find the source behind an ancient Nordic relic.  
-
-[**Bloodwind**](https://www.nexusmods.com/morrowind/mods/45344) by *MattTheBagel*  
-For many years, the ominous Bloodwind Fort has been left untouched and forgotten. Evil is brewing in the darker depths of Morrowind... Bloodwind features a new dungeon crawling experience including 15 new highly detailed areas to explore, rewarding loot, new quests, lore, characters, and secrets to explore around every corner!  
-
-[**West Gash Retreat**](https://www.nexusmods.com/morrowind/mods/45108) by *Ennet Winterhoof*  
-A bandit cave between Ashalmawia, Seran Ancestral Tomb and Khuul. It comes with 3 unique weapons and other loot.  
-
-[**Dungeon & Diamond**](http://mw.modhistory.com/download-68-6874) by *Arcimaestro Antares*  
-In Sadrith Mora, behind the Dirty's Muriel Corner Club, there is a trapdoor to a new dungeon. New creatures, traps, and a unique diamond, await you. It was designed for a master thief character (level 20+), that should retrieve the diamond as proof he/she deserved the title, but then only a few ones could play the mod. So, the dungeon can be accessed by anyone. If you levitate in the dungeon, you'll miss most of the traps (and the fun).  
-
-[**Ruins of Serpenthold**](https://www.nexusmods.com/morrowind/mods/42579) by *The Undying One*  
-Long ago, the Empire built a stronghold off the eastern shores of Solstheim and emplaced a garrison there with the intent of establishing a strong presence there. However, all contact with the garrison was lost...  
-
-[**Abandoned Well at Dagon Fel**](http://mw.modhistory.com/download-44-14997) by *jmanowar*  
-Explore a sprawling dungeon, spelunk deep into the cavern, uncover the conspiracy within.  
-
-[**Sobitur Facility**](https://www.nexusmods.com/morrowind/mods/42418) by *Dagoth Agahnim*  
-It adds a new adventure and questchain for level 40+ players, giving you a rare challenge at high levels. It expands on the lore of the Dwemer's disappearance, showing a plausible contingency of the Dwemer military during their war.  
-
-[**Balmora Underworld**](https://www.nexusmods.com/morrowind/mods/42448) by *Fulgore*  
-Get lost within the depths of Balmora\'s Underworld. Walk through the sewers: let the Thousand Lanterns Market take your breath away and explore the abandoned canals. Witness criminal factions fighting against each other and common folks going on about their daily lives. Discover the access to the massive cave system that lies deep below Balmora.  
-
-[**The Neverhalls**](http://download.fliggerty.com/download--504) by *Midgetalien and Vality7*  
-Once buried deep under the mountains of Solstheim, the ancient Falmer ruin of Neselia, has recently been uncovered.  
-
-[**The Forgotten Halls**](http://download.fliggerty.com/download-118-505) by *Midgetalien*  
-Lost deep below Neselia the Forgotten Halls await to be discovered. Long lost halls of the Falmer hide rumors of death traps, undead creatures and treasure - do you dare to venture deeper into the Neverhalls? What will you find?  The Forgotten Halls is an expansion to the Neverhalls and such it requires the Neverhalls to work. The mod adds two new areas to the Neverhalls to explore, along with a host of new traps and items to find.  
-
-[**The Caldera Ancient Mine**](http://mw.modhistory.com/download-35-10450) by *Pekka*  
-Adds a new dungeon underneath Caldera mine.  
-
-[**Crooked Tower**](http://mw.modhistory.com/download-56-8638) by *Noirgrim*  
-This old, rundown Imperial Bastion has seen better days and many  strange and unique "things" have managed to place themselves here.  Besides  being a fun and intriguing adventure, 31 new scripts add realism to this  new land.   Assassination attempts, nobles rising from the dead, and a wondering, walking  wall whom wonders the corridors fill this tower along with many other fascinating sights. The adventure begins in Balmora when you are confronted by a messenger who  leaves after the mission starts, as not to clutter Balmora any further.  
-
-[**The Banished Cells**](https://www.nexusmods.com/morrowind/mods/46620) by Tel Shadow  
-Explore the old and forgotten ruined fortress home to many of the damned, a long dead evil await true death.  
-
-[**Elden Hollow**](https://www.nexusmods.com/morrowind/mods/46622) by Tel Shadow  
-Explore the overgrown ruin, consumed with many things, safety is not one of them, be on your gaurd.. Elden Hollow is an underground Dungeon that lay under Tel Vos, once a mine has now turned into a overgrown husk for the trees around it,as you would think nothing of such a place, but the Thalmor think differently and have taken Elden Hollow.  
-
-[**King of Worms**](https://www.nexusmods.com/morrowind/mods/46611) by Tel Shadow and Caeris  
-A new adventure awaits any noble Mages Guild members ready to face the king of worms.  
-
-[**Sthomrond's Workshop**](https://www.nexusmods.com/morrowind/mods/46635) by Tel Shadow  
-Explore Sthomronds Workshop.. A dwemer dungeon in dagon fel, explore the many rooms as well as the loot.. but it will not be as easy as that.
-
-[**Darkshade Caverns**](https://www.nexusmods.com/morrowind/mods/46662) by Tel Shadow  
-A long forgotten eggmine. filled with things to kill and chests to find... Uncover the Darkshade Caverns the ruins of the long dead dwemer lay in the egg mins depths...
-
-[**Fungal Grotto**](https://www.nexusmods.com/morrowind/mods/46660) by Tel Shadow  
-A secret cave hidden in front of the people of sadrith mora now the home to.. runaway slaves and bandits.. this infected cave of mushroom spores consumes anyone that enters..
-
-[**Jirtes Fort**](https://www.nexusmods.com/morrowind/mods/46681) by Tel Shadow  
-Explore a small and left in ruin dwemer ruin.. many things are hidden in its stone walls..
-
-[**Sthonbric Ruin**](https://www.nexusmods.com/morrowind/mods/46682) by Tel Shadow  
-Sthonbric Ruin is a large under ground dwemer ruin you will find more then enough to fill your bags. watch out for hidden chests and the dwemer that guard the ruin..  
-
-[**Vernheim**](https://www.nexusmods.com/morrowind/mods/46683) by Tel Shadow  
-Drive head first into another dwemer dungeon only this time its bigger and better.. filled to the jar with goodies... well if you make it to them..
-
-[**Veteran Dungeons Collection**](https://www.nexusmods.com/morrowind/mods/46882) by Tel Shadow  
-A collection of difficult dungeons for high level players.  
-
-[**Far From Home**](https://www.nexusmods.com/morrowind/mods/46860) by pianobadger  
-This mod adds a quest to a new and dangerous tomb which brings the player to unexpected places and the player has a chance to acquire a curious new home.  
-
-[**Erengard Mines (Morrowind Crafting compatible edition)**](https://www.nexusmods.com/morrowind/mods/46877) by Graphite and Denina  
-Allows the player to buy and run a mine.
-
-## <a name="towns"></a> Towns
-**Tel Vos** - [Tel Vos - Dungeon Overhaul](https://www.nexusmods.com/morrowind/mods/46676)
 
 ## <a name="tombs"></a>Ancestral Tombs
 **Alas Ancestral Tomb** - [**OAAB Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131), [Nyarlathotep](https://www.nexusmods.com/morrowind/mods/44284), [Remiros' Tombs Expanded](https://www.nexusmods.com/morrowind/mods/45616)   
@@ -564,3 +457,110 @@ Adds a unique sound to Nordic barrows, instead of the Dunmer ancestral whispers 
 **Solvjord**  
 **Stahlman's Gorge**  
 **Varstaad Caves**  
+
+## <a name="new"></a>New Dungeons
+[**Serpenthis Ancestral Tomb**](https://www.nexusmods.com/morrowind/mods/45701) by *Lord Berandas* - this is a fun new dungeon with some interesting gameplay. Hope you enjoyed Sabrina's gym as a kid!  
+
+[**Dreadful Cavern**](https://www.nexusmods.com/morrowind/mods/46046) by *Lady Eternity* - adds a new cavern near Sadrith Mora.  
+
+[**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739) by *Melchior Dahrk*  
+Doesn't sound dungeon related to begin with, but there's a beautiful new cave system added for the quest in this mod.  
+
+[**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by *Melchior Dahrk*  
+Adds an interesting new dungeon as part of quests added to Tel Mora, as well as being a beautiful town expansion.  
+
+[**Expedition to Mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by *Greatness7, TheDrunkenMudcrab, and Melchior Dahrk*   
+Off the shoreline of the Bitter Coast region, a Dwemer Ruin has appeared. Take up your spells and delve into the deepest and darkest of Dwemer mysteries within an enigmatic study facility that holds far more than it lets on. Beautiful level design and interesting rewards and quests.  
+
+[**Sotha Sil Expanded**](https://www.nexusmods.com/morrowind/mods/42347) by *Team SSE*  
+"Sotha Sil was somewhat disappointing in vanilla Tribunal, so we've made a massive expansion that creates the Clockwork City as it was always meant to be. A sprawling dungeon, a topsy-turvy city, and the madness of the Clockwork God all stand to challenge you!" - a vast expansion to Tribunal's Sotha Sil, with extensive new dungeons and quests.  
+
+[**Of Dungeons and Abodes**](https://www.nexusmods.com/morrowind/mods/44253) by *Darkelfguy*  
+A distraught nephew, a missing uncle, a manor slowly sinking into the swamps of the Bitter Coast, and numerous secrets and hidden dungeons lurking just beneath the surface. Do you have what it takes to tame Velodil Manor and claim it as your own? Of Dungeons and Abodes is a dungeon delving, quest story telling, house building mod.  
+
+[**Face of the Hortator**](https://www.nexusmods.com/morrowind/mods/42928) by *Infragris*  
+Adds a large and varied dungeon for higher-level players in Molag Amur, close to Lake Nabia. Dungeon reward is the fabled Face of the Hortator, a lore friendly unenchanted Daedric artifact.  
+
+[**A Hermit's Request**](https://www.nexusmods.com/morrowind/mods/23714) by *Darkelfguy*  
+To the west of Seyda Neen, along the bitter coast, there lives a hermit by the name of Thexn Akaasul. It would seem that Thexn has a series of tasks for any adventurous soul willing to seek him out, though they deal mostly with the necessities of life rather than adventures of the grandiose sort.  
+
+[**Of Justice and Innocence**](https://www.nexusmods.com/morrowind/mods/34046) by *Darkelfguy*  
+In the small village of Dagon Fel there lives a woman by the name of Rinida Honwyer. She claims her poor, sweet innocent brother has been kidnapped by smugglers. This unfortunate outcome is a result of an unlikely series of events and her poor brother's own naivety. Now Rinida fears for her brothers life, sure that these smugglers mean nothing but harm towards him.  
+
+[**The Reclamation of Hasimminus Mine**](https://www.nexusmods.com/morrowind/mods/46095) by *Team Nordic Chefs*  
+Crawl through treacherous mine shafts, face Sixth House Cultists, and build up a town for your Great House! New quests, people, and town! Part of MMM 2018.  
+
+[**Blackthorn Barrow**](https://www.nexusmods.com/morrowind/mods/45280) by *Corsair83*  
+Follow the clues of a doomed expedition to find the source behind an ancient Nordic relic.  
+
+[**Bloodwind**](https://www.nexusmods.com/morrowind/mods/45344) by *MattTheBagel*  
+For many years, the ominous Bloodwind Fort has been left untouched and forgotten. Evil is brewing in the darker depths of Morrowind... Bloodwind features a new dungeon crawling experience including 15 new highly detailed areas to explore, rewarding loot, new quests, lore, characters, and secrets to explore around every corner!  
+
+[**West Gash Retreat**](https://www.nexusmods.com/morrowind/mods/45108) by *Ennet Winterhoof*  
+A bandit cave between Ashalmawia, Seran Ancestral Tomb and Khuul. It comes with 3 unique weapons and other loot.  
+
+[**Dungeon & Diamond**](http://mw.modhistory.com/download-68-6874) by *Arcimaestro Antares*  
+In Sadrith Mora, behind the Dirty's Muriel Corner Club, there is a trapdoor to a new dungeon. New creatures, traps, and a unique diamond, await you. It was designed for a master thief character (level 20+), that should retrieve the diamond as proof he/she deserved the title, but then only a few ones could play the mod. So, the dungeon can be accessed by anyone. If you levitate in the dungeon, you'll miss most of the traps (and the fun).  
+
+[**Ruins of Serpenthold**](https://www.nexusmods.com/morrowind/mods/42579) by *The Undying One*  
+Long ago, the Empire built a stronghold off the eastern shores of Solstheim and emplaced a garrison there with the intent of establishing a strong presence there. However, all contact with the garrison was lost...  
+
+[**Abandoned Well at Dagon Fel**](http://mw.modhistory.com/download-44-14997) by *jmanowar*  
+Explore a sprawling dungeon, spelunk deep into the cavern, uncover the conspiracy within.  
+
+[**Sobitur Facility**](https://www.nexusmods.com/morrowind/mods/42418) by *Dagoth Agahnim*  
+It adds a new adventure and questchain for level 40+ players, giving you a rare challenge at high levels. It expands on the lore of the Dwemer's disappearance, showing a plausible contingency of the Dwemer military during their war.  
+
+[**Balmora Underworld**](https://www.nexusmods.com/morrowind/mods/42448) by *Fulgore*  
+Get lost within the depths of Balmora\'s Underworld. Walk through the sewers: let the Thousand Lanterns Market take your breath away and explore the abandoned canals. Witness criminal factions fighting against each other and common folks going on about their daily lives. Discover the access to the massive cave system that lies deep below Balmora.  
+
+[**The Neverhalls**](http://download.fliggerty.com/download--504) by *Midgetalien and Vality7*  
+Once buried deep under the mountains of Solstheim, the ancient Falmer ruin of Neselia, has recently been uncovered.  
+
+[**The Forgotten Halls**](http://download.fliggerty.com/download-118-505) by *Midgetalien*  
+Lost deep below Neselia the Forgotten Halls await to be discovered. Long lost halls of the Falmer hide rumors of death traps, undead creatures and treasure - do you dare to venture deeper into the Neverhalls? What will you find?  The Forgotten Halls is an expansion to the Neverhalls and such it requires the Neverhalls to work. The mod adds two new areas to the Neverhalls to explore, along with a host of new traps and items to find.  
+
+[**The Caldera Ancient Mine**](http://mw.modhistory.com/download-35-10450) by *Pekka*  
+Adds a new dungeon underneath Caldera mine.  
+
+[**Crooked Tower**](http://mw.modhistory.com/download-56-8638) by *Noirgrim*  
+This old, rundown Imperial Bastion has seen better days and many  strange and unique "things" have managed to place themselves here.  Besides  being a fun and intriguing adventure, 31 new scripts add realism to this  new land.   Assassination attempts, nobles rising from the dead, and a wondering, walking  wall whom wonders the corridors fill this tower along with many other fascinating sights. The adventure begins in Balmora when you are confronted by a messenger who  leaves after the mission starts, as not to clutter Balmora any further.  
+
+[**The Banished Cells**](https://www.nexusmods.com/morrowind/mods/46620) by Tel Shadow  
+Explore the old and forgotten ruined fortress home to many of the damned, a long dead evil await true death.  
+
+[**Elden Hollow**](https://www.nexusmods.com/morrowind/mods/46622) by Tel Shadow  
+Explore the overgrown ruin, consumed with many things, safety is not one of them, be on your gaurd.. Elden Hollow is an underground Dungeon that lay under Tel Vos, once a mine has now turned into a overgrown husk for the trees around it,as you would think nothing of such a place, but the Thalmor think differently and have taken Elden Hollow.  
+
+[**King of Worms**](https://www.nexusmods.com/morrowind/mods/46611) by Tel Shadow and Caeris  
+A new adventure awaits any noble Mages Guild members ready to face the king of worms.  
+
+[**Sthomrond's Workshop**](https://www.nexusmods.com/morrowind/mods/46635) by Tel Shadow  
+Explore Sthomronds Workshop.. A dwemer dungeon in dagon fel, explore the many rooms as well as the loot.. but it will not be as easy as that.
+
+[**Darkshade Caverns**](https://www.nexusmods.com/morrowind/mods/46662) by Tel Shadow  
+A long forgotten eggmine. filled with things to kill and chests to find... Uncover the Darkshade Caverns the ruins of the long dead dwemer lay in the egg mins depths...
+
+[**Fungal Grotto**](https://www.nexusmods.com/morrowind/mods/46660) by Tel Shadow  
+A secret cave hidden in front of the people of sadrith mora now the home to.. runaway slaves and bandits.. this infected cave of mushroom spores consumes anyone that enters..
+
+[**Jirtes Fort**](https://www.nexusmods.com/morrowind/mods/46681) by Tel Shadow  
+Explore a small and left in ruin dwemer ruin.. many things are hidden in its stone walls..
+
+[**Sthonbric Ruin**](https://www.nexusmods.com/morrowind/mods/46682) by Tel Shadow  
+Sthonbric Ruin is a large under ground dwemer ruin you will find more then enough to fill your bags. watch out for hidden chests and the dwemer that guard the ruin..  
+
+[**Vernheim**](https://www.nexusmods.com/morrowind/mods/46683) by Tel Shadow  
+Drive head first into another dwemer dungeon only this time its bigger and better.. filled to the jar with goodies... well if you make it to them..
+
+[**Veteran Dungeons Collection**](https://www.nexusmods.com/morrowind/mods/46882) by Tel Shadow  
+A collection of difficult dungeons for high level players.  
+
+[**Far From Home**](https://www.nexusmods.com/morrowind/mods/46860) by pianobadger  
+This mod adds a quest to a new and dangerous tomb which brings the player to unexpected places and the player has a chance to acquire a curious new home.  
+
+[**Erengard Mines (Morrowind Crafting compatible edition)**](https://www.nexusmods.com/morrowind/mods/46877) by Graphite and Denina  
+Allows the player to buy and run a mine.
+
+## <a name="towns"></a> Towns
+**Tel Vos** - [Tel Vos - Dungeon Overhaul](https://www.nexusmods.com/morrowind/mods/46676)
