@@ -379,17 +379,17 @@ Allows the player to buy and run a mine.
 **Shrine of Mephala** - [**The Shrine of Mephala**](http://mw.modhistory.com/download-112-11326)  
 
 ## <a name="dunmer"></a>Dunmer Strongholds
-**Andasreth**  - [**Andasreth Stronghold**](https://www.nexusmods.com/morrowind/mods/46604)  
-**Berandas**  - [**Berandas Overhaul**](https://www.nexusmods.com/morrowind/mods/48236) by seelof  
-**Falasmaryon**  - [**Falasmaryon Overhaul**](https://www.nexusmods.com/morrowind/mods/46460)  
-**Falensarano** - [**Falensarano - The Ruined Stronghold**](https://www.nexusmods.com/morrowind/mods/44244) by *CarrotFerret*  
-**Hlormaren** - [**MRenewal - Hlormaren**](https://www.nexusmods.com/morrowind/mods/46648), [**Hlormaren Reclaimed - Slightly Improved**](https://www.nexusmods.com/morrowind/mods/47301)  
-**Indoranyon**  
-**Kogoruhn** - [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076), [**Kogoruhn Expanded**](https://www.nexusmods.com/morrowind/mods/46098), [**Kogoruhn Ruins**](https://www.nexusmods.com/morrowind/mods/44034), [**Riharradroon - Hidden Path to Kogoruhn**](https://www.nexusmods.com/morrowind/mods/47357)    
-**Marandus** - [**LGNPC Pax Redoran**](http://lgnpc.org/downloads)  
-**Rotheran**  
-**Telasero**  
-**Valenvaryon**  
+**Andasreth**  - [**Andasreth Stronghold**](https://www.nexusmods.com/morrowind/mods/46604), [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692)    
+**Berandas**  - [**Berandas Overhaul**](https://www.nexusmods.com/morrowind/mods/48236), [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692)    
+**Falasmaryon** - [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692), [**Falasmaryon Overhaul**](https://www.nexusmods.com/morrowind/mods/46460)  
+**Falensarano** - [**Falensarano - The Ruined Stronghold**](https://www.nexusmods.com/morrowind/mods/44244), - [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692)  
+**Hlormaren** - [**MRenewal - Hlormaren**](https://www.nexusmods.com/morrowind/mods/46648), [**Hlormaren Reclaimed - Slightly Improved**](https://www.nexusmods.com/morrowind/mods/47301), [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692)  
+**Indoranyon** - [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692)  
+**Kogoruhn** - [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076), [**Kogoruhn Expanded**](https://www.nexusmods.com/morrowind/mods/46098), [**Kogoruhn Ruins**](https://www.nexusmods.com/morrowind/mods/44034), [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692), [**Riharradroon - Hidden Path to Kogoruhn**](https://www.nexusmods.com/morrowind/mods/47357)    
+**Marandus** - [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692), [**Marandus Rebuilt**](https://www.nexusmods.com/morrowind/mods/49522), [**LGNPC Pax Redoran**](http://lgnpc.org/downloads)  
+**Rotheran** - [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692)  
+**Telasero** - [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692)  
+**Valenvaryon** - [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692)  
 
 ## <a name="dwemer"></a>Dwemer Ruins
 **Aleft** - [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076), [**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249)  
