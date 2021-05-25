@@ -86,6 +86,7 @@ For a more restrained aesthetic. Adds appropriate clutter to Gnaar Mok but doesn
 [**Pelagiad - The Cozy Imperial Town**](https://www.nexusmods.com/morrowind/mods/48687) by RandomPal  
 [**Vvardenfell Revisited - Pelagiad**](https://www.nexusmods.com/morrowind/mods/46776) by EnnetWinterhoof  
 [**Stav's Boxes - Pelagiad**](https://www.nexusmods.com/morrowind/mods/44075) by Stavroguin/Heinrich  
+[**A Windmill for Pelagiad**](https://mw.modhistory.com/download-15-6555) by   
 
 ## Suran
 [**White Suran**](https://www.nexusmods.com/morrowind/mods/44153) by Melchior Dahrk  
