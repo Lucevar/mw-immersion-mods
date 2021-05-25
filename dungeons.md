@@ -59,7 +59,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Dralas Ancestral Tomb**  
 **Drath Ancestral Tomb**  
 **Dreloth Ancestral Tomb**  
-**Drethan Ancestral Tomb** - [Shallit Hideout](https://www.nexusmods.com/morrowind/mods/43645)  
+**Drethan Ancestral Tomb** - [**The Weary Vampire**](https://www.nexusmods.com/morrowind/mods/49774), [Shallit Hideout](https://www.nexusmods.com/morrowind/mods/43645)  
 **Drinith Ancestral Tomb**  
 **Dulo Ancestral Tomb**  
 **Fadathram Ancestral Tomb**  
@@ -217,7 +217,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Yakin**  
 **Yasamsi** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Yesamsi** - [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
-**Zainsipilu** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Zainsipilu** - [**The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/49047), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Zaintirari** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Zanabi**  
 **Zebabi** - [Zebabi Expanded](https://www.nexusmods.com/morrowind/mods/46276)  
