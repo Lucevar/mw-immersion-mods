@@ -62,6 +62,10 @@ No saving in battle!
 [**Universal Companion Share**](http://download.fliggerty.com/download--14) by Fliggerty  
 [**Travel Tooltips**](https://www.nexusmods.com/morrowind/mods/48306) by tewlwolow  
 
+## Level Up
+[**Inspirational Messages Expanded**](https://www.nexusmods.com/morrowind/mods/49851) by TimThe7th  
+[**Level Up Messages - LUM Levels 20-75**](https://www.nexusmods.com/morrowind/mods/43431) by GaStuSage  
+
 ## Splash / Loading Screen Additions
 
 [**Fresco Splash Screens**](https://www.nexusmods.com/morrowind/mods/45680) by Tyddy OgreOgre & Petethegoat  
