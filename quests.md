@@ -118,3 +118,4 @@ Removes level requirements for a number of quests.
 [**Anarchist Nerevarine**](https://www.nexusmods.com/morrowind/mods/49909) by Alice  
 [**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916) by seelof  
 [**Ambient Percussion**](https://www.nexusmods.com/morrowind/mods/49998) by Elminster  
+[**The Telvanni Ward Keepers**](https://www.nexusmods.com/morrowind/mods/50078) by Markond  
