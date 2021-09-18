@@ -162,6 +162,7 @@ Has a version which is compatible with Dramatic Vivec
 [**Altar of the High Fane**](https://www.nexusmods.com/morrowind/mods/49631) by FyreAlchemage  
 [**Lively Black Shalk Cornerclub**](https://www.nexusmods.com/morrowind/mods/49840) by Endify  
 [**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916) by seelof  
+[**Library of Vivec Enhanced**](https://www.nexusmods.com/morrowind/mods/50181) by Duo Dynamico  
 
 [**Crassius Curio's Argonian Maid**](https://www.nexusmods.com/morrowind/mods/49923) by AmazinglyRandi  
 [**Crassius Curio's Weekly Pilgrimage**](https://www.nexusmods.com/morrowind/mods/49927) by AmazinglyRandi  
