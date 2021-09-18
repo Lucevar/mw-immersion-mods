@@ -161,6 +161,7 @@ A mega-merge of most of the popular Sadrith Mora mods, edited for performance an
 [**Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by quorn and PoodleSandwich - includes voice lines by the original Dunmer voice actor!!  
 [**Sadrith Mora Closed City**](https://www.nexusmods.com/morrowind/mods/8359) by Crustacean  
 [**The Merchants of Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/48654) by Lucevar  
+[**The Great Master Neloth**](https://www.nexusmods.com/morrowind/mods/49268) by Dormy  
 
 [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by Mort  
 Have you ever thought that Wolverine Hall must have been designed by Sheogorath, specifically to frustrate you? So did mort. So he fixed it (and gave the mages some beds while he was at it.)  
