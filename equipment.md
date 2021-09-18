@@ -75,6 +75,7 @@ Duke's Silver Armor:
 [**Enchanted Item Cost Rebalance**](https://www.nexusmods.com/morrowind/mods/49643) by JackBNimble  
 [**Coldharbour Daedric Lord Armor and Face of God - Redux Edition**](https://www.nexusmods.com/morrowind/mods/49651) by Zackariaahas  
 [**Daedric Telvanni Robe (Actual Robe Version)**](https://www.nexusmods.com/morrowind/mods/49652) by RuffinVangarr  
+[**Exotics Boutique**](https://mw.modhistory.com/download-80-4764) by Tommy Khajiit  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
