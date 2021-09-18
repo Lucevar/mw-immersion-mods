@@ -175,3 +175,10 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 138. [**Useful Starting Spells**](https://www.nexusmods.com/morrowind/mods/40439) by Tizzo  
 139. [**Better Enchantments**](https://www.nexusmods.com/morrowind/mods/47136) by Aracelliy 
 140. [**Locks and Traps Detection**](https://www.nexusmods.com/morrowind/mods/48528) by VitruvianGuar   
+141. [**Morrowind Animated Hammocks - Exigent Version**](https://www.nexusmods.com/morrowind/mods/49767) by Vegetto  
+142. [**Elemental Effects**](https://www.nexusmods.com/morrowind/mods/49799) by Anumaril  
+143. [**Inspirational Messages Expanded**](https://www.nexusmods.com/morrowind/mods/49851) by TimThe7th  
+144. [**Mantle of Ascension - Climbing Mod**](https://www.nexusmods.com/morrowind/mods/49870) by Vtastek  
+145. [**Krokantor's Enhanced Water Shader**](https://www.nexusmods.com/morrowind/mods/49964) by Krokantor & Hrnchamd  
+146. [**Vanity**](https://www.nexusmods.com/morrowind/mods/48529) by abot  
+147. [**Nords Shut Your Windows**](https://www.nexusmods.com/morrowind/mods/50087) by Vegetto  
