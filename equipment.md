@@ -56,6 +56,8 @@ Duke's Silver Armor:
 [**Many Cloth Helms**](https://www.nexusmods.com/morrowind/mods/49282) by Markond  
 [**Telvanni Dust Adept**](https://www.nexusmods.com/morrowind/mods/49265) by Ashtaar  
 [**Telvanni Armors - Slavers and Wizards**](https://www.nexusmods.com/morrowind/mods/49266) by Ashtaar  
+[**Complete and Revised Imperial Studded Leather Armor**](https://www.nexusmods.com/morrowind/mods/49301) by RuffinVangarr  
+[**Dunmer Nobles Overhaul - Robes and Scarves Only**](https://www.nexusmods.com/morrowind/mods/49287) by RandomPal  
 
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
