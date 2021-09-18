@@ -135,6 +135,7 @@ Has a version which is compatible with Dramatic Vivec
 [**Higher Ministry of Truth**](https://www.nexusmods.com/morrowind/mods/49415) by RandomPal  
 [**Baar Dau**](https://www.nexusmods.com/morrowind/mods/49456) by RandomPal  
 [**The Striderport in Vivec**](https://www.nexusmods.com/morrowind/mods/49492) by RandomPal  
+[**Pre-release Prison Moon**](https://www.nexusmods.com/morrowind/mods/49627) by Leyawynn  
 
 [**Canalworks Connected**](https://www.nexusmods.com/morrowind/mods/47354) by iLoveOnFear  
 [**Jobasha's Rare Books Expanded**](https://www.nexusmods.com/morrowind/mods/45153) twgear2  
@@ -146,6 +147,7 @@ Has a version which is compatible with Dramatic Vivec
 [**Arantamo's Room**](https://www.nexusmods.com/morrowind/mods/48249) by Endify  
 [**Vivec Waistworks Expansion**](https://www.nexusmods.com/morrowind/mods/48834) by autumnbramble  
 [**Vivec Tea Room**](https://www.nexusmods.com/morrowind/mods/44320)  
+[**Altar of the High Fane**](https://www.nexusmods.com/morrowind/mods/49631) by FyreAlchemage  
 
 ## Ebonheart
 These affect different parts of Ebonheart and are therefore compatible.  
@@ -188,6 +190,7 @@ A mega-merge of most of the popular Sadrith Mora mods, edited for performance an
 [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by Mort  
 Have you ever thought that Wolverine Hall must have been designed by Sheogorath, specifically to frustrate you? So did mort. So he fixed it (and gave the mages some beds while he was at it.)  
 [**Wolverine Hall Interior Expansion**](https://www.nexusmods.com/morrowind/mods/44965) by Mordaxis  
+[**Dirty Muriel's Expansion**](https://www.nexusmods.com/morrowind/mods/49622) by Endify  
 
 You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/44746), [**More Detailed Places - Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/30150), [**Sadrith Mora Expanded**](https://www.nexusmods.com/morrowind/mods/44113), or [**Epic Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/43057).
 
@@ -274,6 +277,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 [**More Detailed Places - Khuul**](https://www.nexusmods.com/morrowind/mods/29965) by Ragox  
 [**Cool Khuul Docks**](https://www.nexusmods.com/morrowind/mods/47852) by Alice    
 [**Grim Khuul**](https://www.nexusmods.com/morrowind/mods/49404) by Mika  
+[**Thongar's Tradehouse Expanded**](https://www.nexusmods.com/morrowind/mods/49625) by RandomPal  
 
 Alternatively, [**Vvardenfell Revisited - Khuul**](https://www.nexusmods.com/morrowind/mods/46614) by EnnetWinterhoof, or [**Milik's Khuul Facelift**](https://www.nexusmods.com/morrowind/mods/19657) by Milik.    
 
