@@ -8,6 +8,21 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - April 15th
+[**Stats**](https://www.nexusmods.com/morrowind/mods/49629) by JaceyS  
+Basic implementation of game statistics through MWSE Lua.
+
+[**Grip of Death**](https://www.nexusmods.com/morrowind/mods/49628) by Archimag  
+Change the grip of the weapon from one-handed to two-handed and vice versa
+
+[**Unnecessary Censorship**](https://www.nexusmods.com/morrowind/mods/49624) by Safebox  
+Adds unnecessary censorship to the swear, curse, and slur words of Vvardenfell.
+
+[**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616) by Remiros  
+Adds sheaths to weapons that previously didn't have any
+
+[**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614) by Mort  
+Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle
+
 [**HUD Encumbrance Bar**](https://www.nexusmods.com/morrowind/mods/49608) by OperatorJack  
 Adds a 4th statistic bar to the player HUD, representing current encumbrance.
 
