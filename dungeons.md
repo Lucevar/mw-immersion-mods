@@ -134,7 +134,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Abernanit** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Abinabi** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Adanumuran** - [Adanumuran Reclaimed](https://www.nexusmods.com/morrowind/mods/43340), [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
-**Addamasartus** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [The Cave of Woe](https://www.nexusmods.com/morrowind/mods/352)  
+**Addamasartus** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [The Cave of Woe](https://www.nexusmods.com/morrowind/mods/352), [**Less Disclosed Addamasartus**](https://www.nexusmods.com/morrowind/mods/49271)  
 **Aharunartus** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Aharnabi** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Ahinipalit** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
