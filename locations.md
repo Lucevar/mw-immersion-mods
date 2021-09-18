@@ -69,6 +69,7 @@
 [**An Abandoned Shack is your home**](https://www.nexusmods.com/morrowind/mods/49351) by Mika  
 [**Seamless Abandoned Shack**](https://www.nexusmods.com/morrowind/mods/49527) by RandomPal  
 [**Graht Morrowind Swamp Trees**](https://www.nexusmods.com/morrowind/mods/49771) by Melchior Dahrk  
+[**Justice for Khartag (J.F.K)**](https://www.nexusmods.com/morrowind/mods/49832) by Duo Dinamico  
 
 ## West Gash
 [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187)  
