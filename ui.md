@@ -1,12 +1,15 @@
 # UI
+
+## HUD
 [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
-[**De-outlandered main menu & daedric ui textures**](https://www.nexusmods.com/morrowind/mods/46805) by RedFurryDemon  
 [**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455) by JaceyS  
 
 ## Fonts
 [**Daedricwind**](https://www.nexusmods.com/morrowind/mods/49655) by Necrolesian  
 [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
 [**Better Century Gothic Font**](https://www.nexusmods.com/morrowind/mods/49844) by ConcernedCitizen  
+[**inom - User Interface hider**](https://www.nexusmods.com/morrowind/mods/50218) by isNaN  
+[**Clear Sight**](https://www.nexusmods.com/morrowind/mods/49780) by tewlwolow  
 
 ## Cursor
 [**Daedric Cursors**](https://www.nexusmods.com/morrowind/mods/49806) by ConcernedCitizen  
@@ -15,6 +18,7 @@ Changes the cursors to a daedric gauntlet (and daedric crescent when resizing me
 ## Load Menu
 [**Petes UI Mods**](https://www.nexusmods.com/morrowind/mods/45859) by Petethegoat  
 [**Continue**](https://www.nexusmods.com/morrowind/mods/45952) by Petethegoat  
+[**De-outlandered main menu & daedric ui textures**](https://www.nexusmods.com/morrowind/mods/46805) by RedFurryDemon  
 
 ## Chargen
 [**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Petethegoat  
