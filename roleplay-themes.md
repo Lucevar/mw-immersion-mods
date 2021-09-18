@@ -196,7 +196,7 @@ Adds a number of roleplaying options to the main quest, including alternate path
 * [**Imperial Contraband**](http://mw.modhistory.com/download-53-13016) by Nogi.Fox  
 * [**Hlormaren Reclaimed - Slightly Improved**](https://www.nexusmods.com/morrowind/mods/47301) by Gavrilo93  
 * [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
-
+* [**Legion Field Gear**](https://www.nexusmods.com/morrowind/mods/49621) by Endoran  
 
 # Merchant
 [**Wages and Bonds**](https://www.nexusmods.com/morrowind/mods/46394)  
