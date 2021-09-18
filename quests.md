@@ -14,14 +14,16 @@ Removes level requirements for a number of quests.
 [**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995) by Gavrilo93  
 [**Museum Quest Finisher**](https://www.nexusmods.com/morrowind/mods/47139) by Necrolesian  
 [**Stormkiss Reforged**](https://www.nexusmods.com/morrowind/mods/44565) by Gevalt and Enclavekiller  
-[**Main Quest Enhancers**](https://www.nexusmods.com/morrowind/mods/41337) by Trainwiz  
-[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
 [**Courtesy**](https://www.nexusmods.com/morrowind/mods/46781) by chantox  
 [**Go away move along**](https://www.nexusmods.com/morrowind/mods/46797) by l1lartur0  
 [**Django's Dialogue**](https://www.nexusmods.com/morrowind/mods/47253) by von Djangos  
 [**Drakes Pride Refusal**](https://www.nexusmods.com/morrowind/mods/46894) by chryssvoler  
 [**Non-Legion Dandsa Rescue Fix**](https://www.nexusmods.com/morrowind/mods/46927) by chryssvoler  
 [**Kurapli Seeks Justice**](https://www.nexusmods.com/morrowind/mods/48697) by stripes  
+
+## Main Quest Mods
+[**Main Quest Enhancers**](https://www.nexusmods.com/morrowind/mods/41337) by Trainwiz  
+[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
 [**Past Life Regressions**](https://www.nexusmods.com/morrowind/mods/49315) by Alice  
 
 ## Post Main Quest Mods
@@ -29,6 +31,7 @@ Removes level requirements for a number of quests.
 [**After the Blight**](https://www.nexusmods.com/morrowind/mods/46099) by Team Purist Pariahs  
 [**The Rise of the Tribe Unmourned**](https://www.nexusmods.com/morrowind/mods/45165) by Caeris  
 [**Blades Quest: Prophecy of the Lost Heir**](http://lovkullen.net/Emma/blade.htm) by Emma  
+[**Exterminate All Brutes**](https://www.nexusmods.com/morrowind/mods/49322) by Alice  
 
 
 ## Factions
