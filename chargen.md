@@ -59,6 +59,8 @@ Updates vanilla classes to be more useable, makes NPC classes playable, adds a v
 
 [**Class Starting Spells**](https://www.nexusmods.com/morrowind/mods/49010/) by Vitruvian Guar  
 
+[**MTR Balanced Birthsigns**](https://www.nexusmods.com/morrowind/mods/49677) by MTR  
+
 # New Starting Equipment
 [**Personal Effects**](https://www.nexusmods.com/morrowind/mods/45338) by R-Zero  
 If you start as one of the vanilla classes, gain items based on your class instead of the vanilla 87 gold.  
