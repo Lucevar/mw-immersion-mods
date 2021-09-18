@@ -70,7 +70,7 @@ For new quests, try [**Tales of Seyda Neen**](http://mw.modhistory.com/download-
 
 For a whole-Bitter Coast overhaul, try [**Resdayn Revival - Bitter Coast**](https://www.nexusmods.com/morrowind/mods/47772) by Zobator  
 
-Other alternatives include but are not limited to [**Seyda Neen Slums**](https://www.nexusmods.com/morrowind/mods/46837?tab=posts), [**More Detailed Places Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46231), [**Seyda Neen Tree Removal**](https://www.nexusmods.com/morrowind/mods/45990) for an expanded and treeless Seyda Neen, [**Lived Towns - Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46703), [**Seyda Neen Houseboat**](https://www.nexusmods.com/morrowind/mods/43364), [**Princess Docks**](http://mw.modhistory.com/download-90-7147), [**More Seyda Neen**](http://mw.modhistory.com/download-4-5133) by -J, [**Seyda Neen Harbour**](https://www.nexusmods.com/morrowind/mods/42433) by Ian Bitters, [**Mireneye's Vistas - Seyda Neen**](http://mw.modhistory.com/download-44-11876), [**Prancing Ash Inn**](https://www.nexusmods.com/morrowind/mods/41220) by ChakaZg, [**The Silver Barrel**](https://www.nexusmods.com/morrowind/mods/42236) and [**Trancemaster's New Seyda Neen**](https://www.nexusmods.com/morrowind/mods/42234), [**Coyote's Expanded Seyda Neen**](https://www.nexusmods.com/morrowind/mods/48388), [**Swampy Seyda Neen**](https://www.nexusmods.com/morrowind/mods/48561), [**Cozy Seyda Neen**](https://www.nexusmods.com/morrowind/mods/49309) by Mika, [**Seyda Neen Compendium**](https://www.nexusmods.com/morrowind/mods/49364) by SpiritTauren.
+Other alternatives include but are not limited to [**Seyda Neen Slums**](https://www.nexusmods.com/morrowind/mods/46837?tab=posts), [**More Detailed Places Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46231), [**Seyda Neen Tree Removal**](https://www.nexusmods.com/morrowind/mods/45990) for an expanded and treeless Seyda Neen, [**Lived Towns - Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46703), [**Seyda Neen Houseboat**](https://www.nexusmods.com/morrowind/mods/43364), [**Princess Docks**](http://mw.modhistory.com/download-90-7147), [**More Seyda Neen**](http://mw.modhistory.com/download-4-5133) by -J, [**Seyda Neen Harbour**](https://www.nexusmods.com/morrowind/mods/42433) by Ian Bitters, [**Mireneye's Vistas - Seyda Neen**](http://mw.modhistory.com/download-44-11876), [**Prancing Ash Inn**](https://www.nexusmods.com/morrowind/mods/41220) by ChakaZg, [**The Silver Barrel**](https://www.nexusmods.com/morrowind/mods/42236) and [**Trancemaster's New Seyda Neen**](https://www.nexusmods.com/morrowind/mods/42234), [**Coyote's Expanded Seyda Neen**](https://www.nexusmods.com/morrowind/mods/48388), [**Swampy Seyda Neen**](https://www.nexusmods.com/morrowind/mods/48561), [**Cozy Seyda Neen**](https://www.nexusmods.com/morrowind/mods/49309) by Mika, [**Seyda Neen Compendium**](https://www.nexusmods.com/morrowind/mods/49364) by SpiritTauren, [**Lovely Bitter Coast**](https://www.nexusmods.com/morrowind/mods/49488) by Mika.  
 
 ## Hla Oad
 [**The Drop Off**](https://www.nexusmods.com/morrowind/mods/46827) by Darkry115  
@@ -80,6 +80,7 @@ Overhauls Fat Leg's Drop off to make it much more interesting - and practical as
 [**Hla Oad**](https://www.nexusmods.com/morrowind/mods/49035) by N'wahs and Mushrooms  
 [**Resdayn Revival - Bitter Coast**](https://www.nexusmods.com/morrowind/mods/47772) by Zobator  
 [**Cozy Hla Oad and Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/49308) by Mika  
+[**Lovely Bitter Coast**](https://www.nexusmods.com/morrowind/mods/49488) by Mika  
 
 ## Gnaar Mok
 [**New Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/22029) by Melchior Dahrk  
@@ -88,6 +89,7 @@ A significant expansion to Gnaar Mok - makes it a bustling port town. Includes a
 [**More Detailed Places - Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/30152) by Ragox  
 For a more restrained aesthetic. Adds appropriate clutter to Gnaar Mok but doesn't substantially expand Gnaar Mok.  
 [**Cozy Hla Oad and Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/49308) by Mika  
+[**Lovely Bitter Coast**](https://www.nexusmods.com/morrowind/mods/49488) by Mika  
 
 # Ascadian Isles
 ## Pelagiad
@@ -130,6 +132,7 @@ Has a version which is compatible with Dramatic Vivec
 [**Compatible Redesigned Vivec**](https://www.nexusmods.com/morrowind/mods/49336) by GlitterGear  
 [**Higher Ministry of Truth**](https://www.nexusmods.com/morrowind/mods/49415) by RandomPal  
 [**Baar Dau**](https://www.nexusmods.com/morrowind/mods/49456) by RandomPal  
+[**The Striderport in Vivec**](https://www.nexusmods.com/morrowind/mods/49492) by RandomPal  
 
 [**Canalworks Connected**](https://www.nexusmods.com/morrowind/mods/47354) by iLoveOnFear  
 [**Jobasha's Rare Books Expanded**](https://www.nexusmods.com/morrowind/mods/45153) twgear2  
@@ -205,6 +208,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 [**Tel Vos Castle - Overhaul**](https://www.nexusmods.com/morrowind/mods/46730?) by Tel Shadow  
 [**Tel Vos Dungeon Overhaul**](https://www.nexusmods.com/morrowind/mods/46676) by Tel Shadow  
 [**Tel Vos Lighthouse**](https://www.nexusmods.com/morrowind/mods/42744) by the Resdayn Revival Team  
+[**Tall Vos**](https://www.nexusmods.com/morrowind/mods/49480) by Melchior Dahrk  
 
 ## Vos
 [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by Melchior Dahrk    
@@ -297,6 +301,7 @@ or
 [**Drarayne Thelas's House Overhaul**](https://www.nexusmods.com/morrowind/mods/48326) by Endify
 [**Concept Art Hlaalu Balconies**](https://www.nexusmods.com/morrowind/mods/48667) by RandomPal  
 [**Mal's Balmora Overhaul**](https://www.nexusmods.com/morrowind/mods/49295) by MaladjustedPlatypus  
+[**Balmora The Awakening**](https://www.nexusmods.com/morrowind/mods/49465) by Mika  
 
 [**Fort Moonmoth Expanded**](https://www.nexusmods.com/morrowind/mods/46963) by Yommumoi  
 
