@@ -241,6 +241,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 [**More Detailed Places - Dagon Fel**](https://www.nexusmods.com/morrowind/mods/30047) by Ragox  
 [**Sheogorad - Groves of the North**](https://www.nexusmods.com/morrowind/mods/48240) by Tapetenklaus  
 [**Foggy and Sinister Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49429) by Mika  
+[**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603) by RandomPal  
 
 ## Ald Redaynia  
 [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646) by R-Zero    
@@ -261,6 +262,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 [**Lightweight Concept Art Gnisis**](https://www.nexusmods.com/morrowind/mods/48659/) by RandomPal  
 [**TM - New Gnisis**](https://www.nexusmods.com/morrowind/mods/42235) by Trancemaster  
 [**Blessed Gnisis**](https://www.nexusmods.com/morrowind/mods/49423) by Mika  
+[**Fort Darius**](https://www.nexusmods.com/morrowind/mods/49600) by Joi Ror  
 
 ## Ald Velothi
 [**Tales of Ald Velothi**](https://www.nexusmods.com/morrowind/mods/47276) by Team Balmora Bandits  
