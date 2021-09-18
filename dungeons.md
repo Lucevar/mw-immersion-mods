@@ -290,7 +290,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 
 ## <a name="dwemer"></a>Dwemer Ruins
 **Aleft** - [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076), [**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249)  
-**Arkngthand** - [**Arkngthand 2.0**](https://www.nexusmods.com/morrowind/mods/43628), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076), [**MTR Dwemer Puzzle Box Randomizer**](https://www.nexusmods.com/morrowind/mods/49781)    
+**Arkngthand** - [**Better Dwemer Interiors**](https://www.nexusmods.com/morrowind/mods/50193), [**Arkngthand 2.0**](https://www.nexusmods.com/morrowind/mods/43628), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076), [**MTR Dwemer Puzzle Box Randomizer**](https://www.nexusmods.com/morrowind/mods/49781)    
 **Arkngthunch-Sturdumz** - [**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249)  
 **Bethamez** - [**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249)  
 **Bthanchend**  
