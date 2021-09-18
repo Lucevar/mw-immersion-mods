@@ -102,6 +102,7 @@ For a more restrained aesthetic. Adds appropriate clutter to Gnaar Mok but doesn
 [**Stav's Boxes - Pelagiad**](https://www.nexusmods.com/morrowind/mods/44075) by Stavroguin/Heinrich  
 [**A Windmill for Pelagiad**](https://mw.modhistory.com/download-15-6555) by   
 [**The Quiet Imperial Pelagiad**](https://www.nexusmods.com/morrowind/mods/49378) by Mika  
+[**Halfway Rebuilt**](https://www.nexusmods.com/morrowind/mods/49903) by Rookie from Rendor  
 
 ## Suran
 [**White Suran**](https://www.nexusmods.com/morrowind/mods/44153) by Melchior Dahrk  
@@ -258,6 +259,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646) by R-Zero    
 [**Redaynia Village**](https://www.nexusmods.com/morrowind/mods/17935) by Darkelfguy   
 [**Sheogorad - Groves of the North**](https://www.nexusmods.com/morrowind/mods/48240) by Tapetenklaus  
+[**Grey North - Ruined Redaynia**](https://www.nexusmods.com/morrowind/mods/49862) by Anumaril  
 
 # West Gash
 ## Gnisis
