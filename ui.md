@@ -51,6 +51,7 @@ No saving in battle!
 [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by Anumaril  
 [**Journal Search and Edit**](https://www.nexusmods.com/morrowind/mods/46756) by Svengineer99  
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
+[**No Thank You**](https://www.nexusmods.com/morrowind/mods/49681) by Necrolesian  
 
 ## NPCS / Dialogue /Persuasion
 [**Universal Companion Share**](http://download.fliggerty.com/download--14) by Fliggerty  
