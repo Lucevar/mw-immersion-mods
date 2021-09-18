@@ -32,11 +32,13 @@
 [**Telvanni Trap Door Resource**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk  
 [**Outlander Asset Library**](https://www.patreon.com/posts/outlander-11784257) by LondonRook  
 [**Nif Resources**](https://www.nexusmods.com/morrowind/mods/43064) by YarYulme  
+[**Various Architecture Resources**](https://www.nexusmods.com/morrowind/mods/49219) by Darkfri  
 
 ## Hlaalu
 [**R-Zero's Random Resources**](https://www.nexusmods.com/morrowind/mods/43729) by R-Zero  
 Adds fixed versions of the Hlaalu plank balcony and curved stairs.  
 [**Inverted Hlaalu Exteriors**](http://download.fliggerty.com/download-135-1140) by DonnerGott  
+[**Various Architecture Resources**](https://www.nexusmods.com/morrowind/mods/49219) by Darkfri  
 
 ## imperial
 [**R-Zero's Random Resources**](https://www.nexusmods.com/morrowind/mods/43729) by R-Zero  
