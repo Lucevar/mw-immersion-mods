@@ -184,3 +184,8 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 147. [**Nords Shut Your Windows**](https://www.nexusmods.com/morrowind/mods/50087) by Vegetto  
 148. [**A Sinking Feeling**](https://www.nexusmods.com/morrowind/mods/50113) by Celediel  
 149. [**Web Sweeper**](https://www.nexusmods.com/morrowind/mods/50004) by Stripes  
+150. [**OAAB The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/49047) by Remiros  
+151. [**Justice for Khartag**](https://www.nexusmods.com/morrowind/mods/49832?tab=files&file_id=1000025045) by Duo Dinamico  
+152. [**Less Disclosed Addamasartus**](https://www.nexusmods.com/morrowind/mods/49271) by RandomPal  
+153. [**Seamless Abandoned Shack**](https://www.nexusmods.com/morrowind/mods/49527) by RandomPal  
+154. [**Hybrid Trees**](https://www.nexusmods.com/morrowind/mods/50167) by SilentJacket  
