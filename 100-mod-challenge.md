@@ -21,7 +21,7 @@ Mod list for the 100 esp install challenge. Number on the list will go above 100
 -- 00 Core  
 -- 03 MGEXE Addon  
 -- 04 Weapon Sheathing Patch  
-19. [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk 
+19. [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk  
 -- 00 Core  
 -- 02 Interior Sunrays  
 -- 03 Nord Glass Windows Interior Sunrays  
