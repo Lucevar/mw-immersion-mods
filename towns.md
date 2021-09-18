@@ -141,6 +141,7 @@ Has a version which is compatible with Dramatic Vivec
 [**Baar Dau**](https://www.nexusmods.com/morrowind/mods/49456) by RandomPal  
 [**The Striderport in Vivec**](https://www.nexusmods.com/morrowind/mods/49492) by RandomPal  
 [**Pre-release Prison Moon**](https://www.nexusmods.com/morrowind/mods/49627) by Leyawynn  
+[**Dramatic Vivec BCOM Patch**](https://www.nexusmods.com/morrowind/mods/50026) by B00ze  
 
 [**Canalworks Connected**](https://www.nexusmods.com/morrowind/mods/47354) by iLoveOnFear  
 [**Jobasha's Rare Books Expanded**](https://www.nexusmods.com/morrowind/mods/45153) twgear2  
