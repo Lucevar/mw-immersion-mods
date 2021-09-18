@@ -30,6 +30,7 @@
 [**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373) by RandomPal  
 [**Telvanni Travel Network**](https://www.nexusmods.com/morrowind/mods/49443) by RandomPal  
 [**Magical Lights for Telvanni**](https://www.nexusmods.com/morrowind/mods/49453) by RandomPal  
+[**Izi Forts - All In One**](https://www.nexusmods.com/morrowind/mods/49548) by Izi  
 
 # Tamriel Rebuilt
 [**Unique Tavern Signs for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/46794) by Rats  
@@ -220,6 +221,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 
 ## Tel Mora
 [**Of Ash and Blight - Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
+[**Tel Mora - Dreamland**](https://www.nexusmods.com/morrowind/mods/49551) by Mika  
 
 # Molag Amur
 ## Molag Mar
