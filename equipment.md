@@ -78,3 +78,6 @@ Duke's Silver Armor:
 
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
+
+# Weapons 
+[**Daedric Estoc**](https://www.nexusmods.com/morrowind/mods/49620) by insicht  
