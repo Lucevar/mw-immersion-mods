@@ -178,6 +178,7 @@ Included here rather than in common because it's a completely new tileset and do
 [**Huckleberry Raft Resource**](http://download.fliggerty.com/download-135-924) by DonnerGott  
 [**The Old Wizard's Library**](https://www.nexusmods.com/morrowind/mods/47263) by afroamerican  
 [**Outlander Asset Library**](https://www.patreon.com/posts/outlander-11784257) by LondonRook  
+[**VFX Meshbank**](https://www.nexusmods.com/morrowind/mods/49695) by Kurpulio  
 
 # To be investigated
 [**jdoobies taverns**](http://mw.modhistory.com/download-55-15395) by jdooby  
