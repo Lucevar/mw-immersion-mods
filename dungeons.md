@@ -1,7 +1,7 @@
 ---
 Title: Dungeons
 ---
-**Updated**: 2019/06/08
+**Updated**: 2021/09/18
 
 **Contents:**
 - [General Replacers](#replacers)
@@ -388,6 +388,9 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Shishi**  
 **Sulipund**  
 **Vas**  
+
+## <a name="shipwrecks"></a>Shipwrecks
+[**Uncharted Artifacts**](https://www.nexusmods.com/morrowind/mods/49281) by XeroFoxx  
 
 ## <a name="tribunal"></a>Tribunal
 **Sewers**  
