@@ -8,6 +8,21 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - April 15th
+[**Try Before You Buy**](https://www.nexusmods.com/morrowind/mods/49647) by Virnetch  
+Adds a new button to the barter menu which allows you to try clothing and armor before paying for it. Requires MWSE.
+
+[**Time Shift**](https://www.nexusmods.com/morrowind/mods/49646) by Archimag  
+Bullet-time ability
+
+[**Kickmaster**](https://www.nexusmods.com/morrowind/mods/49642) by Archimag  
+The ability to make a kick that deals minor damage to health and stamina and knocks the enemy back
+
+[**Dash**](https://www.nexusmods.com/morrowind/mods/49640) by Archimag  
+The ability to do dash - fast forward, backward or sideways movement
+
+[**Frenzy n'wahs**](https://www.nexusmods.com/morrowind/mods/49638) by Archimag  
+Frenzy spells make enemies attack everyone around
+
 [**Stats**](https://www.nexusmods.com/morrowind/mods/49629) by JaceyS  
 Basic implementation of game statistics through MWSE Lua.
 
