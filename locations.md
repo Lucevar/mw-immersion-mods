@@ -76,6 +76,7 @@
 [**Odai River**](https://www.nexusmods.com/morrowind/mods/45207) by multiple  
 [**Vanilla-friendly West Gash Tree Replacer**](https://www.nexusmods.com/morrowind/mods/44173/) by Melchior Dahrk  
 [**The Stonewood Pass Reworked**](https://www.nexusmods.com/morrowind/mods/49464) by RandomPal  
+[**Immersive Drulene Falen's Hut**](https://www.nexusmods.com/morrowind/mods/49623) by RandomPal  
 
 ## Grazelands
 [**Trackless Grazelands**](https://www.nexusmods.com/morrowind/mods/44194) by R-zero  
