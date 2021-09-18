@@ -12,6 +12,9 @@ Randomise everything!
 
 [**Tidy Charsheet**](https://www.nexusmods.com/morrowind/mods/45939) by Petethegoat  
 
+[**What Are My Attributes**](https://www.nexusmods.com/morrowind/mods/49912) by RingComics  
+Adds an Attribute and Description widget to the Race menu so you can better plan your character.
+
 [**Merlords Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795) by Merlord  
 After chargen (vanilla or modded) ends, this mod adds an extra step: choose your character's background. Some are simple stat boosts/maluses, others add scripted events such as challengers seeking to challenge a Famed Warrior or the Framed background which boosts your stealth skills at the cost of sometimes finding yourself with a bounty on your head. It really adds an interesting extra dimension to character generation.  
 
