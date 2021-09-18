@@ -146,3 +146,13 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 120. [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
 121. [**Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236) by Melchior Dahrk  
 122. [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605) by Melchior Dahrk  
+123. [**OAAB Data**](https://www.nexusmods.com/morrowind/mods/49042) by OAAB Team  
+124. [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Project Tamriel & Tamriel Rebuilt Team  
+125. [**OAAB Integrations**](https://www.nexusmods.com/morrowind/mods/49045) by OAAB Team  
+-- OAAB Creature Loot
+-- OAAB Dark Temptations
+-- OAAB Golden Reeds
+-- OAAB Leveled Creatures
+-- OAAB Leveled Lists
+-- OAAB Scroll Qualities
+126. blahblah
