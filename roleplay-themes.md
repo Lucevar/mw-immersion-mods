@@ -13,6 +13,7 @@ See [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/cha
 [**House Dagoth Outfit**](http://mw.modhistory.com/download-4-5681) by Alvirdimus  
 [**Dagoth Ur Welcomes You**](https://www.nexusmods.com/morrowind/mods/44204) by Digmen  
 [**Dagoth Valmyn Ash Zombie Companion**](https://www.nexusmods.com/morrowind/mods/44749) by TheDrunkenMudcrab  
+[**Joinable Sixth House - So To Speak**](https://www.nexusmods.com/morrowind/mods/49778) by Alice  
 
 # Abolitionist 
 **Note**: Mostly *not* compatible with each other - double check! Twin Lamps and Slave Escort are reportedly 'mostly' compatible. 
