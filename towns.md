@@ -206,6 +206,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 [**That one mod that adds a unique look to the puzzle box**]()  
 [**Village of Tel Fyr**](https://www.nexusmods.com/morrowind/mods/43988) by hlaalu66  
 [**Out of the Fyring Pan - Into The Fyr**](https://www.nexusmods.com/morrowind/mods/49439) by Mark  
+[**The Corprusarium Experience**](https://www.nexusmods.com/morrowind/mods/49738) by Duo Dinamico  
 
 # Grazelands
 ## Tel Vos
@@ -293,6 +294,7 @@ Alternatively, [**Vvardenfell Revisited - Khuul**](https://www.nexusmods.com/mor
 [**Caldera Windmills**](http://mw.modhistory.com/download-80-6218) by Ayse  
 [**Cozy Caldera**](https://www.nexusmods.com/morrowind/mods/49366) by Mika  
 [**Izi Cities - Caldera**](https://www.nexusmods.com/morrowind/mods/49431) by Izi  
+[**Elegant Verick Gemain's Shop**](https://www.nexusmods.com/morrowind/mods/49729) by RandomPal  
 
 Alternatively, [**Vvardenfell Revisited - Caldera**](https://www.nexusmods.com/morrowind/mods/45182) by EnnetWinterhoof or [**Improved Caldera**](https://www.nexusmods.com/morrowind/mods/45000) by sorcerorsorceror, [**Varo Manor**](https://www.nexusmods.com/morrowind/mods/42924), [**The Doors - Caldera**](https://www.nexusmods.com/morrowind/mods/42511) by Arcimaestro Antares and WH-Reaper. 
 
