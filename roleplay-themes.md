@@ -38,6 +38,8 @@ See [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/cha
 [**Vaba-Amus Companion**](https://www.nexusmods.com/morrowind/mods/45711) by TheDrunkenMudcrab  
 [**Drinks at Desele's**](https://calezane.home.xs4all.nl/mw/mwmods.htm) by Calezane  
 [**Errands for Orvas**](https://calezane.home.xs4all.nl/mw/mwmods.htm) by Calezane  
+[**Skoomaesthesia**](https://www.nexusmods.com/morrowind/mods/49920) by Merlord and XeroFoxx  
+
 
 
 # Alcohol
