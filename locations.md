@@ -22,6 +22,7 @@
 [**OAAB - The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/49047) by Remiros  
 [**Valley of the Wind Unfenced**](https://www.nexusmods.com/morrowind/mods/47563) by Lucevar  
 [**Eye of the Needle**](https://www.nexusmods.com/morrowind/mods/49399) by Markond  
+[**The Beacon of St Rilms**](https://www.nexusmods.com/morrowind/mods/49515) by Markond  
 
 ## Molag Amur
 [**Shrine of Mount Assarnibi**](https://www.nexusmods.com/morrowind/mods/46858) by istreddify  
@@ -64,6 +65,7 @@
 [**Less Disclosed Addamasartus**](https://www.nexusmods.com/morrowind/mods/49271) by RandomPal  
 [**OAABandoned Shack**](https://www.nexusmods.com/morrowind/mods/49294) by VvardenfellStormSage  
 [**An Abandoned Shack is your home**](https://www.nexusmods.com/morrowind/mods/49351) by Mika  
+[**Seamless Abandoned Shack**](https://www.nexusmods.com/morrowind/mods/49527) by RandomPal  
 
 ## West Gash
 [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187)  
