@@ -98,3 +98,4 @@ Removes level requirements for a number of quests.
 [**The Redoran Amulet**](https://www.nexusmods.com/morrowind/mods/49501) by Endify  
 [**Secrets of Vos**](https://www.nexusmods.com/morrowind/mods/49736) by CCM  
 [**The Weary Vampire**](https://www.nexusmods.com/morrowind/mods/49774) by Operator Jack  
+[**Supply Chain**](https://www.nexusmods.com/morrowind/mods/49802) by Denina  
