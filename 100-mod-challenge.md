@@ -131,3 +131,5 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 105. [**The Guar Whisperer**](https://www.nexusmods.com/morrowind/mods/48247) by Merlord  
 106. [**Misc Mates**](https://www.nexusmods.com/morrowind/mods/48122) by Merlord  
 107. [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150) by R-Zero  
+108. [**Illustrated ABCs for Barbarians**](https://www.nexusmods.com/morrowind/mods/49310) by XeroFoxx  
+109. [**Bound Spells Reforged**](https://www.nexusmods.com/morrowind/mods/48750) by Kurpulio  
