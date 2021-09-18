@@ -8,6 +8,24 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - April 15th
+[**Auriel's Bow Revamped**](https://www.nexusmods.com/morrowind/mods/49782) by Safebox  
+Upgrades Auriel's Bow with 3 one-hit arrows with a 24 hour cooldown.
+
+[**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654) by Anumaril  
+CSO is a dynamic, customizable sound overhaul of the movement, combat, and item sounds of Morrowind.
+
+[**Combo Master**](https://www.nexusmods.com/morrowind/mods/49775) by Archimag  
+Perform fast combo attacks!
+
+[**Ancestral Tomb Amulets (MWSE)**](https://www.nexusmods.com/morrowind/mods/49779) by kindi  
+Amulets belonging to each family that grants immense magic. Collect all of them for an achievement.  
+
+[**Clear Sight**](https://www.nexusmods.com/morrowind/mods/49780) by tewlwolow  
+A simple HUD mod that's on when you need it, and off when you don't.
+
+[**Welcome to Morrowind MWSE**](https://www.nexusmods.com/morrowind/mods/49772) by Stripes  
+MWSE recursive cliffracer mod
+
 [**Pop A Squat**](https://www.nexusmods.com/morrowind/mods/49753) by Uncle Boss  
 Press a hotkey to pop a squat.
 
