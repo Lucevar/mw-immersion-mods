@@ -79,6 +79,8 @@ Duke's Silver Armor:
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
 [**Vaernis' Armor and Shields**](https://www.nexusmods.com/morrowind/mods/49693) by Danae  
+[**Silaria's Clothes for Wares**](https://www.nexusmods.com/morrowind/mods/49730) by Danae  
+[**Aleanne's Clothes for Wares**](https://www.nexusmods.com/morrowind/mods/49732) by Danae  
 
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
@@ -88,3 +90,4 @@ Duke's Silver Armor:
 # Weapons 
 [**Daedric Estoc**](https://www.nexusmods.com/morrowind/mods/49620) by insicht  
 [**Killing Spree Helluva Ways to Kill**](https://www.nexusmods.com/morrowind/mods/49668) by Danae  
+[**Tamrielic Tomahawks**](https://www.nexusmods.com/morrowind/mods/49720) by Stripes  
