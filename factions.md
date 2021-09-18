@@ -5,6 +5,9 @@ This list doesn't attempt to be comprehensive (there have been a *lot* of mods m
 Descriptions are generally the mod author's (taken straight from the mod page) - my additions are marked as such:  
 __*Lucevar's Note*__  
 
+# General
+[**Imperial Factions**](https://www.nexusmods.com/morrowind/mods/49855) by Danae  
+
 # Dunmer Great Houses & Temple
 ## Great House Hlaalu
 [**Roleplay Options for House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208?tab=posts) by Caeris & Luj1  
