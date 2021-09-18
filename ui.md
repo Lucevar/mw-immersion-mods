@@ -83,6 +83,7 @@ No saving in battle!
 [**Vvardenfell Map Splash Screen and Main Menu**](https://www.nexusmods.com/morrowind/mods/49245) by k1349  
 [**Monopteryx Loading Screens**](https://www.nexusmods.com/morrowind/mods/49590) by Varlothen  
 [**Nordman's Splash Screens**](https://www.nexusmods.com/morrowind/mods/49577) by Nordman  
+[**Color Vvardenfell Map Manu and Splash Screens**](https://www.nexusmods.com/morrowind/mods/49930) by Aitrus  
 
 ## Main Menu Replacers
 [**Animated Main Menu for Morrowind**](https://www.nexusmods.com/morrowind/mods/43341?tab=description) by Mikeandike  
@@ -102,4 +103,4 @@ No saving in battle!
 [**Main Menu Replacer 2021**](https://www.nexusmods.com/morrowind/mods/49329) by Demanufacturer87  
 [**Vvardenfell Map Splash Screen and Main Menu**](https://www.nexusmods.com/morrowind/mods/49245) by k1349  
 [**Vanilla Animated Main Menu Like Xbox**](https://www.nexusmods.com/morrowind/mods/49581) by Leyawynn  
-
+[**Color Vvardenfell Map Manu and Splash Screens**](https://www.nexusmods.com/morrowind/mods/49930) by Aitrus  
