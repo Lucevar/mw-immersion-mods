@@ -8,6 +8,15 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - April 15th
+[**Arrow Catch**](https://www.nexusmods.com/morrowind/mods/49904) by Stripes  
+Player and NPCs can catch or block arrows, bolts, and thrown weapons. Requires MWSE
+
+[**What Are My Attributes**](https://www.nexusmods.com/morrowind/mods/49912) by RingComics  
+Adds an Attribute and Description widget to the Race menu so you can better plan your character.
+
+[**The Vampire Hunter's Legacy**](https://www.nexusmods.com/morrowind/mods/49913) by VvardenfellStormSage  
+This mod adds a dead vampire hunter in the Galom Daeus Observatory, top level with some loot perfect for vamp or mage hunters... Requires MWSE if you want the crossbow pistol to fire only stakes...
+
 [**Mantle of Ascension - Climbing Mod**](https://www.nexusmods.com/morrowind/mods/49870) by Vtastek  
 This mod adds basic mantling. You can now climb onto obstacles given they are within reach. This includes getting out of water and steep surfaces as long as they are not 90 degrees vertical unless you can catch a dent or bump on them.
 
