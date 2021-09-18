@@ -28,6 +28,8 @@
 [**Cluttered Decks**](https://www.nexusmods.com/morrowind/mods/49325) by Tel Shadow  
 [**Taddeus Foods of Tamriel**](https://www.nexusmods.com/morrowind/mods/49388) by Danae  
 [**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373) by RandomPal  
+[**Telvanni Travel Network**](https://www.nexusmods.com/morrowind/mods/49443) by RandomPal  
+[**Magical Lights for Telvanni**](https://www.nexusmods.com/morrowind/mods/49453) by RandomPal  
 
 # Tamriel Rebuilt
 [**Unique Tavern Signs for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/46794) by Rats  
@@ -127,6 +129,7 @@ Has a version which is compatible with Dramatic Vivec
 [**Dramatic Temple Canton**](https://www.nexusmods.com/morrowind/mods/49286) by RandomPal  
 [**Compatible Redesigned Vivec**](https://www.nexusmods.com/morrowind/mods/49336) by GlitterGear  
 [**Higher Ministry of Truth**](https://www.nexusmods.com/morrowind/mods/49415) by RandomPal  
+[**Baar Dau**](https://www.nexusmods.com/morrowind/mods/49456) by RandomPal  
 
 [**Canalworks Connected**](https://www.nexusmods.com/morrowind/mods/47354) by iLoveOnFear  
 [**Jobasha's Rare Books Expanded**](https://www.nexusmods.com/morrowind/mods/45153) twgear2  
@@ -159,6 +162,7 @@ These affect different parts of Ebonheart and are therefore compatible.
 ## Tel Branora
 [**RR - Tel Branora Lighthouse**](https://www.nexusmods.com/morrowind/mods/42664) by Resdayn Revival Team  
 [**Sethan's Improvements**](https://www.nexusmods.com/morrowind/mods/48693?tab=description) by OrangeSCi55or  
+[**Fairy Tel Branora**](https://www.nexusmods.com/morrowind/mods/49435) by Mika  
 
 ## Sadrith Mora
 [**Sadrith Mora - Seat of Power of House Telvanni**](https://www.nexusmods.com/morrowind/mods/48689) by RandomPal  
@@ -173,6 +177,7 @@ A mega-merge of most of the popular Sadrith Mora mods, edited for performance an
 [**The Merchants of Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/48654) by Lucevar  
 [**The Great Master Neloth**](https://www.nexusmods.com/morrowind/mods/49268) by Dormy  
 [**Telvanni Council House Lounge Room**](https://www.nexusmods.com/morrowind/mods/49285) by RandomPal  
+[**Telvanni Lighthouse in Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/49461) by RandomPal  
 
 [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by Mort  
 Have you ever thought that Wolverine Hall must have been designed by Sheogorath, specifically to frustrate you? So did mort. So he fixed it (and gave the mages some beds while he was at it.)  
@@ -181,12 +186,16 @@ Have you ever thought that Wolverine Hall must have been designed by Sheogorath,
 You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/44746), [**More Detailed Places - Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/30150), [**Sadrith Mora Expanded**](https://www.nexusmods.com/morrowind/mods/44113), or [**Epic Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/43057).
 
 ## Tel Aruhn
+[**Tel Aruhn Chronicles**](https://www.nexusmods.com/morrowind/mods/49171) by Team Lazy Lame Corprus Stalkers  
+[**Verdant Tel Aruhn**](https://www.nexusmods.com/morrowind/mods/49447) by Mika  
+[**Tel Aruhn Shroom Gate**](https://www.nexusmods.com/morrowind/mods/49586) by Vegetto  
 
 ## Tel Fyr / Divayth
 [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977) by Gavrilo93  
 [**Divayth Fyr Puzzle Fixed**](https://www.nexusmods.com/morrowind/mods/45155) by Remiros  
 [**That one mod that adds a unique look to the puzzle box**]()  
 [**Village of Tel Fyr**](https://www.nexusmods.com/morrowind/mods/43988) by hlaalu66  
+[**Out of the Fyring Pan - Into The Fyr**](https://www.nexusmods.com/morrowind/mods/49439) by Mark  
 
 # Grazelands
 ## Tel Vos
@@ -201,6 +210,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by Melchior Dahrk    
 [**Vos X**](https://www.nexusmods.com/morrowind/mods/46959) by Pinsvinn  
 [**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729) by Tyddyner and Melchior Dahrk  
+[**Romantic Vos**](https://www.nexusmods.com/morrowind/mods/49418) by Mika  
 
 ## Tel Mora
 [**Of Ash and Blight - Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
@@ -222,6 +232,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 [**Dagon Fel Mill**](https://www.nexusmods.com/morrowind/mods/42981) by Kursan  
 [**More Detailed Places - Dagon Fel**](https://www.nexusmods.com/morrowind/mods/30047) by Ragox  
 [**Sheogorad - Groves of the North**](https://www.nexusmods.com/morrowind/mods/48240) by Tapetenklaus  
+[**Foggy and Sinister Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49429) by Mika  
 
 ## Ald Redaynia  
 [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646) by R-Zero    
@@ -241,6 +252,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 [**Heart of the Velothi -- Gnisis**](https://www.nexusmods.com/morrowind/mods/47978) by HOTV Team  
 [**Lightweight Concept Art Gnisis**](https://www.nexusmods.com/morrowind/mods/48659/) by RandomPal  
 [**TM - New Gnisis**](https://www.nexusmods.com/morrowind/mods/42235) by Trancemaster  
+[**Blessed Gnisis**](https://www.nexusmods.com/morrowind/mods/49423) by Mika  
 
 ## Ald Velothi
 [**Tales of Ald Velothi**](https://www.nexusmods.com/morrowind/mods/47276) by Team Balmora Bandits  
@@ -265,6 +277,7 @@ Alternatively, [**Vvardenfell Revisited - Khuul**](https://www.nexusmods.com/mor
 [**Caldera Mine - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47260) by Tel Shadow  
 [**Caldera Windmills**](http://mw.modhistory.com/download-80-6218) by Ayse  
 [**Cozy Caldera**](https://www.nexusmods.com/morrowind/mods/49366) by Mika  
+[**Izi Cities - Caldera**](https://www.nexusmods.com/morrowind/mods/49431) by Izi  
 
 Alternatively, [**Vvardenfell Revisited - Caldera**](https://www.nexusmods.com/morrowind/mods/45182) by EnnetWinterhoof or [**Improved Caldera**](https://www.nexusmods.com/morrowind/mods/45000) by sorcerorsorceror, [**Varo Manor**](https://www.nexusmods.com/morrowind/mods/42924), [**The Doors - Caldera**](https://www.nexusmods.com/morrowind/mods/42511) by Arcimaestro Antares and WH-Reaper. 
 
@@ -316,6 +329,7 @@ Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014)
 [**Maar Gan Extended**](http://mw.modhistory.com/download-1-11437) by ManualIntelligence  
 [**Morvayn Manor in Maar Gan**](https://www.nexusmods.com/morrowind/mods/48024) by Alice  
 [**Mystical and Religious Maar Gan**](https://www.nexusmods.com/morrowind/mods/49369) by Mika  
+[**Inscribed Maar Gan Rock**](https://www.nexusmods.com/morrowind/mods/49426) by Leyawynn  
 
 # Molag Mar
 [**Fortified Molag Mar**](https://www.nexusmods.com/morrowind/mods/47270) by Team Voluptuous Velks  
