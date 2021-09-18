@@ -7,7 +7,34 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
-# New since January 12th 2021 - April 15th
+# New since January 12th 2021 - September 18th 2021  
+[**Jay's Place Swap and One Time Move**](https://www.nexusmods.com/morrowind/mods/50231) by bigJayB  
+Press Ctrl+Q to make NPCs wander around for 3 seconds. Press Shift+Q to swap places with an NPC. Only works if NPC is not in combat. Hotkey can be configured in the MCM.
+
+[**Bonk - The Non-Lethal Stealth Takedowns mod for Pacifists**](https://www.nexusmods.com/morrowind/mods/50227) by DuskWulf  
+Furthering making pacifistic stealth a viable way to play in Morrowind, this mod allows you to do stealthy takedowns along with means of dealing with your adversaries that aren't murder.
+
+[**inom - User Interface hider**](https://www.nexusmods.com/morrowind/mods/50218) by isNaN  
+Hides the interface when you don't need it. Differs between hiding everything, showing everything, or just showing the crosshair based on a ruleset.
+
+[**Mod List**](https://www.nexusmods.com/morrowind/mods/50214) by abot  
+A MWSE-Lua MCM panel to see and copy to Windows clipboard your current standard mods loading order + your loaded MWSE-Lua mods, so you can easily paste it online in case of problems.
+
+[**Enchanted Weapons Resistance**](https://www.nexusmods.com/morrowind/mods/50194) by Virnetch  
+Using MWSE-Lua Automatically changes the Ignore normal weapon resistance flag for all enchanted weapons and ammunition to be the same as an unenchanted item with the same mesh. Blocks cast-on-strike enchantments from triggering when the item has no effect on the target.
+
+[**Loanable Funds**](https://www.nexusmods.com/morrowind/mods/50188) by Ket Golosov  
+Provides your character an option to take a loan from a pawnbroker.
+
+[**Animate Weapon Spell**](https://www.nexusmods.com/morrowind/mods/50165) by Archimag & Kurpulio  
+New conjuration spell to command your army of weapons.
+
+[**Controlled Weapon Enchants**](https://www.nexusmods.com/morrowind/mods/50142) by Archimag & Kurpulio    
+'Cast When Strikes' weapon enchants will only release a charge when wanted, controlled by toggle on/off button.
+
+[**A Sinking Feeling**](https://www.nexusmods.com/morrowind/mods/50113) by Celediel  
+No longer can you swim in heavy plate; now your armour, equipment, or carried items drag you down while swimming. Options exist for formulas based on equipped armour weight class, total equipment weight, or encumbrance percentage.
+
 [**Magnificent Soul Gems**](https://www.nexusmods.com/morrowind/mods/50110) by Ekanselttar  
 A MWSE mod adding a new tier of high-capacity soul gems. This is intended to free up Azura's Star for general use or allow display of multiple large souls at once.
 
