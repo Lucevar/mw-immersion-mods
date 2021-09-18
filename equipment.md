@@ -78,7 +78,7 @@ Duke's Silver Armor:
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
-
+[**Vaernis' Armor and Shields**](https://www.nexusmods.com/morrowind/mods/49693) by Danae  
 
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
