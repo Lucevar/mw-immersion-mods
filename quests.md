@@ -1,17 +1,17 @@
 # Quests 
 # Vanilla Quest Changes
 ## General
-[**The Pretty Reckless**](https://www.nexusmods.com/morrowind/mods/46970) by Gavrilo93  
+[**The Pretty Reckless**](https://www.nexusmods.com/morrowind/mods/46970) by Alice  
 Removes level requirements for a number of quests.  
 [**Freelancer**](http://mw.modhistory.com/download-90-8164) by Tomas  
 [**Cutting Room Floor**](https://www.nexusmods.com/morrowind/mods/47307) by CiceroTR  
 
 ## Choices and Consequences
-[**The Corpse and the Skooma Pipe Overhaul**](https://www.nexusmods.com/morrowind/mods/46696) by Gavrilo93  
-[**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Gavrilo93  
+[**The Corpse and the Skooma Pipe Overhaul**](https://www.nexusmods.com/morrowind/mods/46696) by Alice  
+[**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Alice  
 [**Quest Tweaks and Alternatives**]() by Stuporstar  
 [**Zelazko's Fighters Guild Quest Options**](https://www.nexusmods.com/morrowind/mods/47196) by Zelazko  
-[**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995) by Gavrilo93  
+[**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995) by Alice  
 [**Museum Quest Finisher**](https://www.nexusmods.com/morrowind/mods/47139) by Necrolesian  
 [**Stormkiss Reforged**](https://www.nexusmods.com/morrowind/mods/44565) by Gevalt and Enclavekiller  
 [**Courtesy**](https://www.nexusmods.com/morrowind/mods/46781) by chantox  
@@ -23,8 +23,9 @@ Removes level requirements for a number of quests.
 
 ## Main Quest Mods
 [**Main Quest Enhancers**](https://www.nexusmods.com/morrowind/mods/41337) by Trainwiz  
-[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
+[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Alice  
 [**Past Life Regressions**](https://www.nexusmods.com/morrowind/mods/49315) by Alice  
+[**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602/) by Alice  
 
 ## Post Main Quest Mods
 [**Vivec's Fate: The Ashlander Heresy**](http://mw.modhistory.com/download-53-10736) by Brother Juniper  
@@ -33,12 +34,12 @@ Removes level requirements for a number of quests.
 [**Blades Quest: Prophecy of the Lost Heir**](http://lovkullen.net/Emma/blade.htm) by Emma  
 [**Exterminate All Brutes**](https://www.nexusmods.com/morrowind/mods/49322) by Alice  
 
-
 ## Factions
 [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von Django  
 [**Dagon Fel Mages Guild**](https://www.nexusmods.com/morrowind/mods/44576/?)
 [**Strike at the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/46865) by ProfArmitage  
 [**South Wall, Den of Iniquity**]()  
+[**Therana vs Trerayna**](https://www.nexusmods.com/morrowind/mods/49332) by Alice  
 
 # New Quests, Vanilla Npcs
 [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
