@@ -8,6 +8,18 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - April 15th
+[**HUD Encumbrance Bar**](https://www.nexusmods.com/morrowind/mods/49608) by OperatorJack  
+Adds a 4th statistic bar to the player HUD, representing current encumbrance.
+
+[**Thrown Projectiles Revamped**](https://www.nexusmods.com/morrowind/mods/49609) by Discontinuous Qualia  
+Using MWSE, this mod corrects an oversight which causes thrown projectiles to inflict twice their listed damage.
+
+[**Dynamic Book Size Adjuster**](https://www.nexusmods.com/morrowind/mods/49610) by Merlord  
+Adjusts the scale of placed books to a more realistic size.
+
+[**Jay's Fletching for Go Fletch**](https://www.nexusmods.com/morrowind/mods/49611) by bigJayB  
+This mod adds recipes for crafting corkbulb, ebony, and daedric fletchery, along with the newly introduced TRAMA ROOT set!
+
 [**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557) by Merlord  
 Dropped items and corpses are automatically positioned and oriented to align with the ground.
 
