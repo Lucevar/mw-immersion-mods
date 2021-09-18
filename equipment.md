@@ -79,6 +79,7 @@ Duke's Silver Armor:
 [**SM Beetle Helmet**](https://www.nexusmods.com/morrowind/mods/49795) by ShadowMimicry  
 [**Clothiers of Vvardenfell Redux - BCOM Patch**](https://www.nexusmods.com/morrowind/mods/50007) by B00ze  
 [**Complete and Revised Nordic Iron Armor**](https://www.nexusmods.com/morrowind/mods/50166) by RuffinVangarr  
+[**Indy Gear**](https://www.nexusmods.com/morrowind/mods/50210) by Danae  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
