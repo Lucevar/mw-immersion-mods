@@ -8,6 +8,12 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - April 15th
+[**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029) by NullCascade  
+Carries over unique item information, such as condition and script data when enchanting items.
+
+[**Better Sorting Names MWSE**](https://www.nexusmods.com/morrowind/mods/50018) by Booze  
+This is a MWSE script that renames some items in Morrowind so that they sort together in your inventory and in your containers.
+
 [**Weapon Sheathing - Two handed long blade sheath position edit**](https://www.nexusmods.com/morrowind/mods/50014) by profile011  
 Edits the position of sheathed two-handed long blade weapons in Weapon Sheathing from your back to your waist.
 
