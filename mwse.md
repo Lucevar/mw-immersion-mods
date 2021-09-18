@@ -8,6 +8,18 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - April 15th
+[**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941) by Necrolesian  
+Renames propylon indexes so they'll group together in the inventory.
+
+[**Bound Leggings for Beasts**](https://www.nexusmods.com/morrowind/mods/49939) by GreyWyvern  
+Adds the Spell "Bound Leggings" to the game, which is castable/wearable by beast races.
+
+[**Deadly Combat Exhaustion**](https://www.nexusmods.com/morrowind/mods/49925) by UncleBoss  
+When an actor's (player or otherwise) stamina drops to <=1, all attacks on that actor will land 100% of the time.
+
+[**Skoomaesthesia**](https://www.nexusmods.com/morrowind/mods/49920) by Merlord and XeroFoxx  
+Adds new skooma mechanics including animated skooma pipe smoking, psychedelic shaders and sound effects, and skooma addiction.
+
 [**Arrow Catch**](https://www.nexusmods.com/morrowind/mods/49904) by Stripes  
 Player and NPCs can catch or block arrows, bolts, and thrown weapons. Requires MWSE
 
