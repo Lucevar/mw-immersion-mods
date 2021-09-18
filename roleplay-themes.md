@@ -40,8 +40,6 @@ See [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/cha
 [**Errands for Orvas**](https://calezane.home.xs4all.nl/mw/mwmods.htm) by Calezane  
 [**Skoomaesthesia**](https://www.nexusmods.com/morrowind/mods/49920) by Merlord and XeroFoxx  
 
-
-
 # Alcohol
 * [**The Brew Master**](https://www.nexusmods.com/morrowind/mods/45472) by Merlord  
 * [**Immersive Alcohol**](https://www.nexusmods.com/morrowind/mods/45589) by Merlord  
@@ -166,6 +164,7 @@ Includes an Argonian companion
 Farmer mod
 
 # Gambler
+[**Flip a coin**](https://www.nexusmods.com/morrowind/mods/49933) by Discontinuous Qualia  
 [**Gambling Table (Roulette Wheel) from Arx Fatalis**](https://www.nexusmods.com/morrowind/mods/49436) by Adflixit  
 
 # Healer
