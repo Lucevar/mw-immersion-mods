@@ -75,6 +75,8 @@
 [**Seamless Abandoned Shack**](https://www.nexusmods.com/morrowind/mods/49527) by RandomPal  
 [**Graht Morrowind Swamp Trees**](https://www.nexusmods.com/morrowind/mods/49771) by Melchior Dahrk  
 [**Justice for Khartag (J.F.K)**](https://www.nexusmods.com/morrowind/mods/49832) by Duo Dinamico  
+[**Static Scum Pond Remover**](https://www.nexusmods.com/morrowind/mods/50140) by MoosFab  
+[**Morrowind Swamp Trees**](https://www.nexusmods.com/morrowind/mods/50151) by Vegetto  
 
 ## West Gash
 [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187)  
@@ -86,6 +88,8 @@
 [**The Stonewood Pass Reworked**](https://www.nexusmods.com/morrowind/mods/49464) by RandomPal  
 [**Immersive Drulene Falen's Hut**](https://www.nexusmods.com/morrowind/mods/49623) by RandomPal  
 [**Rocky West Gash**](https://www.nexusmods.com/morrowind/mods/50109) by Malbogatra  
+[**Rocky West Gash Compatibility Version**](https://www.nexusmods.com/morrowind/mods/50150) by Bluttier  
+[**Rocky West Gash Aggressively Compatible Version**](https://www.nexusmods.com/morrowind/mods/50161) by Markond  
 
 ## Grazelands
 [**Trackless Grazelands**](https://www.nexusmods.com/morrowind/mods/44194) by R-zero  
