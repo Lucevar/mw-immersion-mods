@@ -69,6 +69,7 @@ Duke's Silver Armor:
 [**Racer Dust Arms and Armor**](https://www.nexusmods.com/morrowind/mods/49485) by Ashtaar  
 [**Redoran Exile Armor**](https://www.nexusmods.com/morrowind/mods/49509) by RuffinVangarr  
 [**Redoran Hortator Armor Chest**](https://www.nexusmods.com/morrowind/mods/49498) by Stripes  
+[**Concept Art Daedric Helmets**](https://www.nexusmods.com/morrowind/mods/49534) by RuffinVangarr  
 
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
