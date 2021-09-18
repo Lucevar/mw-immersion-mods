@@ -143,3 +143,6 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 117. [**Douse the Lights**](https://www.nexusmods.com/morrowind/mods/47980) by OperatorJack  
 118. [**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948) by OperatorJack  
 119. [**The Blight**](https://www.nexusmods.com/morrowind/mods/49504) by OperatorJack and Greatness7  
+120. [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
+121. [**Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236) by Melchior Dahrk  
+122. [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605) by Melchior Dahrk  
