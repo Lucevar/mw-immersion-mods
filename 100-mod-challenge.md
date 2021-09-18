@@ -69,3 +69,21 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 -- 00 Core  
 -- 01 Optional Worldspace Edits - Fargoth's Ring Unbarrelled  
 47. [**Thickle-Lo**](https://www.nexusmods.com/morrowind/mods/47502) by Melchior Dahrk  
+48. [**Django's Dialogue**](https://www.nexusmods.com/morrowind/mods/47253) by Von Djangos  
+49. [**What Thieves Guild?**](https://www.nexusmods.com/morrowind/mods/47728) by Von Djangos  
+50. [**Nastier Camonna Tong**](https://www.nexusmods.com/morrowind/mods/22601) by Von Djangos  
+51. [**Raym's Vampire Rumors**](https://www.nexusmods.com/morrowind/mods/48469) by Raym  
+52. [**Local Lore - Silt Striders and Caravaners**](https://www.nexusmods.com/morrowind/mods/48063) by Kilcunda  
+53. [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
+54. [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-zero  
+55. [**Idle Talk**](https://www.nexusmods.com/morrowind/mods/46948) by Von Djangos  
+56. [**Sleepers Awake**](https://www.nexusmods.com/morrowind/mods/37208) by Von Djangos  
+57. [**So, You're The Nerevarine**](https://www.nexusmods.com/morrowind/mods/46896) by vekhofficial  
+58. [**Outlander Yourself**](https://www.nexusmods.com/morrowind/mods/45674) by rot  
+59. [**Corprus Natives**](https://www.nexusmods.com/morrowind/mods/45674) by rot  
+60. [**Great Service**](https://www.nexusmods.com/morrowind/mods/47767) by Von Djangos  
+61. [**It's a Deal**](https://www.nexusmods.com/morrowind/mods/47968) by Von Djangos and Petethegoat  
+62. [**Empty Threats Disabler**](https://www.nexusmods.com/morrowind/mods/44671) by rot  
+63. [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603) by R-zero  
+64. [**AURA**](https://www.nexusmods.com/morrowind/mods/48255) by tewlwolow  
+65. [**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654) by Anumaril  
