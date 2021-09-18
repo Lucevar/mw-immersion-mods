@@ -63,6 +63,8 @@ Duke's Silver Armor:
 [**Altmer Glass Armor**](https://www.nexusmods.com/morrowind/mods/49335) by RuffinVangarr  
 [**Robe of the Drake's Pride**](https://www.nexusmods.com/morrowind/mods/49417) by Archimaestro Antares  
 [**Robe of the Drake's Pride - Recolored**](https://www.nexusmods.com/morrowind/mods/49420) by Jasper  
+[**New Imperial Helms**](https://www.nexusmods.com/morrowind/mods/49448) by grVulture  
+[**Crusaders of Tamriel**](https://www.nexusmods.com/morrowind/mods/49449) by grVulture  
 
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
