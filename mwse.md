@@ -8,6 +8,18 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - April 15th
+[**Shield Spells Reforged**](https://www.nexusmods.com/morrowind/mods/50073) by Kurpulio  
+Visual overhaul of Elemental Shield spells, with additional on-hit effects
+
+[**Save the Date**](https://www.nexusmods.com/morrowind/mods/50074) by Necrolesian  
+Most Daedric quests can be started only on the Daedric Prince's summoning day - one day a year - and only with an appropriate offering.
+
+[**Dragon Break**](https://www.nexusmods.com/morrowind/mods/50071) by Archimag  
+Wearing the Ring of God, the Nerevarine breaks the Dragon: the flow of time is synchronized with its movements. Time almost stops running if the hero doesn't move. If the hero stands still, but turns to the sides, then time slows down a lot.
+
+[**Fish with Fishing Poles Expansion**](https://www.nexusmods.com/morrowind/mods/50065) by B00ze  
+This is a small ESP file that loads AFTER RacerPlume's Fishing.esp, and a MWSE script that together, aim to make Pole Fishing more useful as a source of food for Ashfall. This Expansion also makes the Pole Fishing skill visible, and ties it to Endurance.
+
 [**Companion Stop**](https://www.nexusmods.com/morrowind/mods/50061) by Stripes  
 Stops all player followers with a single keypress. requires MWSE
 
