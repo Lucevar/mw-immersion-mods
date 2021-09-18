@@ -152,6 +152,7 @@ Has a version which is compatible with Dramatic Vivec
 [**Vivec Tea Room**](https://www.nexusmods.com/morrowind/mods/44320)  
 [**Altar of the High Fane**](https://www.nexusmods.com/morrowind/mods/49631) by FyreAlchemage  
 [**Lively Black Shalk Cornerclub**](https://www.nexusmods.com/morrowind/mods/49840) by Endify  
+[**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916) by seelof  
 
 ## Ebonheart
 These affect different parts of Ebonheart and are therefore compatible.  
@@ -344,6 +345,8 @@ Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014)
 [**Skar Face (Ald ruhn)**](https://www.nexusmods.com/morrowind/mods/49510) by Vegetto  
 [**The OTHER Council Club**](https://www.nexusmods.com/morrowind/mods/49500) by Vidi_Aquam  
 [**Minor Redoran Concept Art Inspired City Enhancement**](https://www.nexusmods.com/morrowind/mods/49495) by Leyawynn  
+[**Mandas Manor**](https://www.nexusmods.com/morrowind/mods/49911) by Endoran  
+[**Redoran Council Overhall**](https://www.nexusmods.com/morrowind/mods/49817) by Leyawynn, Vidi_Aquam, Lucevar  
 
 [**The Doors - Aldruhn**](https://www.nexusmods.com/morrowind/mods/42512) by Arcimaestro Antares and WH-Reaper  
 [**Edwinna's Study**](https://www.nexusmods.com/morrowind/mods/49050) by Whitnedak  
