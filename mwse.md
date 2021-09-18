@@ -8,6 +8,28 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - April 15th
+[**Ultra AI**](https://www.nexusmods.com/morrowind/mods/49670) by Archimag  
+Combat AI overhaul
+
+[**Bomberman**](https://www.nexusmods.com/morrowind/mods/49667) by Archimag  
+Elemental blasts knock enemies back
+
+[**Relevant Rumors**](https://www.nexusmods.com/morrowind/mods/49650) by Elanhant  
+Adds new quest-based "latest rumors" to Morrowind NPCs to make the world feel more alive. As you complete different quests, people around Morrowind will start talking about the related events, reacting based on factors such as their faction and location.
+
+[**Big Icons**](https://www.nexusmods.com/morrowind/mods/49662) by JaceyS  
+Replaces the small 16x16 spell effect icons with your choice of larger icons. Works with your choice of MWSE or OpenMW
+
+[**Control**](https://www.nexusmods.com/morrowind/mods/49659) by Archimag  
+Ability to control magic projectiles and arrows
+
+[**Guarno Coffee**](https://www.nexusmods.com/morrowind/mods/49658) by Merlord  
+A rare Ashlander delicacy, guarno coffee is brewed from partially digested comberries harvested from guar droppings.  
+**Luce note**: I can't believe this is an actual thing I actually have to put on this list... but here we are.  
+
+[**Nwah Shooter - Marksman Overhaul**](https://www.nexusmods.com/morrowind/mods/49657) by Archimag  
+Realistic gravity for arrows. Shaking hands when pulling the string. Multi-shot ability. Arrows stay in objects and ground.
+
 [**Try Before You Buy**](https://www.nexusmods.com/morrowind/mods/49647) by Virnetch  
 Adds a new button to the barter menu which allows you to try clothing and armor before paying for it. Requires MWSE.
 
