@@ -43,3 +43,8 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 27. [**Better Bodies and Westly's Pluginless Replacer**](https://www.nexusmods.com/morrowind/mods/48005) by CarmillaKarnstein  
 28. [**Swappable Texture Signposts**](https://www.nexusmods.com/morrowind/mods/46804) by Stuporstar  
 29. [**Morrowind Containers Animated**](https://www.nexusmods.com/morrowind/mods/42238) by qqqbbb  
+30. [**FMGS - Unique Items Compilation**](https://www.nexusmods.com/morrowind/mods/46433) by PoodleSandwich  
+31. [**FMI - Caius' Big Package**](https://www.nexusmods.com/morrowind/mods/47580) by PoodleSandwich  
+32. [**FMI - The Role They Were To Play**](https://www.nexusmods.com/morrowind/mods/46411) by PoodleSandwich  
+33. **IceNioLiv Robe Replacer** by CanadianIce and NioLiv  
+34. [**Yellow border b-gone Imperial Banner and Flag Retexture**](https://www.nexusmods.com/morrowind/mods/47685) by Leetmorry  
