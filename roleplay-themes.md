@@ -153,6 +153,9 @@ Includes an Argonian companion
 # Farmer
 Farmer mod
 
+# Gambler
+[**Gambling Table (Roulette Wheel) from Arx Fatalis**](https://www.nexusmods.com/morrowind/mods/49436) by Adflixit  
+
 # Healer
 [**Balmora guilds expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
 [**Swamp Fever**](https://www.nexusmods.com/morrowind/mods/46640) by Luccar and Rubberman  
