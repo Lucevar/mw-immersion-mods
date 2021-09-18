@@ -26,6 +26,8 @@
 [**More Wells - An Addon for Ashfall**](https://www.nexusmods.com/morrowind/mods/49088) by RandomPal  
 [**Guilds**](https://www.nexusmods.com/morrowind/mods/49214?tab=description) by Nwahs and Mushrooms Team   
 [**Cluttered Decks**](https://www.nexusmods.com/morrowind/mods/49325) by Tel Shadow  
+[**Taddeus Foods of Tamriel**](https://www.nexusmods.com/morrowind/mods/49388) by Danae  
+[**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373) by RandomPal  
 
 # Tamriel Rebuilt
 [**Unique Tavern Signs for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/46794) by Rats  
@@ -48,6 +50,9 @@
 [**Sotha Sil Expanded - Gestalt Revoiced**](https://www.nexusmods.com/morrowind/mods/43642) by Vulon  
 [**Sotha Sil Expanded Retracted**](https://www.nexusmods.com/morrowind/mods/45756) by mort  
 [**Sotha Sil Expanded - Skip Clockwork City Quests**](https://www.nexusmods.com/morrowind/mods/45826) by grasscid  
+
+# Solstheim  
+[**Walled Skaal**](https://www.nexusmods.com/morrowind/mods/49394) by Tel Shadow  
 
 # Bitter Coast
 ## Seyda Neen
@@ -88,6 +93,7 @@ For a more restrained aesthetic. Adds appropriate clutter to Gnaar Mok but doesn
 [**Vvardenfell Revisited - Pelagiad**](https://www.nexusmods.com/morrowind/mods/46776) by EnnetWinterhoof  
 [**Stav's Boxes - Pelagiad**](https://www.nexusmods.com/morrowind/mods/44075) by Stavroguin/Heinrich  
 [**A Windmill for Pelagiad**](https://mw.modhistory.com/download-15-6555) by   
+[**The Quiet Imperial Pelagiad**](https://www.nexusmods.com/morrowind/mods/49378) by Mika  
 
 ## Suran
 [**White Suran**](https://www.nexusmods.com/morrowind/mods/44153) by Melchior Dahrk  
@@ -202,6 +208,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 ## Molag Mar
 [**Molag Mar X**](https://www.nexusmods.com/morrowind/mods/46273) by SammyB27  
 [**Molag Mar**](https://www.nexusmods.com/morrowind/mods/49005) by N'wahs and Mushrooms  
+[**Sacred Molag Mar - Town of Pilgrims**](https://www.nexusmods.com/morrowind/mods/49392) by Mika  
 
 ## Tel Uvirith
 [**Uvirith's Legacy**](http://stuporstar.sarahdimento.com/updates/downloads/) by Stuporstar
