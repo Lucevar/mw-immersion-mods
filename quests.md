@@ -65,6 +65,7 @@ Removes level requirements for a number of quests.
 [**Redoran Archmaster's Perks**](https://www.nexusmods.com/morrowind/mods/49519) by Mort  
 [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
 [**Crassius Curio Gets Comfortable**](https://www.nexusmods.com/morrowind/mods/49922) by Amazingly Randi  
+[**Thieves Guild Overhaul**](https://www.nexusmods.com/morrowind/mods/49944) by Alice  
 
 # New Quests, Vanilla Npcs
 [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
