@@ -130,3 +130,4 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 104. [**Merlord's Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795) by Merlord  
 105. [**The Guar Whisperer**](https://www.nexusmods.com/morrowind/mods/48247) by Merlord  
 106. [**Misc Mates**](https://www.nexusmods.com/morrowind/mods/48122) by Merlord  
+107. [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150) by R-Zero  
