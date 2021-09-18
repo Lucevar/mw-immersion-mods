@@ -34,6 +34,7 @@ Removes level requirements for a number of quests.
 [**Temple Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528) by rumeely  
 [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
 [**Escort Caius**](https://www.nexusmods.com/morrowind/mods/49691) by Zaria  
+[**Consequences for Looting the Andrano Tomb**](https://www.nexusmods.com/morrowind/mods/49728) by Alice  
 
 ## Post Main Quest Mods
 [**Vivec's Fate: The Ashlander Heresy**](http://mw.modhistory.com/download-53-10736) by Brother Juniper  
@@ -92,3 +93,4 @@ Removes level requirements for a number of quests.
 [**The Redoran Bard**](https://www.nexusmods.com/morrowind/mods/49511) by RingComics  
 [**Cliff Racer Revenge**](https://www.nexusmods.com/morrowind/mods/49506) by Relinquished001  
 [**The Redoran Amulet**](https://www.nexusmods.com/morrowind/mods/49501) by Endify  
+[**Secrets of Vos**](https://www.nexusmods.com/morrowind/mods/49736) by CCM  
