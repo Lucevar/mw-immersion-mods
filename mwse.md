@@ -7,7 +7,7 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
-# New since January 12th 2021 - March 5th
+# New since January 12th 2021 - April 15th
 [**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557) by Merlord  
 Dropped items and corpses are automatically positioned and oriented to align with the ground.
 
