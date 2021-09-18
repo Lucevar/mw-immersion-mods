@@ -78,6 +78,7 @@ Duke's Silver Armor:
 [**Exotics Boutique**](https://mw.modhistory.com/download-80-4764) by Tommy Khajiit  
 [**SM Beetle Helmet**](https://www.nexusmods.com/morrowind/mods/49795) by ShadowMimicry  
 [**Clothiers of Vvardenfell Redux - BCOM Patch**](https://www.nexusmods.com/morrowind/mods/50007) by B00ze  
+[**Complete and Revised Nordic Iron Armor**](https://www.nexusmods.com/morrowind/mods/50166) by RuffinVangarr  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
