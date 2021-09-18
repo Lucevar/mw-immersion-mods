@@ -19,3 +19,5 @@ Includes an Argonian companion
 [**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Alice    
 [**MWSE Enhanced Healer Companion**](https://www.nexusmods.com/morrowind/mods/48678) by Stripes  
 [**Elisamsi Follower**](https://www.nexusmods.com/morrowind/mods/49326) by Alice  
+[**Avni the Ash-Hound**](https://www.nexusmods.com/morrowind/mods/49521) by Tewlwolow  
+[**Keep Gaea Artoria**](https://www.nexusmods.com/morrowind/mods/49533) by Stripes and Zhydrac  
