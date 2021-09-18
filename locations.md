@@ -71,6 +71,7 @@
 ## Bitter Coast  
 [**Rainforrest of the Bitter Coast**](http://mw.modhistory.com/download-53-10251) by the viKING  
 [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
+[**OAAB The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/49047) by Remiros  
 [**The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/48733) by Remiros  
 [**Less Disclosed Addamasartus**](https://www.nexusmods.com/morrowind/mods/49271) by RandomPal  
 [**OAABandoned Shack**](https://www.nexusmods.com/morrowind/mods/49294) by VvardenfellStormSage  
