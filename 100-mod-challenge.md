@@ -42,15 +42,24 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 26. [**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618) by Lucevar  
 27. [**Better Bodies and Westly's Pluginless Replacer**](https://www.nexusmods.com/morrowind/mods/48005) by CarmillaKarnstein  
 28. [**Swappable Texture Signposts**](https://www.nexusmods.com/morrowind/mods/46804) by Stuporstar  
--- 1b Environmental Signposts
+-- 1b Environmental Signposts  
 29. [**Morrowind Containers Animated**](https://www.nexusmods.com/morrowind/mods/42238) by qqqbbb  
 30. [**FMGS - Unique Items Compilation**](https://www.nexusmods.com/morrowind/mods/46433) by PoodleSandwich  
 31. [**FMI - Caius' Big Package**](https://www.nexusmods.com/morrowind/mods/47580) by PoodleSandwich  
 32. [**FMI - The Role They Were To Play**](https://www.nexusmods.com/morrowind/mods/46411) by PoodleSandwich  
 33. **IceNioLiv Robe Replacer** by CanadianIce and NioLiv  
--- PLUS esp
+-- PLUS esp  
 34. [**Yellow border b-gone Imperial Banner and Flag Retexture**](https://www.nexusmods.com/morrowind/mods/47685) by Leetmorry  
 35. [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
 36. [**FMI - Not All Dunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
 37. [**FMBP - Michael Michael Michael**](https://www.nexusmods.com/morrowind/mods/48598) by PoodleSandwich  
 38. [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by PoodleSandwich  
+39. [**Crystal Soul Gems**](https://www.nexusmods.com/morrowind/mods/48300) by SVNR  
+-- 00 Data Files  
+-- 04 Particles & Static Glow  
+40. [**Fire and Frost Salts**](https://www.nexusmods.com/morrowind/mods/47784) by Nwah and Mushrooms  
+41. [**Silt Strider**](https://www.nexusmods.com/morrowind/mods/48664) by Nwah and Mushrooms  
+-- Silt Strider with Vanilla Textures  
+42. [**Creeper the Scamp**](https://www.nexusmods.com/morrowind/mods/47823) by Nwah and Mushrooms 
+-- Vanilla version   
+43. asaljasd
