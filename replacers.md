@@ -29,6 +29,7 @@
 [**New Common Exteriors**](https://www.nexusmods.com/morrowind/mods/49031) by RubberMan  
 [**Illustrated ABCs for Barbarians**](https://www.nexusmods.com/morrowind/mods/49310) by XeroFoxx  
 [**Bound Spells Reforged**](https://www.nexusmods.com/morrowind/mods/48750) by Kurpulio  
+[**Open Helmets**](https://www.nexusmods.com/morrowind/mods/49401) by Leyawynn  
 
 # Mod Replacers
 [**Red sclera eyes for Julan**](https://www.nexusmods.com/morrowind/mods/47277?tab=description) by Leetmorry  
