@@ -21,6 +21,7 @@ Removes level requirements for a number of quests.
 [**Non-Legion Dandsa Rescue Fix**](https://www.nexusmods.com/morrowind/mods/46927) by chryssvoler  
 [**Kurapli Seeks Justice**](https://www.nexusmods.com/morrowind/mods/48697) by stripes  
 [**Of Pillows and Peril**](https://www.nexusmods.com/morrowind/mods/49491) 
+[**Old Blue Fin**](https://www.nexusmods.com/morrowind/mods/49503) by Leyawynn  
 
 ## Main Quest Mods
 [**Main Quest Enhancers**](https://www.nexusmods.com/morrowind/mods/41337) by Trainwiz  
@@ -45,6 +46,7 @@ Removes level requirements for a number of quests.
 [**Guard Sarethi Manor Add-on - Morag Tong Hit Squad**](https://www.nexusmods.com/morrowind/mods/49343) by Sigourn  
 [**Redoran Founder's Helm Add-on - Arena Duel**](https://www.nexusmods.com/morrowind/mods/49342) by Sigourn  
 [**Quests for CLans and Vampire Legends (QCVL)**](https://www.nexusmods.com/morrowind/mods/49486) by SpiritTauren  
+[**Redoran Archmaster's Perks**](https://www.nexusmods.com/morrowind/mods/49519) by Mort  
 
 # New Quests, Vanilla Npcs
 [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
@@ -81,3 +83,7 @@ Removes level requirements for a number of quests.
 [**Mudcrab Imports - Pirate Adventures**](https://www.nexusmods.com/morrowind/mods/49463) by BIllyfighter  
 [**Lost Redoran Relics**](https://www.nexusmods.com/morrowind/mods/49507) by Billyfighter  
 [**Frozen in Time**](https://www.nexusmods.com/morrowind/mods/50077) by Billyfighter  
+[**Redoran Heat - A Necromancer's Sorrow**](https://www.nexusmods.com/morrowind/mods/49505) by ZaMothman  
+[**The Redoran Bard**](https://www.nexusmods.com/morrowind/mods/49511) by RingComics  
+[**Cliff Racer Revenge**](https://www.nexusmods.com/morrowind/mods/49506) by Relinquished001  
+[**The Redoran Amulet**](https://www.nexusmods.com/morrowind/mods/49501) by Endify  
