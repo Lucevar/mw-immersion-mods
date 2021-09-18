@@ -27,6 +27,7 @@ See [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/cha
 [**Fligg's Slave Mod**](http://download.fliggerty.com/download-110-6) by Fliggerty  
 [**Slave Rescue Makes You More Famous**](https://www.nexusmods.com/morrowind/mods/43211) by LaurenceWithey  
 [**Breaker of Chains**](https://www.nexusmods.com/morrowind/mods/43242?tab=description) by spanktastic2120  
+[**Functional Slave Markets**](https://www.nexusmods.com/morrowind/mods/49583) by RandomPal  
 
 # Addict / Dealer
 [**Create Skooma**](https://www.nexusmods.com/morrowind/mods/45419) by Merlord  
