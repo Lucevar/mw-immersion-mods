@@ -268,7 +268,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Khartag Point**  
 **Magas Volar**  
 **Shrine of Azura** - [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278)   
-**Shrine of Boethia**  
+**Shrine of Boethiah** - [**Shrine of Boethiah Expansion**](https://www.nexusmods.com/morrowind/mods/49331) by Tel Shadow    
 **Shrine of Mephala** - [**The Shrine of Mephala**](http://mw.modhistory.com/download-112-11326)  
 
 ## <a name="dunmer"></a>Dunmer Strongholds
