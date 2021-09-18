@@ -150,6 +150,7 @@ Has a version which is compatible with Dramatic Vivec
 [**Vivec Waistworks Expansion**](https://www.nexusmods.com/morrowind/mods/48834) by autumnbramble  
 [**Vivec Tea Room**](https://www.nexusmods.com/morrowind/mods/44320)  
 [**Altar of the High Fane**](https://www.nexusmods.com/morrowind/mods/49631) by FyreAlchemage  
+[**Lively Black Shalk Cornerclub**](https://www.nexusmods.com/morrowind/mods/49840) by Endify  
 
 ## Ebonheart
 These affect different parts of Ebonheart and are therefore compatible.  
