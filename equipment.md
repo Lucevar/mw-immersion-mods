@@ -82,6 +82,11 @@ Duke's Silver Armor:
 [**Vaernis' Armor and Shields**](https://www.nexusmods.com/morrowind/mods/49693) by Danae  
 [**Silaria's Clothes for Wares**](https://www.nexusmods.com/morrowind/mods/49730) by Danae  
 [**Aleanne's Clothes for Wares**](https://www.nexusmods.com/morrowind/mods/49732) by Danae  
+[**The Assassin's Arsenal**](https://www.nexusmods.com/morrowind/mods/49746) by Danae  
+[**Westly's Mods for Wares**](https://www.nexusmods.com/morrowind/mods/49754) by Danae  
+[**Korana's Mods for Wares**](https://www.nexusmods.com/morrowind/mods/49758) by Danae  
+[**Aoimevelho's Mods for Wares**](https://www.nexusmods.com/morrowind/mods/49762) by Danae  
+[**Hilgya the Seamstress for Wares**](https://www.nexusmods.com/morrowind/mods/49766) by Danae  
 
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
