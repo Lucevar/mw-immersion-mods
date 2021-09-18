@@ -60,6 +60,7 @@
 [**Rainforrest of the Bitter Coast**](http://mw.modhistory.com/download-53-10251) by the viKING  
 [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
 [**The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/48733) by Remiros  
+[**Less Disclosed Addamasartus**](https://www.nexusmods.com/morrowind/mods/49271) by RandomPal  
 
 ## West Gash
 [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187)  
