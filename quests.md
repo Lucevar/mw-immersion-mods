@@ -45,6 +45,7 @@ Removes level requirements for a number of quests.
 [**The Rise of the Tribe Unmourned**](https://www.nexusmods.com/morrowind/mods/45165) by Caeris  
 [**Blades Quest: Prophecy of the Lost Heir**](http://lovkullen.net/Emma/blade.htm) by Emma  
 [**Exterminate All Brutes**](https://www.nexusmods.com/morrowind/mods/49322) by Alice  
+[**Epilogue - Sail to Akavir**](https://www.nexusmods.com/morrowind/mods/49811) by Alice  
 
 ## Factions
 [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von Django  
@@ -99,3 +100,4 @@ Removes level requirements for a number of quests.
 [**Secrets of Vos**](https://www.nexusmods.com/morrowind/mods/49736) by CCM  
 [**The Weary Vampire**](https://www.nexusmods.com/morrowind/mods/49774) by Operator Jack  
 [**Supply Chain**](https://www.nexusmods.com/morrowind/mods/49802) by Denina  
+[**Bitter Coast Smugglers**](https://www.nexusmods.com/morrowind/mods/49810) by SamboJ  
