@@ -87,3 +87,4 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 63. [**Tunnel Cough**](https://www.nexusmods.com/morrowind/mods/47603) by R-zero  
 64. [**AURA**](https://www.nexusmods.com/morrowind/mods/48255) by tewlwolow  
 65. [**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654) by Anumaril  
+66. [**Rogues Gallery**](https://www.nexusmods.com/morrowind/mods/49874) by Von Djangos  
