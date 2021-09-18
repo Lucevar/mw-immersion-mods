@@ -21,6 +21,9 @@ After chargen (vanilla or modded) ends, this mod adds an extra step: choose your
 [**MTR By The Divines**](https://www.nexusmods.com/morrowind/mods/48031) by MTR  
 This mods adds a bunch of deities for player to choose from in a manner seen in Merlord's Character Backgrounds. Beliefs grant some simple abilities to the player, but it's mostly for purpose of role-playing.
 
+[**MTR Lineage**](https://www.nexusmods.com/morrowind/mods/49996) by MTR  
+This mod adds many character lineages that can be selected after character generation.
+
 [**The Role They Were to Play**](https://www.nexusmods.com/morrowind/mods/46411) by PoodleSandwich  
 Changes the intro video to be gender-neutral.
 
