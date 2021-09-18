@@ -43,6 +43,9 @@ A corprus meat replacer.
 [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755) by Melchior Dahrk  
 [**Glowing Ghosts**](https://www.nexusmods.com/morrowind/mods/48226) by Sataniel  
 
+## Magic 
+[**Shield Spells Reforged**](https://www.nexusmods.com/morrowind/mods/50073) by Kurpulio  
+
 ## Animations  
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150) by R-Zero  
 [**Animated Morrowind**](http://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=39&Itemid=50) by Arcimaestro Antares and abot  
