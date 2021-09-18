@@ -8,6 +8,21 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - April 15th
+[**Weapon Sheathing - Two handed long blade sheath position edit**](https://www.nexusmods.com/morrowind/mods/50014) by profile011  
+Edits the position of sheathed two-handed long blade weapons in Weapon Sheathing from your back to your waist.
+
+[**Rational Names**](https://www.nexusmods.com/morrowind/mods/50000) by Necrolesian  
+Makes various changes to item names for more convenient inventory sorting, and enables names to exceed Morrowind's limit of 31 characters.
+
+[**MWSE Strategic Magicka Regen**](https://www.nexusmods.com/morrowind/mods/50008) by Unappendixed  
+Adds magicka regeneration that scales with both willpower and your current magicka percentage. Mostly full magicka pools will regenerate almost immediately--dip further into your reserves and it will take exponentially longer to naturally replenish.
+
+[**MTR Lineage**](https://www.nexusmods.com/morrowind/mods/49996) by MTR  
+This mod adds many character lineages that can be selected after character generation.
+
+[**Friends Don't Pickpocket Followers**](https://www.nexusmods.com/morrowind/mods/49973) by GreyWyvern  
+Prevents you from accidentally pickpocketing your followers/companions while sneaking.
+
 [**Krokantor's Enhanced Water Shader**](https://www.nexusmods.com/morrowind/mods/49964) by Krokantor & Hrnchamd  
 Krokantor's improved water shader for MGE XE. Updated to be compatible with MGE XE 0.13.0.
 
