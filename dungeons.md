@@ -228,7 +228,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Zenarbael** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 
 ## <a name="daedric"></a>Daedric Shrines - Malacath
-**Ashunartes**  
+**Ashunartes** - [**Ashunartes Overhaul**](https://www.nexusmods.com/morrowind/mods/50049)    
 **Ashurnibibi** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [Daedric Ruin Expansion - Ashurnibi](https://www.nexusmods.com/morrowind/mods/37488/)  
 **Assurdirapal**  
 **Dushariran**  
