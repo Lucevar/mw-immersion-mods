@@ -28,6 +28,7 @@ Removes level requirements for a number of quests.
 [**Freelancer**](https://www.nexusmods.com/morrowind/mods/49896) by Tomas  
 [**Get Paid in Drams**](https://www.nexusmods.com/morrowind/mods/49901) by Alice  
 [**Sarandas Family Hearth**](https://www.nexusmods.com/morrowind/mods/48056) by Endoran  
+[**Bad Actor Quest Fix**](https://www.nexusmods.com/morrowind/mods/49926) by GreyWyvern  
 
 ## Main Quest Mods
 [**Main Quest Enhancers**](https://www.nexusmods.com/morrowind/mods/41337) by Trainwiz  
@@ -63,6 +64,7 @@ Removes level requirements for a number of quests.
 [**Quests for CLans and Vampire Legends (QCVL)**](https://www.nexusmods.com/morrowind/mods/49486) by SpiritTauren  
 [**Redoran Archmaster's Perks**](https://www.nexusmods.com/morrowind/mods/49519) by Mort  
 [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
+[**Crassius Curio Gets Comfortable**](https://www.nexusmods.com/morrowind/mods/49922) by Amazingly Randi  
 
 # New Quests, Vanilla Npcs
 [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
