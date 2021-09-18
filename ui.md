@@ -7,6 +7,10 @@
 [**Daedricwind**](https://www.nexusmods.com/morrowind/mods/49655) by Necrolesian  
 [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
 
+## Cursor
+[**Daedric Cursors**](https://www.nexusmods.com/morrowind/mods/49806) by ConcernedCitizen  
+Changes the cursors to a daedric gauntlet (and daedric crescent when resizing menus)
+
 ## Load Menu
 [**Petes UI Mods**](https://www.nexusmods.com/morrowind/mods/45859) by Petethegoat  
 [**Continue**](https://www.nexusmods.com/morrowind/mods/45952) by Petethegoat  
