@@ -8,6 +8,18 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - March 5th
+[**MGE XE Watercolour Shader**](https://www.nexusmods.com/morrowind/mods/49473) by Kamikaze  
+Makes Morrowind resemble a watercolor painting.
+
+[**One Tap Kill Resurrect**](https://www.nexusmods.com/morrowind/mods/49462) by Nurulizzaty  
+Tap or hold a key to kill or resurrect the object.
+
+[**Wands**](https://www.nexusmods.com/morrowind/mods/49427) by OperatorJack  
+Adds Wands to Morrowind. Fully functional wands enchanted as normal, cast-on-strike weapons. Staves also can shoot projectiles now, too!
+
+[**Experienced Start**](https://www.nexusmods.com/morrowind/mods/49387) by Irenicus  
+MWSE lua mod that levels up the player after handing over the release papers to Sellus Gravius at the start of the game. Default settings are to progress to level 10, with 60% of skills upgraded evenly distributed among major skills and 40% among minor skills. Attribute increase is related to governing attributes of skills that are increased.
+
 [**Your Money and Your Life**](https://www.nexusmods.com/morrowind/mods/49368) by OEA  
 Makes your life equal to your money. you lose money when damaged, gain life when you get rewarded, etc. a mwse-lua mod
 
