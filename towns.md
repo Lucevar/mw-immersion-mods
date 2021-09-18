@@ -188,6 +188,7 @@ A mega-merge of most of the popular Sadrith Mora mods, edited for performance an
 [**The Great Master Neloth**](https://www.nexusmods.com/morrowind/mods/49268) by Dormy  
 [**Telvanni Council House Lounge Room**](https://www.nexusmods.com/morrowind/mods/49285) by RandomPal  
 [**Telvanni Lighthouse in Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/49461) by RandomPal  
+[**Telvanni Council Lounge Alternate**](https://www.nexusmods.com/morrowind/mods/49804) by COricus  
 
 [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by Mort  
 Have you ever thought that Wolverine Hall must have been designed by Sheogorath, specifically to frustrate you? So did mort. So he fixed it (and gave the mages some beds while he was at it.)  
