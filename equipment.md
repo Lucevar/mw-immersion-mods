@@ -61,6 +61,8 @@ Duke's Silver Armor:
 [**Imperial Armour Expanded - Beta**](https://www.nexusmods.com/morrowind/mods/49330) by Endoran  
 [**No Back Shell for Better Telvanni Cephalopod Armor**](https://www.nexusmods.com/morrowind/mods/49334) by PopeRigby  
 [**Altmer Glass Armor**](https://www.nexusmods.com/morrowind/mods/49335) by RuffinVangarr  
+[**Robe of the Drake's Pride**](https://www.nexusmods.com/morrowind/mods/49417) by Archimaestro Antares  
+[**Robe of the Drake's Pride - Recolored**](https://www.nexusmods.com/morrowind/mods/49420) by Jasper  
 
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
