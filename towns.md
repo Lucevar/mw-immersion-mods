@@ -155,6 +155,12 @@ Has a version which is compatible with Dramatic Vivec
 [**Lively Black Shalk Cornerclub**](https://www.nexusmods.com/morrowind/mods/49840) by Endify  
 [**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916) by seelof  
 
+[**Crassius Curio's Argonian Maid**](https://www.nexusmods.com/morrowind/mods/49923) by AmazinglyRandi  
+[**Crassius Curio's Weekly Pilgrimage**](https://www.nexusmods.com/morrowind/mods/49927) by AmazinglyRandi  
+[**Crassius Curio's Portraits**](https://www.nexusmods.com/morrowind/mods/49928) by AmazinglyRandi  
+[**Crassius Curio's Big Balls**](https://www.nexusmods.com/morrowind/mods/49931) by AmazinglyRandi  
+[**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812) by aralin  
+
 ## Ebonheart
 These affect different parts of Ebonheart and are therefore compatible.  
 [**Ebonheart Underworks**](https://www.nexusmods.com/morrowind/mods/47272) by Team Dandy Daedra  
