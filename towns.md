@@ -31,6 +31,7 @@
 [**Telvanni Travel Network**](https://www.nexusmods.com/morrowind/mods/49443) by RandomPal  
 [**Magical Lights for Telvanni**](https://www.nexusmods.com/morrowind/mods/49453) by RandomPal  
 [**Izi Forts - All In One**](https://www.nexusmods.com/morrowind/mods/49548) by Izi  
+[**Better Imperial Forts**](https://www.nexusmods.com/morrowind/mods/49745) by Dallara  
 
 # Tamriel Rebuilt
 [**Unique Tavern Signs for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/46794) by Rats  
