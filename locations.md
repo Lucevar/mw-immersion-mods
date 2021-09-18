@@ -62,6 +62,7 @@
 [**The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/48733) by Remiros  
 [**Less Disclosed Addamasartus**](https://www.nexusmods.com/morrowind/mods/49271) by RandomPal  
 [**OAABandoned Shack**](https://www.nexusmods.com/morrowind/mods/49294) by VvardenfellStormSage  
+[**An Abandoned Shack is your home**](https://www.nexusmods.com/morrowind/mods/49351) by Mika  
 
 ## West Gash
 [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187)  
