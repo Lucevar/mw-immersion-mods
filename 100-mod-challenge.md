@@ -112,3 +112,21 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 -- 00 Core  
 87. [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
 88. [**Travel Tooltips**](https://www.nexusmods.com/morrowind/mods/48306) by tewlwolow  
+89. [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by Anumaril  
+90. [**MWSE Character Creation Name Generator**](https://www.nexusmods.com/morrowind/mods/46189) by Aleist3r  
+91. [**MWSE Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
+92. [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
+93. [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915) by Petethegoat  
+94. [**Wading in Water MW**](https://www.nexusmods.com/morrowind/mods/48783) by R-zero  
+95. [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581) by mort  
+96. [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614) by mort  
+97. [**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293) by Merlord  
+98. [**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557) by Merlord  
+99. [**Skoomaesthesia**](https://www.nexusmods.com/morrowind/mods/49920) by Merlord and XeroFoxx  
+100. [**Ashfall**](https://www.nexusmods.com/morrowind/mods/49057) by Merlord  
+101. [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034) by Merlord  
+102. [**Bed Buddies**](https://www.nexusmods.com/morrowind/mods/46632) by Merlord  
+103. [**Realistic Repair**](https://www.nexusmods.com/morrowind/mods/46673) by Merlord  
+104. [**Merlord's Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795) by Merlord  
+105. [**The Guar Whisperer**](https://www.nexusmods.com/morrowind/mods/48247) by Merlord  
+106. [**Misc Mates**](https://www.nexusmods.com/morrowind/mods/48122) by Merlord  
