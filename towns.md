@@ -126,6 +126,7 @@ Has a version which is compatible with Dramatic Vivec
 [**Mixed Cantons of Vivec**](https://www.nexusmods.com/morrowind/mods/49037) by RandomPal  
 [**Dramatic Temple Canton**](https://www.nexusmods.com/morrowind/mods/49286) by RandomPal  
 [**Compatible Redesigned Vivec**](https://www.nexusmods.com/morrowind/mods/49336) by GlitterGear  
+[**Higher Ministry of Truth**](https://www.nexusmods.com/morrowind/mods/49415) by RandomPal  
 
 [**Canalworks Connected**](https://www.nexusmods.com/morrowind/mods/47354) by iLoveOnFear  
 [**Jobasha's Rare Books Expanded**](https://www.nexusmods.com/morrowind/mods/45153) twgear2  
@@ -244,11 +245,13 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 ## Ald Velothi
 [**Tales of Ald Velothi**](https://www.nexusmods.com/morrowind/mods/47276) by Team Balmora Bandits  
 [**Properly Cluttered Ald Velothi**](https://www.nexusmods.com/morrowind/mods/48811) by RandomPal - Tales of Ald Velothi's clutter without the quest attached  
+[**Enchanted Ald Velothi**](https://www.nexusmods.com/morrowind/mods/49404) by Mika  
 
 ## Khuul
 [**Khuul Expanded**](https://www.nexusmods.com/morrowind/mods/32643) by caseytucker  
 [**More Detailed Places - Khuul**](https://www.nexusmods.com/morrowind/mods/29965) by Ragox  
-[**Cool Khuul Docks**](https://www.nexusmods.com/morrowind/mods/47852) by Gavrilo93  
+[**Cool Khuul Docks**](https://www.nexusmods.com/morrowind/mods/47852) by Alice    
+[**Grim Khuul**](https://www.nexusmods.com/morrowind/mods/49404) by Mika  
 
 Alternatively, [**Vvardenfell Revisited - Khuul**](https://www.nexusmods.com/morrowind/mods/46614) by EnnetWinterhoof, or [**Milik's Khuul Facelift**](https://www.nexusmods.com/morrowind/mods/19657) by Milik.    
 
