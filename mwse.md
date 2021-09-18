@@ -7,7 +7,22 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
-# New since January 12th 2021 
+# New since January 12th 2021 - March 5th
+[**Your Money and Your Life**](https://www.nexusmods.com/morrowind/mods/49368) by OEA  
+Makes your life equal to your money. you lose money when damaged, gain life when you get rewarded, etc. a mwse-lua mod
+
+[**Lock lock lockin' on heaven's door**](https://www.nexusmods.com/morrowind/mods/49361) by OEA  
+Allows you to lock doors (and containers, in theory) with their keys, by activating them while sneaking.
+
+[**Double CHIM**](https://www.nexusmods.com/morrowind/mods/49339) by Archimag  
+The Gods gave you two hands, and you use them both for your weapon  
+
+[**Morrowind Containers Animated - Adjusted for Quickloot**](https://www.nexusmods.com/morrowind/mods/49297) by Celediel  
+Animates containers when you look at them, rather than when you activate them. Make sure you enable Quickloot mode in the MCM.  
+
+[**MWSE Alchemy Takes Time**](https://www.nexusmods.com/morrowind/mods/49269) by baldamundo  
+30 minutes of in-game time pass every time you brew a potion.
+
 [**TES6 Stats MWSE**](https://www.nexusmods.com/morrowind/mods/49255) by Stripes  
 Equalizes health magicka and fatigue in real time. WARNING this will make changes to your character that can't be reverted. Back up your saves before enabling.
 
