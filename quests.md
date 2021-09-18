@@ -22,6 +22,7 @@ Removes level requirements for a number of quests.
 [**Kurapli Seeks Justice**](https://www.nexusmods.com/morrowind/mods/48697) by stripes  
 [**Of Pillows and Peril**](https://www.nexusmods.com/morrowind/mods/49491) 
 [**Old Blue Fin**](https://www.nexusmods.com/morrowind/mods/49503) by Leyawynn  
+[**Relevant Rumors**](https://www.nexusmods.com/morrowind/mods/49650) by Elanhant  
 
 ## Main Quest Mods
 [**Main Quest Enhancers**](https://www.nexusmods.com/morrowind/mods/41337) by Trainwiz  
