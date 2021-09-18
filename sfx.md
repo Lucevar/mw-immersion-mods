@@ -20,6 +20,8 @@
 [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973) by Tewlwolow  
 [**The Blight**](https://www.nexusmods.com/morrowind/mods/49504) by OperatorJack and Greatness7  
 [**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711) by NullCascade and Greatness7  
+[**Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236) by Melchior Dahrk  
+[**I lava good mesh replacer**](https://www.nexusmods.com/morrowind/mods/49605) by Melchior Dahrk  
 
 ## Items
 [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
