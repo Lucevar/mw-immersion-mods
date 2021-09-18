@@ -270,7 +270,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 ## Daedric Shrines - Misc
 **Anudnabia** - [**Forge of Hilbongard**](http://download.fliggerty.com/download--702)  
 **Khartag Point**  
-**Magas Volar**  
+**Magas Volar** - [**Moody Magas Volar**](https://www.nexusmods.com/morrowind/mods/49789)    
 **Shrine of Azura** - [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278)   
 **Shrine of Boethiah** - [**Shrine of Boethiah Expansion**](https://www.nexusmods.com/morrowind/mods/49331) by Tel Shadow    
 **Shrine of Mephala** - [**The Shrine of Mephala**](http://mw.modhistory.com/download-112-11326)  
