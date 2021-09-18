@@ -40,6 +40,9 @@
 [**NPC Faction Affiliation Fix**](https://www.nexusmods.com/morrowind/mods/47743) by Gavrilo93  
 [**Imperial Cult Templar Armour**](https://www.nexusmods.com/morrowind/mods/48233) by FrankG2229  
 
+## Situational
+[**Wear A Mask**](https://www.nexusmods.com/morrowind/mods/49240) by Von Djangos  
+
 ## New NPCS
 [**TriangleTooth's Missing NPCs**](https://www.nexusmods.com/morrowind/mods/46234) by TriangleTooth  
 [**Mournhold Courtiers**](https://www.nexusmods.com/morrowind/mods/44874) by TaiyakaJade  
