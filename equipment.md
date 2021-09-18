@@ -71,6 +71,10 @@ Duke's Silver Armor:
 [**Redoran Hortator Armor Chest**](https://www.nexusmods.com/morrowind/mods/49498) by Stripes  
 [**Concept Art Daedric Helmets**](https://www.nexusmods.com/morrowind/mods/49534) by RuffinVangarr  
 [**Olafs Best Cloaks in Town**](https://www.nexusmods.com/morrowind/mods/49612) by MorrowGoblins  
+[**Netch Adamantium Armor Integrated**](https://www.nexusmods.com/morrowind/mods/49641) by RandomPal  
+[**Enchanted Item Cost Rebalance**](https://www.nexusmods.com/morrowind/mods/49643) by JackBNimble  
+[**Coldharbour Daedric Lord Armor and Face of God - Redux Edition**](https://www.nexusmods.com/morrowind/mods/49651) by Zackariaahas  
+[**Daedric Telvanni Robe (Actual Robe Version)**](https://www.nexusmods.com/morrowind/mods/49652) by RuffinVangarr  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
