@@ -92,6 +92,8 @@ Duke's Silver Armor:
 [**Bobs Armories for Wares**](https://www.nexusmods.com/morrowind/mods/49822) by Danae  
 [**Stuporstar's Books for Wares**](https://www.nexusmods.com/morrowind/mods/49808) by Danae  
 [**Enhanced Economics for Wares**](https://www.nexusmods.com/morrowind/mods/49807) by Danae  
+[**Wares for NPCs**](https://www.nexusmods.com/morrowind/mods/49997) by Danae  
+
 
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
