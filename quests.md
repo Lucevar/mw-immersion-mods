@@ -40,6 +40,8 @@ Removes level requirements for a number of quests.
 [**Strike at the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/46865) by ProfArmitage  
 [**South Wall, Den of Iniquity**]()  
 [**Therana vs Trerayna**](https://www.nexusmods.com/morrowind/mods/49332) by Alice  
+[**Guard Sarethi Manor Add-on - Morag Tong Hit Squad**](https://www.nexusmods.com/morrowind/mods/49343) by Sigourn  
+[**Redoran Founder's Helm Add-on - Arena Duel**](https://www.nexusmods.com/morrowind/mods/49342) by Sigourn  
 
 # New Quests, Vanilla Npcs
 [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
