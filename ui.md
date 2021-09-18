@@ -66,6 +66,7 @@ No saving in battle!
 [**Lore-Based (Almost Skyrim-like) Load Screens**](https://www.nexusmods.com/morrowind/mods/48932) by jvogel2112  
 [**Splash Screens for Morrowind (Mainly from ESO)**](https://www.nexusmods.com/morrowind/mods/49038) by EinBlonderTraum  
 [**Ogrim Splash Screen for Purists**](https://www.nexusmods.com/morrowind/mods/49233) by Clearwing  
+[**Vvardenfell Map Splash Screen and Main Menu**](https://www.nexusmods.com/morrowind/mods/49245) by k1349  
 
 ## Main Menu Replacers
 [**Animated Main Menu for Morrowind**](https://www.nexusmods.com/morrowind/mods/43341?tab=description) by Mikeandike  
