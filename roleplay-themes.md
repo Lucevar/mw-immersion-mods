@@ -59,6 +59,7 @@ See [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/cha
 Adds a number of quests for Ashlanders in three of the main camps and two quests to ashlanders outside the camps. Ahemmusa camp is untouched for compatibility with Julan, Ashlander Companion (who isn't listed here because Julan's dialogue assumes you're an outlander).  
 [**Ashlander Prophecy**](https://www.nexusmods.com/morrowind/mods/44505) by CzarRedwall  
 Start the game as an Ashlander. Skips the Blades portions of the main quest.  
+[**The Mystery of the Ghost Snake**](https://www.nexusmods.com/morrowind/mods/49358) by Alice  
 
 # Assassin
 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
