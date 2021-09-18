@@ -38,8 +38,9 @@
 [**Hold It**](https://www.nexusmods.com/morrowind/mods/43181) by Danae  
 [**Redoran Founder's Armor**](https://www.nexusmods.com/morrowind/mods/44860) by NaxoX9
 [**Morag Tong Armor**](https://www.nexusmods.com/morrowind/mods/44938) by NazoX9  
-[**NPC Faction Affiliation Fix**](https://www.nexusmods.com/morrowind/mods/47743) by Gavrilo93  
+[**NPC Faction Affiliation Fix**](https://www.nexusmods.com/morrowind/mods/47743) by Alice  
 [**Imperial Cult Templar Armour**](https://www.nexusmods.com/morrowind/mods/48233) by FrankG2229  
+[**Concept Art Ordinators**](https://www.nexusmods.com/morrowind/mods/49357) by RandomPal  
 
 ## Situational
 [**Wear A Mask**](https://www.nexusmods.com/morrowind/mods/49240) by Von Djangos  
