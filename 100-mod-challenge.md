@@ -18,24 +18,24 @@ Mod list for the 100 esp install challenge. Number on the list will go above 100
 16. [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616) by Remiros  
 17. [**Weapon Sheathing - Bow Position Edit**](https://www.nexusmods.com/morrowind/mods/48473) by Kyim  
 18. [**Morrowind Optimisation Patch**](https://www.nexusmods.com/morrowind/mods/45384) by MOP Team  
--- 00 Core
--- 03 MGEXE Addon
--- 04 Weapon Sheathing Patch
+-- 00 Core  
+-- 03 MGEXE Addon  
+-- 04 Weapon Sheathing Patch  
 19. [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk 
--- 00 Core 
--- 02 Interior Sunrays
--- 03 Nord Glass Windows Interior Sunrays
--- 04 Telvanni Dormers on Vvardenfell
+-- 00 Core  
+-- 02 Interior Sunrays  
+-- 03 Nord Glass Windows Interior Sunrays  
+-- 04 Telvanni Dormers on Vvardenfell  
 20. [**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by Project Atlas Team  
--- 00 Core
--- 10 Glow in the Dahrk Patch Interior Sunrays
+-- 00 Core  
+-- 10 Glow in the Dahrk Patch Interior Sunrays  
 21. [**Graphic Herbalism**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
--- 00 Core + Vanilla Meshes
--- 01 Optional - Smoothed Meshes
+-- 00 Core + Vanilla Meshes  
+-- 01 Optional - Smoothed Meshes  
 22. [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros  
--- 00 Core
--- 01 Atlas Textures
--- Glow in the Dahrk 01 Hi-Res Window Textures to get rid of the annoying red lines
+-- 00 Core  
+-- 01 Atlas Textures  
+-- Glow in the Dahrk 01 Hi-Res Window Textures to get rid of the annoying red lines  
 23. [**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786) by Lucevar  
 24. [**Valley of the Wind Unfenced**](https://www.nexusmods.com/morrowind/mods/47563) by Lucevar  
 25. [**Ashlander Traders Remastered**](https://www.nexusmods.com/morrowind/mods/48009) by Lucevar  
