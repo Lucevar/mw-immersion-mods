@@ -172,6 +172,7 @@ Farmer mod
 * [**More Gems**] by Gawain  
 * [**Shinies**](https://www.nexusmods.com/morrowind/mods/48903) by Danae  
 * [**Booze for Purists**](https://www.nexusmods.com/morrowind/mods/48914) by Danae  
+* [**The Great Gold Egg Hunt**](https://www.nexusmods.com/morrowind/mods/49396) by XeroFoxx  
 
 # Imperial Loyalist
 * [**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Gavrilo93  
