@@ -55,6 +55,7 @@ A corprus meat replacer.
 [**Tavern Ambience**](https://www.nexusmods.com/morrowind/mods/252) by Erik Be  
 [**Sheep-no-more**](https://www.nexusmods.com/morrowind/mods/45168) by mcchuggernaut  
 [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
+[**Imperial Male Hit Sounds Fixed**](https://www.nexusmods.com/morrowind/mods/49406) by SAJNM  
 
 [**Silent Hits**](https://www.nexusmods.com/morrowind/mods/44556) by Jxrdan  
 [**Sea of Sound**](https://www.nexusmods.com/morrowind/mods/45737) by CptJoker  
