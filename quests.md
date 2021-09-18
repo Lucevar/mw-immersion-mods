@@ -20,12 +20,14 @@ Removes level requirements for a number of quests.
 [**Drakes Pride Refusal**](https://www.nexusmods.com/morrowind/mods/46894) by chryssvoler  
 [**Non-Legion Dandsa Rescue Fix**](https://www.nexusmods.com/morrowind/mods/46927) by chryssvoler  
 [**Kurapli Seeks Justice**](https://www.nexusmods.com/morrowind/mods/48697) by stripes  
+[**Of Pillows and Peril**](https://www.nexusmods.com/morrowind/mods/49491) 
 
 ## Main Quest Mods
 [**Main Quest Enhancers**](https://www.nexusmods.com/morrowind/mods/41337) by Trainwiz  
 [**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Alice  
 [**Past Life Regressions**](https://www.nexusmods.com/morrowind/mods/49315) by Alice  
 [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602/) by Alice  
+[**War Leader Nerevar**](https://www.nexusmods.com/morrowind/mods/49554) by Billyfighter  
 
 ## Post Main Quest Mods
 [**Vivec's Fate: The Ashlander Heresy**](http://mw.modhistory.com/download-53-10736) by Brother Juniper  
@@ -42,6 +44,7 @@ Removes level requirements for a number of quests.
 [**Therana vs Trerayna**](https://www.nexusmods.com/morrowind/mods/49332) by Alice  
 [**Guard Sarethi Manor Add-on - Morag Tong Hit Squad**](https://www.nexusmods.com/morrowind/mods/49343) by Sigourn  
 [**Redoran Founder's Helm Add-on - Arena Duel**](https://www.nexusmods.com/morrowind/mods/49342) by Sigourn  
+[**Quests for CLans and Vampire Legends (QCVL)**](https://www.nexusmods.com/morrowind/mods/49486) by SpiritTauren  
 
 # New Quests, Vanilla Npcs
 [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
@@ -75,3 +78,6 @@ Removes level requirements for a number of quests.
 [**Pimp My Shrine - Legend of Vernaccus**](https://www.nexusmods.com/morrowind/mods/49173) by Team Scuttling Scribs  
 [**Invasion of Stormwatch**](https://www.nexusmods.com/morrowind/mods/49174) by Team Ancient Androids  
 [**Suran Underworld 3**](https://www.nexusmods.com/morrowind/mods/40299) by Wolli  
+[**Mudcrab Imports - Pirate Adventures**](https://www.nexusmods.com/morrowind/mods/49463) by BIllyfighter  
+[**Lost Redoran Relics**](https://www.nexusmods.com/morrowind/mods/49507) by Billyfighter  
+[**Frozen in Time**](https://www.nexusmods.com/morrowind/mods/50077) by Billyfighter  
