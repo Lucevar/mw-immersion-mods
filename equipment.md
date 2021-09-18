@@ -54,6 +54,8 @@ Duke's Silver Armor:
 [**H.E.L.L.U.V.A Lite and Balanced**](https://www.nexusmods.com/morrowind/mods/47573) by Danae  
 
 [**Many Cloth Helms**](https://www.nexusmods.com/morrowind/mods/49282) by Markond  
+[**Telvanni Dust Adept**](https://www.nexusmods.com/morrowind/mods/49265) by Ashtaar  
+[**Telvanni Armors - Slavers and Wizards**](https://www.nexusmods.com/morrowind/mods/49266) by Ashtaar  
 
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
