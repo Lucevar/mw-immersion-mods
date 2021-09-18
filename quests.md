@@ -26,6 +26,8 @@ Removes level requirements for a number of quests.
 [**Even More Mysterious Killings in Vivec**](https://www.nexusmods.com/morrowind/mods/49661) by Endoran  
 [**Immersive Neloth Reward**](https://www.nexusmods.com/morrowind/mods/49836) by Alice  
 [**Freelancer**](https://www.nexusmods.com/morrowind/mods/49896) by Tomas  
+[**Get Paid in Drams**](https://www.nexusmods.com/morrowind/mods/49901) by Alice  
+[**Sarandas Family Hearth**](https://www.nexusmods.com/morrowind/mods/48056) by Endoran  
 
 ## Main Quest Mods
 [**Main Quest Enhancers**](https://www.nexusmods.com/morrowind/mods/41337) by Trainwiz  
@@ -108,3 +110,6 @@ Removes level requirements for a number of quests.
 [**Bitter Coast Smugglers**](https://www.nexusmods.com/morrowind/mods/49810) by SamboJ  
 [**The Great Wizard Fantasco**](https://www.nexusmods.com/morrowind/mods/49833) by DasOmega  
 [**QMS - Fallacy of Justice**](https://www.nexusmods.com/morrowind/mods/49894) by EnclaveKiller  
+[**CCM Guard Patrols and Quests**](https://www.nexusmods.com/morrowind/mods/49899) by CCM  
+[**Anarchist Nerevarine**](https://www.nexusmods.com/morrowind/mods/49909) by Alice  
+[**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916) by seelof  
