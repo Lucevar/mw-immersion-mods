@@ -169,3 +169,9 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 132. [**Relevant Rumors**](https://www.nexusmods.com/morrowind/mods/49650) by Elanhant  
 133. [**Sload Floater - Giant Bull Netch Replacer**](https://www.nexusmods.com/morrowind/mods/49672) by Melchior Dahrk  
 134. [**Atronach Expansion**](https://www.nexusmods.com/morrowind/mods/22189/?) by Melchior Dahrk  
+135. [**Distraction**](https://www.nexusmods.com/morrowind/mods/49680) by Mort  
+136. [**Adjustable Landscape Texture Scale**](https://www.nexusmods.com/morrowind/mods/49689) by Greatness7 
+137. [**Expanded Birthsigns for Purists**](https://www.nexusmods.com/morrowind/mods/18016) by Cael-Aurion  
+138. [**Useful Starting Spells**](https://www.nexusmods.com/morrowind/mods/40439) by Tizzo  
+139. [**Better Enchantments**](https://www.nexusmods.com/morrowind/mods/47136) by Aracelliy 
+140. [**Locks and Traps Detection**](https://www.nexusmods.com/morrowind/mods/48528) by VitruvianGuar   
