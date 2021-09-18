@@ -276,6 +276,8 @@ Holy Art
 * [**Sane Ordinators**](https://www.nexusmods.com/morrowind/mods/47381) by PoodleSandwich2  
 * [**Meteorite Ministry**](https://www.nexusmods.com/morrowind/mods/45506) by Zobator  
 * [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
+* [**Pyres of Purification**](https://www.nexusmods.com/morrowind/mods/49320) by Alice  
+* [**Exterminate All Brutes**](https://www.nexusmods.com/morrowind/mods/49322) by Alice  
 
 # Thief
 * [Stealable Ash Mask](https://www.nexusmods.com/morrowind/mods/46207).  
