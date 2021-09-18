@@ -243,6 +243,10 @@ Rubberman sharpen mod
 * [**Trouble at Sea**](http://mw.modhistory.com/download-53-12731) by Danjb  
 * Booty Island + TR Patch
 * Nimawia Pearl farm
+* [**Mudcrab Imports - Pirate Adventures**](https://www.nexusmods.com/morrowind/mods/49463) by BIllyfighter  
+* [**Black Tooth Pirates**](https://www.nexusmods.com/morrowind/mods/47014) by ChemicalTaint  
+* [**Trouble at Sea**](http://mw.modhistory.com/download-53-12731) by Danjb  
+* [**Sea Dog Tavern**](https://www.nexusmods.com/morrowind/mods/49978) by Billyfighter  
 
 # Slave
 [**Slave Bracers Revamped**](https://www.nexusmods.com/morrowind/mods/32493) by xception  
