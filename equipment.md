@@ -89,6 +89,9 @@ Duke's Silver Armor:
 [**Aoimevelho's Mods for Wares**](https://www.nexusmods.com/morrowind/mods/49762) by Danae  
 [**Hilgya the Seamstress for Wares**](https://www.nexusmods.com/morrowind/mods/49766) by Danae  
 [**TealPanda's Mods for Wares**](https://www.nexusmods.com/morrowind/mods/49790) by Danae  
+[**Bobs Armories for Wares**](https://www.nexusmods.com/morrowind/mods/49822) by Danae  
+[**Stuporstar's Books for Wares**](https://www.nexusmods.com/morrowind/mods/49808) by Danae  
+[**Enhanced Economics for Wares**](https://www.nexusmods.com/morrowind/mods/49807) by Danae  
 
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
