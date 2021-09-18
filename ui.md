@@ -104,3 +104,4 @@ No saving in battle!
 [**Vvardenfell Map Splash Screen and Main Menu**](https://www.nexusmods.com/morrowind/mods/49245) by k1349  
 [**Vanilla Animated Main Menu Like Xbox**](https://www.nexusmods.com/morrowind/mods/49581) by Leyawynn  
 [**Color Vvardenfell Map Manu and Splash Screens**](https://www.nexusmods.com/morrowind/mods/49930) by Aitrus  
+[**Morrowind HD Upscaled Menu**](https://www.nexusmods.com/morrowind/mods/49971) by mio122  
