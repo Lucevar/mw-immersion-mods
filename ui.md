@@ -6,6 +6,7 @@
 ## Fonts
 [**Daedricwind**](https://www.nexusmods.com/morrowind/mods/49655) by Necrolesian  
 [**Better Dialogue Font**](https://www.nexusmods.com/morrowind/mods/36873) by Hrnchamd  
+[**Better Century Gothic Font**](https://www.nexusmods.com/morrowind/mods/49844) by ConcernedCitizen  
 
 ## Cursor
 [**Daedric Cursors**](https://www.nexusmods.com/morrowind/mods/49806) by ConcernedCitizen  
