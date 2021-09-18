@@ -26,8 +26,9 @@ Travelling in inclement weather now inflicts penalties, including ash and blight
 It doesn't make blight storms more dangerous per se, but it certainly makes the walk up Red Mountain *feel* momentous. You can now hear the Heart of Lorkhan as you approach the crater citadels.  
 - [**Shattered Stones - an Earthquake Mod**](https://www.nexusmods.com/morrowind/mods/45105) by R-zero and Greatness7  
 Some areas of Vvardenfell now have occasional earthquakes, which will shake your screen, cause dust to appear if you're inside, and sometimes make you or NPCs around you stumble and fall. Limited to Molag Amur region, unfortunately, but still very atmospheric!  
-- [**Ashfall**](https://discord.gg/zkSVdSe) by Merlord  
-Ashfall is the most fully featured survival and needs management mod available for Morrowind. Between making sure that you have enough supplies to survive a trek through the wilderness, and the punishing effects of being caught out in bad weather without the right equipment, Ashfall makes blight storms - and even regular ash and rain storms - something every traveller needs to worry about. Currently in alpha and only available via the Morrowind Modding Community discord. 
+- [**Ashfall**](https://www.nexusmods.com/morrowind/mods/49057) by Merlord  
+Ashfall is the most fully featured survival and needs management mod available for Morrowind. Between making sure that you have enough supplies to survive a trek through the wilderness, and the punishing effects of being caught out in bad weather without the right equipment, Ashfall makes blight storms - and even regular ash and rain storms - something every traveller needs to worry about.  
+Ashfall includes a catch-blight-from-storms mechanic, so you don't need to use Blighted Blight or Blight Storms Restored alongside it.
 
 ## Blight Doesn't Just Affect You
 ![Corprus Natives](https://staticdelivery.nexusmods.com/mods/100/images/45674/45674-1526611451-1056904407.jpeg)
@@ -43,7 +44,9 @@ This is a rebalance mod that makes the 6th House and corprus creatures truly som
 - [**Dreamers Expansion**](https://www.nexusmods.com/morrowind/mods/42990) by Aoimhevelho  
 Adds a variety of new Dreamer enemies for you to face, from well-armored warriors to pitiful Dreamers clothed in rags and corprus sores.
 - [**Corprus Natives**](https://www.nexusmods.com/morrowind/mods/45674) by rot  
-Corprus Stalker and Lame Corprus textures are replaced with Dunmer equivalents.
+Corprus Stalker and Lame Corprus textures are replaced with Dunmer equivalents.  
+- [**Wear A Mask**](https://www.nexusmods.com/morrowind/mods/49240) by Von Djangos  
+Some NPCs in ashstorm-prone towns (Ald-ruhn, Maar Gan, Molag Mar) will equip masks when it starts to storm.
 
 ## Protect Yourself and Others
 ![Improved Inns - AST Arrille's Attic](https://staticdelivery.nexusmods.com/mods/100/images/36017-1-1292084856.jpg)
