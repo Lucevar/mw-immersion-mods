@@ -41,6 +41,7 @@
 [**NPC Faction Affiliation Fix**](https://www.nexusmods.com/morrowind/mods/47743) by Alice  
 [**Imperial Cult Templar Armour**](https://www.nexusmods.com/morrowind/mods/48233) by FrankG2229  
 [**Concept Art Ordinators**](https://www.nexusmods.com/morrowind/mods/49357) by RandomPal  
+[**Mabrigash Mask Distribution (Complete)**](https://www.nexusmods.com/morrowind/mods/49379) by GrumblingVomit  
 
 ## Situational
 [**Wear A Mask**](https://www.nexusmods.com/morrowind/mods/49240) by Von Djangos  
