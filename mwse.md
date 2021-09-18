@@ -8,6 +8,15 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - April 15th
+[**Circumstances**](https://www.nexusmods.com/morrowind/mods/49830) by JaceyS  
+Changes races so that their only difference is resistances, with an additional fun thing for the Khajiit and Argonians, as recompense for not being able to wear boots. Changes birthsigns to give either a +5 attribute bonus, or a +10 skill bonus. All race/birthsign powers and spells are removed.
+
+[**Useful Bound Armor**](https://www.nexusmods.com/morrowind/mods/49829) by Necrolesian  
+Bound armor now uses the normal armor rating formula, taking light armor skill into account, instead of just providing the base rating regardless of skill.
+
+[**Fortify MAX**](https://www.nexusmods.com/morrowind/mods/49825) by Necrolesian  
+Causes Fortify Magicka and Fortify Fatigue to affect the maximum as well as the current stat.
+
 [**Weapon Sheathing (Skyrimized)**](https://www.nexusmods.com/morrowind/mods/49803) by PurplePrankster  
 Claymore sheaths clip into the body quite extensively but if you turn off sheaths you lose quivers. this mod is an edit that allows you to enjoy a more clipless experience.
 
