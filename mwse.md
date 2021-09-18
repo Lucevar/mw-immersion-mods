@@ -8,6 +8,18 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - April 15th
+[**Weapon Sheathing (Skyrimized)**](https://www.nexusmods.com/morrowind/mods/49803) by PurplePrankster  
+Claymore sheaths clip into the body quite extensively but if you turn off sheaths you lose quivers. this mod is an edit that allows you to enjoy a more clipless experience.
+
+[**Final Strike**](https://www.nexusmods.com/morrowind/mods/49801) by Archimag  
+Allows you to make 3 super-attacks: charge, slam and round attack
+
+[**Elemental Effects**](https://www.nexusmods.com/morrowind/mods/49799) by Anumaril  
+Applies visual effects to both NPCs and the player when damaged by fire, frost, shock, poison, or sun spell effects.
+
+[**Calendar**](https://www.nexusmods.com/morrowind/mods/49786) by JaceyS  
+Adds a calendar to your journal. You can access it by opening your journal, clicking "options", then clicking "Calendar". It always opens to the current day. You can navigate to a different day by clicking on it. To enter a note, click the text box under the calendar and start typing. It will save when you leave the calendar.
+
 [**Auriel's Bow Revamped**](https://www.nexusmods.com/morrowind/mods/49782) by Safebox  
 Upgrades Auriel's Bow with 3 one-hit arrows with a 24 hour cooldown.
 
