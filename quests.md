@@ -52,6 +52,7 @@ Removes level requirements for a number of quests.
 [**A Widow in Debt**](https://www.nexusmods.com/morrowind/mods/46972) by Miamian  
 [**Bitter and Blighted**](https://www.nexusmods.com/morrowind/mods/47052) by MrWillisTheFetcher  
 [**Hell at Moonmoth**](https://www.nexusmods.com/morrowind/mods/49128) by Ignatious  
+[**The Mystery of the Ghost Snake**](https://www.nexusmods.com/morrowind/mods/49358) by Alice  
 
 # Totally New Quests
 
