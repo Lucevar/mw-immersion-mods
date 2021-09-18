@@ -313,6 +313,7 @@ or
 [**Concept Art Hlaalu Balconies**](https://www.nexusmods.com/morrowind/mods/48667) by RandomPal  
 [**Mal's Balmora Overhaul**](https://www.nexusmods.com/morrowind/mods/49295) by MaladjustedPlatypus  
 [**Balmora The Awakening**](https://www.nexusmods.com/morrowind/mods/49465) by Mika  
+[**Dallara Balmora**](https://www.nexusmods.com/morrowind/mods/49669) by Dallara  
 
 [**Fort Moonmoth Expanded**](https://www.nexusmods.com/morrowind/mods/46963) by Yommumoi  
 
