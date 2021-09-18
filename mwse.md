@@ -8,6 +8,15 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - April 15th
+[**Potion Renamer**](https://www.nexusmods.com/morrowind/mods/49853) by Necrolesian  
+Renames potions so they'll sort rationally in the inventory, first by effect and then by quality. Uses MWSE-lua.
+
+[**Smart Companions**](https://www.nexusmods.com/morrowind/mods/49848) by abot  
+Makes companions (the ones with the short companion local variable set to 1) able to interact with possible loot sources and doors you Alt+Activate, can fix/improve some companions/followers features, detect abot's modded Scenic Travelling and apply it to followers not already compatible with it...
+
+[**Lucky Loot**](https://www.nexusmods.com/morrowind/mods/49839) by Danae, Hrnchamd, NullCascade  
+Greater luck may grant you better loot
+
 [**Circumstances**](https://www.nexusmods.com/morrowind/mods/49830) by JaceyS  
 Changes races so that their only difference is resistances, with an additional fun thing for the Khajiit and Argonians, as recompense for not being able to wear boots. Changes birthsigns to give either a +5 attribute bonus, or a +10 skill bonus. All race/birthsign powers and spells are removed.
 
