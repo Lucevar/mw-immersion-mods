@@ -22,6 +22,7 @@ Removes level requirements for a number of quests.
 [**Drakes Pride Refusal**](https://www.nexusmods.com/morrowind/mods/46894) by chryssvoler  
 [**Non-Legion Dandsa Rescue Fix**](https://www.nexusmods.com/morrowind/mods/46927) by chryssvoler  
 [**Kurapli Seeks Justice**](https://www.nexusmods.com/morrowind/mods/48697) by stripes  
+[**Past Life Regressions**](https://www.nexusmods.com/morrowind/mods/49315) by Alice  
 
 ## Post Main Quest Mods
 [**Vivec's Fate: The Ashlander Heresy**](http://mw.modhistory.com/download-53-10736) by Brother Juniper  
