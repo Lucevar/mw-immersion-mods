@@ -65,4 +65,5 @@ A corprus meat replacer.
 # Sound Overhauls
 [**Better Sounds**](https://www.nexusmods.com/morrowind/mods/9967?) by JEKA and TJ  
 [**Better Sounds - Fixed and Cleaned**](https://www.nexusmods.com/morrowind/mods/46516) by 1lartur0  
+[**Atmospheric Sound Effects Expanded**](https://www.nexusmods.com/morrowind/mods/49371) by Booze  
 [**AURA**](https://www.nexusmods.com/morrowind/mods/48255) by tewlwolow  
