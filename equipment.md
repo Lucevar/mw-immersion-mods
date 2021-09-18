@@ -76,6 +76,7 @@ Duke's Silver Armor:
 [**Coldharbour Daedric Lord Armor and Face of God - Redux Edition**](https://www.nexusmods.com/morrowind/mods/49651) by Zackariaahas  
 [**Daedric Telvanni Robe (Actual Robe Version)**](https://www.nexusmods.com/morrowind/mods/49652) by RuffinVangarr  
 [**Exotics Boutique**](https://mw.modhistory.com/download-80-4764) by Tommy Khajiit  
+[**SM Beetle Helmet**](https://www.nexusmods.com/morrowind/mods/49795) by ShadowMimicry  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
@@ -87,6 +88,7 @@ Duke's Silver Armor:
 [**Korana's Mods for Wares**](https://www.nexusmods.com/morrowind/mods/49758) by Danae  
 [**Aoimevelho's Mods for Wares**](https://www.nexusmods.com/morrowind/mods/49762) by Danae  
 [**Hilgya the Seamstress for Wares**](https://www.nexusmods.com/morrowind/mods/49766) by Danae  
+[**TealPanda's Mods for Wares**](https://www.nexusmods.com/morrowind/mods/49790) by Danae  
 
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
