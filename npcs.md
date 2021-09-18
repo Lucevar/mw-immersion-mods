@@ -46,6 +46,7 @@
 
 ## Situational
 [**Wear A Mask**](https://www.nexusmods.com/morrowind/mods/49240) by Von Djangos  
+[**Boys in the Hood**](https://www.nexusmods.com/morrowind/mods/49929) by Von Djangos  
 
 ## New NPCS
 [**TriangleTooth's Missing NPCs**](https://www.nexusmods.com/morrowind/mods/46234) by TriangleTooth  
