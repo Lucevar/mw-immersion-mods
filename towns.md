@@ -32,6 +32,7 @@
 [**Magical Lights for Telvanni**](https://www.nexusmods.com/morrowind/mods/49453) by RandomPal  
 [**Izi Forts - All In One**](https://www.nexusmods.com/morrowind/mods/49548) by Izi  
 [**Better Imperial Forts**](https://www.nexusmods.com/morrowind/mods/49745) by Dallara  
+[**Vibrant Ivy**](https://www.nexusmods.com/morrowind/mods/49863) by RandomPal  
 
 # Tamriel Rebuilt
 [**Unique Tavern Signs for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/46794) by Rats  
