@@ -189,3 +189,4 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 152. [**Less Disclosed Addamasartus**](https://www.nexusmods.com/morrowind/mods/49271) by RandomPal  
 153. [**Seamless Abandoned Shack**](https://www.nexusmods.com/morrowind/mods/49527) by RandomPal  
 154. [**Hybrid Trees**](https://www.nexusmods.com/morrowind/mods/50167) by SilentJacket  
+155. [**Morrowind Swamp Trees**](https://www.nexusmods.com/morrowind/mods/50151) by Vegetto  
