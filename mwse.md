@@ -8,6 +8,18 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - April 15th
+[**Mantle of Ascension - Climbing Mod**](https://www.nexusmods.com/morrowind/mods/49870) by Vtastek  
+This mod adds basic mantling. You can now climb onto obstacles given they are within reach. This includes getting out of water and steep surfaces as long as they are not 90 degrees vertical unless you can catch a dent or bump on them.
+
+[**Potion of Potion Renamer**](https://www.nexusmods.com/morrowind/mods/49867) by A Raven of Many Hats  
+Follow Necrolesian's excellent liquor "Potion Renamer" with this tasty chaser and all your potions will magically have "Potion of" appended in front of them where they didn't before! It's magic! Actually, it's a simple text edit of the wonderful coding done in MWSE-lua by the talented Necro.
+
+[**Soulgem Renamer**](https://www.nexusmods.com/morrowind/mods/49861) by Necrolesian  
+Renames soulgems so they'll group together in the inventory. Uses MWSE-lua.
+
+[**Advanced Text Formatting**](https://www.nexusmods.com/morrowind/mods/49858) by Safebox  
+Extends the current variable text formatting to allow for additional variables such as gold, date, equipped weapon, etc.
+
 [**Potion Renamer**](https://www.nexusmods.com/morrowind/mods/49853) by Necrolesian  
 Renames potions so they'll sort rationally in the inventory, first by effect and then by quality. Uses MWSE-lua.
 
