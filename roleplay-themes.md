@@ -60,6 +60,7 @@ Adds a number of quests for Ashlanders in three of the main camps and two quests
 [**Ashlander Prophecy**](https://www.nexusmods.com/morrowind/mods/44505) by CzarRedwall  
 Start the game as an Ashlander. Skips the Blades portions of the main quest.  
 [**The Mystery of the Ghost Snake**](https://www.nexusmods.com/morrowind/mods/49358) by Alice  
+[**Dunmeri Goodbye**](https://www.nexusmods.com/morrowind/mods/49539) by FyreAlchemage  
 
 # Assassin
 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
@@ -149,9 +150,11 @@ Includes an Argonian companion
 * [**Expedition to mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by Team Dreamy Dremora  
 
 # Dunmer Nationalist
-[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
-[**Liberate Morrowind**](https://www.nexusmods.com/morrowind/mods/45658) by Gavrilo93  
+[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Alice  
+[**Liberate Morrowind**](https://www.nexusmods.com/morrowind/mods/45658) by Alice  
 [**Reclaim Gnisis**](https://www.nexusmods.com/morrowind/mods/43971) by Alxemical  
+[**Dunmeri Goodbye**](https://www.nexusmods.com/morrowind/mods/49539) by FyreAlchemage  
+
 
 # Farmer
 Farmer mod
