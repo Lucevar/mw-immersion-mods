@@ -293,7 +293,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **Bthanchend**  
 **Bthuand** - [Bthuand Expanded](https://www.nexusmods.com/morrowind/mods/46055)  
 **Bthungthumz**  
-**Dagoth Ur** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544)  
+**Dagoth Ur** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544), [**Akulakhan's Best Chamber**](https://www.nexusmods.com/morrowind/mods/49644)    
 **Druscashti** - [**Druschasti Overhaul**](https://www.nexusmods.com/morrowind/mods/47900), [**Vampire Clans - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47259)  
 **Endusal** - [Endusal Redone](https://www.nexusmods.com/morrowind/mods/43399)  
 **Galom Daeus** - [**Vampire Clans - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47259)  
