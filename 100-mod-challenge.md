@@ -147,6 +147,8 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 121. [**Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236) by Melchior Dahrk  
 122. [**I Lava Good Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/49605) by Melchior Dahrk  
 123. [**OAAB Data**](https://www.nexusmods.com/morrowind/mods/49042) by OAAB Team  
+-- 00 Core
+-- 01 GiTD Patch Sunrays
 124. [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Project Tamriel & Tamriel Rebuilt Team  
 125. [**OAAB Integrations**](https://www.nexusmods.com/morrowind/mods/49045) by OAAB Team  
 -- OAAB Creature Loot  
@@ -155,4 +157,4 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 -- OAAB Leveled Creatures  
 -- OAAB Leveled Lists  
 -- OAAB Scroll Qualities  
-126. blahblah
+126. [**Old Dwemer Books**](https://www.nexusmods.com/morrowind/mods/43339) by Yar-Yulme
