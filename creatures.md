@@ -44,3 +44,4 @@
 [**Peaceful Fish**](https://www.nexusmods.com/morrowind/mods/47882) by DeadAnarchy  
 [**N'wahs Work**](https://www.nexusmods.com/morrowind/mods/49103?tab=files) by Nwahs and Mushrooms  
 [**Surfracers**](https://www.nexusmods.com/morrowind/mods/49783) by Danae and XeroFoxx  
+[**Thalassophobia - Sharks of Morrowind**](https://www.nexusmods.com/morrowind/mods/49887) by Balathustrius  
