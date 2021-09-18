@@ -67,6 +67,8 @@ No saving in battle!
 [**Splash Screens for Morrowind (Mainly from ESO)**](https://www.nexusmods.com/morrowind/mods/49038) by EinBlonderTraum  
 [**Ogrim Splash Screen for Purists**](https://www.nexusmods.com/morrowind/mods/49233) by Clearwing  
 [**Vvardenfell Map Splash Screen and Main Menu**](https://www.nexusmods.com/morrowind/mods/49245) by k1349  
+[**Monopteryx Loading Screens**](https://www.nexusmods.com/morrowind/mods/49590) by Varlothen  
+[**Nordman's Splash Screens**](https://www.nexusmods.com/morrowind/mods/49577) by Nordman  
 
 ## Main Menu Replacers
 [**Animated Main Menu for Morrowind**](https://www.nexusmods.com/morrowind/mods/43341?tab=description) by Mikeandike  
@@ -85,4 +87,5 @@ No saving in battle!
 [**Eliot's Main Menu & LOading Screen**](https://www.nexusmods.com/morrowind/mods/46251) by EL1OT  
 [**Main Menu Replacer 2021**](https://www.nexusmods.com/morrowind/mods/49329) by Demanufacturer87  
 [**Vvardenfell Map Splash Screen and Main Menu**](https://www.nexusmods.com/morrowind/mods/49245) by k1349  
+[**Vanilla Animated Main Menu Like Xbox**](https://www.nexusmods.com/morrowind/mods/49581) by Leyawynn  
 
