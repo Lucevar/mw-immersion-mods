@@ -82,6 +82,9 @@ Duke's Silver Armor:
 
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
+[**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673) by Discontinuous Qualia  
+[**Remiros' Uniques**](https://www.nexusmods.com/morrowind/mods/49674) by Remiros  
 
 # Weapons 
 [**Daedric Estoc**](https://www.nexusmods.com/morrowind/mods/49620) by insicht  
+[**Killing Spree Helluva Ways to Kill**](https://www.nexusmods.com/morrowind/mods/49668) by Danae  
