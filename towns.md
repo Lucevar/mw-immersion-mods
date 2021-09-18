@@ -4,6 +4,7 @@
 # General
 [**Barabus's Fireplaces**](https://www.nexusmods.com/morrowind/mods/45766) by Barabus (update by PoodleSandwich)  
 [**Holidays Across Tamriel**](https://www.nexusmods.com/morrowind/mods/43131/) by Lord Berandas  
+[**Holidays Across Tamriel Lower Prices**](https://www.nexusmods.com/morrowind/mods/50160) by Aralin  
 [**Temples With Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
 [**Bigger Temples - Urbanopticum**](https://www.nexusmods.com/morrowind/mods/46184) by Tyddy  
 [**Velothi Wall Art**](https://www.nexusmods.com/morrowind/mods/46454) by Ashtaar  
@@ -34,6 +35,7 @@
 [**Better Imperial Forts**](https://www.nexusmods.com/morrowind/mods/49745) by Dallara  
 [**Vibrant Ivy**](https://www.nexusmods.com/morrowind/mods/49863) by RandomPal  
 [**Rogue Redoran Rugs Removed**](https://www.nexusmods.com/morrowind/mods/49942) by Randolph Carter  
+[**Graffiti of Morrowind**](https://www.nexusmods.com/morrowind/mods/50156) by RandomPal  
 
 # Tamriel Rebuilt
 [**Unique Tavern Signs for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/46794) by Rats  
@@ -339,6 +341,7 @@ or
 [**Mal's Balmora Overhaul**](https://www.nexusmods.com/morrowind/mods/49295) by MaladjustedPlatypus  
 [**Balmora The Awakening**](https://www.nexusmods.com/morrowind/mods/49465) by Mika  
 [**Dallara Balmora**](https://www.nexusmods.com/morrowind/mods/49669) by Dallara  
+[**Hlaalu Council Manor Overhaul**](https://www.nexusmods.com/morrowind/mods/50164) by RandomPal  
 
 [**Fort Moonmoth Expanded**](https://www.nexusmods.com/morrowind/mods/46963) by Yommumoi  
 
