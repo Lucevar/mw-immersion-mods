@@ -158,3 +158,14 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 -- OAAB Leveled Lists  
 -- OAAB Scroll Qualities  
 126. [**Old Dwemer Books**](https://www.nexusmods.com/morrowind/mods/43339) by Yar-Yulme
+127. [**Olaf's Best Cloaks in Town**](https://www.nexusmods.com/morrowind/mods/49612) by MorrowGoblins  
+128. [**HUD Encumbrance Bar**](https://www.nexusmods.com/morrowind/mods/49608) by OperatorJack  
+129. [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
+-- Wares
+-- BCOM for Wares (for later when we install BCOM)
+-- OAAB Wares (delete OAAB leveled lists integration if you have it)
+130. [**Enchanted Item Cost Rebalance**](https://www.nexusmods.com/morrowind/mods/49643) by JackBNimble
+131. [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by Mort  
+132. [**Relevant Rumors**](https://www.nexusmods.com/morrowind/mods/49650) by Elanhant  
+133. [**Sload Floater - Giant Bull Netch Replacer**](https://www.nexusmods.com/morrowind/mods/49672) by Melchior Dahrk  
+134. [**Atronach Expansion**](https://www.nexusmods.com/morrowind/mods/22189/?) by Melchior Dahrk  
