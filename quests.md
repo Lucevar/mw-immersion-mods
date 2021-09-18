@@ -24,6 +24,7 @@ Removes level requirements for a number of quests.
 [**Old Blue Fin**](https://www.nexusmods.com/morrowind/mods/49503) by Leyawynn  
 [**Relevant Rumors**](https://www.nexusmods.com/morrowind/mods/49650) by Elanhant  
 [**Even More Mysterious Killings in Vivec**](https://www.nexusmods.com/morrowind/mods/49661) by Endoran  
+[**Immersive Neloth Reward**](https://www.nexusmods.com/morrowind/mods/49836) by Alice  
 
 ## Main Quest Mods
 [**Main Quest Enhancers**](https://www.nexusmods.com/morrowind/mods/41337) by Trainwiz  
@@ -57,6 +58,7 @@ Removes level requirements for a number of quests.
 [**Redoran Founder's Helm Add-on - Arena Duel**](https://www.nexusmods.com/morrowind/mods/49342) by Sigourn  
 [**Quests for CLans and Vampire Legends (QCVL)**](https://www.nexusmods.com/morrowind/mods/49486) by SpiritTauren  
 [**Redoran Archmaster's Perks**](https://www.nexusmods.com/morrowind/mods/49519) by Mort  
+[**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
 
 # New Quests, Vanilla Npcs
 [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
@@ -68,6 +70,7 @@ Removes level requirements for a number of quests.
 [**Bitter and Blighted**](https://www.nexusmods.com/morrowind/mods/47052) by MrWillisTheFetcher  
 [**Hell at Moonmoth**](https://www.nexusmods.com/morrowind/mods/49128) by Ignatious  
 [**The Mystery of the Ghost Snake**](https://www.nexusmods.com/morrowind/mods/49358) by Alice  
+[**Harvest's End Festival**](https://www.nexusmods.com/morrowind/mods/49834) by Alice  
 
 # Totally New Quests
 
@@ -101,3 +104,4 @@ Removes level requirements for a number of quests.
 [**The Weary Vampire**](https://www.nexusmods.com/morrowind/mods/49774) by Operator Jack  
 [**Supply Chain**](https://www.nexusmods.com/morrowind/mods/49802) by Denina  
 [**Bitter Coast Smugglers**](https://www.nexusmods.com/morrowind/mods/49810) by SamboJ  
+[**The Great Wizard Fantasco**](https://www.nexusmods.com/morrowind/mods/49833) by DasOmega  
