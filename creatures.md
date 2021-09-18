@@ -9,6 +9,7 @@
 [**Divine Dagoths**](https://www.nexusmods.com/morrowind/mods/45536) by SpaceDevo  
 [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194) by rot  
 [**Concept Art Sixth House**](https://www.nexusmods.com/morrowind/mods/47498/) by Leyawynn  
+[**Sload Floater - Giant Bull Netch Replacer**](https://www.nexusmods.com/morrowind/mods/49672) by Melchior Dahrk  
 
 ## Overhaul
 [**Creatures XI**](https://www.nexusmods.com/morrowind/mods/30563) by Piatelord  
