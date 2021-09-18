@@ -234,6 +234,9 @@ Be joined on your adventures by Yashga.
 [**You are being robbed**](https://arcimaestroantares.webs.com/youarebeingrobbed.htm) by arcimaestro antares  
 [**Errands for Orvas**](https://calezane.home.xs4all.nl/mw/mwmods.htm) by Calezane  
 
+# Pacifist 
+[**Bonk - The Non-Lethal Stealth Takedowns mod for Pacifists**](https://www.nexusmods.com/morrowind/mods/50227) by DuskWulf  
+
 # Philanthropist 
 [**Donations to the Gods**](http://mw.modhistory.com/download-68-14336) by Slaanesh the Corruptor  
 [**Alms for Almsivi**](https://www.nexusmods.com/morrowind/mods/43853) by Zaarin  
