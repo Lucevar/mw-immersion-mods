@@ -264,6 +264,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 [**Sheogorad - Groves of the North**](https://www.nexusmods.com/morrowind/mods/48240) by Tapetenklaus  
 [**Foggy and Sinister Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49429) by Mika  
 [**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603) by RandomPal  
+[**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067) by RandomPal  
 
 ## Ald Redaynia  
 [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646) by R-Zero    
