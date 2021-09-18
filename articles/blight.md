@@ -33,7 +33,9 @@ Ashfall includes a catch-blight-from-storms mechanic, so you don't need to use B
 ## Blight Doesn't Just Affect You
 ![Corprus Natives](https://staticdelivery.nexusmods.com/mods/100/images/45674/45674-1526611451-1056904407.jpeg)
 
-- [**Blighted Mines Mean Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Gavrilo93  
+- [**The Blight**](https://www.nexusmods.com/morrowind/mods/49504) by OperatorJack and Greatness7  
+This one does a whole host of different things! Blight diseases are now visible as decals on blighted player characters, NPCs, and plants. Blight diseases will now grow in severity if you don't get them treated. Blight can be transmitted between PC and NPCs, or between NPCS, or between PCs, NPCs, and plants. Face coverings reduce the chance of becoming blighted - for you and for NPCs. NPCs will now sometimes equip masks during blight storms. Travel services are now restricted during blight storms.  
+- [**Blighted Mines Mean Blighted Workers**](https://www.nexusmods.com/morrowind/mods/33920) by Alice  
 Workers standing outside blighted mines will also be blighted.  
 - [**No Disease Labels**](https://www.nexusmods.com/morrowind/mods/48295) by RedFurryDemon  
 You can no longer tell from the label whether an animal is blighted or not. Beware!  
