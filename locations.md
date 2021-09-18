@@ -56,6 +56,7 @@
 [**Kummu Monastery Revisited**](https://www.nexusmods.com/morrowind/mods/46565) by Kursan  
 [**Wayside Inn**](http://mw.modhistory.com/download-45-12759) by Namingway  
 [**True Dren Plantation**](https://www.nexusmods.com/morrowind/mods/48957) by Serpentbyte  
+[**Concept Art Plantations**](https://www.nexusmods.com/morrowind/mods/50020) by Duo Dinamico  
 
 [**Remiros's Ascadian Isles Trees 2**](https://www.nexusmods.com/morrowind/mods/45779/) by Remiros  
 [**MD's Replacer for Vurt's Shrooms**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk  
