@@ -16,6 +16,7 @@
 [**Telvanni Warriors**](https://www.nexusmods.com/morrowind/mods/43254?) by Stavroguin  
 [**Imperial Armour Expanded - Beta**](https://www.nexusmods.com/morrowind/mods/49330) by Endoran  
 [**New Imperial Helms**](https://www.nexusmods.com/morrowind/mods/49448) by grVulture  
+[**Smart Heads**](https://www.nexusmods.com/morrowind/mods/50098) by abot  
 
 ## Pubs and Taverns
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) by Half11  
@@ -67,6 +68,7 @@
 [**Morrowind Comes Alive**](https://www.nexusmods.com/morrowind/mods/6006) by Neoptolemus  
 [**Starfire's NPCs**](http://mw.modhistory.com/download-90-13583) by Starfire  
 [**Friends and Foes**](https://www.nexusmods.com/morrowind/mods/49251) by Danae  
+[**Bandits**](https://www.nexusmods.com/morrowind/mods/50084) by RandomPal  
 
 ## Specific NPCs
 [**Peaceful Qorwynn**](https://www.nexusmods.com/morrowind/mods/46759)  
