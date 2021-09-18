@@ -131,6 +131,7 @@ Includes an Argonian companion
 * [**Vaermina's Quest - Dreams of the Escaped**](https://www.nexusmods.com/morrowind/mods/49172) by Team Tenacious Templars  
 * [**Pimp My Shrine - Legend of Vernaccus**](https://www.nexusmods.com/morrowind/mods/49173) by Team Scuttling Scribs  
 * [**Frozen in Time**](https://www.nexusmods.com/morrowind/mods/50077) by Billyfighter  
+* [**MTR Daedric Offerings**](https://www.nexusmods.com/morrowind/mods/49697) by MTR  
 
 ## Sheogorath
 * [**Throwable Eggs**](https://www.nexusmods.com/morrowind/mods/46446)
