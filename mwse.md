@@ -8,6 +8,15 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - April 15th
+[**Adjustable Landscape Texture Scale**](https://www.nexusmods.com/morrowind/mods/49689) by Greatness7 
+This mod allows you to manually increase the scale of the landscape texture to make it look more detailed without the need for hi-res replacers.
+
+[**Battlemage**](https://www.nexusmods.com/morrowind/mods/49684) by Archimag  
+Targeted weapon enchantments trigger on attack. Bow enchantments are triggered by an arrow hit. The ability to cast spells when attacking.
+
+[**Distraction**](https://www.nexusmods.com/morrowind/mods/49680) by Mort  
+Throwing weapons, arrows, and the Sound spell now distract NPCs and allow you to sneak past them
+
 [**Ultra AI**](https://www.nexusmods.com/morrowind/mods/49670) by Archimag  
 Combat AI overhaul
 
