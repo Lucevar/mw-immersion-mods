@@ -65,6 +65,8 @@ Duke's Silver Armor:
 [**Robe of the Drake's Pride - Recolored**](https://www.nexusmods.com/morrowind/mods/49420) by Jasper  
 [**New Imperial Helms**](https://www.nexusmods.com/morrowind/mods/49448) by grVulture  
 [**Crusaders of Tamriel**](https://www.nexusmods.com/morrowind/mods/49449) by grVulture  
+[**Redoran Patrols - Gnisis**](https://www.nexusmods.com/morrowind/mods/49484) by Ashtaar  
+[**Racer Dust Arms and Armor**](https://www.nexusmods.com/morrowind/mods/49485) by Ashtaar  
 
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
