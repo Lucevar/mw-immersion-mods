@@ -33,6 +33,7 @@
 [**Izi Forts - All In One**](https://www.nexusmods.com/morrowind/mods/49548) by Izi  
 [**Better Imperial Forts**](https://www.nexusmods.com/morrowind/mods/49745) by Dallara  
 [**Vibrant Ivy**](https://www.nexusmods.com/morrowind/mods/49863) by RandomPal  
+[**Rogue Redoran Rugs Removed**](https://www.nexusmods.com/morrowind/mods/49942) by Randolph Carter  
 
 # Tamriel Rebuilt
 [**Unique Tavern Signs for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/46794) by Rats  
@@ -318,6 +319,8 @@ Balmora has a ridiculous number of mods - it's a meme for a reason! I recommend 
 [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
 [**Balmora Redecorated**](https://www.nexusmods.com/morrowind/mods/42580) by Lucevar  
 [**South Wall, Den of Iniquity**](http://mw.modhistory.com/download-87-13449) by Balasthustrius  
+or  
+[**South Wall, Den of Iniquity 2021**](https://www.nexusmods.com/morrowind/mods/49950) by Balasthustrius  
 or  
 [**Atmospheric South Wall Cornerclub**](https://www.nexusmods.com/morrowind/mods/49229) by RandomPal, which is SW - DoI without the quests  
 [**The Seedy Plates**](https://www.nexusmods.com/morrowind/mods/19006) by Von Django  
