@@ -8,6 +8,33 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - April 15th
+[**MagicStorm**](https://www.nexusmods.com/morrowind/mods/49739) by Archimag  
+Adds 3 new spell casting modes: spray, ray and shotgun
+
+[**MWSE Skinswapper Script**](https://www.nexusmods.com/morrowind/mods/49733) by Bahamut  
+MWSE Script for swapping texture from characters body chest mesh to other trishape
+
+[**Rev's Ashfall Patches**](https://www.nexusmods.com/morrowind/mods/49722) by Revacholiere  
+Pluginless interoperability for Ashfall with several mods, including Wyrmhaven, Doors of Oblivion, and Enhanced Economics.
+
+[**Armor Rating**](https://www.nexusmods.com/morrowind/mods/49715) by Archimag  
+More realistic and smoother formula for calculating armor rating
+
+[**Runes and Totems**](https://www.nexusmods.com/morrowind/mods/49694) by Archimag  
+Ability to create runes on the ground that will explode when enemies are close. Ability to create totems that will shoot magic at nearby enemies.
+
+[**Dungeons Rest**](https://www.nexusmods.com/morrowind/mods/49699) by Stripes  
+Hostile NPCs and creatures' health, magic, and fatigue are reset to full when you enter interior cells
+
+[**Fast Cast**](https://www.nexusmods.com/morrowind/mods/49698) by Archimag  
+Speeds up spell casting
+
+[**Auramancer**](https://www.nexusmods.com/morrowind/mods/49708) by Archimag  
+Elemental shields damage everyone around
+
+[**Manashield**](https://www.nexusmods.com/morrowind/mods/49709) by Archimag  
+The shield magic effect now absorbs physical damage, wasting your mana
+
 [**Adjustable Landscape Texture Scale**](https://www.nexusmods.com/morrowind/mods/49689) by Greatness7 
 This mod allows you to manually increase the scale of the landscape texture to make it look more detailed without the need for hi-res replacers.
 
