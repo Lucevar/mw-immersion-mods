@@ -63,6 +63,8 @@ Updates vanilla classes to be more useable, makes NPC classes playable, adds a v
 
 [**Circumstances**](https://www.nexusmods.com/morrowind/mods/49830) by JaceyS  
 
+[**MTR Balanced Races**](https://www.nexusmods.com/morrowind/mods/49915) by MTR  
+
 # New Starting Equipment
 [**Personal Effects**](https://www.nexusmods.com/morrowind/mods/45338) by R-Zero  
 If you start as one of the vanilla classes, gain items based on your class instead of the vanilla 87 gold.  
