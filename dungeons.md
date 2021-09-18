@@ -379,7 +379,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Zalkin-Sul Egg Mine**  
 
 ## <a name="velothi"></a>Velothi Towers
-**Ald Redaynia**  
+**Ald Redaynia**  - [**Grey North - Ruined Redaynia**](https://www.nexusmods.com/morrowind/mods/49862)   
 **Ashmelech** - [**Ashmelech Reborn**](https://www.nexusmods.com/morrowind/mods/45648), [**Vampire Clans - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47259)    
 **Arvs-Drelen**  
 **Hanud**  
