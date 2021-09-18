@@ -191,6 +191,7 @@ A mega-merge of most of the popular Sadrith Mora mods, edited for performance an
 Have you ever thought that Wolverine Hall must have been designed by Sheogorath, specifically to frustrate you? So did mort. So he fixed it (and gave the mages some beds while he was at it.)  
 [**Wolverine Hall Interior Expansion**](https://www.nexusmods.com/morrowind/mods/44965) by Mordaxis  
 [**Dirty Muriel's Expansion**](https://www.nexusmods.com/morrowind/mods/49622) by Endify  
+[**Dirtier Cozier Muriel's Cornerclub**](https://www.nexusmods.com/morrowind/mods/49653) by MachoHamRandySandwich  
 
 You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/44746), [**More Detailed Places - Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/30150), [**Sadrith Mora Expanded**](https://www.nexusmods.com/morrowind/mods/44113), or [**Epic Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/43057).
 
