@@ -22,3 +22,4 @@ Includes an Argonian companion
 [**Avni the Ash-Hound**](https://www.nexusmods.com/morrowind/mods/49521) by Tewlwolow  
 [**Keep Gaea Artoria**](https://www.nexusmods.com/morrowind/mods/49533) by Stripes and Zhydrac  
 [**Kolka the Wolf**](https://www.nexusmods.com/morrowind/mods/49765) by Tizzo  
+[**The Hammer of Orsinium**](https://www.nexusmods.com/morrowind/mods/50027) by Terik Fel  
