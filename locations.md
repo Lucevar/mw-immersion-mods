@@ -67,6 +67,7 @@
 [**OAABandoned Shack**](https://www.nexusmods.com/morrowind/mods/49294) by VvardenfellStormSage  
 [**An Abandoned Shack is your home**](https://www.nexusmods.com/morrowind/mods/49351) by Mika  
 [**Seamless Abandoned Shack**](https://www.nexusmods.com/morrowind/mods/49527) by RandomPal  
+[**Graht Morrowind Swamp Trees**](https://www.nexusmods.com/morrowind/mods/49771) by Melchior Dahrk  
 
 ## West Gash
 [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187)  
