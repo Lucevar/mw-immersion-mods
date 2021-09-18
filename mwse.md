@@ -8,6 +8,18 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - April 15th
+[**Pop A Squat**](https://www.nexusmods.com/morrowind/mods/49753) by Uncle Boss  
+Press a hotkey to pop a squat.
+
+[**Spawner**](https://www.nexusmods.com/morrowind/mods/49759) by Archimag  
+Convenient creature spawner
+
+[**Fast Attack**](https://www.nexusmods.com/morrowind/mods/49756) by Archimag  
+Increases weapon attack speed and range depending on your stats
+
+[**Throw It**](https://www.nexusmods.com/morrowind/mods/49747) by Archimag  
+Allows you to throw any weapon
+
 [**MagicStorm**](https://www.nexusmods.com/morrowind/mods/49739) by Archimag  
 Adds 3 new spell casting modes: spray, ray and shotgun
 
