@@ -50,3 +50,7 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 33. **IceNioLiv Robe Replacer** by CanadianIce and NioLiv  
 -- PLUS esp
 34. [**Yellow border b-gone Imperial Banner and Flag Retexture**](https://www.nexusmods.com/morrowind/mods/47685) by Leetmorry  
+35. [**FMI - Nice to Meet You**](https://www.nexusmods.com/morrowind/mods/47329) by PoodleSandwich  
+36. [**FMI - Not All Dunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
+37. [**FMBP - Michael Michael Michael**](https://www.nexusmods.com/morrowind/mods/48598) by PoodleSandwich  
+38. [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by PoodleSandwich  
