@@ -51,6 +51,7 @@ See [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/cha
 [**MWSE Alchemy Filter**](https://www.nexusmods.com/morrowind/mods/44808) by Greatness7  
 [**ST Alchemy**](http://download.fliggerty.com/download-142-1093) by Stuporstar  
 [**More Gems**](http://mw.modhistory.com/download-1-12182) by Gawain  
+[**Ingredients Galore**](https://www.nexusmods.com/morrowind/mods/49797) by Denina  
 
 # Archer
 [**Hunters Mark**](https://www.nexusmods.com/morrowind/mods/46656)  
