@@ -38,6 +38,9 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 **[Lougian's Caverns Bumpmapped](https://www.nexusmods.com/morrowind/mods/42412)** - This texture replacer makes such an incredible difference to the cave experience just on it's own. Requires MCP's Bumpmapping option to be enabled, otherwise you get odd texture results. It's a texture replacer so it's compatible with pretty much all the other mods on this list.  
 
 ## <a name="tombs"></a>Ancestral Tombs
+[**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678) by XeroFoxx  
+Adds banners outside all the ancestral tombs. Includes a version for tombs in TR.  
+
 **Alas Ancestral Tomb** - [**OAAB Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131), [Nyarlathotep](https://www.nexusmods.com/morrowind/mods/44284), [Remiros' Tombs Expanded](https://www.nexusmods.com/morrowind/mods/45616)   
 **Alen Ancestral Tomb**  
 **Andalen Ancestral Tomb**  - [Zebabi Expanded](https://www.nexusmods.com/morrowind/mods/46276), [TS Ancestral Tomb Overhaul](https://www.nexusmods.com/morrowind/mods/46880)  
