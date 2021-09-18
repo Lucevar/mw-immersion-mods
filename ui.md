@@ -83,4 +83,6 @@ No saving in battle!
 [**Dagothwave - Animated Main Menu**](https://www.nexusmods.com/morrowind/mods/47532) by Young Scrolls  
 [**Todd Howard Main Menu Replacer**](https://www.nexusmods.com/morrowind/mods/47963) by Endify  
 [**Eliot's Main Menu & LOading Screen**](https://www.nexusmods.com/morrowind/mods/46251) by EL1OT  
+[**Main Menu Replacer 2021**](https://www.nexusmods.com/morrowind/mods/49329) by Demanufacturer87  
+[**Vvardenfell Map Splash Screen and Main Menu**](https://www.nexusmods.com/morrowind/mods/49245) by k1349  
 
