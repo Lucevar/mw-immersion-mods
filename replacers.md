@@ -31,6 +31,7 @@
 [**Bound Spells Reforged**](https://www.nexusmods.com/morrowind/mods/48750) by Kurpulio  
 [**Open Helmets**](https://www.nexusmods.com/morrowind/mods/49401) by Leyawynn  
 [**Nords Shut Your Windows**](https://www.nexusmods.com/morrowind/mods/50087) by Vegetto  
+[**Lava Caverns Revamp**](https://www.nexusmods.com/morrowind/mods/50191) by SVNR  
 
 # Mod Replacers
 [**Red sclera eyes for Julan**](https://www.nexusmods.com/morrowind/mods/47277?tab=description) by Leetmorry  
