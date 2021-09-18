@@ -25,6 +25,7 @@ Removes level requirements for a number of quests.
 [**Relevant Rumors**](https://www.nexusmods.com/morrowind/mods/49650) by Elanhant  
 [**Even More Mysterious Killings in Vivec**](https://www.nexusmods.com/morrowind/mods/49661) by Endoran  
 [**Immersive Neloth Reward**](https://www.nexusmods.com/morrowind/mods/49836) by Alice  
+[**Freelancer**](https://www.nexusmods.com/morrowind/mods/49896) by Tomas  
 
 ## Main Quest Mods
 [**Main Quest Enhancers**](https://www.nexusmods.com/morrowind/mods/41337) by Trainwiz  
@@ -39,6 +40,7 @@ Removes level requirements for a number of quests.
 [**Joinable Sixth House - So To Speak**](https://www.nexusmods.com/morrowind/mods/49778) by Alice  
 [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602) by Alice  
 [**MTR Dwemer Puzzle Box Randomizer**](https://www.nexusmods.com/morrowind/mods/49781) by MTR  
+[**Cure all the Kwama Queens**](https://www.nexusmods.com/morrowind/mods/49879) by Alice  
 
 ## Post Main Quest Mods
 [**Vivec's Fate: The Ashlander Heresy**](http://mw.modhistory.com/download-53-10736) by Brother Juniper  
@@ -105,3 +107,4 @@ Removes level requirements for a number of quests.
 [**Supply Chain**](https://www.nexusmods.com/morrowind/mods/49802) by Denina  
 [**Bitter Coast Smugglers**](https://www.nexusmods.com/morrowind/mods/49810) by SamboJ  
 [**The Great Wizard Fantasco**](https://www.nexusmods.com/morrowind/mods/49833) by DasOmega  
+[**QMS - Fallacy of Justice**](https://www.nexusmods.com/morrowind/mods/49894) by EnclaveKiller  
