@@ -53,5 +53,7 @@ Duke's Silver Armor:
 [**Equipment Variants**](https://www.nexusmods.com/morrowind/mods/49253) by Danae  
 [**H.E.L.L.U.V.A Lite and Balanced**](https://www.nexusmods.com/morrowind/mods/47573) by Danae  
 
+[**Many Cloth Helms**](https://www.nexusmods.com/morrowind/mods/49282) by Markond  
+
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
