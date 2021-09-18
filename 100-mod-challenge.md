@@ -62,4 +62,10 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 -- Silt Strider with Vanilla Textures  
 42. [**Creeper the Scamp**](https://www.nexusmods.com/morrowind/mods/47823) by Nwah and Mushrooms 
 -- Vanilla version   
-43. asaljasd
+43. [**Beware the Sixth House**](https://www.nexusmods.com/morrowind/mods/46036) by Mort  
+44. [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by Mort  
+45. [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by Mort  
+46. **LDM - Choices and Consequences** by Lucevar  
+-- 00 Core  
+-- 01 Optional Worldspace Edits - Fargoth's Ring Unbarrelled  
+47. [**Thickle-Lo**](https://www.nexusmods.com/morrowind/mods/47502) by Melchior Dahrk  
