@@ -8,6 +8,15 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - April 15th
+[**Krokantor's Enhanced Water Shader**](https://www.nexusmods.com/morrowind/mods/49964) by Krokantor & Hrnchamd  
+Krokantor's improved water shader for MGE XE. Updated to be compatible with MGE XE 0.13.0.
+
+[**Renamer - Coloring and Icons (MWSE)**](https://www.nexusmods.com/morrowind/mods/49961) by Kindi  
+Rename objects, add info, color choices, and icons.
+
+[**Diminishing Skill Returns**](https://www.nexusmods.com/morrowind/mods/49957) by GreyWyvern  
+Prevents spamming to raise skill levels by reducing the XP you get if you use particular skills repeatedly. No more constant jumping, or letting your character get pummeled by mudcrabs, or tossing spell after spell after spell at a wall. This mod takes away the benefit of doing that.
+
 [**Propylon Index Renamer**](https://www.nexusmods.com/morrowind/mods/49941) by Necrolesian  
 Renames propylon indexes so they'll group together in the inventory.
 
