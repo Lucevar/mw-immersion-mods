@@ -35,6 +35,8 @@ Removes level requirements for a number of quests.
 [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
 [**Escort Caius**](https://www.nexusmods.com/morrowind/mods/49691) by Zaria  
 [**Consequences for Looting the Andrano Tomb**](https://www.nexusmods.com/morrowind/mods/49728) by Alice  
+[**Joinable Sixth House - So To Speak**](https://www.nexusmods.com/morrowind/mods/49778) by Alice  
+[**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602) by Alice  
 
 ## Post Main Quest Mods
 [**Vivec's Fate: The Ashlander Heresy**](http://mw.modhistory.com/download-53-10736) by Brother Juniper  
