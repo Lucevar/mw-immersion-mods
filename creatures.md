@@ -22,6 +22,7 @@
 ## Variants
 [**Golden Saint Variety**](https://www.nexusmods.com/morrowind/mods/46430) by Leyawynn  
 [**Dwemer Spectres + Female Spectres**](https://www.nexusmods.com/morrowind/mods/43249) by Melchior Dahrk  
+[**Riekling Fix and Expansion**](https://www.nexusmods.com/morrowind/mods/50036) by qwertyquit  
 
 ## AI
 [**Improved Cliff Racer AI**](https://www.nexusmods.com/morrowind/mods/44712) by R-Zero  
