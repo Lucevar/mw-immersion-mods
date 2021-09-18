@@ -111,3 +111,4 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 86. [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826) by Melchior Dahrk  
 -- 00 Core  
 87. [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
+88. [**Travel Tooltips**](https://www.nexusmods.com/morrowind/mods/48306) by tewlwolow  
