@@ -37,6 +37,7 @@ Removes level requirements for a number of quests.
 [**Consequences for Looting the Andrano Tomb**](https://www.nexusmods.com/morrowind/mods/49728) by Alice  
 [**Joinable Sixth House - So To Speak**](https://www.nexusmods.com/morrowind/mods/49778) by Alice  
 [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602) by Alice  
+[**MTR Dwemer Puzzle Box Randomizer**](https://www.nexusmods.com/morrowind/mods/49781) by MTR  
 
 ## Post Main Quest Mods
 [**Vivec's Fate: The Ashlander Heresy**](http://mw.modhistory.com/download-53-10736) by Brother Juniper  
@@ -96,3 +97,4 @@ Removes level requirements for a number of quests.
 [**Cliff Racer Revenge**](https://www.nexusmods.com/morrowind/mods/49506) by Relinquished001  
 [**The Redoran Amulet**](https://www.nexusmods.com/morrowind/mods/49501) by Endify  
 [**Secrets of Vos**](https://www.nexusmods.com/morrowind/mods/49736) by CCM  
+[**The Weary Vampire**](https://www.nexusmods.com/morrowind/mods/49774) by Operator Jack  
