@@ -23,6 +23,7 @@
 [**Valley of the Wind Unfenced**](https://www.nexusmods.com/morrowind/mods/47563) by Lucevar  
 [**Eye of the Needle**](https://www.nexusmods.com/morrowind/mods/49399) by Markond  
 [**The Beacon of St Rilms**](https://www.nexusmods.com/morrowind/mods/49515) by Markond  
+[**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237) by Melchior Dahrk  
 
 ## Molag Amur
 [**Shrine of Mount Assarnibi**](https://www.nexusmods.com/morrowind/mods/46858) by istreddify  
