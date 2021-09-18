@@ -8,6 +8,9 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - September 18th 2021  
+[**Web Sweeper**](https://www.nexusmods.com/morrowind/mods/50004) by Stripes  
+This allows to you clean up the vanilla webs used in the game simply by attacking them with any physical attack within range, even ones added by mods as long as they are the vanilla webs. Adds Spider Silk ingredients to leveled list. Adds a broom as a weapon for immersion purposes. It can be purchased from Arille.
+
 [**Jay's Place Swap and One Time Move**](https://www.nexusmods.com/morrowind/mods/50231) by bigJayB  
 Press Ctrl+Q to make NPCs wander around for 3 seconds. Press Shift+Q to swap places with an NPC. Only works if NPC is not in combat. Hotkey can be configured in the MCM.
 
