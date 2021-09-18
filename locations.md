@@ -9,6 +9,7 @@
 [**Ashlanders Herd**](https://www.nexusmods.com/morrowind/mods/48720) by Anumaril  
 [**Desertification**](https://www.nexusmods.com/morrowind/mods/48915) by Leyawynn  
 [**The Ashlanders**](https://www.nexusmods.com/morrowind/mods/49221) by Vegetto and RandomPal  
+[**Get Lost - No Signposts Edition**](https://www.nexusmods.com/morrowind/mods/49809) by Psylandef  
 
 ## Ashlands
 [**RR - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822) by the Resdayn Revival Team  
