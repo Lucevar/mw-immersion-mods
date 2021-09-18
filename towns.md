@@ -25,6 +25,7 @@
 [**Ownership Overhaul**](https://www.nexusmods.com/morrowind/mods/48051) by Necrolesian  
 [**More Wells - An Addon for Ashfall**](https://www.nexusmods.com/morrowind/mods/49088) by RandomPal  
 [**Guilds**](https://www.nexusmods.com/morrowind/mods/49214?tab=description) by Nwahs and Mushrooms Team   
+[**Cluttered Decks**](https://www.nexusmods.com/morrowind/mods/49325) by Tel Shadow  
 
 # Tamriel Rebuilt
 [**Unique Tavern Signs for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/46794) by Rats  
@@ -296,14 +297,12 @@ Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014)
 [**The Rat in the Pot**](https://www.nexusmods.com/morrowind/mods/34186) by DebiDalio  
 [**Aldruhn Council Club**](https://www.nexusmods.com/morrowind/mods/34185) by DebiDalio  
 [**Morvayn Manor in Maar Gan**](https://www.nexusmods.com/morrowind/mods/48024) by Gavrilo93  
-[**Ald-ruhn Mages Guild Expansion**](https://www.nexusmods.com/morrowind/mods/48321) by Endify  
-or  
+[**Ald-ruhn Mages Guild Expansion**](https://www.nexusmods.com/morrowind/mods/48321) by Endify   
 [**Epic Aldruhn**](https://www.nexusmods.com/morrowind/mods/43072) by mike_and_ike  
-or  
 [**Epic Aldruhn Redux**](https://www.nexusmods.com/morrowind/mods/48652) by RandomPal  
-or
 [**Aldruhn Temple Expansion**](http://mw.modhistory.com/download-80-14377) by Xeth-Ban  
 [**Edited & Fixed Aldruhn Temple Expansion**](https://www.nexusmods.com/morrowind/mods/47718) by Zobator  
+[**Cozy Ald-ruhn**](https://www.nexusmods.com/morrowind/mods/49338) by Mika  
 
 [**The Doors - Aldruhn**](https://www.nexusmods.com/morrowind/mods/42512) by Arcimaestro Antares and WH-Reaper  
 [**Edwinna's Study**](https://www.nexusmods.com/morrowind/mods/49050) by Whitnedak  
