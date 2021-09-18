@@ -163,6 +163,7 @@ Has a version which is compatible with Dramatic Vivec
 [**Lively Black Shalk Cornerclub**](https://www.nexusmods.com/morrowind/mods/49840) by Endify  
 [**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916) by seelof  
 [**Library of Vivec Enhanced**](https://www.nexusmods.com/morrowind/mods/50181) by Duo Dynamico  
+[**Simple Vivec Library Overhaul**](https://www.nexusmods.com/morrowind/mods/50189) by RandomPal  
 
 [**Crassius Curio's Argonian Maid**](https://www.nexusmods.com/morrowind/mods/49923) by AmazinglyRandi  
 [**Crassius Curio's Weekly Pilgrimage**](https://www.nexusmods.com/morrowind/mods/49927) by AmazinglyRandi  
