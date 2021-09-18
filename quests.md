@@ -64,6 +64,7 @@ Removes level requirements for a number of quests.
 [**Quests for CLans and Vampire Legends (QCVL)**](https://www.nexusmods.com/morrowind/mods/49486) by SpiritTauren  
 [**Redoran Archmaster's Perks**](https://www.nexusmods.com/morrowind/mods/49519) by Mort  
 [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
+[**Harvest's End Festival**](https://www.nexusmods.com/morrowind/mods/49834) by Alice  
 [**Crassius Curio Gets Comfortable**](https://www.nexusmods.com/morrowind/mods/49922) by Amazingly Randi  
 [**Thieves Guild Overhaul**](https://www.nexusmods.com/morrowind/mods/49944) by Alice  
 
@@ -77,7 +78,7 @@ Removes level requirements for a number of quests.
 [**Bitter and Blighted**](https://www.nexusmods.com/morrowind/mods/47052) by MrWillisTheFetcher  
 [**Hell at Moonmoth**](https://www.nexusmods.com/morrowind/mods/49128) by Ignatious  
 [**The Mystery of the Ghost Snake**](https://www.nexusmods.com/morrowind/mods/49358) by Alice  
-[**Harvest's End Festival**](https://www.nexusmods.com/morrowind/mods/49834) by Alice  
+[**SV Justice in Seyda Neen**](https://www.nexusmods.com/morrowind/mods/49993) by Siralvek  
 
 # Totally New Quests
 
@@ -116,3 +117,4 @@ Removes level requirements for a number of quests.
 [**CCM Guard Patrols and Quests**](https://www.nexusmods.com/morrowind/mods/49899) by CCM  
 [**Anarchist Nerevarine**](https://www.nexusmods.com/morrowind/mods/49909) by Alice  
 [**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916) by seelof  
+[**Ambient Percussion**](https://www.nexusmods.com/morrowind/mods/49998) by Elminster  
