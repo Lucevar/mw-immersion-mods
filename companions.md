@@ -16,5 +16,6 @@ Includes an Argonian companion
 [**The Witchgirl Adventure**](http://lovkullen.net/Emma/witchgirl.htm) by Emma  
 [**Gwen of Rivenspire**](https://www.nexusmods.com/morrowind/mods/46960) by RubberMan   
 [**Belial, A Dismal Dremora Companion**](https://www.nexusmods.com/morrowind/mods/44341) by Hanghimhigher  
-[**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Gavrilo93  
+[**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Alice    
 [**MWSE Enhanced Healer Companion**](https://www.nexusmods.com/morrowind/mods/48678) by Stripes  
+[**Elisamsi Follower**](https://www.nexusmods.com/morrowind/mods/49326) by Alice  
