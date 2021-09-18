@@ -88,3 +88,24 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 64. [**AURA**](https://www.nexusmods.com/morrowind/mods/48255) by tewlwolow  
 65. [**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654) by Anumaril  
 66. [**Rogues Gallery**](https://www.nexusmods.com/morrowind/mods/49874) by Von Djangos  
+67. [**Shattered Stones - an Earthquake mod**](https://www.nexusmods.com/morrowind/mods/45105) by R-zero, Greatness7 and Vtastek  
+68. [**Nocturnal Moths**](https://www.nexusmods.com/morrowind/mods/44148) by R-zero  
+69. [**Chimney Smoke Replacer**](https://www.nexusmods.com/morrowind/mods/44025) by R-zero  
+70. [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-zero  
+71. [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488) by R-zero  
+72. [**Dwemer Blinking Lights**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=73&Itemid=50&-Dwemer-Blinking-Lights-1-1) by abot & qqqbbb 
+73. [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
+74. [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
+75. [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973) by Vtastek and Tewlwolow  
+76. [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435) by Melchior Dahrk  
+77. [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by gruntella  
+78. [**R-zero's Throbbing Meat**](https://www.nexusmods.com/morrowind/mods/45339) by R-zero  
+79. [**Buoyant Lord Vivec**](https://www.nexusmods.com/morrowind/mods/48312) by Stripes  
+80. [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194) by Rot  
+81. [**Particle Arrow Replacer**](https://www.nexusmods.com/morrowind/mods/47749) by Ghostnull  
+82. [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586) by R-zero  
+83. [**Sound Spell Sound Effect**](https://www.nexusmods.com/morrowind/mods/43300) by R-zero  
+84. [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178/) by RedFurryDemon and OperatorJack  
+85. [**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912) by RedFurryDemon  
+86. [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826) by Melchior Dahrk  
+87. [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
