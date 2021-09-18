@@ -70,6 +70,11 @@ Duke's Silver Armor:
 [**Redoran Exile Armor**](https://www.nexusmods.com/morrowind/mods/49509) by RuffinVangarr  
 [**Redoran Hortator Armor Chest**](https://www.nexusmods.com/morrowind/mods/49498) by Stripes  
 [**Concept Art Daedric Helmets**](https://www.nexusmods.com/morrowind/mods/49534) by RuffinVangarr  
+[**Olafs Best Cloaks in Town**](https://www.nexusmods.com/morrowind/mods/49612) by MorrowGoblins  
+
+# Wares
+[**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
+
 
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
