@@ -67,6 +67,8 @@ Duke's Silver Armor:
 [**Crusaders of Tamriel**](https://www.nexusmods.com/morrowind/mods/49449) by grVulture  
 [**Redoran Patrols - Gnisis**](https://www.nexusmods.com/morrowind/mods/49484) by Ashtaar  
 [**Racer Dust Arms and Armor**](https://www.nexusmods.com/morrowind/mods/49485) by Ashtaar  
+[**Redoran Exile Armor**](https://www.nexusmods.com/morrowind/mods/49509) by RuffinVangarr  
+[**Redoran Hortator Armor Chest**](https://www.nexusmods.com/morrowind/mods/49498) by Stripes  
 
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
