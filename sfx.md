@@ -26,6 +26,9 @@
 [**Elemental Effects**](https://www.nexusmods.com/morrowind/mods/49799) by Anumaril  
 [**Web Sweeper**](https://www.nexusmods.com/morrowind/mods/50004) by Stripes  
 [**Vanity**](https://www.nexusmods.com/morrowind/mods/48529) by abot  
+[**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk  
+[**Nords Shut Your Windows**](https://www.nexusmods.com/morrowind/mods/50087) by Vegetto  
+[**Graphic Herbalism**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
 
 ## Items
 [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
