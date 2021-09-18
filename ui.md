@@ -84,6 +84,7 @@ No saving in battle!
 [**Monopteryx Loading Screens**](https://www.nexusmods.com/morrowind/mods/49590) by Varlothen  
 [**Nordman's Splash Screens**](https://www.nexusmods.com/morrowind/mods/49577) by Nordman  
 [**Color Vvardenfell Map Manu and Splash Screens**](https://www.nexusmods.com/morrowind/mods/49930) by Aitrus  
+[**Anroha Splash Pack**](https://www.nexusmods.com/morrowind/mods/50058) by Anroha  
 
 ## Main Menu Replacers
 [**Animated Main Menu for Morrowind**](https://www.nexusmods.com/morrowind/mods/43341?tab=description) by Mikeandike  
