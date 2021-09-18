@@ -106,6 +106,7 @@ For a more restrained aesthetic. Adds appropriate clutter to Gnaar Mok but doesn
 [**Suran - The Pearl of the Ascadian Isles**](https://www.nexusmods.com/morrowind/mods/48675) by RandomPal  
 [**Concept Art Hlaalu Balconies**](https://www.nexusmods.com/morrowind/mods/48667) by RandomPal  
 [**Izi Cities - Suran**](https://www.nexusmods.com/morrowind/mods/49148) by Izi  
+[**Fabulous Suran**](https://www.nexusmods.com/morrowind/mods/49536) by Mika  
 
 ## Vivec
 [**Dramatic Vivec**](https://www.nexusmods.com/morrowind/mods/43385) by LondonRook  
@@ -156,6 +157,7 @@ These affect different parts of Ebonheart and are therefore compatible.
 [**Duke's Throne Room Overhaul**](https://www.nexusmods.com/morrowind/mods/48235) by Gavrilo93  
 [**Ebonheart Dragon Statue Replacer**](https://www.nexusmods.com/morrowind/mods/48310) by RandomPal  
 [**Majestic Ebonheart**](https://www.nexusmods.com/morrowind/mods/48771) by RandomPal  
+[**Ebonheart The Old Castle**](https://www.nexusmods.com/morrowind/mods/49524) by Mika  
 
 ## Rethan Manor
 [**Resplendent Rethan - Jewel of the Odai**](https://www.nexusmods.com/morrowind/mods/47281) by Team Azturnal  
@@ -321,6 +323,10 @@ Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014)
 [**Aldruhn Temple Expansion**](http://mw.modhistory.com/download-80-14377) by Xeth-Ban  
 [**Edited & Fixed Aldruhn Temple Expansion**](https://www.nexusmods.com/morrowind/mods/47718) by Zobator  
 [**Cozy Ald-ruhn**](https://www.nexusmods.com/morrowind/mods/49338) by Mika  
+[**Redoran Archmaster's Office**](https://www.nexusmods.com/morrowind/mods/49513) by Denina  
+[**Skar Face (Ald ruhn)**](https://www.nexusmods.com/morrowind/mods/49510) by Vegetto  
+[**The OTHER Council Club**](https://www.nexusmods.com/morrowind/mods/49500) by Vidi_Aquam  
+[**Minor Redoran Concept Art Inspired City Enhancement**](https://www.nexusmods.com/morrowind/mods/49495) by Leyawynn  
 
 [**The Doors - Aldruhn**](https://www.nexusmods.com/morrowind/mods/42512) by Arcimaestro Antares and WH-Reaper  
 [**Edwinna's Study**](https://www.nexusmods.com/morrowind/mods/49050) by Whitnedak  
