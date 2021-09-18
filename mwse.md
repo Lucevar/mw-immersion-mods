@@ -8,6 +8,16 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - April 15th
+[**Companion Stop**](https://www.nexusmods.com/morrowind/mods/50061) by Stripes  
+Stops all player followers with a single keypress. requires MWSE
+
+[**Opponent Fatigue Indicator - MWSE lua edition**](https://www.nexusmods.com/morrowind/mods/50060) by Night Thastus  
+This is an update of the Opponent Fatigue Indicator re-written in MWSE-LUA. This comes with advantages, like supporting UI scaling natively.
+
+[**Pixel Shader Style Water for MGE XE**](https://www.nexusmods.com/morrowind/mods/50044) by Hrnchamd  
+A modernized version of the pixel shader water from vanilla Morrowind. This is a shader core mod for MGE XE, which modifies MGE XE's water rendering.
+It aims to replicate the texture, transparency, and artistic feeling of the original mercurial water, without duplicating its low resolution.
+
 [**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029) by NullCascade  
 Carries over unique item information, such as condition and script data when enchanting items.
 
