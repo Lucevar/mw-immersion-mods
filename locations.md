@@ -21,6 +21,7 @@
 [**Urshilaku Spiritual**](https://www.nexusmods.com/morrowind/mods/48699) by Vegetto  
 [**OAAB - The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/49047) by Remiros  
 [**Valley of the Wind Unfenced**](https://www.nexusmods.com/morrowind/mods/47563) by Lucevar  
+[**Eye of the Needle**](https://www.nexusmods.com/morrowind/mods/49399) by Markond  
 
 ## Molag Amur
 [**Shrine of Mount Assarnibi**](https://www.nexusmods.com/morrowind/mods/46858) by istreddify  
