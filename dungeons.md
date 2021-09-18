@@ -13,6 +13,7 @@ Title: Dungeons
 - [Grottos](#grottos)
 - [Mines](#mines)
 - [Velothi Towers](#velothi)
+- [Shipwrecks](#shipwrecks)
 - [Tribunal dungeons](#tribunal)
 - [Bloodmoon dungeons](#bloodmoon)
 - [New Dungeons](#new)
@@ -391,6 +392,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 
 ## <a name="shipwrecks"></a>Shipwrecks
 [**Uncharted Artifacts**](https://www.nexusmods.com/morrowind/mods/49281) by XeroFoxx  
+**Abandoned Shipwreck**] - [**Of Pillows and Peril**](https://www.nexusmods.com/morrowind/mods/49491) 
 
 ## <a name="tribunal"></a>Tribunal
 **Sewers**  
