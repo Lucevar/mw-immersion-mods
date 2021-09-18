@@ -15,6 +15,7 @@
 [**OAAB Female Tel Mora Guards**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
 [**Telvanni Warriors**](https://www.nexusmods.com/morrowind/mods/43254?) by Stavroguin  
 [**Imperial Armour Expanded - Beta**](https://www.nexusmods.com/morrowind/mods/49330) by Endoran  
+[**New Imperial Helms**](https://www.nexusmods.com/morrowind/mods/49448) by grVulture  
 
 ## Pubs and Taverns
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) by Half11  
