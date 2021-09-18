@@ -28,6 +28,7 @@
 [**Eye of the Needle**](https://www.nexusmods.com/morrowind/mods/49399) by Markond  
 [**The Beacon of St Rilms**](https://www.nexusmods.com/morrowind/mods/49515) by Markond  
 [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237) by Melchior Dahrk  
+[**Better Ghostgate**](https://www.nexusmods.com/morrowind/mods/50201) by Granko7  
 
 ## Molag Amur
 [**Shrine of Mount Assarnibi**](https://www.nexusmods.com/morrowind/mods/46858) by istreddify  
@@ -46,6 +47,7 @@
 [**RR - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822) by the Resdayn Revival Team  
 [**Ghastly Glowyfence**](https://www.nexusmods.com/morrowind/mods/47982?tab=description) by wazabear  
 [**Ghastly Glowyfence distant land & RR Ghostgate patch**](https://www.nexusmods.com/morrowind/mods/49145?tab=files&file_id=1000022197) by darkfri  
+[**Barrowmoth Legion Fort**](https://www.nexusmods.com/morrowind/mods/50202) by EvanMeisterX  
 
 ## Azura's Coast
 [**Holamayan Monastery Replacer**](https://www.nexusmods.com/morrowind/mods/43524) by Resdayn Revival Team  
