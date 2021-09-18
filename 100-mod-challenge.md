@@ -133,3 +133,13 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 107. [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150) by R-Zero  
 108. [**Illustrated ABCs for Barbarians**](https://www.nexusmods.com/morrowind/mods/49310) by XeroFoxx  
 109. [**Bound Spells Reforged**](https://www.nexusmods.com/morrowind/mods/48750) by Kurpulio  
+110. [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) by OperatorJack  
+111. [**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by OperatorJack  
+112. [**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105) by OperatorJack  
+113. [**The Levitation Act**](https://www.nexusmods.com/morrowind/mods/47345) by OperatorJack and Alice  
+114. [**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480) by OperatorJack, Kurpulio, and RedFurryDemon  
+115. [**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565) by OperatorJack, Kurpulio, and Vtastek  
+116. [**Speed Boost**](https://www.nexusmods.com/morrowind/mods/47896) by OperatorJack  
+117. [**Douse the Lights**](https://www.nexusmods.com/morrowind/mods/47980) by OperatorJack  
+118. [**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948) by OperatorJack  
+119. [**The Blight**](https://www.nexusmods.com/morrowind/mods/49504) by OperatorJack and Greatness7  
