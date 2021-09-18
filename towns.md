@@ -144,6 +144,8 @@ Has a version which is compatible with Dramatic Vivec
 [**Dramatic Vivec BCOM Patch**](https://www.nexusmods.com/morrowind/mods/50026) by B00ze  
 [**Screenshot Ministry of Truth**](https://www.nexusmods.com/morrowind/mods/50055) by mateoands  
 [**More Banners for Vivec City (Concept Art)**](https://www.nexusmods.com/morrowind/mods/50052) by mateoands  
+[**Vivec City**](https://www.nexusmods.com/morrowind/mods/50111) by Nwahs and Mushrooms  
+[**Guar Stables of Vivec**](https://www.nexusmods.com/morrowind/mods/50118) by RandomPal  
 
 [**Canalworks Connected**](https://www.nexusmods.com/morrowind/mods/47354) by iLoveOnFear  
 [**Jobasha's Rare Books Expanded**](https://www.nexusmods.com/morrowind/mods/45153) twgear2  
@@ -362,6 +364,7 @@ Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014)
 [**Minor Redoran Concept Art Inspired City Enhancement**](https://www.nexusmods.com/morrowind/mods/49495) by Leyawynn  
 [**Mandas Manor**](https://www.nexusmods.com/morrowind/mods/49911) by Endoran  
 [**Redoran Council Overhall**](https://www.nexusmods.com/morrowind/mods/49817) by Leyawynn, Vidi_Aquam, Lucevar  
+[**Ald-ruhn**](https://www.nexusmods.com/morrowind/mods/50120) by Nwahs and Mushrooms  
 
 [**The Doors - Aldruhn**](https://www.nexusmods.com/morrowind/mods/42512) by Arcimaestro Antares and WH-Reaper  
 [**Edwinna's Study**](https://www.nexusmods.com/morrowind/mods/49050) by Whitnedak  
