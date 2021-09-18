@@ -96,6 +96,7 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 72. [**Dwemer Blinking Lights**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=73&Itemid=50&-Dwemer-Blinking-Lights-1-1) by abot & qqqbbb 
 73. [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
 74. [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
+-- 00 Core
 75. [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973) by Vtastek and Tewlwolow  
 76. [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435) by Melchior Dahrk  
 77. [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by gruntella  
@@ -108,4 +109,5 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 84. [**Heartthrum**](https://www.nexusmods.com/morrowind/mods/47178/) by RedFurryDemon and OperatorJack  
 85. [**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912) by RedFurryDemon  
 86. [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826) by Melchior Dahrk  
+-- 00 Core  
 87. [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
