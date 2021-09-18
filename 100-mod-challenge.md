@@ -1,4 +1,4 @@
-Mod list for the 100 esp install challenge. Number on the list will go above 100 because of graphics replacers/MWSE mods.
+Mod list for the September 2021 100 esp install challenge. Number on the list will go above 100 because of graphics replacers/MWSE mods.
 
 1. [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510) by Hrnchamd + check [**Skunkworks**](https://www.nexusmods.com/morrowind/mods/26348) for beta updates 
 2. [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) by Hrnchamd  
@@ -40,3 +40,6 @@ Mod list for the 100 esp install challenge. Number on the list will go above 100
 24. [**Valley of the Wind Unfenced**](https://www.nexusmods.com/morrowind/mods/47563) by Lucevar  
 25. [**Ashlander Traders Remastered**](https://www.nexusmods.com/morrowind/mods/48009) by Lucevar  
 26. [**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618) by Lucevar  
+27. [**Better Bodies and Westly's Pluginless Replacer**](https://www.nexusmods.com/morrowind/mods/48005) by CarmillaKarnstein  
+28. [**Swappable Texture Signposts**](https://www.nexusmods.com/morrowind/mods/46804) by Stuporstar  
+29. [**Morrowind Containers Animated**](https://www.nexusmods.com/morrowind/mods/42238) by qqqbbb  
