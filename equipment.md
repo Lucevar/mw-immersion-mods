@@ -58,6 +58,9 @@ Duke's Silver Armor:
 [**Telvanni Armors - Slavers and Wizards**](https://www.nexusmods.com/morrowind/mods/49266) by Ashtaar  
 [**Complete and Revised Imperial Studded Leather Armor**](https://www.nexusmods.com/morrowind/mods/49301) by RuffinVangarr  
 [**Dunmer Nobles Overhaul - Robes and Scarves Only**](https://www.nexusmods.com/morrowind/mods/49287) by RandomPal  
+[**Imperial Armour Expanded - Beta**](https://www.nexusmods.com/morrowind/mods/49330) by Endoran  
+[**No Back Shell for Better Telvanni Cephalopod Armor**](https://www.nexusmods.com/morrowind/mods/49334) by PopeRigby  
+[**Altmer Glass Armor**](https://www.nexusmods.com/morrowind/mods/49335) by RuffinVangarr  
 
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
