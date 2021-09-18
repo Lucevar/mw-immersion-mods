@@ -8,6 +8,12 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - March 5th
+[**Just Drop It**](https://www.nexusmods.com/morrowind/mods/49557) by Merlord  
+Dropped items and corpses are automatically positioned and oriented to align with the ground.
+
+[**Glancing Blows and Crits**](https://www.nexusmods.com/morrowind/mods/49541) by ZullleMW  
+This mod replaces misses with glancing blows and introduces critical hits to regular combat with the intention of making the dice rolling system more satisfying without rebalancing the game. MWSE required.
+
 [**MGE XE Watercolour Shader**](https://www.nexusmods.com/morrowind/mods/49473) by Kamikaze  
 Makes Morrowind resemble a watercolor painting.
 
