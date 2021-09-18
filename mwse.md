@@ -8,6 +8,15 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # New since January 12th 2021 - April 15th
+[**Magnificent Soul Gems**](https://www.nexusmods.com/morrowind/mods/50110) by Ekanselttar  
+A MWSE mod adding a new tier of high-capacity soul gems. This is intended to free up Azura's Star for general use or allow display of multiple large souls at once.
+
+[**Ashfall - Dwemer Rebirth compat interop**](https://www.nexusmods.com/morrowind/mods/50108) by isNaN  
+A small interop mod, adding Ashfall-compatibility and appropriate tooltips to items from the Dwemer Rebirth Project.
+
+[**Smart Heads**](https://www.nexusmods.com/morrowind/mods/50098) by abot  
+Randomizes cloned NPCs standard heads.
+
 [**Shield Spells Reforged**](https://www.nexusmods.com/morrowind/mods/50073) by Kurpulio  
 Visual overhaul of Elemental Shield spells, with additional on-hit effects
 
