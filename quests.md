@@ -30,6 +30,7 @@ Removes level requirements for a number of quests.
 [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602/) by Alice  
 [**War Leader Nerevar**](https://www.nexusmods.com/morrowind/mods/49554) by Billyfighter  
 [**Temple Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528) by rumeely  
+[**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
 
 ## Post Main Quest Mods
 [**Vivec's Fate: The Ashlander Heresy**](http://mw.modhistory.com/download-53-10736) by Brother Juniper  
