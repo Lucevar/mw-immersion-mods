@@ -47,6 +47,7 @@
 [**Whitney's Velas Manor**](https://www.nexusmods.com/morrowind/mods/49027) by Whitnedak  
 [**Winged Guar Balcony**](https://www.nexusmods.com/morrowind/mods/47802?tab=description) by Alice  
 [**Immersive Mournhold**](https://www.nexusmods.com/morrowind/mods/49353) by RandomPal  
+[**Kingdom of Clutter**](https://www.nexusmods.com/morrowind/mods/49768) by Endoran  
 
 # Sotha Sil
 [**Sotha Sil Revisited**](https://www.nexusmods.com/morrowind/mods/49151) by drowsydryad  
