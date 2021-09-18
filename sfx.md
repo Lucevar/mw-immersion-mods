@@ -22,6 +22,7 @@
 [**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711) by NullCascade and Greatness7  
 [**Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236) by Melchior Dahrk  
 [**I lava good mesh replacer**](https://www.nexusmods.com/morrowind/mods/49605) by Melchior Dahrk  
+[**Morrowind Animated Hammocks (MAH)**](https://www.nexusmods.com/morrowind/mods/49767) by Vegetto  
 
 ## Items
 [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
@@ -72,3 +73,4 @@ A corprus meat replacer.
 [**Better Sounds - Fixed and Cleaned**](https://www.nexusmods.com/morrowind/mods/46516) by 1lartur0  
 [**Atmospheric Sound Effects Expanded**](https://www.nexusmods.com/morrowind/mods/49371) by Booze  
 [**AURA**](https://www.nexusmods.com/morrowind/mods/48255) by tewlwolow  
+[**Character Sound Overhaul**](https://www.nexusmods.com/morrowind/mods/49654) by Anumaril  
