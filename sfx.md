@@ -23,6 +23,8 @@
 [**Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236) by Melchior Dahrk  
 [**I lava good mesh replacer**](https://www.nexusmods.com/morrowind/mods/49605) by Melchior Dahrk  
 [**Morrowind Animated Hammocks (MAH)**](https://www.nexusmods.com/morrowind/mods/49767) by Vegetto  
+[**Elemental Effects**](https://www.nexusmods.com/morrowind/mods/49799) by Anumaril  
+
 
 ## Items
 [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
