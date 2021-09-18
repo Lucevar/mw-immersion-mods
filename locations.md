@@ -77,6 +77,7 @@
 [**Justice for Khartag (J.F.K)**](https://www.nexusmods.com/morrowind/mods/49832) by Duo Dinamico  
 [**Static Scum Pond Remover**](https://www.nexusmods.com/morrowind/mods/50140) by MoosFab  
 [**Morrowind Swamp Trees**](https://www.nexusmods.com/morrowind/mods/50151) by Vegetto  
+[**Hybrid Trees**](https://www.nexusmods.com/morrowind/mods/50167) by SilentJacket  
 
 ## West Gash
 [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187)  
