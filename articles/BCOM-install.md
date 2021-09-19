@@ -61,6 +61,11 @@ BCOM Requirements:
 -- 021 Spores and Ores  
 * [**Concept Art Plantations**](https://www.nexusmods.com/morrowind/mods/50020) by Duo Dinamico  
 
+## Ashlands 
+* [**Foyada Mamaea Overhaul**](https://www.nexusmods.com/morrowind/mods/46424) by Remiros  
+* [**Caldera Mine Expanded**](https://www.nexusmods.com/morrowind/mods/45194) by Greatness7, TheDrunkenMudcrab, Melchior Dahrk  
+* [**Strider Burial**](https://www.nexusmods.com/morrowind/mods/47661) by Anumaril  
+
 ## Azura's Coast
 * [**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
 -- 00 Core  
@@ -82,6 +87,10 @@ BCOM Requirements:
 * [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by Melchior Dahrk  
 -- 00 Core  
 -- 01 Remiros Groundcover for Trackless Grazelands  
+
+# Molag Amur
+* [**Faces of Vel - Ashmire**](https://www.nexusmods.com/morrowind/mods/44200) by R-zero  
+* [**Shattered Stones - an Earthquake mod**](https://www.nexusmods.com/morrowind/mods/45105) by R-zero  
 
 ## Mournhold
 City of light, city of magic!  
@@ -122,3 +131,6 @@ City of light, city of magic!
 -- 011 Skyrim-Like Trees  
 -- 012 Remiros' Groundcover for TOTSP  
 -- 013 Grey Solstheim Rocks  
+
+# West Gash
+* [**The Stonewood Pass Reworked**](https://www.nexusmods.com/morrowind/mods/49464) by RandomPal  
