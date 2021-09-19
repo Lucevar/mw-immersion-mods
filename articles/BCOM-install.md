@@ -4,7 +4,7 @@ Guide assumes you're using MWSE. There are probably OpenMW alternatives for most
 ## Beautiful Cities of Morrowind 
 Of course! This is what we're basing this guide on. 
 
-BCOM Requirements:
+BCOM Requirements:  
 -- [**OAAB Data**](https://www.nexusmods.com/morrowind/mods/49042)  
 -- [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537)  
 -- [**Remiros Groundcover resources**](https://www.nexusmods.com/morrowind/mods/46733) - alternative groundcover mods are available but less consistently patched  
