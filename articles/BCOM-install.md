@@ -78,6 +78,15 @@ BCOM Requirements:
 * [**Trackless Grazelands**](https://www.nexusmods.com/morrowind/mods/44194) by R-zero  
 * [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by Melchior Dahrk  
 
+## Sheogorad
+* [**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603) by RandomPal  
+* [**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067) by RandomPal  
+* [**The Grove of Ben'Abi**](https://www.nexusmods.com/morrowind/mods/46137) by Remiros  
+* [**Ancient Foes**](https://www.nexusmods.com/morrowind/mods/44705) by Darkelfguy  
+* [**Of Justice and Innocence 1.3**](https://www.nexusmods.com/morrowind/mods/34046) by Darkelfguy  
+* [**Grey North - Ruined Redaynia**](https://www.nexusmods.com/morrowind/mods/49862) by Anumaril  
+* [**Sanctus Shrine**](https://www.nexusmods.com/morrowind/mods/47841) by Nwahs and Mushrooms  
+
 ## Solstheim  
 * [**Solstheim - Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810) by Wolli  
 -- Solstheim Tomb of the Snow Prince  
