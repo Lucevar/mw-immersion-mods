@@ -74,6 +74,7 @@ Patches - install once you've downloaded everything
 * [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237) by Melchior Dahrk   
 * [**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678) by XeroFoxx  
 * [**OAAB Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131) by Remiros  
+* [**Uncharted Artifacts**](https://www.nexusmods.com/morrowind/mods/49281) by XeroFoxx  
 
 ## Ascadian Isles  
 ### Dungeons
@@ -129,6 +130,7 @@ Patches - install once you've downloaded everything
 * [**Savel Ancestral Tomb - God of Worms**](https://www.nexusmods.com/morrowind/mods/48028) by Caeris  
 * [**Moody Magas Volar**](https://www.nexusmods.com/morrowind/mods/49789) by Endify  
 * [**Forge of Hilbongard**](https://www.nexusmods.com/morrowind/mods/43222) by Melchior Dahrk  
+* [**Of Pillows and Peril**](https://www.nexusmods.com/morrowind/mods/49491) by Remiros  
 
 ### Landscape
 * [**RR Mod Series - Melchior's Mudcrab Merchant**](https://www.nexusmods.com/morrowind/mods/42685) by Resdayn Revival Team  
@@ -149,6 +151,8 @@ Patches - install once you've downloaded everything
 * [**Shal Overgrown**](https://www.nexusmods.com/morrowind/mods/47219) by Team Dandy Daedra  
 * [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612) by Pikachuno  
 * [**Hlormaren Reclaimed - Slightly Improved**](https://www.nexusmods.com/morrowind/mods/47301) by Alice  
+* [**Expedition to Mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by Greatness7, Melchior Dahrk, TheDrunkenMudcrab  
+* [**Of Dungeons and Abodes**](https://www.nexusmods.com/morrowind/mods/44253) by Darkelfguy  
 
 ### Landscape
 * [**OAAB The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/49047) by Remiros  
@@ -199,6 +203,7 @@ City of light, city of magic!
 ## Sheogorad
 ### Dungeons
 * [**Shallit - The Weary Vampire**](https://www.nexusmods.com/morrowind/mods/49774) by OperatorJack  
+* [**Ashmelech Reborn**](https://www.nexusmods.com/morrowind/mods/45648) by Istreddify  
 
 ### Dagon Fel
 * [**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603) by RandomPal  
@@ -214,7 +219,12 @@ City of light, city of magic!
 * [**Sanctus Shrine**](https://www.nexusmods.com/morrowind/mods/47841) by Nwahs and Mushrooms  
 * [**Big Head's Precious Forks**](https://www.nexusmods.com/morrowind/mods/45689) by Guinefort1  
 
-## Solstheim  
+## Solstheim 
+### Dungeons
+* [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826) by Melchior Dahrk
+* [**Stone Halls of Solstheim Reforged**](https://www.nexusmods.com/morrowind/mods/49841) by Corsair  
+
+### Landscape
 * [**Solstheim - Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810) by Wolli  
 -- Solstheim Tomb of the Snow Prince  
 -- Solstheim Graphical Replacer  
