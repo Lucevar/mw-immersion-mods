@@ -88,6 +88,7 @@ Patches - install once you've downloaded everything
 * [**Passage of Prayers**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn  
 * [**Guar Stables of Vivec**](https://www.nexusmods.com/morrowind/mods/50118) by RandomPal  
 * [**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916) by Seelof  
+* [**Concept Art Palace**](https://www.nexusmods.com/morrowind/mods/48136) by Vegetto  
 
 ## Ashlands 
 ### Landscape
