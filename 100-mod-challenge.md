@@ -226,3 +226,6 @@ Removed: stand out a bit too much for me
 -- 01 GITD Patch  
 181. [**Sanctus Shrine**](https://www.nexusmods.com/morrowind/mods/47841) by Nwahs and Mushrooms 
 182. [**Worth Its Weight - Gold Weight via MWSE-LUA -- Experimental Branch 2.0.1**](https://www.nexusmods.com/morrowind/mods/48070) by JaceyS  
+183. [**Immersive Mournhold**](https://www.nexusmods.com/morrowind/mods/49353) by RandomPal  
+184. [**Dark Brotherhood Headquarters**](https://www.nexusmods.com/morrowind/mods/43022) by Vrolok  
+185. [**Mournhold Courtiers - BCOM/Palace Revamped Compatible**](https://www.nexusmods.com/morrowind/mods/47737) by TaiyakaJade and Alice  
