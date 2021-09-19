@@ -52,7 +52,7 @@ BCOM Requirements:
 * [**More Believable Bandit Camps - Ashfall Addon**](https://www.nexusmods.com/morrowind/mods/50066) by RandomPal  
 -- 00 Core  
 -- 01 TOTSP Addon  
-* [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237)  
+* [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237) by Melchior Dahrk   
 
 ## Ascadian Isles  
 * Vvardenfell Ecology (unreleased) by Wolli  
@@ -60,6 +60,9 @@ BCOM Requirements:
 -- 013 Rocks Revamped  
 -- 021 Spores and Ores  
 * [**Concept Art Plantations**](https://www.nexusmods.com/morrowind/mods/50020) by Duo Dinamico  
+
+## Azura's Coast
+* [**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
 
 ## Bitter Coast
 * [**OAAB The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/49047) by Remiros  
@@ -70,6 +73,10 @@ BCOM Requirements:
 -- 00 Core  
 -- 02 Huge Root Trees Variation
 * [**Hybrid Trees**](https://www.nexusmods.com/morrowind/mods/50167) by SilentJacket  
+
+## Grazelands
+* [**Trackless Grazelands**](https://www.nexusmods.com/morrowind/mods/44194) by R-zero  
+* [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by Melchior Dahrk  
 
 ## Solstheim  
 * [**Solstheim - Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810) by Wolli  
