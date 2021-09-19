@@ -70,6 +70,8 @@ BCOM Requirements:
 * **Solstheim Tomb of the Snow Prince**  
 -- 000 Core  
 -- 010 Solstheim - Tomb of the Snow Prince  
+----- Solstheim Tomb of the Snow Prince.esm  
+----- TOTSP TD Content Integration.esp - because I'm a wimp and spiders scare me  
 -- 011 TOTSP Patches  
 ----- TOTSP_Patch_For_Purists_4.0.2.esp  
 -- 012 Missing Snow Armor Pieces
