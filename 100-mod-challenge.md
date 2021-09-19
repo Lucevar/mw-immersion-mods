@@ -252,3 +252,4 @@ Removed: stand out a bit too much for me
 197. [**Big Head's Precious Forks**](https://www.nexusmods.com/morrowind/mods/45689) by Guinefort1  
 198. [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187) by Melchior Dahrk  
 199. [**Kingdom of Clutter**](https://www.nexusmods.com/morrowind/mods/49768) by Endoran  
+200. [**South Wall, Den of Iniquity**](https://www.nexusmods.com/morrowind/mods/49950) by Balathustrius  
