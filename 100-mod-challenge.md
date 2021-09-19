@@ -225,3 +225,4 @@ Removed: stand out a bit too much for me
 -- 00 Core  
 -- 01 GITD Patch  
 181. [**Sanctus Shrine**](https://www.nexusmods.com/morrowind/mods/47841) by Nwahs and Mushrooms 
+182. [**Worth Its Weight - Gold Weight via MWSE-LUA**](https://www.nexusmods.com/morrowind/mods/48070) by JaceyS  
