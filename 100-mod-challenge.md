@@ -246,3 +246,5 @@ Removed: stand out a bit too much for me
 -- 02 Caldera Mine Expansion (esp replacer + patch - activate both)
 -- 04 Riders - to use with OAAB Grazelands
 193. [**Riders**](https://www.nexusmods.com/morrowind/mods/46868) by rot  
+194. [**Eye of the Needle Pearl Edition**](https://www.nexusmods.com/morrowind/mods/49399) by Markond  
+195. [**Beacon of St Rilms**](https://www.nexusmods.com/morrowind/mods/49515) by Markond  
