@@ -229,3 +229,5 @@ Removed: stand out a bit too much for me
 183. [**Immersive Mournhold**](https://www.nexusmods.com/morrowind/mods/49353) by RandomPal  
 184. [**Dark Brotherhood Headquarters**](https://www.nexusmods.com/morrowind/mods/43022) by Vrolok  
 185. [**Mournhold Courtiers - BCOM/Palace Revamped Compatible**](https://www.nexusmods.com/morrowind/mods/47737) by TaiyakaJade and Alice  
+186. [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran  
+187. [**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739) by Melchior Dahrk  
