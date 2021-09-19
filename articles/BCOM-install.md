@@ -47,6 +47,13 @@ BCOM Requirements:
 ----- Rem_AI.esp  
 ----- REM_AC.esp  
 
+## General Wilderness
+* [**Walkers of Morrowind**](https://www.nexusmods.com/morrowind/mods/49889) by Danae  
+* [**More Believable Bandit Camps - Ashfall Addon**](https://www.nexusmods.com/morrowind/mods/50066) by RandomPal  
+-- 00 Core  
+-- 01 TOTSP Addon  
+* [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237)  
+
 ## Ascadian Isles  
 * Vvardenfell Ecology (unreleased) by Wolli  
 -- 011 Leafy Tree Models  
