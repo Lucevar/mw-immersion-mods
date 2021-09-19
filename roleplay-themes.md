@@ -64,6 +64,7 @@ Adds a number of quests for Ashlanders in three of the main camps and two quests
 Start the game as an Ashlander. Skips the Blades portions of the main quest.  
 [**The Mystery of the Ghost Snake**](https://www.nexusmods.com/morrowind/mods/49358) by Alice  
 [**Dunmeri Goodbye**](https://www.nexusmods.com/morrowind/mods/49539) by FyreAlchemage  
+[**Ashlander Quests**](https://www.nexusmods.com/morrowind/mods/46817) by Alice  
 
 # Assassin
 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
