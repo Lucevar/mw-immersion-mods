@@ -201,4 +201,5 @@ Removed: stand out a bit too much for me
 163. [**More Believable Bandit Camps - Ashfall Addon**](https://www.nexusmods.com/morrowind/mods/50066) by RandomPal  
 -- 00 Core  
 -- 01 TOTSP Addon  
-164. [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237)  
+164. [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237) by Melchior Dahrk  
+165. [**Animated Morrowind Merged**](https://www.nexusmods.com/morrowind/mods/48683) by abot - use BCOM patch    
