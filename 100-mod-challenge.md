@@ -304,3 +304,9 @@ Removed: stand out a bit too much for me
 249. [**Forge of Hilbongard**](https://www.nexusmods.com/morrowind/mods/43222) by Melchior Dahrk  
 250. [**Hlormaren Reclaimed - Slightly Improved**](https://www.nexusmods.com/morrowind/mods/47301) by Alice  
 251. [**Endusal and Tureynulal Redone**](https://www.nexusmods.com/morrowind/mods/43399) by Trainwiz  
+252. [**Ashmelech Reborn**](https://www.nexusmods.com/morrowind/mods/45648) by Istreddify  
+253. [**Uncharted Artifacts**](https://www.nexusmods.com/morrowind/mods/49281) by XeroFoxx  
+254. [**Of Pillows and Peril**](https://www.nexusmods.com/morrowind/mods/49491) by Remiros  
+255. [**Stone Halls of Solstheim Reforged**](https://www.nexusmods.com/morrowind/mods/49841) by Corsair  
+256. [**Expedition to Mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by Greatness7, Melchior Dahrk, TheDrunkenMudcrab  
+257. [**Of Dungeons and Abodes**](https://www.nexusmods.com/morrowind/mods/44253) by Darkelfguy  
