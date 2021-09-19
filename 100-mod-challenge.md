@@ -195,5 +195,4 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 158. [**Concept Art Plantations**](https://www.nexusmods.com/morrowind/mods/50020) by Duo Dinamico  
 159. Vvardenfell Ecology by Wolli  
 160. [**Solstheim - Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810) by Wolli  
-
-
+161. [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802) by Lougian and PoodleSandwich  
