@@ -202,4 +202,7 @@ Removed: stand out a bit too much for me
 -- 00 Core  
 -- 01 TOTSP Addon  
 164. [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237) by Melchior Dahrk  
-165. [**Animated Morrowind Merged**](https://www.nexusmods.com/morrowind/mods/48683) by abot - use BCOM patch    
+165. [**Animated Morrowind Merged**](https://www.nexusmods.com/morrowind/mods/48683) by abot - use BCOM patch  
+166. [**Vanilla Friendly Creatures and Undead Expansion 2.0**](https://www.nexusmods.com/morrowind/mods/48818) by RandomPal    
+167. [**Vanilla Friendly Wearables Expansion**](https://www.nexusmods.com/morrowind/mods/48683) by RandomPal  
+168. [**Bandits**](https://www.nexusmods.com/morrowind/mods/50084) by RandomPal  
