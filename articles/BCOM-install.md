@@ -12,6 +12,7 @@ BCOM Requirements:
 ----- 00 Core  
 ----- 01b Thicker Grass  
 -- [**Animated Morrowind Resources from RandomPal's Random Patches**](https://www.nexusmods.com/morrowind/mods/48683)  
+----- 00 Core
 
 * [**Beautiful Cities of Morrowind**](https://www.nexusmods.com/morrowind/mods/49231) by RandomPal  
 -- 00 Core  
