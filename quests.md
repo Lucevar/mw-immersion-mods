@@ -52,6 +52,7 @@ Removes level requirements for a number of quests.
 [**Blades Quest: Prophecy of the Lost Heir**](http://lovkullen.net/Emma/blade.htm) by Emma  
 [**Exterminate All Brutes**](https://www.nexusmods.com/morrowind/mods/49322) by Alice  
 [**Epilogue - Sail to Akavir**](https://www.nexusmods.com/morrowind/mods/49811) by Alice  
+[**Invasion of Stormwatch**](https://www.nexusmods.com/morrowind/mods/49174) by Team Ancient Androids  
 
 ## Factions
 [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von Django  
