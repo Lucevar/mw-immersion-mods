@@ -306,7 +306,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Mzuleft** - [**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249)  
 **Nchardahrk**  - [**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249)  
 **Nchardumz** - [Aetherium Forging](https://www.nexusmods.com/morrowind/mods/44436)  
-**Nchuleft** - [**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249), [Nchuleft Dwemer Home](http://mw.modhistory.com/download-98-12765)  
+**Nchuleft** -  [**Better Dwemer Interiors**](https://www.nexusmods.com/morrowind/mods/50193), [**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249), [Nchuleft Dwemer Home](http://mw.modhistory.com/download-98-12765)  
 **Nchuleftingth**  
 **Nchurdamz**  
 **Odrosal** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544)  
