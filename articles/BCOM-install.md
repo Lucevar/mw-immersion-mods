@@ -56,11 +56,15 @@ BCOM Requirements:
 * [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237) by Melchior Dahrk   
 
 ## Ascadian Isles  
+### Landscape
 * Vvardenfell Ecology (unreleased) by Wolli  
 -- 011 Leafy Tree Models  
 -- 013 Rocks Revamped  
 -- 021 Spores and Ores  
 * [**Concept Art Plantations**](https://www.nexusmods.com/morrowind/mods/50020) by Duo Dinamico  
+
+### Ebonheart 
+* [**Big Imperial Halls - Ebonheart Castle**](https://www.nexusmods.com/morrowind/mods/47533) by Zobator  
 
 ## Ashlands 
 ### Landscape
@@ -79,10 +83,23 @@ BCOM Requirements:
 * [**Sarandas Family Hearth**](https://www.nexusmods.com/morrowind/mods/48056) by Endoran   
 
 ## Azura's Coast
+### Dungeons
+* [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran  
+* [**The Corprusarium Experience**](https://www.nexusmods.com/morrowind/mods/49738) by Duo Dinamico 
+
+### Landscape
+* [**RR Mod Series - Melchior's Mudcrab Merchant**](https://www.nexusmods.com/morrowind/mods/42685) by Resdayn Revival Team  
+
+### Sadrith Mora
+* [**Telvanni Council Lounge Alternate**](https://www.nexusmods.com/morrowind/mods/49804) by Coricus  
+
+### Tel Branora
+* [**RR Mod Series - Telvanni Lighthouse**](https://www.nexusmods.com/morrowind/mods/42664) by Resdayn Revival Team   
+
+### Tel Mora
 * [**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
 -- 00 Core  
 -- 01 Female Guards  
-* [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran  
 
 ## Bitter Coast
 * [**OAAB The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/49047) by Remiros  
@@ -99,6 +116,7 @@ BCOM Requirements:
 * [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by Melchior Dahrk  
 -- 00 Core  
 -- 01 Remiros Groundcover for Trackless Grazelands  
+* [**RR Mod Series - Telvanni Lighthouse Tel Vos**](https://www.nexusmods.com/morrowind/mods/42744) by Resdayn Revival Team  
 
 # Molag Amur
 * [**Faces of Vel - Ashmire**](https://www.nexusmods.com/morrowind/mods/44200) by R-zero  
@@ -161,3 +179,5 @@ City of light, city of magic!
 
 ## Caldera 
 * [**Master Index Redux**](https://www.nexusmods.com/morrowind/mods/48977) by Endoran  
+* [**Big Imperial Halls - Governor's Mansion**](https://www.nexusmods.com/morrowind/mods/47533) by Zobator  
+* [**Caldera Windmills**](https://mw.modhistory.com/download-80-6218) by Ayse  
