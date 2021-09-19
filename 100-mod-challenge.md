@@ -181,7 +181,7 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 144. [**Mantle of Ascension - Climbing Mod**](https://www.nexusmods.com/morrowind/mods/49870) by Vtastek  
 145. [**Krokantor's Enhanced Water Shader**](https://www.nexusmods.com/morrowind/mods/49964) by Krokantor & Hrnchamd  
 146. [**Vanity**](https://www.nexusmods.com/morrowind/mods/48529) by abot  
-147. ~~[**Nords Shut Your Windows**](https://www.nexusmods.com/morrowind/mods/50087) by Vegetto~~~~ 
+147. <strike>[**Nords Shut Your Windows**](https://www.nexusmods.com/morrowind/mods/50087) by Vegetto</strike>   
 Removed: stand out a bit too much for me  
 148. [**A Sinking Feeling**](https://www.nexusmods.com/morrowind/mods/50113) by Celediel  
 149. [**Web Sweeper**](https://www.nexusmods.com/morrowind/mods/50004) by Stripes  
