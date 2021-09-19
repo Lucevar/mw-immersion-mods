@@ -324,3 +324,4 @@ Removed: stand out a bit too much for me
 269. [**Radiant Quests of Morrowind**](https://www.nexusmods.com/morrowind/mods/46451) by Wanderra  
 270. [**The Sanguine Rose**](https://www.nexusmods.com/morrowind/mods/46214) by Melchior Dahrk  
 271. [**Immersive Madness**](https://www.nexusmods.com/morrowind/mods/44983) by Rot  
+272. [**Mudcrab Imports Pirate Adventures**](https://www.nexusmods.com/morrowind/mods/49463) by Billyfighter  
