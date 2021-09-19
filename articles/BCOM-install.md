@@ -82,6 +82,13 @@ BCOM Requirements:
 -- 00 Core  
 -- 01 Remiros Groundcover for Trackless Grazelands  
 
+## Mournhold
+City of light, city of magic!  
+
+* [**Immersive Mournhold**](https://www.nexusmods.com/morrowind/mods/49353) by RandomPal  
+* [**Dark Brotherhood Headquarters**](https://www.nexusmods.com/morrowind/mods/43022) by Vrolok  
+* [**Mournhold Courtiers - BCOM/Palace Revamped Compatible**](https://www.nexusmods.com/morrowind/mods/47737) by TaiyakaJade and Alice  
+
 ## Sheogorad
 * [**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603) by RandomPal  
 * [**Dagon Fel Mill Redux**](https://www.nexusmods.com/morrowind/mods/50067) by RandomPal  
