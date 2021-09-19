@@ -310,3 +310,5 @@ Removed: stand out a bit too much for me
 255. [**Stone Halls of Solstheim Reforged**](https://www.nexusmods.com/morrowind/mods/49841) by Corsair  
 256. [**Expedition to Mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by Greatness7, Melchior Dahrk, TheDrunkenMudcrab  
 257. [**Of Dungeons and Abodes**](https://www.nexusmods.com/morrowind/mods/44253) by Darkelfguy  
+258. [**Pimp My Shrine - The Legend of Vernaccus**](https://www.nexusmods.com/morrowind/mods/49173) by Team Scuttling Scribs  
+259. [**Invasion of Stormwatch**](https://www.nexusmods.com/morrowind/mods/49174) by Team Ancient Androids  
