@@ -65,6 +65,7 @@ BCOM Requirements:
 * [**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
 -- 00 Core  
 -- 01 Female Guards  
+* [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran  
 
 ## Bitter Coast
 * [**OAAB The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/49047) by Remiros  
