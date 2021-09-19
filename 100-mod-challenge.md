@@ -248,3 +248,6 @@ Removed: stand out a bit too much for me
 193. [**Riders**](https://www.nexusmods.com/morrowind/mods/46868) by rot  
 194. [**Eye of the Needle Pearl Edition**](https://www.nexusmods.com/morrowind/mods/49399) by Markond  
 195. [**Beacon of St Rilms**](https://www.nexusmods.com/morrowind/mods/49515) by Markond  
+196. [**Finding the Erabenimsun Ashlander Camp**](https://www.nexusmods.com/morrowind/mods/49227) by Markond  
+197. [**Big Head's Precious Forks**](https://www.nexusmods.com/morrowind/mods/45689) by Guinefort1  
+198. [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187) by Melchior Dahrk  
