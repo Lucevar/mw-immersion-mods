@@ -32,6 +32,7 @@ BCOM Requirements:
 -- 41 Realistic Repair Addon  
 -- 73 Store Entrance Chimes  
 -- 86 Ashfall MWSE interop module for the new wells  
+-- 87 Master Index Redux  
 
 * **BOM - Project Atlas and GITD Patches**  
 -- 01 Project Atlas Patch  
@@ -157,3 +158,6 @@ City of light, city of magic!
 
 ### Balmora
 * [**South Wall, Den of Iniquity**](https://www.nexusmods.com/morrowind/mods/49950) by Balathustrius  
+
+## Caldera 
+* [**Master Index Redux**](https://www.nexusmods.com/morrowind/mods/48977) by Endoran  
