@@ -63,6 +63,8 @@ BCOM Requirements:
 
 ## Azura's Coast
 * [**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
+-- 00 Core  
+-- 01 Female Guards  
 
 ## Bitter Coast
 * [**OAAB The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/49047) by Remiros  
@@ -77,6 +79,8 @@ BCOM Requirements:
 ## Grazelands
 * [**Trackless Grazelands**](https://www.nexusmods.com/morrowind/mods/44194) by R-zero  
 * [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by Melchior Dahrk  
+-- 00 Core  
+-- 01 Remiros Groundcover for Trackless Grazelands  
 
 ## Sheogorad
 * [**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603) by RandomPal  
@@ -85,6 +89,8 @@ BCOM Requirements:
 * [**Ancient Foes**](https://www.nexusmods.com/morrowind/mods/44705) by Darkelfguy  
 * [**Of Justice and Innocence 1.3**](https://www.nexusmods.com/morrowind/mods/34046) by Darkelfguy  
 * [**Grey North - Ruined Redaynia**](https://www.nexusmods.com/morrowind/mods/49862) by Anumaril  
+-- 00 Core  
+-- 01 GITD Patch  
 * [**Sanctus Shrine**](https://www.nexusmods.com/morrowind/mods/47841) by Nwahs and Mushrooms  
 
 ## Solstheim  
