@@ -65,6 +65,8 @@ BCOM Requirements:
 * [**Foyada Mamaea Overhaul**](https://www.nexusmods.com/morrowind/mods/46424) by Remiros  
 * [**Caldera Mine Expanded**](https://www.nexusmods.com/morrowind/mods/45194) by Greatness7, TheDrunkenMudcrab, Melchior Dahrk  
 * [**Strider Burial**](https://www.nexusmods.com/morrowind/mods/47661) by Anumaril  
+-- 01 Core  
+-- 01 For Vanilla rocks  
 
 ## Azura's Coast
 * [**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
@@ -134,3 +136,7 @@ City of light, city of magic!
 
 # West Gash
 * [**The Stonewood Pass Reworked**](https://www.nexusmods.com/morrowind/mods/49464) by RandomPal  
+-- 00 Core  
+-- 01 Foyada Mamaea Overhaul (patch)  
+-- 02 Caldera Mine Expansion (esp replacer + patch - activate both)
+-- 04 Riders - to use with OAAB Grazelands
