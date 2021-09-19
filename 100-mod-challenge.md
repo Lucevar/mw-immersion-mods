@@ -312,3 +312,13 @@ Removed: stand out a bit too much for me
 257. [**Of Dungeons and Abodes**](https://www.nexusmods.com/morrowind/mods/44253) by Darkelfguy  
 258. [**Pimp My Shrine - The Legend of Vernaccus**](https://www.nexusmods.com/morrowind/mods/49173) by Team Scuttling Scribs  
 259. [**Invasion of Stormwatch**](https://www.nexusmods.com/morrowind/mods/49174) by Team Ancient Androids  
+260. [**Brother Juniper's Twin Lamps**](https://mw.modhistory.com/download-53-7283) by Brother Juniper  
+261. [**ABCs for Outlanders**](https://www.nexusmods.com/morrowind/mods/46692) by Melchior Dahrk  
+262. [**Thieves GUild Overhaul**](https://www.nexusmods.com/morrowind/mods/49944) by Alice  
+263. [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
+264. [**Harvest's End Festival**](https://www.nexusmods.com/morrowind/mods/49834) by Alice  
+265. [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
+266. [**Escort Caius**](https://www.nexusmods.com/morrowind/mods/49691) by Zaria  
+267. [**Temple Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528) by rumeely  
+268. [**Past Life Regressions**](https://www.nexusmods.com/morrowind/mods/49315) by Alice  
+269. [**Radiant Quests of Morrowind**](https://www.nexusmods.com/morrowind/mods/46451) by Wanderra  
