@@ -281,3 +281,4 @@ Removed: stand out a bit too much for me
 226. [**Passage of Prayers**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn  
 227. [**Guar Stables of Vivec**](https://www.nexusmods.com/morrowind/mods/50118) by RandomPal  
 228. [**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916) by Seelof  
+229. [**Concept Art Palace**](https://www.nexusmods.com/morrowind/mods/48136) by Vegetto  
