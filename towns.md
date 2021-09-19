@@ -187,6 +187,7 @@ These affect different parts of Ebonheart and are therefore compatible.
 ## Rethan Manor
 [**Resplendent Rethan - Jewel of the Odai**](https://www.nexusmods.com/morrowind/mods/47281) by Team Azturnal  
 [**Rethan Estate**](https://www.nexusmods.com/morrowind/mods/47422) by Qirin Domean  
+[**Rethan Redivivus**](https://www.nexusmods.com/morrowind/mods/49776) by istreddify  
 
 # Azura's Coast
 ## Tel Branora
