@@ -54,6 +54,7 @@
 [**Holamayan Monastery Replacer**](https://www.nexusmods.com/morrowind/mods/43524) by Resdayn Revival Team  
 [**Reclamations in Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimhevelho  
 [**Liar Yes - Idiot No**](https://www.nexusmods.com/morrowind/mods/49908) by Danae and Alice  
+[**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran  
 
 ## Ascadian Isles
 [**Omani Manor - Hlaalu Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/46147) by Tel Shadow  
