@@ -241,4 +241,8 @@ Removed: stand out a bit too much for me
 -- 01 For Vanilla rocks  
 191. [**Faces of Vel - Ashmire**](https://www.nexusmods.com/morrowind/mods/44200) by R-zero  
 192. [**The Stonewood Pass Reworked**](https://www.nexusmods.com/morrowind/mods/49464) by RandomPal  
-193. placeholder
+-- 00 Core  
+-- 01 Foyada Mamaea Overhaul (patch)  
+-- 02 Caldera Mine Expansion (esp replacer + patch - activate both)
+-- 04 Riders - to use with OAAB Grazelands
+193. [**Riders**](https://www.nexusmods.com/morrowind/mods/46868) by rot  
