@@ -207,3 +207,4 @@ Removed: stand out a bit too much for me
 167. [**Vanilla Friendly Wearables Expansion**](https://www.nexusmods.com/morrowind/mods/48683) by RandomPal  
 168. [**Bandits**](https://www.nexusmods.com/morrowind/mods/50084) by RandomPal  
 169. [**Morag Tong Polished**](https://www.nexusmods.com/morrowind/mods/47041) by Caeris  
+170. [**Daggerlad**](https://www.nexusmods.com/morrowind/mods/49065) by Ashtaar  
