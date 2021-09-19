@@ -253,3 +253,7 @@ Removed: stand out a bit too much for me
 198. [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187) by Melchior Dahrk  
 199. [**Kingdom of Clutter**](https://www.nexusmods.com/morrowind/mods/49768) by Endoran  
 200. [**South Wall, Den of Iniquity**](https://www.nexusmods.com/morrowind/mods/49950) by Balathustrius  
+201. [**Redoran Archmaster's Office**](https://www.nexusmods.com/morrowind/mods/49513) by Denina  
+202. [**Mandas Manor**](https://www.nexusmods.com/morrowind/mods/49911) by Endoran  
+203. [**Sarandas Family Hearth**](https://www.nexusmods.com/morrowind/mods/48056) by Endoran  
+204. [**Master Index Redux**](https://www.nexusmods.com/morrowind/mods/48977) by Endoran  
