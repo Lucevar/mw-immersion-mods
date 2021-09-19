@@ -322,3 +322,5 @@ Removed: stand out a bit too much for me
 267. [**Temple Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528) by rumeely  
 268. [**Past Life Regressions**](https://www.nexusmods.com/morrowind/mods/49315) by Alice  
 269. [**Radiant Quests of Morrowind**](https://www.nexusmods.com/morrowind/mods/46451) by Wanderra  
+270. [**The Sanguine Rose**](https://www.nexusmods.com/morrowind/mods/46214) by Melchior Dahrk  
+271. [**Immersive Madness**](https://www.nexusmods.com/morrowind/mods/44983) by Rot  
