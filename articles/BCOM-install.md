@@ -24,12 +24,19 @@ BCOM Requirements:
 -- 06 Stav's Mages Guilds  
 -- 07 Taller Lighthouse  
 -- 08 Expanded Sadrith Mora Dock  
+
+Patches - install once you've downloaded everything  
 -- 09 Patch for Purists Patch  
 -- 11 Foyada Mamaea Overhaul  
 -- 13 Animated Morrowind  
 -- 17 GITD Telvanni Dormers  
 -- 39 Ashlander Traders Remastered  
+-- 40 Holidays Across Tamriel  
 -- 41 Realistic Repair Addon  
+-- 45 Unique banners and signs
+-- 48 Velothi Wall Art  
+-- 56 Dartboards expanded  
+-- 65 Imperials Go Home  
 -- 73 Store Entrance Chimes  
 -- 86 Ashfall MWSE interop module for the new wells  
 -- 87 Master Index Redux  
@@ -48,6 +55,15 @@ BCOM Requirements:
 ----- Rem_AI.esp  
 ----- REM_AC.esp  
 
+## General Towns
+* [**Holidays Across Tamriel -- Vvardenfell**](https://www.nexusmods.com/morrowind/mods/43131) by Lord Berandas  
+* [**Velothi Wall Art**](https://www.nexusmods.com/morrowind/mods/46454) by Ashtaar  
+* [**Imperials Go Home**](https://www.nexusmods.com/morrowind/mods/44984) by Rats  
+* [**Graffiti of Morrowind**](https://www.nexusmods.com/morrowind/mods/50156) by RandomPal  
+* [**Unique Banners and Signs**](https://mw.modhistory.com/download-44-6950) by Bart Notelaers  
+* [**Correspondances of Morrowind**](https://www.nexusmods.com/morrowind/mods/44771) by Cliffworms  
+* [**Dartboards Expanded**](https://www.nexusmods.com/morrowind/mods/47976) by Danae, Lucevar, Utseeva  
+
 ## General Wilderness
 * [**Walkers of Morrowind**](https://www.nexusmods.com/morrowind/mods/49889) by Danae  
 * [**More Believable Bandit Camps - Ashfall Addon**](https://www.nexusmods.com/morrowind/mods/50066) by RandomPal  
@@ -65,6 +81,13 @@ BCOM Requirements:
 
 ### Ebonheart 
 * [**Big Imperial Halls - Ebonheart Castle**](https://www.nexusmods.com/morrowind/mods/47533) by Zobator  
+
+### Vivec
+* [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812) by aralin  
+* [**Palace of Vehk**](https://www.nexusmods.com/morrowind/mods/46800) by Enclavekiller  
+* [**Passage of Prayers**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn  
+* [**Guar Stables of Vivec**](https://www.nexusmods.com/morrowind/mods/50118) by RandomPal  
+* [**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916) by Seelof  
 
 ## Ashlands 
 ### Landscape
