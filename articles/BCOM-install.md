@@ -62,6 +62,7 @@ BCOM Requirements:
 * [**Concept Art Plantations**](https://www.nexusmods.com/morrowind/mods/50020) by Duo Dinamico  
 
 ## Ashlands 
+### Landscape
 * [**Foyada Mamaea Overhaul**](https://www.nexusmods.com/morrowind/mods/46424) by Remiros  
 * [**Caldera Mine Expanded**](https://www.nexusmods.com/morrowind/mods/45194) by Greatness7, TheDrunkenMudcrab, Melchior Dahrk  
 * [**Strider Burial**](https://www.nexusmods.com/morrowind/mods/47661) by Anumaril  
@@ -70,6 +71,11 @@ BCOM Requirements:
 * [**Eye of the Needle Pearl Edition**](https://www.nexusmods.com/morrowind/mods/49399) by Markond  
 * [**Beacon of St Rilms**](https://www.nexusmods.com/morrowind/mods/49515) by Markond  
 * [**Valley of the Wind Unfenced**](https://www.nexusmods.com/morrowind/mods/47563) by Lucevar  
+
+### Ald-ruhn
+* [**Redoran Archmaster's Office**](https://www.nexusmods.com/morrowind/mods/49513) by Denina  
+* [**Mandas Manor**](https://www.nexusmods.com/morrowind/mods/49911) by Endoran  
+* [**Sarandas Family Hearth**](https://www.nexusmods.com/morrowind/mods/48056) by Endoran   
 
 ## Azura's Coast
 * [**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
@@ -140,10 +146,14 @@ City of light, city of magic!
 -- 012 Remiros' Groundcover for TOTSP  
 -- 013 Grey Solstheim Rocks  
 
-# West Gash
+## West Gash
+### Landscape
 * [**The Stonewood Pass Reworked**](https://www.nexusmods.com/morrowind/mods/49464) by RandomPal  
 -- 00 Core  
 -- 01 Foyada Mamaea Overhaul (patch)  
 -- 02 Caldera Mine Expansion (esp replacer + patch - activate both)
 -- 04 Riders - to use with OAAB Grazelands
 * [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187) by Melchior Dahrk  
+
+### Balmora
+* [**South Wall, Den of Iniquity**](https://www.nexusmods.com/morrowind/mods/49950) by Balathustrius  
