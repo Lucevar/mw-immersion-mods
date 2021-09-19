@@ -13,7 +13,7 @@ BCOM Requirements:
 ----- 01b Thicker Grass  
 -- [**Animated Morrowind Resources from RandomPal's Random Patches**](https://www.nexusmods.com/morrowind/mods/48683)  
 
-[**Beautiful Cities of Morrowind**](https://www.nexusmods.com/morrowind/mods/49231) by RandomPal  
+* [**Beautiful Cities of Morrowind**](https://www.nexusmods.com/morrowind/mods/49231) by RandomPal  
 -- 00 Core  
 -- 01 Haalu Council Hall Plaza - Brevur of Balmora
 -- 02 Riverside - Stone Dock  
@@ -31,13 +31,13 @@ BCOM Requirements:
 -- 73 Store Entrance Chimes  
 -- 86 Ashfall MWSE interop module for the new wells  
 
-**BOM - Project Atlas and GITD Patches**  
+* **BOM - Project Atlas and GITD Patches**  
 -- 01 Project Atlas Patch  
 -- 02 GITD + Atlas  
 -- 04 Stav MGO - GITD + Atlas  
 -- 06 RR Ghostgate Fortress - GITD  
 
-**BOM - Grass Patches**  
+* **BOM - Grass Patches**  
 -- 01 Remiros Groundcover  
 ----- Rem_WG - StoneWood Pass.esp  
 ----- Rem_GL_Trackless_GL.esp  
