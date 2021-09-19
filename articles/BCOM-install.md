@@ -67,6 +67,9 @@ BCOM Requirements:
 * [**Strider Burial**](https://www.nexusmods.com/morrowind/mods/47661) by Anumaril  
 -- 01 Core  
 -- 01 For Vanilla rocks  
+* [**Eye of the Needle Pearl Edition**](https://www.nexusmods.com/morrowind/mods/49399) by Markond  
+* [**Beacon of St Rilms**](https://www.nexusmods.com/morrowind/mods/49515) by Markond  
+* [**Valley of the Wind Unfenced**](https://www.nexusmods.com/morrowind/mods/47563) by Lucevar  
 
 ## Azura's Coast
 * [**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
@@ -93,6 +96,7 @@ BCOM Requirements:
 # Molag Amur
 * [**Faces of Vel - Ashmire**](https://www.nexusmods.com/morrowind/mods/44200) by R-zero  
 * [**Shattered Stones - an Earthquake mod**](https://www.nexusmods.com/morrowind/mods/45105) by R-zero  
+* [**Finding the Erabenimsun Ashlander Camp**](https://www.nexusmods.com/morrowind/mods/49227) by Markond  
 
 ## Mournhold
 City of light, city of magic!  
@@ -111,6 +115,7 @@ City of light, city of magic!
 -- 00 Core  
 -- 01 GITD Patch  
 * [**Sanctus Shrine**](https://www.nexusmods.com/morrowind/mods/47841) by Nwahs and Mushrooms  
+* [**Big Head's Precious Forks**](https://www.nexusmods.com/morrowind/mods/45689) by Guinefort1  
 
 ## Solstheim  
 * [**Solstheim - Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810) by Wolli  
@@ -140,3 +145,4 @@ City of light, city of magic!
 -- 01 Foyada Mamaea Overhaul (patch)  
 -- 02 Caldera Mine Expansion (esp replacer + patch - activate both)
 -- 04 Riders - to use with OAAB Grazelands
+* [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187) by Melchior Dahrk  
