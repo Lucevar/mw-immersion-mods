@@ -197,3 +197,8 @@ Removed: stand out a bit too much for me
 159. Vvardenfell Ecology by Wolli  
 160. [**Solstheim - Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810) by Wolli  
 161. [**Scummy Scum**](https://www.nexusmods.com/morrowind/mods/45802) by Lougian and PoodleSandwich  
+162. [**Walkers of Morrowind**](https://www.nexusmods.com/morrowind/mods/49889) by Danae  
+163. [**More Believable Bandit Camps - Ashfall Addon**](https://www.nexusmods.com/morrowind/mods/50066) by RandomPal  
+-- 00 Core  
+-- 01 TOTSP Addon  
+164. [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237)  
