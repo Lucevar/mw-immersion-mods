@@ -231,3 +231,8 @@ Removed: stand out a bit too much for me
 185. [**Mournhold Courtiers - BCOM/Palace Revamped Compatible**](https://www.nexusmods.com/morrowind/mods/47737) by TaiyakaJade and Alice  
 186. [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran  
 187. [**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739) by Melchior Dahrk  
+188. [**Foyada Mamaea Overhaul**](https://www.nexusmods.com/morrowind/mods/46424) by Remiros  
+189. [**Caldera Mine Expanded**](https://www.nexusmods.com/morrowind/mods/45194) by Greatness7, TheDrunkenMudcrab, Melchior Dahrk  
+190. [**Strider Burial**](https://www.nexusmods.com/morrowind/mods/47661) by Anumaril  
+191. [**Faces of Vel - Ashmire**](https://www.nexusmods.com/morrowind/mods/44200) by R-zero  
+192. [**The Stonewood Pass Reworked**](https://www.nexusmods.com/morrowind/mods/49464) by RandomPal  
