@@ -63,11 +63,11 @@ BCOM Requirements:
 * [**Hybrid Trees**](https://www.nexusmods.com/morrowind/mods/50167) by SilentJacket  
 
 ## Solstheim  
-[**Solstheim - Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810) by Wolli  
+* [**Solstheim - Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810) by Wolli  
 -- Solstheim Tomb of the Snow Prince  
 -- Solstheim Graphical Replacer  
 
-**Solstheim Tomb of the Snow Prince**  
+* **Solstheim Tomb of the Snow Prince**  
 -- 000 Core  
 -- 010 Solstheim - Tomb of the Snow Prince  
 -- 011 TOTSP Patches  
@@ -76,7 +76,7 @@ BCOM Requirements:
 -- 012 Fierce Wolf Helms  
 -- 014 Hide-Like Animal Pelts  
 
-**Solstheim Graphical Replacer**  
+* **Solstheim Graphical Replacer**  
 -- 010 Solstheim - HD Worldspace Graphical Replacer  
 -- 011 Skyrim-Like Trees  
 -- 012 Remiros' Groundcover for TOTSP  
