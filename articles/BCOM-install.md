@@ -51,6 +51,6 @@ BCOM Requirements:
 * [**Less Disclosed Addamasartus**](https://www.nexusmods.com/morrowind/mods/49271) by RandomPal  
 * [**Seamless Abandoned Shack**](https://www.nexusmods.com/morrowind/mods/49527) by RandomPal  
 * [**Morrowind Swamp Trees**](https://www.nexusmods.com/morrowind/mods/50151) by Vegetto  
--- 00 Core
+-- 00 Core  
 -- 02 Huge Root Trees Variation
 * [**Hybrid Trees**](https://www.nexusmods.com/morrowind/mods/50167) by SilentJacket  
