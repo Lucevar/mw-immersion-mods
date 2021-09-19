@@ -269,3 +269,15 @@ Removed: stand out a bit too much for me
 214. [**Marandus Rebuilt**](https://www.nexusmods.com/morrowind/mods/49522) by Endoran  
 215. [**Berandas Overhaul**](https://www.nexusmods.com/morrowind/mods/48236/) by Seelof  
 216. [**Even More Mysterious Killings in Vivec**](https://www.nexusmods.com/morrowind/mods/49661) by Endoran  
+217. [**Holidays Across Tamriel -- Vvardenfell**](https://www.nexusmods.com/morrowind/mods/43131) by Lord Berandas  
+218. [**Velothi Wall Art**](https://www.nexusmods.com/morrowind/mods/46454) by Ashtaar  
+219. [**Imperials Go Home**](https://www.nexusmods.com/morrowind/mods/44984) by Rats  
+220. [**Graffiti of Morrowind**](https://www.nexusmods.com/morrowind/mods/50156) by RandomPal  
+221. [**Unique Banners and Signs**](https://mw.modhistory.com/download-44-6950) by Bart Notelaers  
+222. [**Correspondances of Morrowind**](https://www.nexusmods.com/morrowind/mods/44771) by Cliffworms  
+223. [**Dartboards Expanded**](https://www.nexusmods.com/morrowind/mods/47976) by Danae, Lucevar, Utseeva  
+224. [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812) by aralin  
+225. [**Palace of Vehk**](https://www.nexusmods.com/morrowind/mods/46800) by Enclavekiller  
+226. [**Passage of Prayers**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn  
+227. [**Guar Stables of Vivec**](https://www.nexusmods.com/morrowind/mods/50118) by RandomPal  
+228. [**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916) by Seelof  
