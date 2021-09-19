@@ -118,7 +118,11 @@ BCOM Requirements:
 -- 01 Remiros Groundcover for Trackless Grazelands  
 * [**RR Mod Series - Telvanni Lighthouse Tel Vos**](https://www.nexusmods.com/morrowind/mods/42744) by Resdayn Revival Team  
 
-# Molag Amur
+## Molag Amur
+### Dungeons
+* [**Marandus Rebuilt**](https://www.nexusmods.com/morrowind/mods/49522) by Endoran  
+
+### Landscape
 * [**Faces of Vel - Ashmire**](https://www.nexusmods.com/morrowind/mods/44200) by R-zero  
 * [**Shattered Stones - an Earthquake mod**](https://www.nexusmods.com/morrowind/mods/45105) by R-zero  
 * [**Finding the Erabenimsun Ashlander Camp**](https://www.nexusmods.com/morrowind/mods/49227) by Markond  
@@ -166,6 +170,9 @@ City of light, city of magic!
 -- 013 Grey Solstheim Rocks  
 
 ## West Gash
+### Dungeons
+* [**Berandas Overhaul**](https://www.nexusmods.com/morrowind/mods/48236/) by Seelof  
+
 ### Landscape
 * [**The Stonewood Pass Reworked**](https://www.nexusmods.com/morrowind/mods/49464) by RandomPal  
 -- 00 Core  
