@@ -20,6 +20,7 @@ BCOM Requirements:
 -- 02 Riverside - Stone Dock  
 -- 03 MWSE weather module for the plazas of Vivec and Molag Mar  
 -- 04 Suran dock epansion&clutter addon  
+-- 05 White Suran  
 -- 06 Stav's Mages Guilds  
 -- 07 Taller Lighthouse  
 -- 08 Expanded Sadrith Mora Dock  
