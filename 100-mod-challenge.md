@@ -265,3 +265,7 @@ Removed: stand out a bit too much for me
 210. [**RR Mod Series - Telvanni Lighthouse Tel Vos**](https://www.nexusmods.com/morrowind/mods/42744) by Resdayn Revival Team  
 211. [**RR Mod Series - Melchior's Mudcrab Merchant**](https://www.nexusmods.com/morrowind/mods/42685) by Resdayn Revival Team  
 212. [**Imperial Armor Expanded - Beta**](https://www.nexusmods.com/morrowind/mods/49330) by Endoran  
+213. [**Vaermina's Quest - Dreams of the Escaped**](https://www.nexusmods.com/morrowind/mods/49172) by Team Tenacious Templars  
+214. [**Marandus Rebuilt**](https://www.nexusmods.com/morrowind/mods/49522) by Endoran  
+215. [**Berandas Overhaul**](https://www.nexusmods.com/morrowind/mods/48236/) by Seelof  
+216. [**Even More Mysterious Killings in Vivec**](https://www.nexusmods.com/morrowind/mods/49661) by Endoran  
