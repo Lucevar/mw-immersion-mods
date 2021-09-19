@@ -264,3 +264,4 @@ Removed: stand out a bit too much for me
 209. [**RR Mod Series - Telvanni Lighthouse Tel Branora**](https://www.nexusmods.com/morrowind/mods/42664) by Resdayn Revival Team   
 210. [**RR Mod Series - Telvanni Lighthouse Tel Vos**](https://www.nexusmods.com/morrowind/mods/42744) by Resdayn Revival Team  
 211. [**RR Mod Series - Melchior's Mudcrab Merchant**](https://www.nexusmods.com/morrowind/mods/42685) by Resdayn Revival Team  
+212. [**Imperial Armor Expanded - Beta**](https://www.nexusmods.com/morrowind/mods/49330) by Endoran  
