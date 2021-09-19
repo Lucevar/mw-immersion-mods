@@ -45,6 +45,13 @@ BCOM Requirements:
 ----- Rem_AI.esp  
 ----- REM_AC.esp  
 
+## Ascadian Isles  
+* Vvardenfell Ecology (unreleased) by Wolli  
+-- 011 Leafy Tree Models  
+-- 013 Rocks Revamped  
+-- 021 Spores and Ores  
+* [**Concept Art Plantations**](https://www.nexusmods.com/morrowind/mods/50020) by Duo Dinamico  
+
 ## Bitter Coast
 * [**OAAB The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/49047) by Remiros  
 * [**Justice for Khartag**](https://www.nexusmods.com/morrowind/mods/49832?tab=files&file_id=1000025045) by Duo Dinamico  
