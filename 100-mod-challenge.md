@@ -190,3 +190,10 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 153. [**Seamless Abandoned Shack**](https://www.nexusmods.com/morrowind/mods/49527) by RandomPal  
 154. [**Hybrid Trees**](https://www.nexusmods.com/morrowind/mods/50167) by SilentJacket  
 155. [**Morrowind Swamp Trees**](https://www.nexusmods.com/morrowind/mods/50151) by Vegetto  
+156. [**Beautiful Cities of Morrowind**](https://www.nexusmods.com/morrowind/mods/49231) by RandomPal  
+157. [**Remiros Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros  
+158. [**Concept Art Plantations**](https://www.nexusmods.com/morrowind/mods/50020) by Duo Dinamico  
+159. Vvardenfell Ecology by Wolli  
+160. [**Solstheim - Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810) by Wolli  
+
+
