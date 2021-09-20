@@ -19,8 +19,8 @@ Removes level requirements for a number of quests.
 [**Django's Dialogue**](https://www.nexusmods.com/morrowind/mods/47253) by von Djangos  
 [**Drakes Pride Refusal**](https://www.nexusmods.com/morrowind/mods/46894) by chryssvoler  
 [**Non-Legion Dandsa Rescue Fix**](https://www.nexusmods.com/morrowind/mods/46927) by chryssvoler  
-[**Kurapli Seeks Justice**](https://www.nexusmods.com/morrowind/mods/48697) by stripes  
-[**Of Pillows and Peril**](https://www.nexusmods.com/morrowind/mods/49491) 
+[**Kurapli Seeks Justice**](https://www.nexusmods.com/morrowind/mods/48697) by Stripes  
+[**Of Pillows and Peril**](https://www.nexusmods.com/morrowind/mods/49491) by Remirso   
 [**Old Blue Fin**](https://www.nexusmods.com/morrowind/mods/49503) by Leyawynn  
 [**Relevant Rumors**](https://www.nexusmods.com/morrowind/mods/49650) by Elanhant  
 [**Even More Mysterious Killings in Vivec**](https://www.nexusmods.com/morrowind/mods/49661) by Endoran  
@@ -29,6 +29,7 @@ Removes level requirements for a number of quests.
 [**Get Paid in Drams**](https://www.nexusmods.com/morrowind/mods/49901) by Alice  
 [**Sarandas Family Hearth**](https://www.nexusmods.com/morrowind/mods/48056) by Endoran  
 [**Bad Actor Quest Fix**](https://www.nexusmods.com/morrowind/mods/49926) by GreyWyvern  
+[**Silt Strider Courier**](https://www.nexusmods.com/morrowind/mods/48262?tab=description) by Alice and Lucevar  
 
 ## Main Quest Mods
 [**Main Quest Enhancers**](https://www.nexusmods.com/morrowind/mods/41337) by Trainwiz  
@@ -39,6 +40,7 @@ Removes level requirements for a number of quests.
 [**Temple Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528) by rumeely  
 [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
 [**Escort Caius**](https://www.nexusmods.com/morrowind/mods/49691) by Zaria  
+[**Andrano Ancestral Tomb Remastered**](https://www.nexusmods.com/morrowind/mods/44672) by Team Wretched Netch  
 [**Consequences for Looting the Andrano Tomb**](https://www.nexusmods.com/morrowind/mods/49728) by Alice  
 [**Joinable Sixth House - So To Speak**](https://www.nexusmods.com/morrowind/mods/49778) by Alice  
 [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602) by Alice  
