@@ -295,7 +295,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Bethamez** - [**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249)  
 **Bthanchend**  
 **Bthuand** - [Bthuand Expanded](https://www.nexusmods.com/morrowind/mods/46055)  
-**Bthungthumz**  
+**Bthungthumz** - [The Tragedy of Dahrk Mezalf the Wise**](https://www.nexusmods.com/morrowind/mods/47235)    
 **Dagoth Ur** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544), [**Akulakhan's Best Chamber**](https://www.nexusmods.com/morrowind/mods/49644)    
 **Druscashti** - [**Druschasti Overhaul**](https://www.nexusmods.com/morrowind/mods/47900), [**Vampire Clans - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47259)  
 **Endusal** - [Endusal Redone](https://www.nexusmods.com/morrowind/mods/43399)  
