@@ -1,4 +1,6 @@
-# Towns and Locations install based on BCOM
+# Towns, Locations & Dungeons install based on BCOM
+Aims to create a richly cluttered and interesting to explore worldspace, based around compatibility with Beautiful Cities of Morrowind.  
+
 Guide assumes you're using MWSE. There are probably OpenMW alternatives for most of the things here, but I'm not familiar with them so I'm not best-placed to advise on that. Apologies to any OpenMW readers. I hope you find the rest useful!  
 
 It also assumes that you're installing everything and that you really like clutter. YMMV, most of this is optional, feel free to deviate from the script according to your own taste. eg if you don't want the religious icons added by HAT, skip that mod in the General Towns section, and don't install the patch from BCOM.  
