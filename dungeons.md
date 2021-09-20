@@ -254,7 +254,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Kushtashpi**  
 **Ramimilk** - [Daedric Ruin Expansion - Ramimilk](https://www.nexusmods.com/morrowind/mods/38296)  
 **Tusenend**  
-**Yansirramus**  
+**Yansirramus** - [**Beautiful Cities of Morrowind**](https://www.nexusmods.com/morrowind/mods/49231), [**Tel Aruhn Chronicles**](https://www.nexusmods.com/morrowind/mods/49171)  
 
 ## Daedric Shrines - Sheogorath
 **Addadshashanammu** - [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
