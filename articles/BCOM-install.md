@@ -75,6 +75,7 @@ Patches - install after you've downloaded and installed everything
 * [**More Believable Bandit Camps - Ashfall Addon**](https://www.nexusmods.com/morrowind/mods/50066) by RandomPal  
 -- 00 Core  
 -- 01 TOTSP Addon  
+-- Requires [**Ashfall**](https://www.nexusmods.com/morrowind/mods/49057) by Merlord  
 
 ## General Dungeons
 * [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237) by Melchior Dahrk   
