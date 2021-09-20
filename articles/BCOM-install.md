@@ -1,6 +1,8 @@
 # Towns and Locations install based on BCOM
 Guide assumes you're using MWSE. There are probably OpenMW alternatives for most of the things here, but I'm not familiar with them so I'm not best-placed to advise on that. Apologies to any OpenMW readers. I hope you find the rest useful!  
 
+It also assumes that you're installing everything and that you really like clutter. YMMV, most of this is optional, feel free to deviate from the script according to your own taste. eg if you don't want the religious icons added by HAT, skip that mod in the General Towns section, and don't install the patch from BCOM.  
+
 ## Beautiful Cities of Morrowind 
 Of course! This is what we're basing this guide on. 
 
@@ -25,7 +27,7 @@ BCOM Requirements:
 -- 07 Taller Lighthouse  
 -- 08 Expanded Sadrith Mora Dock  
 
-Patches - install once you've downloaded everything  
+Patches - install after you've downloaded and installed everything  
 -- 09 Patch for Purists Patch  
 -- 11 Foyada Mamaea Overhaul  
 -- 13 Animated Morrowind  
@@ -33,7 +35,7 @@ Patches - install once you've downloaded everything
 -- 39 Ashlander Traders Remastered  
 -- 40 Holidays Across Tamriel  
 -- 41 Realistic Repair Addon  
--- 45 Unique banners and signs
+-- 45 Unique banners and signs  
 -- 48 Velothi Wall Art  
 -- 56 Dartboards expanded  
 -- 65 Imperials Go Home  
@@ -63,6 +65,10 @@ Patches - install once you've downloaded everything
 * [**Unique Banners and Signs**](https://mw.modhistory.com/download-44-6950) by Bart Notelaers  
 * [**Correspondances of Morrowind**](https://www.nexusmods.com/morrowind/mods/44771) by Cliffworms  
 * [**Dartboards Expanded**](https://www.nexusmods.com/morrowind/mods/47976) by Danae, Lucevar, Utseeva  
+* [**Store Entrance Chimes**](https://www.nexusmods.com/morrowind/mods/44586) by R-zero  
+* [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk  
+* [**Realistic Repair Addon**](https://www.nexusmods.com/morrowind/mods/47461) by Corsair  
+* [**Ashlander Traders Remastered**](https://www.nexusmods.com/morrowind/mods/48009) by Lucevar  
 
 ## General Wilderness
 * [**Walkers of Morrowind**](https://www.nexusmods.com/morrowind/mods/49889) by Danae  
