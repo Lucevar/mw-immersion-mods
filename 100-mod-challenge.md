@@ -329,3 +329,4 @@ Removed: stand out a bit too much for me
 274. [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by Von Djangos  
 275. [**Dura gra-Bol's House Reclaimed - and the Grab-All Gang**](https://www.nexusmods.com/morrowind/mods/46772) by Melchior Dahrk  
 276. [**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653) by Melchior Dahrk  
+277. [**Silt Strider Courier**](https://www.nexusmods.com/morrowind/mods/48262) by Lucevar and Alice  
