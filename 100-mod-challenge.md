@@ -330,3 +330,4 @@ Removed: stand out a bit too much for me
 275. [**Dura gra-Bol's House Reclaimed - and the Grab-All Gang**](https://www.nexusmods.com/morrowind/mods/46772) by Melchior Dahrk  
 276. [**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653) by Melchior Dahrk  
 277. [**Silt Strider Courier**](https://www.nexusmods.com/morrowind/mods/48262) by Lucevar and Alice  
+278. [**Color Vvardenfell Map Manu and Splash Screens**](https://www.nexusmods.com/morrowind/mods/49930) by Aitrus  
