@@ -269,10 +269,10 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 
 ## Daedric Shrines - Misc
 **Anudnabia** - [**Forge of Hilbongard**](http://download.fliggerty.com/download--702)  
-**Khartag Point**  
+**Khartag Point** - [**Justice for Khartag**](https://www.nexusmods.com/morrowind/mods/49832)  
 **Magas Volar** - [**Moody Magas Volar**](https://www.nexusmods.com/morrowind/mods/49789)    
 **Shrine of Azura** - [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278)   
-**Shrine of Boethiah** - [**Shrine of Boethiah Expansion**](https://www.nexusmods.com/morrowind/mods/49331) by Tel Shadow    
+**Shrine of Boethiah** - [**Shrine of Boethiah Expansion**](https://www.nexusmods.com/morrowind/mods/49331)    
 **Shrine of Mephala** - [**The Shrine of Mephala**](http://mw.modhistory.com/download-112-11326)  
 
 ## <a name="dunmer"></a>Dunmer Strongholds
@@ -380,11 +380,11 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 
 ## <a name="velothi"></a>Velothi Towers
 **Ald Redaynia**  - [**Grey North - Ruined Redaynia**](https://www.nexusmods.com/morrowind/mods/49862)   
-**Ashmelech** - [**Ashmelech Reborn**](https://www.nexusmods.com/morrowind/mods/45648), [**Vampire Clans - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47259)    
+**Ashmelech** - [**Ashmelech Reborn**](https://www.nexusmods.com/morrowind/mods/45648), [Vampire Clans - Clutter Monkey Overhaul](https://www.nexusmods.com/morrowind/mods/47259)    
 **Arvs-Drelen**  
 **Hanud**  
 **Mababi**  
-**Mawia**  - [**Mawia Overhaul**](https://www.nexusmods.com/morrowind/mods/46884)  
+**Mawia**  - [**OAAB Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131), [Mawia Overhaul](https://www.nexusmods.com/morrowind/mods/46884)  
 **Odirniran** - [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075)  
 **Sanni**  
 **Shara**  
@@ -568,7 +568,10 @@ A collection of difficult dungeons for high level players.
 This mod adds a quest to a new and dangerous tomb which brings the player to unexpected places and the player has a chance to acquire a curious new home.  
 
 [**Erengard Mines (Morrowind Crafting compatible edition)**](https://www.nexusmods.com/morrowind/mods/46877) by Graphite and Denina  
-Allows the player to buy and run a mine.
+Allows the player to buy and run a mine.  
+
+[**Hashur - Smuggler's Cave**](https://www.nexusmods.com/morrowind/mods/50260) by PF Cacklefanny  
+Adds a new dungeon in Azura's Coast (16, -1), for characters at or above 10th level.
 
 ## <a name="towns"></a> Towns
 **Tel Vos** - [Tel Vos - Dungeon Overhaul](https://www.nexusmods.com/morrowind/mods/46676)
