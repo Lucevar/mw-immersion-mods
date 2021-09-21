@@ -69,5 +69,7 @@ Innkeepers will no longer allow you to rent a bed for the night if you're diseas
 Among its other features, adds healers who will cure you for a fee. Not compatible with Raejak's Healers.  
 - [**Descriptive Shrines - Healing**](https://www.nexusmods.com/morrowind/mods/46119) by SuperQuail  
 Shrine blessings will now tell you what they do before you accept the blessing, and asking for healing is now an option.  
-- [**Blight at the Hairat-Vassami Egg Mine**](https://www.nexusmods.com/morrowind/mods/47589) by Gavrilo93  
+- [**Blight at the Hairat-Vassami Egg Mine**](https://www.nexusmods.com/morrowind/mods/47589) by Alice  
 In Maar Gan, there is a note about a fallen Redoran warrior who died trying to cure a blighted egg mine. In vanilla, nothing further happens: in this mod, you are offered the opportunity to complete the warrior's quest and cure the egg mine. If you do, miners will return to work at the mine. You don't need to be a member of House Redoran to complete the quest.  
+- [**Cure All The Kwama Queens**](https://www.nexusmods.com/morrowind/mods/49879) by Alice  
+There are several quests in the game, in which you are asked to cure Kwama queens so that mining could resume in the area. However, there are even more remote, abandoned, or perhaps never even discovered Kwama colonies which are also infected, but the player never gets any sort of recognition for curing the Kwama queens of these colonies. This mod fixes that, and gives you the opportunity to cure the Kwama queens of these remote, abandoned colonies and get a journal entry for them, which acknowledges your deed.
