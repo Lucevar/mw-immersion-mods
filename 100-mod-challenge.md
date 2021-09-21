@@ -332,3 +332,7 @@ Removed: stand out a bit too much for me
 277. [**Silt Strider Courier**](https://www.nexusmods.com/morrowind/mods/48262) by Lucevar and Alice  
 278. [**Color Vvardenfell Map Manu and Splash Screens**](https://www.nexusmods.com/morrowind/mods/49930) by Aitrus  
 279. [**Almalexia Redone**](https://www.nexusmods.com/morrowind/mods/50265/) by Lamb Shark  
+280. [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086) by Vitruvian Guar  
+281. [**Talking Matters**](https://www.nexusmods.com/morrowind/mods/49089) by Sofiaaq  
+282. [**MAB0's Manipulated**](https://www.nexusmods.com/morrowind/mods/47222) by Meta Barj0  
+283. [**MAB0'S Foundation**](https://www.nexusmods.com/morrowind/mods/47244) by Meta Barj0  
