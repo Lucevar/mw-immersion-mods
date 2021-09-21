@@ -42,7 +42,7 @@ You can no longer tell from the label whether an animal is blighted or not. Bewa
 - [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11   
 Corprus creatures will spawn behind you in blight storms, making it far more dangerous to travel in a blight storm -- especially if you use this together with Beware the Sixth House.   
 - [**Beware the Sixth House**](https://www.nexusmods.com/morrowind/mods/46036) by Mort   
-This is a rebalance mod that makes the 6th House and corprus creatures truly something to be feared. It's designed to be used together with its sibling mods [**Tribunal Rebalance**]() and [**Bloodmoon Rebalance**](). Mournhold and Solstheim are now areas that lower-level characters can visit if they're careful, while the 6th House become truly terrifying endgame foes. Do not venture onto the slopes of Red Mountain unprepared!
+This is a rebalance mod that makes the 6th House and corprus creatures truly something to be feared. It's designed to be used together with its sibling mods [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) and [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714). Mournhold and Solstheim are now areas that lower-level characters can visit if they're careful, while the 6th House become truly terrifying endgame foes. Do not venture onto the slopes of Red Mountain unprepared!
 - [**Dreamers Expansion**](https://www.nexusmods.com/morrowind/mods/42990) by Aoimhevelho  
 Adds a variety of new Dreamer enemies for you to face, from well-armored warriors to pitiful Dreamers clothed in rags and corprus sores.
 - [**Corprus Natives**](https://www.nexusmods.com/morrowind/mods/45674) by rot  
@@ -59,8 +59,10 @@ Resting outside is disabled in bad weather, further disincentivising travel.
 This mod merges Improved Inns and The Publicans as well as AST Arrille Attic, extends the Improved Inns functionality to TR inns, and adds compatibility with Entertainers Expanded/Entertainers Expanded Again. All the better to wait out the storms in!
 - [**Protective Masks Redux**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
 Certain helmets have been added to leveled lists that will provide protection against blight and common diseases.   
-- [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335) by Gavrilo93  
+- [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335) by Alice  
 Asciene Rane will no longer allow you to travel to the mainland if you have a blight, common, or corprus disease. Go get cured before you spread your infection!  
+- [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
+Innkeepers will no longer allow you to rent a bed for the night if you're diseased. Take your infections elsewhere!  
 
 ## Find Healing
 - [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris 
