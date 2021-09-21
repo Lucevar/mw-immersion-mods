@@ -11,6 +11,7 @@
 [**Concept Art Sixth House**](https://www.nexusmods.com/morrowind/mods/47498/) by Leyawynn  
 [**Sload Floater - Giant Bull Netch Replacer**](https://www.nexusmods.com/morrowind/mods/49672) by Melchior Dahrk  
 [**Properly balanced Creeper and Mudcrab Merchant**](https://www.nexusmods.com/morrowind/mods/49690) by RandomPal  
+[**Almalexia Redone**](https://www.nexusmods.com/morrowind/mods/50265/) by Lamb Shark
 
 ## Overhaul
 [**Creatures XI**](https://www.nexusmods.com/morrowind/mods/30563) by Piatelord  
