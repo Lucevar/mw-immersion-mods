@@ -336,3 +336,4 @@ Removed: stand out a bit too much for me
 281. [**Talking Matters**](https://www.nexusmods.com/morrowind/mods/49089) by Sofiaaq  
 282. [**MAB0's Manipulated**](https://www.nexusmods.com/morrowind/mods/47222) by Meta Barj0  
 283. [**MAB0'S Foundation**](https://www.nexusmods.com/morrowind/mods/47244) by Meta Barj0  
+284. [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
