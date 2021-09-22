@@ -32,6 +32,7 @@
 [**Open Helmets**](https://www.nexusmods.com/morrowind/mods/49401) by Leyawynn  
 [**Nords Shut Your Windows**](https://www.nexusmods.com/morrowind/mods/50087) by Vegetto  
 [**Lava Caverns Revamp**](https://www.nexusmods.com/morrowind/mods/50191) by SVNR  
+[**Enchanted Library**](https://www.nexusmods.com/morrowind/mods/48776) by revenorror  
 
 # Mod Replacers
 [**Red sclera eyes for Julan**](https://www.nexusmods.com/morrowind/mods/47277?tab=description) by Leetmorry  
