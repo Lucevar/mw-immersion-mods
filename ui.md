@@ -70,6 +70,9 @@ No saving in battle!
 [**Inspirational Messages Expanded**](https://www.nexusmods.com/morrowind/mods/49851) by TimThe7th  
 [**Level Up Messages - LUM Levels 20-75**](https://www.nexusmods.com/morrowind/mods/43431) by GaStuSage  
 
+## Class Images
+[**Class Kirkbrideization - Concept Art Class Pictures Replacer**](https://www.nexusmods.com/morrowind/mods/48758) by Yar-Yulme  
+
 ## Splash / Loading Screen Additions
 
 [**Fresco Splash Screens**](https://www.nexusmods.com/morrowind/mods/45680) by Tyddy OgreOgre & Petethegoat  
