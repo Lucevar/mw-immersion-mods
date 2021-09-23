@@ -30,7 +30,6 @@ Removes level requirements for a number of quests.
 ## Main Quest Mods
 ### Atmosphere
 [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602) by Alice  
-[**MTR Dwemer Puzzle Box Randomizer**](https://www.nexusmods.com/morrowind/mods/49781) by MTR  
 [**Cure all the Kwama Queens**](https://www.nexusmods.com/morrowind/mods/49879) by Alice  
 [**Main Quest Enhancers**](https://www.nexusmods.com/morrowind/mods/41337) by Trainwiz  
 [**Past Life Regressions**](https://www.nexusmods.com/morrowind/mods/49315) by Alice  
@@ -39,6 +38,7 @@ Removes level requirements for a number of quests.
 [**Sleepers Awake**](https://www.nexusmods.com/morrowind/mods/37208) by Von Djangos  
 
 ### Caius
+[**MTR Dwemer Puzzle Box Randomizer**](https://www.nexusmods.com/morrowind/mods/49781) by MTR  
 [**Andrano Ancestral Tomb Remastered**](https://www.nexusmods.com/morrowind/mods/44672) by Team Wretched Netch  
 [**Consequences for Looting the Andrano Tomb**](https://www.nexusmods.com/morrowind/mods/49728) by Alice  
 [**Escort Caius**](https://www.nexusmods.com/morrowind/mods/49691) by Zaria  
