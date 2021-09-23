@@ -567,6 +567,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**The Glory Road**](https://mw.modhistory.com/download-68-5801) by TommyKhajiit & Kathryn  
 [**Tales of Tel Branora**](https://mw.modhistory.com/download-68-8799) by AP Hiliard  
 [**Expedition to Mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by Melchior Dahrk, TheDrunkenMudcrab, Greatness7  
+[**Face of the Hortator**](https://www.nexusmods.com/morrowind/mods/42928) by Infragris  
 
 # Province Mods
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Tamriel Rebuilt and Project Tamriel  
