@@ -25,6 +25,7 @@ Removes level requirements for a number of quests.
 [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962) by Alxemical  
 [**FMI - Alice's Package**](https://www.nexusmods.com/morrowind/mods/48003) by Alice  
 [**Sexual Harassment Remover**](https://www.nexusmods.com/morrowind/mods/48541) by JaceyS  
+[**Girith's Guar Hides**](https://www.nexusmods.com/morrowind/mods/48706) by Melchior Dahrk  
 [**Communist Nerevarine**](https://www.nexusmods.com/morrowind/mods/46979) by Alice  
 [**The Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466) by Alice contains:  
 * [**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995)  
@@ -71,6 +72,7 @@ Removes level requirements for a number of quests.
 [**Vampire Nerevarine**](https://www.nexusmods.com/morrowind/mods/48290) by Alice  
 [**Refuse the Main Quest**](https://www.nexusmods.com/morrowind/mods/44802) by Alice  
 [**Nationalist Nerevarine**](https://www.nexusmods.com/morrowind/mods/45687) by Alice  
+[**Infinity Wraithguard**](https://www.nexusmods.com/morrowind/mods/46849) by Melchior Dahrk  
 
 ### Atmosphere
 [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602) by Alice  
@@ -110,6 +112,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Sexual Harassment Remover**](https://www.nexusmods.com/morrowind/mods/48541) by JaceyS  
 [**Imperialist Nerevarine**](https://www.nexusmods.com/morrowind/mods/45815) by Alice  
 [**Hortator**](https://www.nexusmods.com/morrowind/mods/46856) by Alice  
+[**Azurah**](https://www.nexusmods.com/morrowind/mods/47407) by Melchior Dahrk  
 
 ### Post Main Quest Mods
 [**Vivec's Fate: The Ashlander Heresy**](http://mw.modhistory.com/download-53-10736) by Brother Juniper  
@@ -207,6 +210,8 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Rise of House Telvanni 2.0**](https://www.nexusmods.com/morrowind/mods/48225) by mort  
 [**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Alice  
 [**The Tragedy of Dahrk Mezalf the Wise**](https://www.nexusmods.com/morrowind/mods/47235) by Team Suran Suran  
+[**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by Melchior Dahrk  
+[**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
 
 ### Imperial Cult
 [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
@@ -221,6 +226,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Imperial Legion Expansion**](https://www.nexusmods.com/morrowind/mods/44469) by Alice  
 [**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Alice  
 [**Gnisis Docks**](https://www.nexusmods.com/morrowind/mods/45994) by Alice  
+[**Legion at the Siege of Firemoth**](https://www.nexusmods.com/morrowind/mods/47924) by Endoran  
 
 #### Talos Cult
 [**The Talos Cult Conspiracy**](https://www.nexusmods.com/morrowind/mods/47576) by Alice and Caeris  
@@ -235,6 +241,12 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Ajira's Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/34180) by DebiDalio  
 [**Pacifist Options - Where They Make Sense**](https://www.nexusmods.com/morrowind/mods/47961) by Alice  
 [**A Cure for Vampirism - Skink's Solution**](https://www.nexusmods.com/morrowind/mods/47375) by Alice  
+[**God of Worms**](https://www.nexusmods.com/morrowind/mods/48028) by Caeris  
+[**Caldera Mages Guild Expanded**](https://www.nexusmods.com/morrowind/mods/45750) by Lucevar  
+[**Master Index Redux**](https://www.nexusmods.com/morrowind/mods/48977) by Endoran  
+[**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739) by Melchior Dahrk  
+[**Scrolls of the Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831) by Melchior Dahrk  
+[**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126) by Melchior Dahrk  
 
 ### Morag Tong
 [**Morag Tong - Methas Hlaalu**](https://www.nexusmods.com/morrowind/mods/28252) by Sladle  
@@ -297,6 +309,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**The Mystery of the Ghost Snake**](https://www.nexusmods.com/morrowind/mods/49358) by Alice  
 [**SV Justice in Seyda Neen**](https://www.nexusmods.com/morrowind/mods/49993) by Siralvek  
 [**Carelessly Crazy Caldera Community**](https://www.nexusmods.com/morrowind/mods/47275) by Team Suran Suran  
+[**3E 427 A Space Odyssey**](https://www.nexusmods.com/morrowind/mods/48019) by Alice and OperatorJack  
 
 # Totally New Quests
 ## New Factions
@@ -314,6 +327,8 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Guild of Vampire Hunters**](https://www.nexusmods.com/morrowind/mods/45832) by Alice  
 [**Guild of Vampire Hunters - Lucevar Edit**](https://www.nexusmods.com/morrowind/mods/47224) by Alice and Lucevar  
 [**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by Alice  
+[**Cult of the Clouds**](https://mw.modhistory.com/download-35-3192) by MWoody  
+[**Dura gra-Bol's House Reclaimed and the Grab-All Gang**](https://www.nexusmods.com/morrowind/mods/46772) by Melchior Dahrk  
 
 ## Daedric Quests
 [**Vaermina's Quest - Dreams of the Escaped**](https://www.nexusmods.com/morrowind/mods/49172) by Team Tenacious Templars  
@@ -322,6 +337,10 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Love in the time of Daedra**](https://www.nexusmods.com/morrowind/mods/43635) by HangHimHigher  
 [**The Forgotten**](https://www.nexusmods.com/morrowind/mods/45733) by Team Horny Skulls  
 [**Dreaming Terrors**](https://www.nexusmods.com/morrowind/mods/44690) by Team Cutie Kagouti  
+[**Sload Floater - Giant Bull Netch Replacer**](https://www.nexusmods.com/morrowind/mods/49672) by Melchior Dahrk  
+[**The Sanguine Rose**](https://www.nexusmods.com/morrowind/mods/46214) by Melchior Dahrk  
+[**The Doors of Oblivion**](https://www.nexusmods.com/morrowind/mods/44398) by Ashtaar  
+[**The Doors of Oblivion Mesh Fixes**](https://www.nexusmods.com/morrowind/mods/46374) by Qwertyquit  
 
 ## Other New Quests
 [**Facility 343**](https://www.nexusmods.com/morrowind/mods/46468)  
@@ -362,3 +381,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Nerevarine Unchained**](https://www.nexusmods.com/morrowind/mods/46930) by Alice  
 [**Long Live the King - Queen - Monarch**](https://www.nexusmods.com/morrowind/mods/45555) by Alice  
 [**The Tempest**](https://www.nexusmods.com/morrowind/mods/46260) by Team Purist Pariahs  
+[**A Magic Shop For Molag Mar**](https://www.nexusmods.com/morrowind/mods/47660) by WulfShaman  
+[**Chrysopeia**](https://www.nexusmods.com/morrowind/mods/47008) by OperatorJack  
+[**OAAB - The Astral Pocket**](https://www.nexusmods.com/morrowind/mods/49077) by OperatorJack  
+[**Galerion's Tools**](https://www.nexusmods.com/morrowind/mods/47901) by OperatorJack  
