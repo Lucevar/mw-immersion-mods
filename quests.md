@@ -106,7 +106,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**War Leader Nerevar**](https://www.nexusmods.com/morrowind/mods/49554) by Billyfighter  
 [**Temple Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528) by rumeely  
 [**Call Incarnate**](https://www.nexusmods.com/morrowind/mods/48263) by OperatorJack and Alice  
-[**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995)  
+[**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995) by Alice  
 [**Sexual Harassment Remover**](https://www.nexusmods.com/morrowind/mods/48541) by JaceyS  
 [**Imperialist Nerevarine**](https://www.nexusmods.com/morrowind/mods/45815) by Alice  
 [**Hortator**](https://www.nexusmods.com/morrowind/mods/46856) by Alice  
