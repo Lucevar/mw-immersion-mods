@@ -110,6 +110,7 @@ Patches - install after you've downloaded and installed everything
 * [**Guar Stables of Vivec**](https://www.nexusmods.com/morrowind/mods/50118) by RandomPal  
 * [**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916) by Seelof  
 * [**Concept Art Palace**](https://www.nexusmods.com/morrowind/mods/48136) by Vegetto  
+* [**Imperial Altar in Vivec**](https://www.nexusmods.com/morrowind/mods/50273) by Tyermala  
 
 ## Ashlands 
 ### Dungeons
@@ -205,7 +206,6 @@ City of light, city of magic!
 * [**Immersive Mournhold**](https://www.nexusmods.com/morrowind/mods/49353) by RandomPal  
 * [**Dark Brotherhood Headquarters**](https://www.nexusmods.com/morrowind/mods/43022) by Vrolok  
 * [**Mournhold Courtiers - BCOM/Palace Revamped Compatible**](https://www.nexusmods.com/morrowind/mods/47737) by TaiyakaJade and Alice  
-* [**Kingdom of Clutter**](https://www.nexusmods.com/morrowind/mods/49768) by Endoran  
 
 ## Red Mountain
 * [**Endusal and Tureynulal Redone**](https://www.nexusmods.com/morrowind/mods/43399) by Trainwiz  
