@@ -36,6 +36,7 @@
 [**Vibrant Ivy**](https://www.nexusmods.com/morrowind/mods/49863) by RandomPal  
 [**Rogue Redoran Rugs Removed**](https://www.nexusmods.com/morrowind/mods/49942) by Randolph Carter  
 [**Graffiti of Morrowind**](https://www.nexusmods.com/morrowind/mods/50156) by RandomPal  
+[**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267) by Hollaajith  
 
 # Tamriel Rebuilt
 [**Unique Tavern Signs for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/46794) by Rats  
