@@ -24,7 +24,6 @@ Removes level requirements for a number of quests.
 [**Old Blue Fin**](https://www.nexusmods.com/morrowind/mods/49503) by Leyawynn  
 [**Relevant Rumors**](https://www.nexusmods.com/morrowind/mods/49650) by Elanhant  
 [**Even More Mysterious Killings in Vivec**](https://www.nexusmods.com/morrowind/mods/49661) by Endoran  
-[**Immersive Neloth Reward**](https://www.nexusmods.com/morrowind/mods/49836) by Alice  
 [**Freelancer**](https://www.nexusmods.com/morrowind/mods/49896) by Tomas  
 [**Get Paid in Drams**](https://www.nexusmods.com/morrowind/mods/49901) by Alice  
 [**Sarandas Family Hearth**](https://www.nexusmods.com/morrowind/mods/48056) by Endoran  
@@ -56,20 +55,43 @@ Removes level requirements for a number of quests.
 [**Epilogue - Sail to Akavir**](https://www.nexusmods.com/morrowind/mods/49811) by Alice  
 [**Invasion of Stormwatch**](https://www.nexusmods.com/morrowind/mods/49174) by Team Ancient Androids  
 
-## Factions
-[**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von Django  
-[**Dagon Fel Mages Guild**](https://www.nexusmods.com/morrowind/mods/44576/?)
+## Vanilla Factions
+
+### Camonna Tong
 [**Strike at the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/46865) by ProfArmitage  
-[**South Wall, Den of Iniquity**]()  
-[**Therana vs Trerayna**](https://www.nexusmods.com/morrowind/mods/49332) by Alice  
-[**Guard Sarethi Manor Add-on - Morag Tong Hit Squad**](https://www.nexusmods.com/morrowind/mods/49343) by Sigourn  
-[**Redoran Founder's Helm Add-on - Arena Duel**](https://www.nexusmods.com/morrowind/mods/49342) by Sigourn  
-[**Quests for CLans and Vampire Legends (QCVL)**](https://www.nexusmods.com/morrowind/mods/49486) by SpiritTauren  
-[**Redoran Archmaster's Perks**](https://www.nexusmods.com/morrowind/mods/49519) by Mort  
+
+### Imperial Cult
 [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
 [**Harvest's End Festival**](https://www.nexusmods.com/morrowind/mods/49834) by Alice  
+
+### Mages Guild
+[**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von Django  
+[**Dagon Fel Mages Guild**](https://www.nexusmods.com/morrowind/mods/44576/?)
+
+### House Hlaalu
 [**Crassius Curio Gets Comfortable**](https://www.nexusmods.com/morrowind/mods/49922) by Amazingly Randi  
-[**Thieves Guild Overhaul**](https://www.nexusmods.com/morrowind/mods/49944) by Alice  
+
+### House Redoran
+[**Guard Sarethi Manor Add-on - Morag Tong Hit Squad**](https://www.nexusmods.com/morrowind/mods/49343) by Sigourn  
+[**Redoran Founder's Helm Add-on - Arena Duel**](https://www.nexusmods.com/morrowind/mods/49342) by Sigourn  
+[**Redoran Archmaster's Perks**](https://www.nexusmods.com/morrowind/mods/49519) by Mort  
+
+### House Telvanni
+[**Therana vs Trerayna**](https://www.nexusmods.com/morrowind/mods/49332) by Alice  
+[**Immersive Neloth Reward**](https://www.nexusmods.com/morrowind/mods/49836) by Alice  
+
+### Thieves Guild
+[**Thieves Guild Overhaul**](https://www.nexusmods.com/morrowind/mods/49944) by Alice contains:  
+* [**Thieves Guild in Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/46754) by Alice  
+* [**Bal Molagmer Add-on**](https://www.nexusmods.com/morrowind/mods/48198) by Alice  
+* [**Lore-Friendly Bal Molagmer Gloves**](https://www.nexusmods.com/morrowind/mods/48053) by Alice  
+[**South Wall, Den of Iniquity**](https://www.nexusmods.com/morrowind/mods/49950) by Balasthustrius  
+
+### Twin Lamps
+[**Twin Lamps and Slavehunters -- Cleaned and Edited**](https://www.nexusmods.com/morrowind/mods/47420) by Nevena and l1lartur0  
+
+### Vampire Clans
+[**Quests for CLans and Vampire Legends (QCVL)**](https://www.nexusmods.com/morrowind/mods/49486) by SpiritTauren  
 
 # New Quests, Vanilla Npcs
 [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
@@ -96,7 +118,6 @@ Removes level requirements for a number of quests.
 [**Black Tooth Pirates**](https://www.nexusmods.com/morrowind/mods/47014) by ChemicalTaint  
 [**Illuminated Order 2.0**](https://www.nexusmods.com/morrowind/mods/47414) by Mort  
 [**Fetchers of Morrowind**](https://www.nexusmods.com/morrowind/mods/47417) by dmbaturin  
-[**Twin Lamps and Slavehunters -- Cleaned and Edited**](https://www.nexusmods.com/morrowind/mods/47420) by Nevena and l1lartur0  
 [**Ancient Foes**](https://www.nexusmods.com/morrowind/mods/44705?tab=files) by Darkelfguy  
 [**Smuggler's Guild**](https://www.nexusmods.com/morrowind/mods/48926) by Ignatious9  
 [**SV - Terrors of the Night**](https://www.nexusmods.com/morrowind/mods/49160) by Siralvek  
