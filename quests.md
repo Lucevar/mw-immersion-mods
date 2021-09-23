@@ -127,6 +127,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Tureynulal and Endusal Redone**](https://www.nexusmods.com/morrowind/mods/43399) by Trainwiz   
 [**Thus Spoke the Sixth House**](https://www.nexusmods.com/morrowind/mods/46892) by Pipe Smoking Rabbit  
 [**Apotheosis Reborn**](https://www.nexusmods.com/morrowind/mods/43747) by MrFahrenheit247  
+[**The Reclamation of Hasimminus Mine**](https://www.nexusmods.com/morrowind/mods/46095) by Team Nordic Chefs  
 
 ### Post Main Quest Mods
 [**Vivec's Fate: The Ashlander Heresy**](http://mw.modhistory.com/download-53-10736) by Brother Juniper  
@@ -323,6 +324,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Jarl of Solstheim**](https://www.nexusmods.com/morrowind/mods/47016) by Alice  
 [**Ashes and Ice**](https://www.nexusmods.com/morrowind/mods/45250) by Team Mythical Beasts  
 [**The Great Tribe of the Bear**](https://www.nexusmods.com/morrowind/mods/42086) by Slaanesh the Corruptor  
+[**Blackthorn Barrow**](https://www.nexusmods.com/morrowind/mods/45280) by Corsair  
 
 # New Quests, Vanilla Npcs
 [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
@@ -337,6 +339,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**SV Justice in Seyda Neen**](https://www.nexusmods.com/morrowind/mods/49993) by Siralvek  
 [**Carelessly Crazy Caldera Community**](https://www.nexusmods.com/morrowind/mods/47275) by Team Suran Suran  
 [**3E 427 A Space Odyssey**](https://www.nexusmods.com/morrowind/mods/48019) by Alice and OperatorJack  
+[**Smooth Mooves**](https://www.nexusmods.com/morrowind/mods/43909) by Curmudgeon  
 
 # Totally New Quests
 ## New Factions
@@ -452,3 +455,9 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Legend of Chemua**](https://www.nexusmods.com/morrowind/mods/45253) by TheDrunkenMudcrab, Greatness7, MementoMoritius, Melchior Dahrk  
 [**Apothecary's Demise**](https://www.nexusmods.com/morrowind/mods/44331) by MattTheBagel  
 [**Moonspawn**](https://www.nexusmods.com/morrowind/mods/205) by ?  
+[**Broadsheets and Notice Boards**](https://www.nexusmods.com/morrowind/mods/43535) by KJS94  
+[**Rajh I**](https://www.nexusmods.com/morrowind/mods/41371) by InariKettu  
+[**The Broken Drum**](https://www.nexusmods.com/morrowind/mods/1033) by ?  
+[**Inseparable Siblings**](https://www.nexusmods.com/morrowind/mods/41360) by Reptile  
+[**Restoring Rains Hand Hall**](https://www.nexusmods.com/morrowind/mods/40885) by Chesko  
+[**Amulet of Scrye**](https://www.nexusmods.com/morrowind/mods/30387) by Ivza  
