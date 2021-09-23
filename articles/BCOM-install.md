@@ -208,6 +208,7 @@ City of light, city of magic!
 
 ## Red Mountain
 * [**Endusal and Tureynulal Redone**](https://www.nexusmods.com/morrowind/mods/43399) by Trainwiz  
+* [**Akulakhan's Best Chamber**](https://www.nexusmods.com/morrowind/mods/49644) by Duo Dinamico  
 
 ## Sheogorad
 ### Dungeons
