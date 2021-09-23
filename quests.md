@@ -341,6 +341,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**The Sanguine Rose**](https://www.nexusmods.com/morrowind/mods/46214) by Melchior Dahrk  
 [**The Doors of Oblivion**](https://www.nexusmods.com/morrowind/mods/44398) by Ashtaar  
 [**The Doors of Oblivion Mesh Fixes**](https://www.nexusmods.com/morrowind/mods/46374) by Qwertyquit  
+[**Daedric Sorcery**](https://mw.modhistory.com/download-68-4488) by EdwardsMD  
 
 ## Other New Quests
 [**Facility 343**](https://www.nexusmods.com/morrowind/mods/46468)  
