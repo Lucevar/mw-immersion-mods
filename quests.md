@@ -37,6 +37,8 @@ Removes level requirements for a number of quests.
 [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335) by Alice  
 [**Sleepers Awake**](https://www.nexusmods.com/morrowind/mods/37208) by Von Djangos  
 
+Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/articles/blight.md) for further blight/disease mods that add to the menace.  
+
 ### Caius
 [**MTR Dwemer Puzzle Box Randomizer**](https://www.nexusmods.com/morrowind/mods/49781) by MTR  
 [**Andrano Ancestral Tomb Remastered**](https://www.nexusmods.com/morrowind/mods/44672) by Team Wretched Netch  
@@ -114,6 +116,7 @@ Removes level requirements for a number of quests.
 ### Imperial Cult
 [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
 [**Harvest's End Festival**](https://www.nexusmods.com/morrowind/mods/49834) by Alice  
+[**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
 
 ### Imperial Legion
 [**Courtesy**](https://www.nexusmods.com/morrowind/mods/46781) by chantox  
@@ -138,6 +141,9 @@ Removes level requirements for a number of quests.
 * [**Thieves Guild in Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/46754) by Alice  
 * [**Bal Molagmer Add-on**](https://www.nexusmods.com/morrowind/mods/48198) by Alice  
 * [**Lore-Friendly Bal Molagmer Gloves**](https://www.nexusmods.com/morrowind/mods/48053) by Alice  
+
+### Tribunal Template
+[**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
 
 ### Twin Lamps
 [**Twin Lamps and Slavehunters -- Cleaned and Edited**](https://www.nexusmods.com/morrowind/mods/47420) by Nevena and l1lartur0  
