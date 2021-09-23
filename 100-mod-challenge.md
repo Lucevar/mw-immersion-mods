@@ -338,4 +338,5 @@ Removed: stand out a bit too much for me
 283. [**MAB0'S Foundation**](https://www.nexusmods.com/morrowind/mods/47244) by Meta Barj0  
 284. [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
 285. [**Caius' Rooftop Renovations**](https://www.nexusmods.com/morrowind/mods/50272) by Juidius Xentao  
+286. [**Akulakhan's Best Chamber**](https://www.nexusmods.com/morrowind/mods/49644) by Duo Dinamico  
 
