@@ -25,6 +25,7 @@ Removes level requirements for a number of quests.
 [**Sarandas Family Hearth**](https://www.nexusmods.com/morrowind/mods/48056) by Endoran  
 [**Bad Actor Quest Fix**](https://www.nexusmods.com/morrowind/mods/49926) by GreyWyvern  
 [**Silt Strider Courier**](https://www.nexusmods.com/morrowind/mods/48262?tab=description) by Alice and Lucevar  
+[**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962) by Alxemical  
 
 ## Main Quest Mods
 ### Atmosphere
