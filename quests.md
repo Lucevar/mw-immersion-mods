@@ -85,11 +85,13 @@ Removes level requirements for a number of quests.
 [**Mamaea Awakened**](https://www.nexusmods.com/morrowind/mods/46096) by Team Flamboyant Armigers  
 [**Blight Bounties**](https://www.nexusmods.com/morrowind/mods/45595) by Ivza  
 [**Dreamers Expansion**](https://www.nexusmods.com/morrowind/mods/42990) by Ivolga  
+[**Ashlander Rebels**](https://www.nexusmods.com/morrowind/mods/43225) by Ivolga  
 [**Morvayn Manor in Maar Gan**](https://www.nexusmods.com/morrowind/mods/48024) by Alice  
 [**Blight at the Hairat-Vassamsi Mine**](https://www.nexusmods.com/morrowind/mods/47589) by Alice  
 [**Strange Man At Gindrala's House**](https://www.nexusmods.com/morrowind/mods/47427) by Alice  
 
 Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/articles/blight.md) for further blight/disease mods that add to the menace.  
+Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/creatures.md) for more Sixth House related replacers.  
 
 ### Caius / Blades
 [**FMI - Alice's Package**](https://www.nexusmods.com/morrowind/mods/48003) by Alice  
@@ -101,18 +103,24 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Blades Informant**](https://www.nexusmods.com/morrowind/mods/48084) by Alice  
 
 ### Nerevarine-Hortator
+[**Kogoruhn Expanded**](https://www.nexusmods.com/morrowind/mods/46098) by Team Drama Kwama  
+[**Kogoruhn Ruins**](https://www.nexusmods.com/morrowind/mods/44034) by Langusteer  
 [**Cavern of the Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860) by ivolga  
 [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
 [**Cutscene Revamp - Cavern of the Incarnate**](https://www.nexusmods.com/morrowind/mods/49126) by DarkKnight040802  
 [**Failed Incarnates Pilgrimage**](https://www.nexusmods.com/morrowind/mods/48717) by Danae  
-[**War Leader Nerevar**](https://www.nexusmods.com/morrowind/mods/49554) by Billyfighter  
 [**Temple Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528) by rumeely  
 [**Call Incarnate**](https://www.nexusmods.com/morrowind/mods/48263) by OperatorJack and Alice  
 [**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995) by Alice  
 [**Sexual Harassment Remover**](https://www.nexusmods.com/morrowind/mods/48541) by JaceyS  
 [**Imperialist Nerevarine**](https://www.nexusmods.com/morrowind/mods/45815) by Alice  
 [**Hortator**](https://www.nexusmods.com/morrowind/mods/46856) by Alice  
+
+### Assault on Red Mountain
 [**Azurah**](https://www.nexusmods.com/morrowind/mods/47407) by Melchior Dahrk  
+[**Akulakhan's Best Chamber**](https://www.nexusmods.com/morrowind/mods/49644) by Duo Dinamico  
+[**War Leader Nerevar**](https://www.nexusmods.com/morrowind/mods/49554) by Billyfighter  
+[**Tureynulal and Endusal Redone**](https://www.nexusmods.com/morrowind/mods/43399) by Trainwiz   
 
 ### Post Main Quest Mods
 [**Vivec's Fate: The Ashlander Heresy**](http://mw.modhistory.com/download-53-10736) by Brother Juniper  
