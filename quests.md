@@ -382,6 +382,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**A Man and His Guar Revamp**](https://www.nexusmods.com/morrowind/mods/44437) by DunkMount  
 [**Own Foryn Gilnith's Shack**](https://www.nexusmods.com/morrowind/mods/47002) by MasterJinroku  
 [**A Noble Deed - Kill Fargoth**](https://www.nexusmods.com/morrowind/mods/45764) by Harveh  
+[**Caldera Mine Expanded**](https://www.nexusmods.com/morrowind/mods/45194) by Melchior Dahrk, TheDrunkenMudcrab, Greatness7  
 
 # Totally New Quests
 ## New Factions
@@ -565,6 +566,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Horror Mod**](https://mw.modhistory.com/download-68-5911) by MentalElf  
 [**The Glory Road**](https://mw.modhistory.com/download-68-5801) by TommyKhajiit & Kathryn  
 [**Tales of Tel Branora**](https://mw.modhistory.com/download-68-8799) by AP Hiliard  
+[**Expedition to Mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by Melchior Dahrk, TheDrunkenMudcrab, Greatness7  
 
 # Province Mods
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Tamriel Rebuilt and Project Tamriel  
