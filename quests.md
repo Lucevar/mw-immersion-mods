@@ -587,8 +587,8 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Starwind - A Vision of the Dark Knight**](https://www.nexusmods.com/morrowind/mods/49966) by Alice  
 
 ## Others
-[**Duskpoint**](https://www.nexusmods.com/morrowind/mods/45117) by Waspinator1998
-[**Fargoth's Game**](https://www.nexusmods.com/morrowind/mods/50072) by Stripes
+[**Duskpoint**](https://www.nexusmods.com/morrowind/mods/45117) by Waspinator1998  
+[**Fargoth's Game**](https://www.nexusmods.com/morrowind/mods/50072) by Stripes  
 [**The Zone**](https://www.nexusmods.com/morrowind/mods/1651) by Tarazaur  
 [**Iredior Conspiracies**](https://www.nexusmods.com/morrowind/mods/1777) by Theta Orionis  
 [**Rajh I**](https://www.nexusmods.com/morrowind/mods/41371) by InariKettu  
