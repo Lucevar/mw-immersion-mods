@@ -74,6 +74,22 @@ Removes level requirements for a number of quests.
 [**Join the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/44214) by DD4N  
 [**Errands for Orvas**](http://simania.nl/mw/mwmods.htm) by Simania  
 
+### Dark Brotherhood
+#### Joinable Dark Brotherhood 
+[**Join the Dark Brotherhood**](https://www.nexusmods.com/morrowind/mods/48858) by DD4N  
+[**To Serve Sithis**](https://www.nexusmods.com/morrowind/mods/45005) by Emryn  
+[**Vvardenfell and Dark Brotherhood Crossover**](https://www.nexusmods.com/morrowind/mods/48874) by Zelazko  
+
+#### Delay the Attacks
+[**Dark Brotherhood Delay - Murderous Dreams**](https://www.nexusmods.com/morrowind/mods/21710) by Avelon  
+[**Dark Brotherhood Delay - Player's Choice**](https://www.nexusmods.com/morrowind/mods/46533) by RubberMan  
+[**Dark Brotherhood Attacks Once - Delayed Attack**](https://www.nexusmods.com/morrowind/mods/45167) by TheDrunkenMudcrab  
+[**Dark Brotherhood Attacks Fixed**](https://www.nexusmods.com/morrowind/mods/45976) by Xiran  
+[**Dark Brotherhood Assassins Attack Once**](https://www.nexusmods.com/morrowind/mods/43632) by Instinktive  
+
+### East Empire Company
+
+
 ### Fighters Guild
 [**Zelazko's Fighters Guild Quest Options**](https://www.nexusmods.com/morrowind/mods/47196) by Zelazko  
 
