@@ -86,6 +86,7 @@ Removes level requirements for a number of quests.
 [**Dark Brotherhood Attacks Once - Delayed Attack**](https://www.nexusmods.com/morrowind/mods/45167) by TheDrunkenMudcrab  
 [**Dark Brotherhood Attacks Fixed**](https://www.nexusmods.com/morrowind/mods/45976) by Xiran  
 [**Dark Brotherhood Assassins Attack Once**](https://www.nexusmods.com/morrowind/mods/43632) by Instinktive  
+[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588) by Half11  
 
 ### East Empire Company
 
@@ -143,6 +144,13 @@ Removes level requirements for a number of quests.
 
 ### Vampire Clans
 [**Quests for CLans and Vampire Legends (QCVL)**](https://www.nexusmods.com/morrowind/mods/49486) by SpiritTauren  
+
+# Tribunal Quests
+[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588) by Half11 
+
+# Solstheim Quests
+[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588) by Half11 
+[**Keep Gaea Artoria**](https://www.nexusmods.com/morrowind/mods/49533) by Stripes and Zhydrac  
 
 # New Quests, Vanilla Npcs
 [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
