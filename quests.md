@@ -59,6 +59,9 @@ Removes level requirements for a number of quests.
 
 ### Camonna Tong
 [**Strike at the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/46865) by ProfArmitage  
+[**Nastier Camonna Tong**](https://www.nexusmods.com/morrowind/mods/22601) by Von Djangos  
+[**Join the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/44214) by DD4N  
+[**Errands for Orvas**](http://simania.nl/mw/mwmods.htm) by Simania  
 
 ### Imperial Cult
 [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
@@ -81,11 +84,11 @@ Removes level requirements for a number of quests.
 [**Immersive Neloth Reward**](https://www.nexusmods.com/morrowind/mods/49836) by Alice  
 
 ### Thieves Guild
+[**South Wall, Den of Iniquity**](https://www.nexusmods.com/morrowind/mods/49950) by Balasthustrius  
 [**Thieves Guild Overhaul**](https://www.nexusmods.com/morrowind/mods/49944) by Alice contains:  
 * [**Thieves Guild in Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/46754) by Alice  
 * [**Bal Molagmer Add-on**](https://www.nexusmods.com/morrowind/mods/48198) by Alice  
 * [**Lore-Friendly Bal Molagmer Gloves**](https://www.nexusmods.com/morrowind/mods/48053) by Alice  
-[**South Wall, Den of Iniquity**](https://www.nexusmods.com/morrowind/mods/49950) by Balasthustrius  
 
 ### Twin Lamps
 [**Twin Lamps and Slavehunters -- Cleaned and Edited**](https://www.nexusmods.com/morrowind/mods/47420) by Nevena and l1lartur0  
