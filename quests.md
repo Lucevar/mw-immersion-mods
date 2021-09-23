@@ -149,7 +149,7 @@ Removes level requirements for a number of quests.
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588) by Half11 
 
 # Solstheim Quests
-[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588) by Half11 
+[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588) by Half11  
 [**Keep Gaea Artoria**](https://www.nexusmods.com/morrowind/mods/49533) by Stripes and Zhydrac  
 
 # New Quests, Vanilla Npcs
