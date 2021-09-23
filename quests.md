@@ -10,11 +10,9 @@ Removes level requirements for a number of quests.
 [**The Corpse and the Skooma Pipe Overhaul**](https://www.nexusmods.com/morrowind/mods/46696) by Alice  
 [**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Alice  
 [**Quest Tweaks and Alternatives**]() by Stuporstar  
-[**Zelazko's Fighters Guild Quest Options**](https://www.nexusmods.com/morrowind/mods/47196) by Zelazko  
 [**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995) by Alice  
 [**Museum Quest Finisher**](https://www.nexusmods.com/morrowind/mods/47139) by Necrolesian  
 [**Stormkiss Reforged**](https://www.nexusmods.com/morrowind/mods/44565) by Gevalt and Enclavekiller  
-[**Courtesy**](https://www.nexusmods.com/morrowind/mods/46781) by chantox  
 [**Go away move along**](https://www.nexusmods.com/morrowind/mods/46797) by l1lartur0  
 [**Django's Dialogue**](https://www.nexusmods.com/morrowind/mods/47253) by von Djangos  
 [**Non-Legion Dandsa Rescue Fix**](https://www.nexusmods.com/morrowind/mods/46927) by chryssvoler  
@@ -75,13 +73,23 @@ Removes level requirements for a number of quests.
 [**Join the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/44214) by DD4N  
 [**Errands for Orvas**](http://simania.nl/mw/mwmods.htm) by Simania  
 
+### Fighters Guild
+[**Zelazko's Fighters Guild Quest Options**](https://www.nexusmods.com/morrowind/mods/47196) by Zelazko  
+
 ### Imperial Cult
 [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
 [**Harvest's End Festival**](https://www.nexusmods.com/morrowind/mods/49834) by Alice  
 
+### Imperial Legion
+[**Courtesy**](https://www.nexusmods.com/morrowind/mods/46781) by chantox  
+[**Imperial Legion Expansion**](https://www.nexusmods.com/morrowind/mods/44469) by Alice  
+
 ### Mages Guild
 [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von Django  
-[**Dagon Fel Mages Guild**](https://www.nexusmods.com/morrowind/mods/44576/?)
+[**Dagon Fel Mages Guild**](https://www.nexusmods.com/morrowind/mods/44576/?)  
+[**Ajira Deflowered**](https://www.nexusmods.com/morrowind/mods/47585) by Alice  
+[**Ajira's Alchemy Reports Randomized**](https://www.nexusmods.com/morrowind/mods/47550) by Danae and Merlord  
+[**Ajira's Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/34180) by DebiDalio  
 
 ### House Hlaalu
 [**Crassius Curio Gets Comfortable**](https://www.nexusmods.com/morrowind/mods/49922) by Amazingly Randi  
@@ -96,7 +104,6 @@ Removes level requirements for a number of quests.
 [**Therana vs Trerayna**](https://www.nexusmods.com/morrowind/mods/49332) by Alice  
 [**Immersive Neloth Reward**](https://www.nexusmods.com/morrowind/mods/49836) by Alice  
 [**Drakes Pride Refusal**](https://www.nexusmods.com/morrowind/mods/46894) by chryssvoler  
-
 
 ### Thieves Guild
 [**South Wall, Den of Iniquity**](https://www.nexusmods.com/morrowind/mods/49950) by Balasthustrius  
