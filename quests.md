@@ -156,6 +156,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Morag Tong Writ Fix**](https://www.nexusmods.com/morrowind/mods/47788) by Lurlock  
 
 ### Thieves Guild
+[**Even Seedier Eight Plates**](https://www.nexusmods.com/morrowind/mods/49236) by Lucevar  
 [**South Wall, Den of Iniquity**](https://www.nexusmods.com/morrowind/mods/49950) by Balasthustrius  
 [**Thieves Guild Overhaul**](https://www.nexusmods.com/morrowind/mods/49944) by Alice contains:  
 * [**Thieves Guild in Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/46754) by Alice  
