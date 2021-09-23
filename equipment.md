@@ -80,6 +80,7 @@ Duke's Silver Armor:
 [**Clothiers of Vvardenfell Redux - BCOM Patch**](https://www.nexusmods.com/morrowind/mods/50007) by B00ze  
 [**Complete and Revised Nordic Iron Armor**](https://www.nexusmods.com/morrowind/mods/50166) by RuffinVangarr  
 [**Indy Gear**](https://www.nexusmods.com/morrowind/mods/50210) by Danae  
+[**Ergalla's Breton Armour**](https://www.nexusmods.com/morrowind/mods/50263) by MorrowGoblins  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
@@ -107,3 +108,4 @@ Duke's Silver Armor:
 [**Daedric Estoc**](https://www.nexusmods.com/morrowind/mods/49620) by insicht  
 [**Killing Spree Helluva Ways to Kill**](https://www.nexusmods.com/morrowind/mods/49668) by Danae  
 [**Tamrielic Tomahawks**](https://www.nexusmods.com/morrowind/mods/49720) by Stripes  
+[**Sensible Spear Tweaks and Additions**](https://www.nexusmods.com/morrowind/mods/50261) by iris  
