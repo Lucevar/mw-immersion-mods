@@ -71,6 +71,7 @@ Patches - install after you've downloaded and installed everything
 * [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk  
 * [**Realistic Repair Addon**](https://www.nexusmods.com/morrowind/mods/47461) by Corsair  
 * [**Ashlander Traders Remastered**](https://www.nexusmods.com/morrowind/mods/48009) by Lucevar  
+* [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267) by Hollaajith  
 
 ## General Wilderness
 * [**Walkers of Morrowind**](https://www.nexusmods.com/morrowind/mods/49889) by Danae  
