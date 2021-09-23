@@ -54,6 +54,7 @@ Removes level requirements for a number of quests.
 [**Less Generic Nerevarine**](https://www.nexusmods.com/morrowind/mods/23335) by Ostar  
 [**Less Generic Nerevarine Sharn Quest Fix**](https://www.nexusmods.com/morrowind/mods/47149) by Necrolesian  
 [**Julan Ashlander Companion**](https://fallingawkwardly.com/) by Kateri  
+[**The Ministry of Clarity**](https://www.nexusmods.com/morrowind/mods/46093) by Team Sexy Sloads  
 [**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Alice contains:  
 * [**Living With Caius**](https://www.nexusmods.com/morrowind/mods/47898) by OperatorJack  
 * [**Refuse the Main Quest**](https://www.nexusmods.com/morrowind/mods/44802) by Alice  
@@ -196,6 +197,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Duel of Honor - Improve the Chances**](https://www.nexusmods.com/morrowind/mods/47393) by Alice  
 [**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) by Alice  
 [**Redoran Archmaster's Perks**](https://www.nexusmods.com/morrowind/mods/49519) by Mort  
+[**Olyn Hleran -- Redoran Companion**](https://www.nexusmods.com/morrowind/mods/45197) by Team Mythical Beast  
 [**Old Blue Fin**](https://www.nexusmods.com/morrowind/mods/49503) by Leyawynn  
 [**LGNPC**](http://lgnpc.org/downloads) by LGNPC Team  
 * Pax Redoran
@@ -304,6 +306,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 ## New Quests
 [**Hircine's Quest**](https://www.nexusmods.com/morrowind/mods/47651) by Danae & Alice  
 [**Jarl of Solstheim**](https://www.nexusmods.com/morrowind/mods/47016) by Alice  
+[**Ashes and Ice**](https://www.nexusmods.com/morrowind/mods/45250) by Team Mythical Beasts  
 
 # New Quests, Vanilla Npcs
 [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
@@ -337,6 +340,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by Alice  
 [**Cult of the Clouds**](https://mw.modhistory.com/download-35-3192) by MWoody  
 [**Dura gra-Bol's House Reclaimed and the Grab-All Gang**](https://www.nexusmods.com/morrowind/mods/46772) by Melchior Dahrk  
+[**The Imperial Dwemer Society**](https://www.nexusmods.com/morrowind/mods/45225) by Team Mythical Beasts  
 
 ## Daedric Quests
 [**Vaermina's Quest - Dreams of the Escaped**](https://www.nexusmods.com/morrowind/mods/49172) by Team Tenacious Templars  
@@ -351,6 +355,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**The Doors of Oblivion Mesh Fixes**](https://www.nexusmods.com/morrowind/mods/46374) by Qwertyquit  
 [**Daedric Sorcery**](https://mw.modhistory.com/download-68-4488) by EdwardsMD  
 [**Snakes on a Place (of Oblivion)**](https://www.nexusmods.com/morrowind/mods/9975) by CowGuru  
+[**The Demon of Knowledge**](https://www.nexusmods.com/morrowind/mods/46126) by Team Sexy Sloads  
 
 ## Other New Quests
 [**Facility 343**](https://www.nexusmods.com/morrowind/mods/46468)  
@@ -397,3 +402,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Galerion's Tools**](https://www.nexusmods.com/morrowind/mods/47901) by OperatorJack  
 [**Wyrmhaven**](https://www.nexusmods.com/morrowind/mods/42933) by Neoptolemus  
 [**Muffinwind - Enhanced Edition**](https://www.nexusmods.com/morrowind/mods/41588) by CowGuru  
+[**Tales of Seyda Neen**](https://www.nexusmods.com/morrowind/mods/27222) by Denunci  
+[**Pearls and Pirates**](https://www.nexusmods.com/morrowind/mods/45268) by Team Mystical Beasts  
+[**Feyiin's Troubles**](https://www.nexusmods.com/morrowind/mods/44333) by Danae  
+[**Adanumuran Reclaimed**](https://www.nexusmods.com/morrowind/mods/43340) by Danae  
