@@ -83,6 +83,7 @@
 [**Hlaalu Nobles Facial Overhaul**](https://www.nexusmods.com/morrowind/mods/48916) by Leyawynn  
 [**Fancy Barenziah**](https://www.nexusmods.com/morrowind/mods/49009) by qwertyquit  
 [**Emerald Armor (Orvas Dren)**](https://www.nexusmods.com/morrowind/mods/49051) by Anroha  
+[**Rogue's Gallery**](https://www.nexusmods.com/morrowind/mods/49874) by Von Djangos  
 
 ### Sorkvild the Raven
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
