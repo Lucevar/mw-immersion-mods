@@ -324,19 +324,22 @@ Removed: stand out a bit too much for me
 269. [**Radiant Quests of Morrowind**](https://www.nexusmods.com/morrowind/mods/46451) by Wanderra  
 270. [**The Sanguine Rose**](https://www.nexusmods.com/morrowind/mods/46214) by Melchior Dahrk  
 271. [**Immersive Madness**](https://www.nexusmods.com/morrowind/mods/44983) by Rot  
-272. [**Mudcrab Imports Pirate Adventures**](https://www.nexusmods.com/morrowind/mods/49463) by Billyfighter  
-273. [**Scrolls of the Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831) by Melchior Dahrk  
-274. [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by Von Djangos  
-275. [**Dura gra-Bol's House Reclaimed - and the Grab-All Gang**](https://www.nexusmods.com/morrowind/mods/46772) by Melchior Dahrk  
-276. [**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653) by Melchior Dahrk  
-277. [**Silt Strider Courier**](https://www.nexusmods.com/morrowind/mods/48262) by Lucevar and Alice  
-278. [**Color Vvardenfell Map Manu and Splash Screens**](https://www.nexusmods.com/morrowind/mods/49930) by Aitrus  
-279. [**Almalexia Redone**](https://www.nexusmods.com/morrowind/mods/50265/) by Lamb Shark  
-280. [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086) by Vitruvian Guar  
-281. [**Talking Matters**](https://www.nexusmods.com/morrowind/mods/49089) by Sofiaaq  
-282. [**MAB0's Manipulated**](https://www.nexusmods.com/morrowind/mods/47222) by Meta Barj0  
-283. [**MAB0'S Foundation**](https://www.nexusmods.com/morrowind/mods/47244) by Meta Barj0  
-284. [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
-285. [**Caius' Rooftop Renovations**](https://www.nexusmods.com/morrowind/mods/50272) by Juidius Xentao  
-286. [**Akulakhan's Best Chamber**](https://www.nexusmods.com/morrowind/mods/49644) by Duo Dinamico  
+272. 273. [**Scrolls of the Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831) by Melchior Dahrk  
+273. [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by Von Djangos  
+274. [**Dura gra-Bol's House Reclaimed - and the Grab-All Gang**](https://www.nexusmods.com/morrowind/mods/46772) by Melchior Dahrk  
+275. [**The Madstone**](https://www.nexusmods.com/morrowind/mods/47653) by Melchior Dahrk  
+276. [**Silt Strider Courier**](https://www.nexusmods.com/morrowind/mods/48262) by Lucevar and Alice  
+277. [**Color Vvardenfell Map Manu and Splash Screens**](https://www.nexusmods.com/morrowind/mods/49930) by Aitrus  
+278. [**Almalexia Redone**](https://www.nexusmods.com/morrowind/mods/50265/) by Lamb Shark  
 
+Installed after new game started:  
+279. [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086) by Vitruvian Guar  
+280. [**Talking Matters**](https://www.nexusmods.com/morrowind/mods/49089) by Sofiaaq  
+281. [**MAB0's Manipulated**](https://www.nexusmods.com/morrowind/mods/47222) by Meta Barj0  
+282. [**MAB0'S Foundation**](https://www.nexusmods.com/morrowind/mods/47244) by Meta Barj0  
+283. [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
+284. [**Caius' Rooftop Renovations**](https://www.nexusmods.com/morrowind/mods/50272) by Juidius Xentao  
+285. [**Akulakhan's Best Chamber**](https://www.nexusmods.com/morrowind/mods/49644) by Duo Dinamico  
+286. [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267) by Hollaajith  
+287. [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord  
+288. [**Mass Cure**](https://www.nexusmods.com/morrowind/mods/49615) by Danae  
