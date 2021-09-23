@@ -343,3 +343,5 @@ Installed after new game started:
 286. [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267) by Hollaajith  
 287. [**Kill Command**](https://www.nexusmods.com/morrowind/mods/46723) by Merlord  
 288. [**Mass Cure**](https://www.nexusmods.com/morrowind/mods/49615) by Danae  
+289. [**Imperial Altar in Vivec**](https://www.nexusmods.com/morrowind/mods/50273) by Tyermala  
+290. [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) by Half11  
