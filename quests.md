@@ -26,12 +26,22 @@ Removes level requirements for a number of quests.
 [**Bad Actor Quest Fix**](https://www.nexusmods.com/morrowind/mods/49926) by GreyWyvern  
 [**Silt Strider Courier**](https://www.nexusmods.com/morrowind/mods/48262?tab=description) by Alice and Lucevar  
 [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962) by Alxemical  
+[**Teach Nels Llendo A Lesson**](https://www.nexusmods.com/morrowind/mods/48589) by Alice  
+[**FMI - Alice's Package**](https://www.nexusmods.com/morrowind/mods/48003) by Alice  
+[**Pacifist Options - Where They Make Sense**](https://www.nexusmods.com/morrowind/mods/47961) by Alice  
+[**The Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466) by Alice contains:  
+* [**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995)  
+* [**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301)  
 
 ## Main Quest Mods
 ### General
 [**Less Generic Nerevarine**](https://www.nexusmods.com/morrowind/mods/23335) by Ostar  
 [**Less Generic Nerevarine Sharn Quest Fix**](https://www.nexusmods.com/morrowind/mods/47149) by Necrolesian  
 [**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Alice  
+[**Julan Ashlander Companion**](https://fallingawkwardly.com/) by Kateri  
+
+### Alternate Paths
+[**Vampire Nerevarine**](https://www.nexusmods.com/morrowind/mods/48290) by Alice  
 
 ### Atmosphere
 [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602) by Alice  
@@ -42,19 +52,32 @@ Removes level requirements for a number of quests.
 [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335) by Alice  
 [**Sleepers Awake**](https://www.nexusmods.com/morrowind/mods/37208) by Von Djangos  
 [**Mamaea Awakened**](https://www.nexusmods.com/morrowind/mods/46096) by Team Flamboyant Armigers  
+[**Blight Bounties**](https://www.nexusmods.com/morrowind/mods/45595) by Ivza  
+[**Dreamers Expansion**](https://www.nexusmods.com/morrowind/mods/42990) by Ivolga  
+[**Morvayn Manor in Maar Gan**](https://www.nexusmods.com/morrowind/mods/48024) by Alice  
+[**Blight at the Hairat-Vassamsi Mine**](https://www.nexusmods.com/morrowind/mods/47589) by Alice  
 
 Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/articles/blight.md) for further blight/disease mods that add to the menace.  
 
-### Caius
+### Caius / Blades
+[**FMI - Alice's Package**](https://www.nexusmods.com/morrowind/mods/48003) by Alice  
 [**MTR Dwemer Puzzle Box Randomizer**](https://www.nexusmods.com/morrowind/mods/49781) by MTR  
 [**Andrano Ancestral Tomb Remastered**](https://www.nexusmods.com/morrowind/mods/44672) by Team Wretched Netch  
 [**Consequences for Looting the Andrano Tomb**](https://www.nexusmods.com/morrowind/mods/49728) by Alice  
 [**Escort Caius**](https://www.nexusmods.com/morrowind/mods/49691) by Zaria  
 [**Caius Romance**](https://mw.modhistory.com/download-90-7208) by Princess Stomper  
+[**Blades Informant**](https://www.nexusmods.com/morrowind/mods/48084) by Alice  
 
 ### Nerevarine-Hortator
+[**Cavern of the Incarnate Overhaul**](https://www.nexusmods.com/morrowind/mods/42860) by ivolga  
+[**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
+[**Cutscene Revamp - Cavern of the Incarnate**](https://www.nexusmods.com/morrowind/mods/49126) by DarkKnight040802  
+[**Failed Incarnates Pilgrimage**](https://www.nexusmods.com/morrowind/mods/48717) by Danae  
 [**War Leader Nerevar**](https://www.nexusmods.com/morrowind/mods/49554) by Billyfighter  
 [**Temple Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528) by rumeely  
+[**Call Incarnate**](https://www.nexusmods.com/morrowind/mods/48263) by OperatorJack and Alice  
+[**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995)  
+[**Sexual Harassment Remover**]() by JaceyS  
 
 ### Post Main Quest Mods
 [**Vivec's Fate: The Ashlander Heresy**](http://mw.modhistory.com/download-53-10736) by Brother Juniper  
@@ -75,6 +98,14 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Endrek's Sixth House**](https://www.nexusmods.com/morrowind/mods/49438) by Endrek  
 
 ## Vanilla Factions
+### Ashlanders
+[**The Mystery of the Ghost Snake**](https://www.nexusmods.com/morrowind/mods/49358) by Alice  
+[**Failed Incarnates Pilgrimage**](https://www.nexusmods.com/morrowind/mods/48717) by Danae  
+
+### Blades
+[**Blades Informant**](https://www.nexusmods.com/morrowind/mods/48084) by Alice  
+[**Blades Quest: Prophecy of the Lost Heir**](http://lovkullen.net/Emma/blade.htm) by Emma  
+[**Blades of Vvardenfell**](https://www.nexusmods.com/morrowind/mods/44551) by Febbles  
 
 ### Camonna Tong
 [**Strike at the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/46865) by ProfArmitage  
@@ -107,10 +138,13 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Hlaalu Predatory Recruitment**](https://www.nexusmods.com/morrowind/mods/45007) by Yu Narukaze  
 [**Hlaalu Business**](https://www.nexusmods.com/morrowind/mods/39698) by 4LOM  
 [**Roleplay Options for Great House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by Caeris and Luj1  
+[**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995) by Alice  
 
 ### House Redoran
 [**Guard Sarethi Manor Add-on - Morag Tong Hit Squad**](https://www.nexusmods.com/morrowind/mods/49343) by Sigourn  
 [**Redoran Founder's Helm Add-on - Arena Duel**](https://www.nexusmods.com/morrowind/mods/49342) by Sigourn  
+[**Hiring Guards for the Redoran Stronghold - Honorable Solution**](https://www.nexusmods.com/morrowind/mods/48243) by Alice  
+[**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953) by Alice  
 [**Redoran Archmaster's Perks**](https://www.nexusmods.com/morrowind/mods/49519) by Mort  
 [**Old Blue Fin**](https://www.nexusmods.com/morrowind/mods/49503) by Leyawynn  
 [**LGNPC**](http://lgnpc.org/downloads) by LGNPC Team  
@@ -132,15 +166,24 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**LGNPC Tel Uvirith**](http://lgnpc.org/downloads) by LGNPC Team  
 [**Tel Uvirith LITE**](https://www.nexusmods.com/morrowind/mods/45615) by mala  
 [**Rise of House Telvanni 2.0**](https://www.nexusmods.com/morrowind/mods/48225) by mort  
+[**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Alice  
 
 ### Imperial Cult
 [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
 [**Harvest's End Festival**](https://www.nexusmods.com/morrowind/mods/49834) by Alice  
 [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
+[**Pacifist Options - Where They Make Sense**](https://www.nexusmods.com/morrowind/mods/47961) by Alice  
+[**FMI - Alice's Package**](https://www.nexusmods.com/morrowind/mods/48003) by Alice  
+[**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995) by Alice  
 
 ### Imperial Legion
 [**Courtesy**](https://www.nexusmods.com/morrowind/mods/46781) by chantox  
 [**Imperial Legion Expansion**](https://www.nexusmods.com/morrowind/mods/44469) by Alice  
+
+#### Talos Cult
+[**The Talos Cult Conspiracy**](https://www.nexusmods.com/morrowind/mods/47576) by Alice and Caeris  
+[**Talos Cult Revised**](https://www.nexusmods.com/morrowind/mods/44577) by Cheydin  
+[**Talos Cult Revised - Alice's Version**](https://www.nexusmods.com/morrowind/mods/47571) by Alice  
 
 ### Mages Guild
 [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von Django  
@@ -148,6 +191,8 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Ajira Deflowered**](https://www.nexusmods.com/morrowind/mods/47585) by Alice  
 [**Ajira's Alchemy Reports Randomized**](https://www.nexusmods.com/morrowind/mods/47550) by Danae and Merlord  
 [**Ajira's Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/34180) by DebiDalio  
+[**Pacifist Options - Where They Make Sense**](https://www.nexusmods.com/morrowind/mods/47961) by Alice  
+
 
 ### Morag Tong
 [**Morag Tong - Methas Hlaalu**](https://www.nexusmods.com/morrowind/mods/28252) by Sladle  
@@ -165,6 +210,9 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 
 ### Tribunal Template
 [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
+[**FMI - Alice's Package**](https://www.nexusmods.com/morrowind/mods/48003) by Alice  
+[**Elisamsi Follower**](https://www.nexusmods.com/morrowind/mods/49326) by Alice  
+[**The Pyres of Purification**](https://www.nexusmods.com/morrowind/mods/49320) by Alice  
 
 ### Twin Lamps
 [**Twin Lamps and Slavehunters -- Cleaned and Edited**](https://www.nexusmods.com/morrowind/mods/47420) by Nevena and l1lartur0  
@@ -177,6 +225,9 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588) by Half11  
 [**Less Generic Tribunal**](https://www.nexusmods.com/morrowind/mods/23363) by Ostar  
 [**Less Generic Tribunal Restored**](https://www.nexusmods.com/morrowind/mods/44819) by abot & Lucevar  
+[**Mournhold Courtiers**](https://www.nexusmods.com/morrowind/mods/44874) by TaiyakaJade  
+[**Mournhold Courtiers - Mournhold Palace Revamped Compatible**](https://www.nexusmods.com/morrowind/mods/47737) by Alice & TaiyakaJade  
+
 
 # Solstheim Quests
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588) by Half11  
@@ -214,6 +265,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Immersive Madness**](https://www.nexusmods.com/morrowind/mods/44983) by rot  
 [**Love in the time of Daedra**](https://www.nexusmods.com/morrowind/mods/43635) by HangHimHigher  
 [**The Forgotten**](https://www.nexusmods.com/morrowind/mods/45733) by Team Horny Skulls  
+[**Dreaming Terrors**](https://www.nexusmods.com/morrowind/mods/44690) by Team Cutie Kagouti  
 
 ## Other New Quests
 [**Facility 343**](https://www.nexusmods.com/morrowind/mods/46468)  
@@ -246,3 +298,6 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Ambient Percussion**](https://www.nexusmods.com/morrowind/mods/49998) by Elminster  
 [**The Telvanni Ward Keepers**](https://www.nexusmods.com/morrowind/mods/50078) by Markond  
 [**Ebonheart Underworks**](https://www.nexusmods.com/morrowind/mods/47272) by Team Dandy Daedra  
+[**The White Wolf of Lokken Mountain**](https://lovkullen.net/Emma/lokken.htm) by Emma  
+[**Constance Companion**](https://lovkullen.net/Emma/Constance.htm) by Emma  
+[**Witchgirl Adventure**](https://lovkullen.net/Emma/witchgirl.htm) by Emma  
