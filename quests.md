@@ -1,6 +1,7 @@
 # Quests 
 # Vanilla Quest Changes
 ## General
+[**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by Half11  
 [**The Pretty Reckless**](https://www.nexusmods.com/morrowind/mods/46970) by Alice  
 Removes level requirements for a number of quests.  
 [**Freelancer**](http://mw.modhistory.com/download-90-8164) by Tomas  
@@ -30,6 +31,7 @@ Removes level requirements for a number of quests.
 [**Girith's Guar Hides**](https://www.nexusmods.com/morrowind/mods/48706) by Melchior Dahrk  
 [**Quest Rank Requirements**](https://www.nexusmods.com/morrowind/mods/47994) by Pianobadger  
 [**Communist Nerevarine**](https://www.nexusmods.com/morrowind/mods/46979) by Alice  
+[**Misc Quest Tweaks**](https://www.nexusmods.com/morrowind/mods/43107) by Amenophis  
 [**The Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466) by Alice contains:  
 * [**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995)  
 * [**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301)  
@@ -93,6 +95,7 @@ Removes level requirements for a number of quests.
 [**Morvayn Manor in Maar Gan**](https://www.nexusmods.com/morrowind/mods/48024) by Alice  
 [**Blight at the Hairat-Vassamsi Mine**](https://www.nexusmods.com/morrowind/mods/47589) by Alice  
 [**Strange Man At Gindrala's House**](https://www.nexusmods.com/morrowind/mods/47427) by Alice  
+[**Cleansing Ash Statues**](https://www.nexusmods.com/morrowind/mods/44801) by twilotspankle  
 
 Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/articles/blight.md) for further blight/disease mods that add to the menace.  
 Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/creatures.md) for more Sixth House related replacers.  
@@ -157,6 +160,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Blades Informant**](https://www.nexusmods.com/morrowind/mods/48084) by Alice  
 [**Blades Quest: Prophecy of the Lost Heir**](http://lovkullen.net/Emma/blade.htm) by Emma  
 [**Blades of Vvardenfell**](https://www.nexusmods.com/morrowind/mods/44551) by Febbles  
+[**Deserter Legionaries**](https://www.nexusmods.com/morrowind/mods/8715) by somesz  
 
 ### Camonna Tong
 [**Strike at the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/46865) by ProfArmitage  
@@ -311,6 +315,8 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Mournhold Courtiers - Mournhold Palace Revamped Compatible**](https://www.nexusmods.com/morrowind/mods/47737) by Alice & TaiyakaJade  
 [**Champion of Clutter**](https://www.nexusmods.com/morrowind/mods/47377) by Alice  
 [**Our Lady's Solace**](https://www.nexusmods.com/morrowind/mods/43501) by Saffral Sandor  
+[**Sotha Sil Expanded**](https://www.nexusmods.com/morrowind/mods/42347) by Trainwiz  
+[**Sotha Sil Expanded Retracted**](https://www.nexusmods.com/morrowind/mods/45756) by mort  
 
 # Solstheim Quests
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588) by Half11  
@@ -340,6 +346,8 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Carelessly Crazy Caldera Community**](https://www.nexusmods.com/morrowind/mods/47275) by Team Suran Suran  
 [**3E 427 A Space Odyssey**](https://www.nexusmods.com/morrowind/mods/48019) by Alice and OperatorJack  
 [**Smooth Mooves**](https://www.nexusmods.com/morrowind/mods/43909) by Curmudgeon  
+[**More Quests**](https://www.nexusmods.com/morrowind/mods/43963) by Sophie Kirschner  
+[**To Save A Falling Wizard**](https://www.nexusmods.com/morrowind/mods/45637) by Lady Phoenix Fire Rose  
 
 # Totally New Quests
 ## New Factions
@@ -367,6 +375,8 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Morrowind Qaja-kar**](https://www.nexusmods.com/morrowind/mods/28887) by LegoManIAm94  
 [**Hunters Guild**](https://www.nexusmods.com/morrowind/mods/45748) by Runspect  
 [**Order of Sanctity**](https://www.nexusmods.com/morrowind/mods/47202) by Team Hungry Hungers  
+[**Arcane Archers**](https://www.nexusmods.com/morrowind/mods/37672) by Karpik777  
+[**The Vvardenfell Libraries**](https://www.nexusmods.com/morrowind/mods/43595) by The Wanderer  
 
 ## Daedric Quests
 [**Vaermina's Quest - Dreams of the Escaped**](https://www.nexusmods.com/morrowind/mods/49172) by Team Tenacious Templars  
@@ -384,6 +394,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**The Demon of Knowledge**](https://www.nexusmods.com/morrowind/mods/46126) by Team Sexy Sloads  
 [**Vaermora - Walking Stance Hold of the Thrice-Dreamed**](https://www.nexusmods.com/morrowind/mods/46097) by Team Flying Guars  
 [**Lustidrike Companion Character**](https://www.nexusmods.com/morrowind/mods/44691) by TheDrunkenMudcrab  
+[**The Battle Rite of Mephala**](https://www.nexusmods.com/morrowind/mods/46123) by Team Nordic Chefs  
 
 ## Other New Quests
 [**Facility 343**](https://www.nexusmods.com/morrowind/mods/46468)  
@@ -461,3 +472,11 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Inseparable Siblings**](https://www.nexusmods.com/morrowind/mods/41360) by Reptile  
 [**Restoring Rains Hand Hall**](https://www.nexusmods.com/morrowind/mods/40885) by Chesko  
 [**Amulet of Scrye**](https://www.nexusmods.com/morrowind/mods/30387) by Ivza  
+[**Roscrea**](https://www.nexusmods.com/morrowind/mods/45531) by Xebarro  
+[**Iredior Conspiracies**](https://www.nexusmods.com/morrowind/mods/1777) by Theta Orionis  
+[**Bitter Island**](https://www.nexusmods.com/morrowind/mods/24294) by KKleven  
+[**Deep Watch Abyss**](https://www.nexusmods.com/morrowind/mods/45217) by Team Welsh Wizards  
+[**Velendozval**](https://www.nexusmods.com/morrowind/mods/503) by ?  
+[**The Forgotten Legend - A Helm of Tohan Overhaul**](https://www.nexusmods.com/morrowind/mods/44673) by Team Cutie Kagouti  
+[**The Real Point Tavern**](https://www.nexusmods.com/morrowind/mods/8716) by somesz  
+[**The Longbow of the Elements**](https://www.nexusmods.com/morrowind/mods/8894) by The Munchkin Lord  
