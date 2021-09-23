@@ -77,6 +77,23 @@ Removes level requirements for a number of quests.
 ### Fighters Guild
 [**Zelazko's Fighters Guild Quest Options**](https://www.nexusmods.com/morrowind/mods/47196) by Zelazko  
 
+### House Hlaalu
+[**Crassius Curio Gets Comfortable**](https://www.nexusmods.com/morrowind/mods/49922) by Amazingly Randi  
+[**Hlaalu Predatory Recruitment**](https://www.nexusmods.com/morrowind/mods/45007) by Yu Narukaze  
+[**Hlaalu Business**](https://www.nexusmods.com/morrowind/mods/39698) by 4LOM  
+[**Roleplay Options for Great House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by Caeris and Luj1  
+
+### House Redoran
+[**Guard Sarethi Manor Add-on - Morag Tong Hit Squad**](https://www.nexusmods.com/morrowind/mods/49343) by Sigourn  
+[**Redoran Founder's Helm Add-on - Arena Duel**](https://www.nexusmods.com/morrowind/mods/49342) by Sigourn  
+[**Redoran Archmaster's Perks**](https://www.nexusmods.com/morrowind/mods/49519) by Mort  
+[**Old Blue Fin**](https://www.nexusmods.com/morrowind/mods/49503) by Leyawynn  
+
+### House Telvanni
+[**Therana vs Trerayna**](https://www.nexusmods.com/morrowind/mods/49332) by Alice  
+[**Immersive Neloth Reward**](https://www.nexusmods.com/morrowind/mods/49836) by Alice  
+[**Drakes Pride Refusal**](https://www.nexusmods.com/morrowind/mods/46894) by chryssvoler  
+
 ### Imperial Cult
 [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
 [**Harvest's End Festival**](https://www.nexusmods.com/morrowind/mods/49834) by Alice  
@@ -92,19 +109,11 @@ Removes level requirements for a number of quests.
 [**Ajira's Alchemy Reports Randomized**](https://www.nexusmods.com/morrowind/mods/47550) by Danae and Merlord  
 [**Ajira's Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/34180) by DebiDalio  
 
-### House Hlaalu
-[**Crassius Curio Gets Comfortable**](https://www.nexusmods.com/morrowind/mods/49922) by Amazingly Randi  
-
-### House Redoran
-[**Guard Sarethi Manor Add-on - Morag Tong Hit Squad**](https://www.nexusmods.com/morrowind/mods/49343) by Sigourn  
-[**Redoran Founder's Helm Add-on - Arena Duel**](https://www.nexusmods.com/morrowind/mods/49342) by Sigourn  
-[**Redoran Archmaster's Perks**](https://www.nexusmods.com/morrowind/mods/49519) by Mort  
-[**Old Blue Fin**](https://www.nexusmods.com/morrowind/mods/49503) by Leyawynn  
-
-### House Telvanni
-[**Therana vs Trerayna**](https://www.nexusmods.com/morrowind/mods/49332) by Alice  
-[**Immersive Neloth Reward**](https://www.nexusmods.com/morrowind/mods/49836) by Alice  
-[**Drakes Pride Refusal**](https://www.nexusmods.com/morrowind/mods/46894) by chryssvoler  
+### Morag Tong
+[**Morag Tong - Methas Hlaalu**](https://www.nexusmods.com/morrowind/mods/28252) by Sladle  
+[**Morag Tong Expanded**](https://www.nexusmods.com/morrowind/mods/42120) by Shuuda  
+[**Morag Tong Polished**](https://www.nexusmods.com/morrowind/mods/47041) by Caeris  
+[**Morag Tong Writ Fix**](https://www.nexusmods.com/morrowind/mods/47788) by Lurlock  
 
 ### Thieves Guild
 [**South Wall, Den of Iniquity**](https://www.nexusmods.com/morrowind/mods/49950) by Balasthustrius  
