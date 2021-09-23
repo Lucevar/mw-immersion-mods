@@ -337,3 +337,5 @@ Removed: stand out a bit too much for me
 282. [**MAB0's Manipulated**](https://www.nexusmods.com/morrowind/mods/47222) by Meta Barj0  
 283. [**MAB0'S Foundation**](https://www.nexusmods.com/morrowind/mods/47244) by Meta Barj0  
 284. [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
+285. [**Caius' Rooftop Renovations**](https://www.nexusmods.com/morrowind/mods/50272) by Juidius Xentao  
+
