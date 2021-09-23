@@ -198,7 +198,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Rissun** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Salmantu**  
 **Sanabi** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
-**Sanit**  
+**Sanit** - [**Julan Ashlander Companion**](https://fallingawkwardly.com/), [**The Ministry of Clarity**](https://www.nexusmods.com/morrowind/mods/46093)  
 **Sargon**  
 **Saturan**  
 **Sennananit** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
@@ -210,7 +210,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Shushan**  
 **Shushishi**  
 **Sinsibadon**  
-**Subdun** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Subdun** - [**The Ministry of Clarity**](https://www.nexusmods.com/morrowind/mods/46093), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Sud**  
 **Surirulk**  
 **Tin-Ahhe** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
@@ -285,7 +285,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Kogoruhn** - [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076), [**Kogoruhn Expanded**](https://www.nexusmods.com/morrowind/mods/46098), [**Kogoruhn Ruins**](https://www.nexusmods.com/morrowind/mods/44034), [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692), [**Riharradroon - Hidden Path to Kogoruhn**](https://www.nexusmods.com/morrowind/mods/47357), [**Dunmer Strongholds Expanded**](https://www.nexusmods.com/morrowind/mods/43358)    
 **Marandus** - [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692), [**Marandus Rebuilt**](https://www.nexusmods.com/morrowind/mods/49522), [**LGNPC Pax Redoran**](http://lgnpc.org/downloads), [**Dunmer Strongholds Expanded**](https://www.nexusmods.com/morrowind/mods/43358)  
 **Rotheran** - [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692), [**Dunmer Strongholds Expanded**](https://www.nexusmods.com/morrowind/mods/43358)  
-**Telasero** - [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692), [**Dunmer Strongholds Expanded**](https://www.nexusmods.com/morrowind/mods/43358)  
+**Telasero** - [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692), [**Dunmer Strongholds Expanded**](https://www.nexusmods.com/morrowind/mods/43358), [**The Ministry of Clarity**](https://www.nexusmods.com/morrowind/mods/46093)  
 **Valenvaryon** - [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692), [**Dunmer Strongholds Expanded**](https://www.nexusmods.com/morrowind/mods/43358)  
 
 ## <a name="dwemer"></a>Dwemer Ruins
