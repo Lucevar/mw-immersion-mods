@@ -28,6 +28,11 @@ Removes level requirements for a number of quests.
 [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962) by Alxemical  
 
 ## Main Quest Mods
+### General
+[**Less Generic Nerevarine**](https://www.nexusmods.com/morrowind/mods/23335) by Ostar  
+[**Less Generic Nerevarine Sharn Quest Fix**](https://www.nexusmods.com/morrowind/mods/47149) by Necrolesian  
+[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Alice  
+
 ### Atmosphere
 [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602) by Alice  
 [**Cure all the Kwama Queens**](https://www.nexusmods.com/morrowind/mods/49879) by Alice  
@@ -47,7 +52,6 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Caius Romance**](https://mw.modhistory.com/download-90-7208) by Princess Stomper  
 
 ### Nerevarine-Hortator
-[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Alice  
 [**War Leader Nerevar**](https://www.nexusmods.com/morrowind/mods/49554) by Billyfighter  
 [**Temple Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528) by rumeely  
 
@@ -107,11 +111,24 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Redoran Founder's Helm Add-on - Arena Duel**](https://www.nexusmods.com/morrowind/mods/49342) by Sigourn  
 [**Redoran Archmaster's Perks**](https://www.nexusmods.com/morrowind/mods/49519) by Mort  
 [**Old Blue Fin**](https://www.nexusmods.com/morrowind/mods/49503) by Leyawynn  
+[**LGNPC**](http://lgnpc.org/downloads) by LGNPC Team  
+* Pax Redoran
+* Ald-ruhn
+* Ald-ruhn Supplement
+* Khuul
+* Ald Velothi
+* Vivec Redoran 
+* Maar Gan
+* Indarys Manor
 
 ### House Telvanni
 [**Therana vs Trerayna**](https://www.nexusmods.com/morrowind/mods/49332) by Alice  
 [**Immersive Neloth Reward**](https://www.nexusmods.com/morrowind/mods/49836) by Alice  
 [**Drakes Pride Refusal**](https://www.nexusmods.com/morrowind/mods/46894) by chryssvoler  
+[**Uvirith's Legacy**](https://stuporstar.sarahdimento.com/updates/downloads/) by Stuporstar  
+[**Building Up Uvirith's Legacy**](https://mw.modhistory.com/download-47-11851) by Acheron & Artimis Fowl  
+[**LGNPC Tel Uvirith**](http://lgnpc.org/downloads) by LGNPC Team  
+[**Tel Uvirith LITE**](https://www.nexusmods.com/morrowind/mods/45615) by mala  
 
 ### Imperial Cult
 [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
@@ -152,11 +169,14 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Quests for CLans and Vampire Legends (QCVL)**](https://www.nexusmods.com/morrowind/mods/49486) by SpiritTauren  
 
 # Tribunal Quests
-[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588) by Half11 
+[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588) by Half11  
+[**Less Generic Tribunal**](https://www.nexusmods.com/morrowind/mods/23363) by Ostar  
+[**Less Generic Tribunal Restored**](https://www.nexusmods.com/morrowind/mods/44819) by abot & Lucevar  
 
 # Solstheim Quests
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588) by Half11  
 [**Keep Gaea Artoria**](https://www.nexusmods.com/morrowind/mods/49533) by Stripes and Zhydrac  
+[**Less Generic Bloodmoon**](https://www.nexusmods.com/morrowind/mods/23346) by Ostar  
 
 # New Quests, Vanilla Npcs
 [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
