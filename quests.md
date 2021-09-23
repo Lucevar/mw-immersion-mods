@@ -131,6 +131,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Thus Spoke the Sixth House**](https://www.nexusmods.com/morrowind/mods/46892) by Pipe Smoking Rabbit  
 [**Apotheosis Reborn**](https://www.nexusmods.com/morrowind/mods/43747) by MrFahrenheit247  
 [**The Reclamation of Hasimminus Mine**](https://www.nexusmods.com/morrowind/mods/46095) by Team Nordic Chefs  
+[**Dagoth's Chosen**](https://www.nexusmods.com/morrowind/mods/31429) by Von Djangos  
 
 ### Post Main Quest Mods
 [**Vivec's Fate: The Ashlander Heresy**](http://mw.modhistory.com/download-53-10736) by Brother Juniper  
@@ -161,6 +162,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Blades Quest: Prophecy of the Lost Heir**](http://lovkullen.net/Emma/blade.htm) by Emma  
 [**Blades of Vvardenfell**](https://www.nexusmods.com/morrowind/mods/44551) by Febbles  
 [**Deserter Legionaries**](https://www.nexusmods.com/morrowind/mods/8715) by somesz  
+[**Malinde Hilan**](https://www.nexusmods.com/morrowind/mods/36891) by kllsnke  
 
 ### Camonna Tong
 [**Strike at the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/46865) by ProfArmitage  
@@ -236,6 +238,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**The Tragedy of Dahrk Mezalf the Wise**](https://www.nexusmods.com/morrowind/mods/47235) by Team Suran Suran  
 [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by Melchior Dahrk  
 [**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
+[**TGD03 The Lizard's Head**](https://www.nexusmods.com/morrowind/mods/39748) by DebiDalio  
 
 ### Imperial Cult
 [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
@@ -285,6 +288,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Even Seedier Eight Plates**](https://www.nexusmods.com/morrowind/mods/49236) by Lucevar  
 [**Thieves Guild Regained Trust**](https://www.nexusmods.com/morrowind/mods/45211) by ProfArmitage  
 [**South Wall, Den of Iniquity**](https://www.nexusmods.com/morrowind/mods/49950) by Balasthustrius  
+[**Thief Quests**](https://www.nexusmods.com/morrowind/mods/507) by ?  
 [**Thieves Guild Overhaul**](https://www.nexusmods.com/morrowind/mods/49944) by Alice contains:  
 * [**Thieves Guild in Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/46754) by Alice  
 * [**Bal Molagmer Add-on**](https://www.nexusmods.com/morrowind/mods/48198) by Alice  
@@ -298,6 +302,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Elisamsi Follower**](https://www.nexusmods.com/morrowind/mods/49326) by Alice  
 [**The Pyres of Purification**](https://www.nexusmods.com/morrowind/mods/49320) by Alice  
 [**Oath to St Roris Instead**](https://www.nexusmods.com/morrowind/mods/47339) by Alice  
+[**The Manifold Spires**](https://www.nexusmods.com/morrowind/mods/46128) by Team Drama Kwama  
 
 ### Twin Lamps
 [**Twin Lamps and Slavehunters -- Cleaned and Edited**](https://www.nexusmods.com/morrowind/mods/47420) by Nevena and l1lartur0  
@@ -306,6 +311,8 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 ### Vampire Clans
 [**Quests for CLans and Vampire Legends (QCVL)**](https://www.nexusmods.com/morrowind/mods/49486) by SpiritTauren  
 [**Bloodlines**](https://www.nexusmods.com/morrowind/mods/12550) by Carnithus  
+[**The Mysterious Hunter**](https://www.nexusmods.com/morrowind/mods/44336) by Enclavekiller  
+[**Berne Quests**](https://www.nexusmods.com/morrowind/mods/42279) by Sladle  
 
 # Tribunal Quests
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588) by Half11  
@@ -317,6 +324,8 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Our Lady's Solace**](https://www.nexusmods.com/morrowind/mods/43501) by Saffral Sandor  
 [**Sotha Sil Expanded**](https://www.nexusmods.com/morrowind/mods/42347) by Trainwiz  
 [**Sotha Sil Expanded Retracted**](https://www.nexusmods.com/morrowind/mods/45756) by mort  
+[**Plaza Brindisi Fix**](https://www.nexusmods.com/morrowind/mods/46897) by Pinsvinnn   
+[**PJK's Royal Guard Shield**](https://www.nexusmods.com/morrowind/mods/43304) by PJK  
 
 # Solstheim Quests
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588) by Half11  
@@ -331,6 +340,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Ashes and Ice**](https://www.nexusmods.com/morrowind/mods/45250) by Team Mythical Beasts  
 [**The Great Tribe of the Bear**](https://www.nexusmods.com/morrowind/mods/42086) by Slaanesh the Corruptor  
 [**Blackthorn Barrow**](https://www.nexusmods.com/morrowind/mods/45280) by Corsair  
+[**From Ash to Frost**](https://www.nexusmods.com/morrowind/mods/45254) by Team Horny Skulls  
 
 # New Quests, Vanilla Npcs
 [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
@@ -348,6 +358,8 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Smooth Mooves**](https://www.nexusmods.com/morrowind/mods/43909) by Curmudgeon  
 [**More Quests**](https://www.nexusmods.com/morrowind/mods/43963) by Sophie Kirschner  
 [**To Save A Falling Wizard**](https://www.nexusmods.com/morrowind/mods/45637) by Lady Phoenix Fire Rose  
+[**Reclaim Gnisis**](https://www.nexusmods.com/morrowind/mods/43971) by Alxemical  
+[**The Assassination**](https://www.nexusmods.com/morrowind/mods/47500) by Dagoth Slayer  
 
 # Totally New Quests
 ## New Factions
@@ -395,6 +407,8 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Vaermora - Walking Stance Hold of the Thrice-Dreamed**](https://www.nexusmods.com/morrowind/mods/46097) by Team Flying Guars  
 [**Lustidrike Companion Character**](https://www.nexusmods.com/morrowind/mods/44691) by TheDrunkenMudcrab  
 [**The Battle Rite of Mephala**](https://www.nexusmods.com/morrowind/mods/46123) by Team Nordic Chefs  
+[**Frozen in Time**](https://www.nexusmods.com/morrowind/mods/50077) by Billyfighter  
+[**The Ebony Blade**](https://www.nexusmods.com/morrowind/mods/47645) by Leyawynn  
 
 ## Other New Quests
 [**Facility 343**](https://www.nexusmods.com/morrowind/mods/46468)  
@@ -411,7 +425,6 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Invasion of Stormwatch**](https://www.nexusmods.com/morrowind/mods/49174) by Team Ancient Androids  
 [**Mudcrab Imports - Pirate Adventures**](https://www.nexusmods.com/morrowind/mods/49463) by BIllyfighter  
 [**Lost Redoran Relics**](https://www.nexusmods.com/morrowind/mods/49507) by Billyfighter  
-[**Frozen in Time**](https://www.nexusmods.com/morrowind/mods/50077) by Billyfighter  
 [**Redoran Heat - A Necromancer's Sorrow**](https://www.nexusmods.com/morrowind/mods/49505) by ZaMothman  
 [**The Redoran Bard**](https://www.nexusmods.com/morrowind/mods/49511) by RingComics  
 [**Cliff Racer Revenge**](https://www.nexusmods.com/morrowind/mods/49506) by Relinquished001  
@@ -480,3 +493,14 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**The Forgotten Legend - A Helm of Tohan Overhaul**](https://www.nexusmods.com/morrowind/mods/44673) by Team Cutie Kagouti  
 [**The Real Point Tavern**](https://www.nexusmods.com/morrowind/mods/8716) by somesz  
 [**The Longbow of the Elements**](https://www.nexusmods.com/morrowind/mods/8894) by The Munchkin Lord  
+[**The Mysterious Hunter**](https://www.nexusmods.com/morrowind/mods/44336) by Enclavekiller  
+[**Son of a Noble**](https://www.nexusmods.com/morrowind/mods/36621) by trebor44  
+[**Scourge of the Lich Father**](https://www.nexusmods.com/morrowind/mods/46384) by dt1000  
+[**Doom Door**](https://www.nexusmods.com/morrowind/mods/6040) by Oldie  
+[**The Wizard of Tel Branora - A Love Story**](https://www.nexusmods.com/morrowind/mods/45226) by Team Horny Skulls  
+[**Far From Home**](https://www.nexusmods.com/morrowind/mods/46860) by Pianobadger  
+[**Face of Despair**](https://www.nexusmods.com/morrowind/mods/46983) by ChemicalTaint  
+[**Balmora Market**](https://www.nexusmods.com/morrowind/mods/40402) by ivegotabettername  
+[**Abyssal Sands**](https://www.nexusmods.com/morrowind/mods/40421) by Lord Dagobert  
+[**Menace of the Deep**](https://www.nexusmods.com/morrowind/mods/42194) by bryman1970  
+[**Drink-Up Quest**](https://www.nexusmods.com/morrowind/mods/42475) by Andrew  
