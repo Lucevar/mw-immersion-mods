@@ -52,6 +52,7 @@ Removes level requirements for a number of quests.
 ### General
 [**Less Generic Nerevarine**](https://www.nexusmods.com/morrowind/mods/23335) by Ostar  
 [**Less Generic Nerevarine Sharn Quest Fix**](https://www.nexusmods.com/morrowind/mods/47149) by Necrolesian  
+[**Julan Ashlander Companion**](https://fallingawkwardly.com/) by Kateri  
 [**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Alice contains:  
 * [**Living With Caius**](https://www.nexusmods.com/morrowind/mods/47898) by OperatorJack  
 * [**Refuse the Main Quest**](https://www.nexusmods.com/morrowind/mods/44802) by Alice  
@@ -65,7 +66,6 @@ Removes level requirements for a number of quests.
 * [**Past Life Regressions**](https://www.nexusmods.com/morrowind/mods/49315) by Alice  
 * [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602) by Alice  
 * [**Vampire Nerevarine**](https://www.nexusmods.com/morrowind/mods/48290) by Alice  
-[**Julan Ashlander Companion**](https://fallingawkwardly.com/) by Kateri  
 
 ### Alternate Paths
 [**Vampire Nerevarine**](https://www.nexusmods.com/morrowind/mods/48290) by Alice  
