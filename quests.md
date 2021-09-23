@@ -183,6 +183,9 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Keep Gaea Artoria**](https://www.nexusmods.com/morrowind/mods/49533) by Stripes and Zhydrac  
 [**Less Generic Bloodmoon**](https://www.nexusmods.com/morrowind/mods/23346) by Ostar  
 
+## New Quests
+[**Hircine's Quest**](https://www.nexusmods.com/morrowind/mods/47651) by Danae & Alice  
+
 # New Quests, Vanilla Npcs
 [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
 [**Sorkvild the Raven (Evermore)**](https://www.nexusmods.com/morrowind/mods/46320?)
