@@ -41,6 +41,7 @@ Removes level requirements for a number of quests.
 [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
 [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335) by Alice  
 [**Sleepers Awake**](https://www.nexusmods.com/morrowind/mods/37208) by Von Djangos  
+[**Mamaea Awakened**](https://www.nexusmods.com/morrowind/mods/46096) by Team Flamboyant Armigers  
 
 Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/articles/blight.md) for further blight/disease mods that add to the menace.  
 
@@ -63,6 +64,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Exterminate All Brutes**](https://www.nexusmods.com/morrowind/mods/49322) by Alice  
 [**Epilogue - Sail to Akavir**](https://www.nexusmods.com/morrowind/mods/49811) by Alice  
 [**Invasion of Stormwatch**](https://www.nexusmods.com/morrowind/mods/49174) by Team Ancient Androids  
+[**The Resistable Rise of the Tribe Unmourned**](https://www.nexusmods.com/morrowind/mods/44604) by MSam  
 
 ### Confronting the Sixth House
 [**Thus Spoke the Sixth House**](https://www.nexusmods.com/morrowind/mods/46892) by Pipe Smoking Rabbit  
@@ -129,6 +131,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Building Up Uvirith's Legacy**](https://mw.modhistory.com/download-47-11851) by Acheron & Artimis Fowl  
 [**LGNPC Tel Uvirith**](http://lgnpc.org/downloads) by LGNPC Team  
 [**Tel Uvirith LITE**](https://www.nexusmods.com/morrowind/mods/45615) by mala  
+[**Rise of House Telvanni 2.0**](https://www.nexusmods.com/morrowind/mods/48225) by mort  
 
 ### Imperial Cult
 [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
@@ -141,7 +144,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 
 ### Mages Guild
 [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von Django  
-[**Dagon Fel Mages Guild**](https://www.nexusmods.com/morrowind/mods/44576/?)  
+[**Shal Overgrown**](https://www.nexusmods.com/morrowind/mods/47219) by Team Dandy Daedra  
 [**Ajira Deflowered**](https://www.nexusmods.com/morrowind/mods/47585) by Alice  
 [**Ajira's Alchemy Reports Randomized**](https://www.nexusmods.com/morrowind/mods/47550) by Danae and Merlord  
 [**Ajira's Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/34180) by DebiDalio  
@@ -192,7 +195,23 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**SV Justice in Seyda Neen**](https://www.nexusmods.com/morrowind/mods/49993) by Siralvek  
 
 # Totally New Quests
+## New Factions
+[**Rise of House Sadras**](https://www.nexusmods.com/morrowind/mods/45200) by RubberMan  
+[**Imperial Employment Agency, MD Edit**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk  
+[**Smuggler's Guild**](https://www.nexusmods.com/morrowind/mods/48926) by Ignatious9  
+[**Illuminated Order 2.0**](https://www.nexusmods.com/morrowind/mods/47414) by Mort  
+[**Suran Underworld 3**](https://www.nexusmods.com/morrowind/mods/40299) by Wolli  
+[**Bitter Coast Smugglers**](https://www.nexusmods.com/morrowind/mods/49810) by SamboJ  
+[**Immersive Madness**](https://www.nexusmods.com/morrowind/mods/44983) by rot  
 
+## Daedric Quests
+[**Vaermina's Quest - Dreams of the Escaped**](https://www.nexusmods.com/morrowind/mods/49172) by Team Tenacious Templars  
+[**Pimp My Shrine - Legend of Vernaccus**](https://www.nexusmods.com/morrowind/mods/49173) by Team Scuttling Scribs  
+[**Immersive Madness**](https://www.nexusmods.com/morrowind/mods/44983) by rot  
+[**Love in the time of Daedra**](https://www.nexusmods.com/morrowind/mods/43635) by HangHimHigher  
+[**The Forgotten**](https://www.nexusmods.com/morrowind/mods/45733) by Team Horny Skulls  
+
+## Other New Quests
 [**Facility 343**](https://www.nexusmods.com/morrowind/mods/46468)  
 [**Swamp Fever**](https://www.nexusmods.com/morrowind/mods/46640) by RubberMan  
 [**ABCs for Outlanders**](https://www.nexusmods.com/morrowind/mods/46692/) by Melchior Dahrk   
@@ -200,17 +219,11 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Bloodwind**](https://www.nexusmods.com/morrowind/mods/45344) by MatthewTheBagel  
 [**Moonlight on the River Odai**](https://www.nexusmods.com/morrowind/mods/46822) by MatthewTheBagel  
 [**Trouble at Sea**](http://mw.modhistory.com/download-53-12731) by Danjb  
-[**Imperial Employment Agency, MD Edit**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk  
 [**Black Tooth Pirates**](https://www.nexusmods.com/morrowind/mods/47014) by ChemicalTaint  
-[**Illuminated Order 2.0**](https://www.nexusmods.com/morrowind/mods/47414) by Mort  
 [**Fetchers of Morrowind**](https://www.nexusmods.com/morrowind/mods/47417) by dmbaturin  
 [**Ancient Foes**](https://www.nexusmods.com/morrowind/mods/44705?tab=files) by Darkelfguy  
-[**Smuggler's Guild**](https://www.nexusmods.com/morrowind/mods/48926) by Ignatious9  
 [**SV - Terrors of the Night**](https://www.nexusmods.com/morrowind/mods/49160) by Siralvek  
-[**Vaermina's Quest - Dreams of the Escaped**](https://www.nexusmods.com/morrowind/mods/49172) by Team Tenacious Templars  
-[**Pimp My Shrine - Legend of Vernaccus**](https://www.nexusmods.com/morrowind/mods/49173) by Team Scuttling Scribs  
 [**Invasion of Stormwatch**](https://www.nexusmods.com/morrowind/mods/49174) by Team Ancient Androids  
-[**Suran Underworld 3**](https://www.nexusmods.com/morrowind/mods/40299) by Wolli  
 [**Mudcrab Imports - Pirate Adventures**](https://www.nexusmods.com/morrowind/mods/49463) by BIllyfighter  
 [**Lost Redoran Relics**](https://www.nexusmods.com/morrowind/mods/49507) by Billyfighter  
 [**Frozen in Time**](https://www.nexusmods.com/morrowind/mods/50077) by Billyfighter  
@@ -221,7 +234,6 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Secrets of Vos**](https://www.nexusmods.com/morrowind/mods/49736) by CCM  
 [**The Weary Vampire**](https://www.nexusmods.com/morrowind/mods/49774) by Operator Jack  
 [**Supply Chain**](https://www.nexusmods.com/morrowind/mods/49802) by Denina  
-[**Bitter Coast Smugglers**](https://www.nexusmods.com/morrowind/mods/49810) by SamboJ  
 [**The Great Wizard Fantasco**](https://www.nexusmods.com/morrowind/mods/49833) by DasOmega  
 [**QMS - Fallacy of Justice**](https://www.nexusmods.com/morrowind/mods/49894) by EnclaveKiller  
 [**CCM Guard Patrols and Quests**](https://www.nexusmods.com/morrowind/mods/49899) by CCM  
@@ -229,3 +241,4 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916) by seelof  
 [**Ambient Percussion**](https://www.nexusmods.com/morrowind/mods/49998) by Elminster  
 [**The Telvanni Ward Keepers**](https://www.nexusmods.com/morrowind/mods/50078) by Markond  
+[**Ebonheart Underworks**](https://www.nexusmods.com/morrowind/mods/47272) by Team Dandy Daedra  
