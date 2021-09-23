@@ -569,6 +569,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Expedition to Mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by Melchior Dahrk, TheDrunkenMudcrab, Greatness7  
 [**Face of the Hortator**](https://www.nexusmods.com/morrowind/mods/42928) by Infragris  
 [**Hashur - Smuggler's Cave**](https://www.nexusmods.com/morrowind/mods/50260) by PF Cacklefanny  
+[**Silent Island**](https://www.nexusmods.com/morrowind/mods/50274) by Billyfighter  
 
 # Province Mods
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Tamriel Rebuilt and Project Tamriel  
