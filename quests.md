@@ -17,11 +17,9 @@ Removes level requirements for a number of quests.
 [**Courtesy**](https://www.nexusmods.com/morrowind/mods/46781) by chantox  
 [**Go away move along**](https://www.nexusmods.com/morrowind/mods/46797) by l1lartur0  
 [**Django's Dialogue**](https://www.nexusmods.com/morrowind/mods/47253) by von Djangos  
-[**Drakes Pride Refusal**](https://www.nexusmods.com/morrowind/mods/46894) by chryssvoler  
 [**Non-Legion Dandsa Rescue Fix**](https://www.nexusmods.com/morrowind/mods/46927) by chryssvoler  
 [**Kurapli Seeks Justice**](https://www.nexusmods.com/morrowind/mods/48697) by Stripes  
 [**Of Pillows and Peril**](https://www.nexusmods.com/morrowind/mods/49491) by Remirso   
-[**Old Blue Fin**](https://www.nexusmods.com/morrowind/mods/49503) by Leyawynn  
 [**Relevant Rumors**](https://www.nexusmods.com/morrowind/mods/49650) by Elanhant  
 [**Even More Mysterious Killings in Vivec**](https://www.nexusmods.com/morrowind/mods/49661) by Endoran  
 [**Freelancer**](https://www.nexusmods.com/morrowind/mods/49896) by Tomas  
@@ -31,22 +29,28 @@ Removes level requirements for a number of quests.
 [**Silt Strider Courier**](https://www.nexusmods.com/morrowind/mods/48262?tab=description) by Alice and Lucevar  
 
 ## Main Quest Mods
-[**Main Quest Enhancers**](https://www.nexusmods.com/morrowind/mods/41337) by Trainwiz  
-[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Alice  
-[**Past Life Regressions**](https://www.nexusmods.com/morrowind/mods/49315) by Alice  
-[**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602/) by Alice  
-[**War Leader Nerevar**](https://www.nexusmods.com/morrowind/mods/49554) by Billyfighter  
-[**Temple Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528) by rumeely  
-[**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
-[**Escort Caius**](https://www.nexusmods.com/morrowind/mods/49691) by Zaria  
-[**Andrano Ancestral Tomb Remastered**](https://www.nexusmods.com/morrowind/mods/44672) by Team Wretched Netch  
-[**Consequences for Looting the Andrano Tomb**](https://www.nexusmods.com/morrowind/mods/49728) by Alice  
-[**Joinable Sixth House - So To Speak**](https://www.nexusmods.com/morrowind/mods/49778) by Alice  
+### Atmosphere
 [**Sixth House Smugglers**](https://www.nexusmods.com/morrowind/mods/47602) by Alice  
 [**MTR Dwemer Puzzle Box Randomizer**](https://www.nexusmods.com/morrowind/mods/49781) by MTR  
 [**Cure all the Kwama Queens**](https://www.nexusmods.com/morrowind/mods/49879) by Alice  
+[**Main Quest Enhancers**](https://www.nexusmods.com/morrowind/mods/41337) by Trainwiz  
+[**Past Life Regressions**](https://www.nexusmods.com/morrowind/mods/49315) by Alice  
+[**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
+[**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335) by Alice  
+[**Sleepers Awake**](https://www.nexusmods.com/morrowind/mods/37208) by Von Djangos  
 
-## Post Main Quest Mods
+### Caius
+[**Andrano Ancestral Tomb Remastered**](https://www.nexusmods.com/morrowind/mods/44672) by Team Wretched Netch  
+[**Consequences for Looting the Andrano Tomb**](https://www.nexusmods.com/morrowind/mods/49728) by Alice  
+[**Escort Caius**](https://www.nexusmods.com/morrowind/mods/49691) by Zaria  
+[**Caius Romance**](https://mw.modhistory.com/download-90-7208) by Princess Stomper  
+
+### Nerevarine-Hortator
+[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Alice  
+[**War Leader Nerevar**](https://www.nexusmods.com/morrowind/mods/49554) by Billyfighter  
+[**Temple Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528) by rumeely  
+
+### Post Main Quest Mods
 [**Vivec's Fate: The Ashlander Heresy**](http://mw.modhistory.com/download-53-10736) by Brother Juniper  
 [**After the Blight**](https://www.nexusmods.com/morrowind/mods/46099) by Team Purist Pariahs  
 [**The Rise of the Tribe Unmourned**](https://www.nexusmods.com/morrowind/mods/45165) by Caeris  
@@ -54,6 +58,14 @@ Removes level requirements for a number of quests.
 [**Exterminate All Brutes**](https://www.nexusmods.com/morrowind/mods/49322) by Alice  
 [**Epilogue - Sail to Akavir**](https://www.nexusmods.com/morrowind/mods/49811) by Alice  
 [**Invasion of Stormwatch**](https://www.nexusmods.com/morrowind/mods/49174) by Team Ancient Androids  
+
+### Confronting the Sixth House
+[**Thus Spoke the Sixth House**](https://www.nexusmods.com/morrowind/mods/46892) by Pipe Smoking Rabbit  
+
+### Joinable Sixth House
+[**Joinable Sixth House - So To Speak**](https://www.nexusmods.com/morrowind/mods/49778) by Alice  
+[**Great House Dagoth**](https://www.nexusmods.com/morrowind/mods/48200) by The Mad God  
+[**Endrek's Sixth House**](https://www.nexusmods.com/morrowind/mods/49438) by Endrek  
 
 ## Vanilla Factions
 
@@ -78,10 +90,13 @@ Removes level requirements for a number of quests.
 [**Guard Sarethi Manor Add-on - Morag Tong Hit Squad**](https://www.nexusmods.com/morrowind/mods/49343) by Sigourn  
 [**Redoran Founder's Helm Add-on - Arena Duel**](https://www.nexusmods.com/morrowind/mods/49342) by Sigourn  
 [**Redoran Archmaster's Perks**](https://www.nexusmods.com/morrowind/mods/49519) by Mort  
+[**Old Blue Fin**](https://www.nexusmods.com/morrowind/mods/49503) by Leyawynn  
 
 ### House Telvanni
 [**Therana vs Trerayna**](https://www.nexusmods.com/morrowind/mods/49332) by Alice  
 [**Immersive Neloth Reward**](https://www.nexusmods.com/morrowind/mods/49836) by Alice  
+[**Drakes Pride Refusal**](https://www.nexusmods.com/morrowind/mods/46894) by chryssvoler  
+
 
 ### Thieves Guild
 [**South Wall, Den of Iniquity**](https://www.nexusmods.com/morrowind/mods/49950) by Balasthustrius  
