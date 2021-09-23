@@ -164,6 +164,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 
 ### Twin Lamps
 [**Twin Lamps and Slavehunters -- Cleaned and Edited**](https://www.nexusmods.com/morrowind/mods/47420) by Nevena and l1lartur0  
+[**Brother Juniper's Twin Lamps**](https://mw.modhistory.com/download-53-7283) by Brother Juniper  
 
 ### Vampire Clans
 [**Quests for CLans and Vampire Legends (QCVL)**](https://www.nexusmods.com/morrowind/mods/49486) by SpiritTauren  
