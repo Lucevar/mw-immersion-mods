@@ -46,7 +46,7 @@ Removes level requirements for a number of quests.
 * [**Pacifist Options - Where They Make Sense**](https://www.nexusmods.com/morrowind/mods/47961) by Alice  
 * [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
 * [**Harvest's End Festival**](https://www.nexusmods.com/morrowind/mods/49834) by Alice  
-* [**Fargoth in Distress**]() by Alice  
+* [**Fargoth in Distress**](https://www.nexusmods.com/morrowind/mods/45752) by Alice  
 
 ## Main Quest Mods
 ### General
@@ -219,6 +219,8 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 ### Imperial Legion
 [**Courtesy**](https://www.nexusmods.com/morrowind/mods/46781) by chantox  
 [**Imperial Legion Expansion**](https://www.nexusmods.com/morrowind/mods/44469) by Alice  
+[**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Alice  
+[**Gnisis Docks**](https://www.nexusmods.com/morrowind/mods/45994) by Alice  
 
 #### Talos Cult
 [**The Talos Cult Conspiracy**](https://www.nexusmods.com/morrowind/mods/47576) by Alice and Caeris  
@@ -306,7 +308,12 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Bitter Coast Smugglers**](https://www.nexusmods.com/morrowind/mods/49810) by SamboJ  
 [**Immersive Madness**](https://www.nexusmods.com/morrowind/mods/44983) by rot  
 [**Hlormaren Reclaimed - Slightly Improved**](https://www.nexusmods.com/morrowind/mods/47301) by Alice  
-
+[**Imperial Noble Titles**](https://www.nexusmods.com/morrowind/mods/44809) by Alice  
+[**The Fires of Orc**](https://www.nexusmods.com/morrowind/mods/44982) by Alice  
+[**Liberate Morrowind - Chapter One**](https://www.nexusmods.com/morrowind/mods/45658) by Alice  
+[**Guild of Vampire Hunters**](https://www.nexusmods.com/morrowind/mods/45832) by Alice  
+[**Guild of Vampire Hunters - Lucevar Edit**](https://www.nexusmods.com/morrowind/mods/47224) by Alice and Lucevar  
+[**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by Alice  
 
 ## Daedric Quests
 [**Vaermina's Quest - Dreams of the Escaped**](https://www.nexusmods.com/morrowind/mods/49172) by Team Tenacious Templars  
@@ -353,3 +360,5 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Pillow Mage Manor**](https://www.nexusmods.com/morrowind/mods/46864) by Stuporstar and Denina  
 [**The Bounty Hunter Bundle**](https://www.nexusmods.com/morrowind/mods/46928) by Alice  
 [**Nerevarine Unchained**](https://www.nexusmods.com/morrowind/mods/46930) by Alice  
+[**Long Live the King - Queen - Monarch**](https://www.nexusmods.com/morrowind/mods/45555) by Alice  
+[**The Tempest**](https://www.nexusmods.com/morrowind/mods/46260) by Team Purist Pariahs  
