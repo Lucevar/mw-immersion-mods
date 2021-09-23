@@ -25,6 +25,7 @@ Removes level requirements for a number of quests.
 [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962) by Alxemical  
 [**Quests for Faction Leaders**](https://www.nexusmods.com/morrowind/mods/47670) by Leyawynn  
 [**FMI - Alice's Package**](https://www.nexusmods.com/morrowind/mods/48003) by Alice  
+[**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612) by Pikachuno  
 [**Sexual Harassment Remover**](https://www.nexusmods.com/morrowind/mods/48541) by JaceyS  
 [**Girith's Guar Hides**](https://www.nexusmods.com/morrowind/mods/48706) by Melchior Dahrk  
 [**Quest Rank Requirements**](https://www.nexusmods.com/morrowind/mods/47994) by Pianobadger  
@@ -125,6 +126,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**War Leader Nerevar**](https://www.nexusmods.com/morrowind/mods/49554) by Billyfighter  
 [**Tureynulal and Endusal Redone**](https://www.nexusmods.com/morrowind/mods/43399) by Trainwiz   
 [**Thus Spoke the Sixth House**](https://www.nexusmods.com/morrowind/mods/46892) by Pipe Smoking Rabbit  
+[**Apotheosis Reborn**](https://www.nexusmods.com/morrowind/mods/43747) by MrFahrenheit247  
 
 ### Post Main Quest Mods
 [**Vivec's Fate: The Ashlander Heresy**](http://mw.modhistory.com/download-53-10736) by Brother Juniper  
@@ -165,6 +167,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 #### Joinable Dark Brotherhood 
 [**Join the Dark Brotherhood**](https://www.nexusmods.com/morrowind/mods/48858) by DD4N  
 [**To Serve Sithis**](https://www.nexusmods.com/morrowind/mods/45005) by Emryn  
+[**Vvardenfell Brotherhood**](https://www.nexusmods.com/morrowind/mods/47314) by Caeris  
 [**Vvardenfell and Dark Brotherhood Crossover**](https://www.nexusmods.com/morrowind/mods/48874) by Zelazko  
 
 #### Delay the Attacks
@@ -270,6 +273,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Morag Tong Polished**](https://www.nexusmods.com/morrowind/mods/47041) by Caeris  
 [**Morag Tong Writ Fix**](https://www.nexusmods.com/morrowind/mods/47788) by Lurlock  
 [**Vegtabill's Threads of the Webspinner**](https://www.nexusmods.com/morrowind/mods/43893) by Vegtabill  
+[**Threads of the Webspinner Completed**](https://www.nexusmods.com/morrowind/mods/43905) by Curmudgeon  
 
 ### Thieves Guild
 [**What Thieves Guild**](https://www.nexusmods.com/morrowind/mods/47728) by Von Djangos  
@@ -305,6 +309,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Mournhold Courtiers**](https://www.nexusmods.com/morrowind/mods/44874) by TaiyakaJade  
 [**Mournhold Courtiers - Mournhold Palace Revamped Compatible**](https://www.nexusmods.com/morrowind/mods/47737) by Alice & TaiyakaJade  
 [**Champion of Clutter**](https://www.nexusmods.com/morrowind/mods/47377) by Alice  
+[**Our Lady's Solace**](https://www.nexusmods.com/morrowind/mods/43501) by Saffral Sandor  
 
 # Solstheim Quests
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588) by Half11  
@@ -317,6 +322,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Hircine's Quest**](https://www.nexusmods.com/morrowind/mods/47651) by Danae & Alice  
 [**Jarl of Solstheim**](https://www.nexusmods.com/morrowind/mods/47016) by Alice  
 [**Ashes and Ice**](https://www.nexusmods.com/morrowind/mods/45250) by Team Mythical Beasts  
+[**The Great Tribe of the Bear**](https://www.nexusmods.com/morrowind/mods/42086) by Slaanesh the Corruptor  
 
 # New Quests, Vanilla Npcs
 [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
@@ -441,3 +447,8 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Morrowind Quest of the Week**](https://www.nexusmods.com/morrowind/mods/33091) by LegoManIAm94  
 [**Ancient Foes**](https://www.nexusmods.com/morrowind/mods/44705) by Darkelfguy  
 [**Radiant Quests of Morrowind**](https://www.nexusmods.com/morrowind/mods/46451) by TheWanderRA 
+[**Ules Farm**](https://www.nexusmods.com/morrowind/mods/43312) by Crankgorilla  
+[**Imperials Go Home**](https://www.nexusmods.com/morrowind/mods/44984) by Rats  
+[**Legend of Chemua**](https://www.nexusmods.com/morrowind/mods/45253) by TheDrunkenMudcrab, Greatness7, MementoMoritius, Melchior Dahrk  
+[**Apothecary's Demise**](https://www.nexusmods.com/morrowind/mods/44331) by MattTheBagel  
+[**Moonspawn**](https://www.nexusmods.com/morrowind/mods/205) by ?  
