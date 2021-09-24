@@ -570,6 +570,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Face of the Hortator**](https://www.nexusmods.com/morrowind/mods/42928) by Infragris  
 [**Hashur - Smuggler's Cave**](https://www.nexusmods.com/morrowind/mods/50260) by PF Cacklefanny  
 [**Silent Island**](https://www.nexusmods.com/morrowind/mods/50274) by Billyfighter  
+[**Urban JRPG Project Intro in Seyda Neen**](https://www.nexusmods.com/morrowind/mods/50025) by Booskas Wrath  
 
 # Province Mods
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Tamriel Rebuilt and Project Tamriel  
