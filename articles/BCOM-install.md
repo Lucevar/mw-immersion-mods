@@ -105,7 +105,7 @@ Patches - install after you've downloaded and installed everything
 
 ### Pelagiad
 * [**Carefully Cluttered Cosy Cat Condo**](https://www.nexusmods.com/morrowind/mods/50275) by Juidius Xentao  
-**Note**: Strictly speaking, NOT compatible with BCOM. Run this tes3cmd command to delete BCOM's version of Ahnassi's house so you can use this cluttermonkey's paradise instead.
+**Note**: Strictly speaking, NOT compatible with BCOM. Run this tes3cmd command to delete BCOM's version of Ahnassi's house so you can use this cluttermonkey's paradise instead.  
 *tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --exact-id "Pelagiad, Ahnassi's House" "Beautiful cities of Morrowind.ESP"*
 
 
