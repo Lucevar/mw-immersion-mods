@@ -282,4 +282,7 @@ City of light, city of magic!
 ## Caldera 
 * [**Master Index Redux**](https://www.nexusmods.com/morrowind/mods/48977) by Endoran  
 * [**Big Imperial Halls - Governor's Mansion**](https://www.nexusmods.com/morrowind/mods/47533) by Zobator  
+**Note**: Incompatible with some other mods on this list. Use these tes3cmd commands to fix:  
+*tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --exact-id "Caldera, Governor's Hall" "Correspondances_of_Morrowind.esp"  *
+*tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --exact-id "Caldera, Governor's Hall" "Animated_Morrowind - merged.esp"  *
 * [**Caldera Windmills**](https://mw.modhistory.com/download-80-6218) by Ayse  
