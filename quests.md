@@ -15,7 +15,7 @@ Removes level requirements for a number of quests.
 [**Django's Dialogue**](https://www.nexusmods.com/morrowind/mods/47253) by von Djangos  
 [**Non-Legion Dandsa Rescue Fix**](https://www.nexusmods.com/morrowind/mods/46927) by chryssvoler  
 [**Kurapli Seeks Justice**](https://www.nexusmods.com/morrowind/mods/48697) by Stripes  
-[**Of Pillows and Peril**](https://www.nexusmods.com/morrowind/mods/49491) by Remirso   
+[**Of Pillows and Peril**](https://www.nexusmods.com/morrowind/mods/49491) by Remiros   
 [**Relevant Rumors**](https://www.nexusmods.com/morrowind/mods/49650) by Elanhant  
 [**Even More Mysterious Killings in Vivec**](https://www.nexusmods.com/morrowind/mods/49661) by Endoran  
 [**Freelancer**](https://www.nexusmods.com/morrowind/mods/49896) by Tomas  
