@@ -39,6 +39,7 @@ See [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/cha
 [**Drinks at Desele's**](https://calezane.home.xs4all.nl/mw/mwmods.htm) by Calezane  
 [**Errands for Orvas**](https://calezane.home.xs4all.nl/mw/mwmods.htm) by Calezane  
 [**Skoomaesthesia**](https://www.nexusmods.com/morrowind/mods/49920) by Merlord and XeroFoxx  
+[**Skooma Duration Increased**](https://www.nexusmods.com/morrowind/mods/50276) by EldritchMind  
 
 # Alcohol
 * [**The Brew Master**](https://www.nexusmods.com/morrowind/mods/45472) by Merlord  
