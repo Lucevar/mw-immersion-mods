@@ -345,3 +345,5 @@ Installed after new game started:
 288. [**Mass Cure**](https://www.nexusmods.com/morrowind/mods/49615) by Danae  
 289. [**Imperial Altar in Vivec**](https://www.nexusmods.com/morrowind/mods/50273) by Tyermala  
 290. [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) by Half11  
+291. [**Carefully Cluttered Cosy Cat Condo**](https://www.nexusmods.com/morrowind/mods/50275) by Juidius Xentao  
+292. [**Skooma Duration Increased**](https://www.nexusmods.com/morrowind/mods/50276) by EldritchMind
