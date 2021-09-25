@@ -286,3 +286,21 @@ City of light, city of magic!
 *tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --exact-id "Caldera, Governor's Hall" "Correspondances_of_Morrowind.esp"*  
 *tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --exact-id "Caldera, Governor's Hall" "Animated_Morrowind - merged.esp"*  
 * [**Caldera Windmills**](https://mw.modhistory.com/download-80-6218) by Ayse  
+
+# Compatibility and Load Order:
+
+Create a .bat file with the following commands to resolve some conflicts:
+
+`tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --exact-id "Pelagiad, Ahnassi's House" "Beautiful cities of Morrowind.ESP"
+tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --exact-id "Ebonheart, Six Fishes" "Beautiful cities of Morrowind.ESP"
+tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --exact-id "Caldera, Governor's Hall" "Correspondances_of_Morrowind.esp"
+tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --exact-id "Caldera, Governor's Hall" "Animated_Morrowind - merged.esp"
+pause`
+
+## Stonewood Pass + Caldera Mine Expanded + BCOM + Foyada Mamaea Overhaul 
+1. DD_Caldera_Expansion.esp  
+2. Foyada Mamaea Overhaul.ESP  
+3. Better Landscapes Stonewood Pass (RP Edit).esp  
+4. Beautiful cities of Morrowind.ESP  
+5. SWP - Foyada Mamaea Overhaul Patch.ESP  
+6. SWP - Caldera Mine Patch.ESP  
