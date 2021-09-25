@@ -291,11 +291,11 @@ City of light, city of magic!
 
 Create a .bat file with the following commands to resolve some conflicts:
 
-`tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --exact-id "Pelagiad, Ahnassi's House" "Beautiful cities of Morrowind.ESP"
-tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --exact-id "Ebonheart, Six Fishes" "Beautiful cities of Morrowind.ESP"
-tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --exact-id "Caldera, Governor's Hall" "Correspondances_of_Morrowind.esp"
-tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --exact-id "Caldera, Governor's Hall" "Animated_Morrowind - merged.esp"
-pause`
+`tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --exact-id "Pelagiad, Ahnassi's House" "Beautiful cities of Morrowind.ESP"  
+tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --exact-id "Ebonheart, Six Fishes" "Beautiful cities of Morrowind.ESP"  
+tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --exact-id "Caldera, Governor's Hall" "Correspondances_of_Morrowind.esp"  
+tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --exact-id "Caldera, Governor's Hall" "Animated_Morrowind - merged.esp"  
+pause`  
 
 ## Stonewood Pass + Caldera Mine Expanded + BCOM + Foyada Mamaea Overhaul 
 1. DD_Caldera_Expansion.esp  
