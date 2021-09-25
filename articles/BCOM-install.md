@@ -103,6 +103,12 @@ Patches - install after you've downloaded and installed everything
 * [**Big Imperial Halls - Ebonheart Castle**](https://www.nexusmods.com/morrowind/mods/47533) by Zobator  
 * [**Ebonheart Underworks**](https://www.nexusmods.com/morrowind/mods/47272) by Team Dandy Daedra  
 
+### Pelagiad
+* [**Carefully Cluttered Cosy Cat Condo**](https://www.nexusmods.com/morrowind/mods/50275) by Juidius Xentao  
+**Note**: Strictly speaking, NOT compatible with BCOM. Run this tes3cmd command to delete BCOM's version of Ahnassi's house so you can use this cluttermonkey's paradise instead.
+*tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --exact-id "Pelagiad, Ahnassi's House" "Beautiful cities of Morrowind.ESP"*
+
+
 ### Vivec
 * [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812) by aralin  
 * [**Palace of Vehk**](https://www.nexusmods.com/morrowind/mods/46800) by Enclavekiller  
