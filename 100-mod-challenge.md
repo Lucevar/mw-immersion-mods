@@ -347,3 +347,6 @@ Installed after new game started:
 290. [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) by Half11  
 291. [**Carefully Cluttered Cosy Cat Condo**](https://www.nexusmods.com/morrowind/mods/50275) by Juidius Xentao  
 292. [**Skooma Duration Increased**](https://www.nexusmods.com/morrowind/mods/50276) by EldritchMind
+293. [**Perfect Placement**](https://www.nexusmods.com/morrowind/mods/46562) by Hrnchamd  
+294. [**Customizable MWSE Multi Mark and Harder Recall**](https://www.nexusmods.com/morrowind/mods/47065) by Virnetch  
+295. [**Enchanted Library**](https://www.nexusmods.com/morrowind/mods/48776) by revenorror  
