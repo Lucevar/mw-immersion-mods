@@ -15,7 +15,8 @@ Changes the effects of Blight Diseases to make them more interesting and unique,
 
 ## More Dangerous (and atmospheric) Blight Storms
 - [**Blighted Blight**](https://www.nexusmods.com/morrowind/mods/48631) by Necrolesian  
-A MWSE-lua implementation of Half11's [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558). Travelling in a blight storm now carries a risk of infection. Because it's implemented in lua, it will also take into account any mod-added blight diseases.
+A MWSE-lua implementation of Half11's [**Blight Storms Restored**](https://www.nexusmods.com/morrowind/mods/45558). Travelling in a blight storm now carries a risk of infection. Because it's implemented in lua, it will also take into account any mod-added blight diseases.  
+**Note**: Ashfall contains this functionality, so you shouldn't use both together.  
 - [**Diseases Restored**](https://www.nexusmods.com/morrowind/mods/45228) by Half11  
 Not blight related, but a close cousin: Creatures now carry a wider variety of diseases. These are diseases that were in the vanilla game but not assigned to creatures.  
 - [**Creeping Blight**](https://www.nexusmods.com/morrowind/mods/47904) by Necrolesian  
@@ -55,10 +56,15 @@ Some NPCs in ashstorm-prone towns (Ald-ruhn, Maar Gan, Molag Mar) will equip mas
 
 - [**Find Shelter MWSE**](https://www.nexusmods.com/morrowind/mods/48583) by Stripes  
 Resting outside is disabled in bad weather, further disincentivising travel.  
+ **Note**: Ashfall also provides this functionality.  
 - [**Improved Inns Expanded**](https://www.nexusmods.com/morrowind/mods/48610) by RandomPal  
 This mod merges Improved Inns and The Publicans as well as AST Arrille Attic, extends the Improved Inns functionality to TR inns, and adds compatibility with Entertainers Expanded/Entertainers Expanded Again. All the better to wait out the storms in!
+- [**Protective Helmets**](https://www.nexusmods.com/morrowind/mods/50280) by Virnetch  
+MWSE implementation of Half11/WanderRA's Protective Masks mods. Automatically adds resistances to diseases and poisons when wearing a closed helmet. The effects behave in the same way as a constant enchantment, but are added when equipping the item instead of editing the original object, thus being compatible with enchanted items.  
+**Note**: If you use OpenMW, use Protective Masks Redux instead.  
 - [**Protective Masks Redux**](https://www.nexusmods.com/morrowind/mods/47068) by Half11  
-Certain helmets have been added to leveled lists that will provide protection against blight and common diseases.   
+Certain helmets have been added to leveled lists that will provide protection against blight and common diseases.  
+**Note**: If you use MWSE, consider using Protective Helmets instead.  
 - [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335) by Alice  
 Asciene Rane will no longer allow you to travel to the mainland if you have a blight, common, or corprus disease. Go get cured before you spread your infection!  
 - [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
