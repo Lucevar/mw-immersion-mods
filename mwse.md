@@ -7,6 +7,13 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
+# New since September 18th
+[**Protective Helmets**](https://www.nexusmods.com/morrowind/mods/50280) by Virnetch  
+Automatically adds resistances to diseases and poisons when wearing a closed helmet. This is mostly to make traveling in a blight storm more immersive while wearing a helmet with a mod that adds a chance to catch the disease from the storms. Inspired by Protective Masks originally by WanderRA, and rereleased by Half11. The effects behave in the same way as a constant enchantment, but are added when equipping the item instead of editing the original object, thus being compatible with enchanted items.  
+
+[**Caius Rooftop Renovations**](https://www.nexusmods.com/morrowind/mods/50272) by Juidius Xentao  
+This mod adds a small apartment to the rooftop of Caius' house with a basement addon beneath the stairs containing ample storage. Within this mod is a MWSE file containing a LUA interop that adds a new tea to the critically acclaimed mod Ashfall. The tea is designed to be Caius' secret as to why he can hold his skooma so well.  
+
 # New since January 12th 2021 - September 18th 2021  
 [**Web Sweeper**](https://www.nexusmods.com/morrowind/mods/50004) by Stripes  
 This allows to you clean up the vanilla webs used in the game simply by attacking them with any physical attack within range, even ones added by mods as long as they are the vanilla webs. Adds Spider Silk ingredients to leveled list. Adds a broom as a weapon for immersion purposes. It can be purchased from Arille.
