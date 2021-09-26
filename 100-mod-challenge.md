@@ -351,3 +351,4 @@ Installed after new game started:
 294. [**Customizable MWSE Multi Mark and Harder Recall**](https://www.nexusmods.com/morrowind/mods/47065) by Virnetch  
 295. [**Enchanted Library**](https://www.nexusmods.com/morrowind/mods/48776) by revenorror  
 296. [**Protective Helmets**](https://www.nexusmods.com/morrowind/mods/50280) by Virnetch  
+297. [**Sensible Spear Tweaks and Addons**](https://www.nexusmods.com/morrowind/mods/50261) by iris  
