@@ -67,7 +67,7 @@
 
 ## Guards, Theft, Stolen Items
 [**Bounty Hunters 2.0**](https://www.nexusmods.com/morrowind/mods/43789/) by Daemonjax and Arcimaestro Antares  
-[**No-one is above the law**](https://www.nexusmods.com/morrowind/mods/46925/) by Gavrilo93 and RedFurryDemon  
+[**No-one is above the law**](https://www.nexusmods.com/morrowind/mods/46925/) by Alice and RedFurryDemon  
 [**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786) by Lucevar  
 [**Eclipse of the Crescent Blade**](https://www.nexusmods.com/morrowind/mods/47194) by Alice  
 [**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105/) by OperatorJack  
