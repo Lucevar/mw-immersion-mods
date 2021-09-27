@@ -263,6 +263,7 @@ Rubberman sharpen mod
 * [**Black Tooth Pirates**](https://www.nexusmods.com/morrowind/mods/47014) by ChemicalTaint  
 * [**Trouble at Sea**](http://mw.modhistory.com/download-53-12731) by Danjb  
 * [**Sea Dog Tavern**](https://www.nexusmods.com/morrowind/mods/49978) by Billyfighter  
+* [**Hooms Ahoy**](https://www.nexusmods.com/morrowind/mods/50281) by Hoogwauts  
 
 # Slave
 [**Slave Bracers Revamped**](https://www.nexusmods.com/morrowind/mods/32493) by xception  
