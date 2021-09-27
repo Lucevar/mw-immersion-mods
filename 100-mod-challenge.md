@@ -359,3 +359,4 @@ Installed after new game started:
 302. [**Give A Gift**](https://www.nexusmods.com/morrowind/mods/46661) by NullCascade  
 303. [**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril  
 304. [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066) by Anille  
+305. [**TriangleTooth's Missing Characters**](https://www.nexusmods.com/morrowind/mods/46234) by TriangleTooth  
