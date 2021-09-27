@@ -358,3 +358,4 @@ Installed after new game started:
 301. [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872) by Stripes  
 302. [**Give A Gift**](https://www.nexusmods.com/morrowind/mods/46661) by NullCascade  
 303. [**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril  
+304. [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066) by Anille  
