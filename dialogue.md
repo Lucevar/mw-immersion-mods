@@ -59,18 +59,19 @@
 [**Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by PoodleSandwich, Quorn, and Superquail  
 [**Drinks at Desele's**](https://calezane.home.xs4all.nl/mw/mwmods.htm) by Calezane  
 [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich  
+[**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
 
 ## Disease
-[**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335) by Gavrilo93  
+[**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335) by Alice  
 [**FMI - Disease Descriptions**](https://www.nexusmods.com/morrowind/mods/47331) by PoodleSandwich  
 
 ## Guards, Theft, Stolen Items
 [**Bounty Hunters 2.0**](https://www.nexusmods.com/morrowind/mods/43789/) by Daemonjax and Arcimaestro Antares  
 [**No-one is above the law**](https://www.nexusmods.com/morrowind/mods/46925/) by Gavrilo93 and RedFurryDemon  
 [**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786) by Lucevar  
-[**Eclipse of the Crescent Blade**](https://www.nexusmods.com/morrowind/mods/47194) by Gavrilo93  
+[**Eclipse of the Crescent Blade**](https://www.nexusmods.com/morrowind/mods/47194) by Alice  
 [**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105/) by OperatorJack  
-[**The Levitation Act**](https://www.nexusmods.com/morrowind/mods/47345) by OperatorJack and Gavrilo93  
+[**The Levitation Act**](https://www.nexusmods.com/morrowind/mods/47345) by OperatorJack and Alice  
 [**Manipulated**](https://www.nexusmods.com/morrowind/mods/47222) by Meta Barj0  
 
 ## Racism
@@ -89,13 +90,13 @@
 [**Donations to the Gods**](http://mw.modhistory.com/download-68-14336) by Slaanesh the Corruptor  
 [**Alms for Almsivi**](https://www.nexusmods.com/morrowind/mods/43853) by Zaarin  
 Covers the Imperial Cult too!  
-[**Communist Nerevarine**](https://www.nexusmods.com/morrowind/mods/46979) by Gavrilo93  
+[**Communist Nerevarine**](https://www.nexusmods.com/morrowind/mods/46979) by Alice  
 Donate money to the paupers of Vvardenfell and help them get back on their feet. 
 
 # NPC
 [**Caius Romance**](http://mw.modhistory.com/download-90-7208) by Princess Stomper  
 [**Burial of a Taxman**](https://www.nexusmods.com/morrowind/mods/43962) by Alxemical  
-[**Teach Nels Llendo a Lesson**](https://www.nexusmods.com/morrowind/mods/48589) by Gavrilo93  
+[**Teach Nels Llendo a Lesson**](https://www.nexusmods.com/morrowind/mods/48589) by Alice  
 [**Nels Llendo Has Standards**](https://www.nexusmods.com/morrowind/mods/48592) by R-zero  
 
 # Factions
