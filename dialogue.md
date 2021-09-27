@@ -44,6 +44,7 @@
 ## Greetings
 [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
 [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066) by Anille  
+[**Outfit Greetings Removed**](https://www.nexusmods.com/morrowind/mods/45560) by Mort  
 [**Naked Nerevarine**](http://mw.modhistory.com/download-21-7227) by Princess Stomper  
 [**Looks Good Naked**](https://calezane.home.xs4all.nl/mw/mwmods.htm) by Calezane  
 
