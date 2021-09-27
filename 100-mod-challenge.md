@@ -353,3 +353,7 @@ Installed after new game started:
 296. [**Protective Helmets**](https://www.nexusmods.com/morrowind/mods/50280) by Virnetch  
 297. [**Sensible Spear Tweaks and Addons**](https://www.nexusmods.com/morrowind/mods/50261) by iris  
 298. [**Finding the Erabenimsun (BCOM Edition)**](https://www.nexusmods.com/morrowind/mods/49227) by Markond  
+299. [**Visually Trapped Objects**](https://www.nexusmods.com/morrowind/mods/48936) by Anumaril  
+300. [**Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454) by Necrolesian  
+301. [**Hold Your Breath**](https://www.nexusmods.com/morrowind/mods/48872) by Stripes  
+302. [**Give A Gift**](https://www.nexusmods.com/morrowind/mods/46661) by NullCascade  
