@@ -212,6 +212,8 @@ Adds a number of roleplaying options to the main quest, including alternate path
 [**A Bard's Life 2**](https://www.nexusmods.com/morrowind/mods/44359) by Danae  
 Includes an inn you can buy.  
 [**Nimawia Pearl Farm**]()  
+[**Erengard Mines**](https://www.nexusmods.com/morrowind/mods/46877) by Graphite & Denina  
+[**PC Clothier Balmora**](https://www.nexusmods.com/morrowind/mods/47561) by AimeeKae & Zobator  
 
 # Necromancer
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
