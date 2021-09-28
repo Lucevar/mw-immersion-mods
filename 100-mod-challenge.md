@@ -360,3 +360,4 @@ Installed after new game started:
 303. [**Ashmire Replacer**](https://www.nexusmods.com/morrowind/mods/48291) by Anumaril  
 304. [**Outfit Greetings Tweaked**](https://www.nexusmods.com/morrowind/mods/46066) by Anille  
 305. [**TriangleTooth's Missing Characters**](https://www.nexusmods.com/morrowind/mods/46234) by TriangleTooth  
+306. [**Vivec Records Lore Friendly**](https://www.nexusmods.com/morrowind/mods/43033) by Ostar  
