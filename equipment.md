@@ -82,6 +82,7 @@ Duke's Silver Armor:
 [**Indy Gear**](https://www.nexusmods.com/morrowind/mods/50210) by Danae  
 [**Ergalla's Breton Armour**](https://www.nexusmods.com/morrowind/mods/50263) by MorrowGoblins  
 [**Dres Lizard Boots**](https://mw.modhistory.com/download-4-6506) by Ratfink333  
+[**Unique Robes**](https://www.nexusmods.com/morrowind/mods/50286) by dietbob196045  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
@@ -110,3 +111,4 @@ Duke's Silver Armor:
 [**Killing Spree Helluva Ways to Kill**](https://www.nexusmods.com/morrowind/mods/49668) by Danae  
 [**Tamrielic Tomahawks**](https://www.nexusmods.com/morrowind/mods/49720) by Stripes  
 [**Sensible Spear Tweaks and Additions**](https://www.nexusmods.com/morrowind/mods/50261) by iris  
+[**Spears Use Strength**](https://www.nexusmods.com/morrowind/mods/50288) by xxxninja666xxx   
