@@ -364,3 +364,4 @@ Installed after new game started:
 307. [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194) by Virnetch  
 308. [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
 309. [**GMST Menu**](https://www.nexusmods.com/morrowind/mods/46428) by Merlord  
+310. [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
