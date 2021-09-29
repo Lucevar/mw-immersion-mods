@@ -436,6 +436,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Frozen in Time**](https://www.nexusmods.com/morrowind/mods/50077) by Billyfighter  
 [**The Ebony Blade**](https://www.nexusmods.com/morrowind/mods/47645) by Leyawynn  
 [**Charm of Molag Bal**](https://www.nexusmods.com/morrowind/mods/47496) by Revya  
+[**The Wabbajack**](https://www.nexusmods.com/morrowind/mods/44653) by Team Wretched Netch  
 
 ## Other New Quests
 [**Facility 343**](https://www.nexusmods.com/morrowind/mods/46468)  
