@@ -209,6 +209,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Rethan Estate**](https://www.nexusmods.com/morrowind/mods/47422) by Qirin Domean  
 [**Rethan Redivivus**](https://www.nexusmods.com/morrowind/mods/49776) by Istreddify  
 [**Resplendant Rethan - Jewel of the Odai**](https://www.nexusmods.com/morrowind/mods/47281) by Team Azturnal  
+[**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by Necrolesian  
 
 ### House Redoran
 [**Guard Sarethi Manor Add-on - Morag Tong Hit Squad**](https://www.nexusmods.com/morrowind/mods/49343) by Sigourn  
@@ -221,6 +222,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Redoran Archmaster's Perks**](https://www.nexusmods.com/morrowind/mods/49519) by Mort  
 [**Olyn Hleran -- Redoran Companion**](https://www.nexusmods.com/morrowind/mods/45197) by Team Mythical Beast  
 [**Old Blue Fin**](https://www.nexusmods.com/morrowind/mods/49503) by Leyawynn  
+[**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by Necrolesian  
 [**LGNPC**](http://lgnpc.org/downloads) by LGNPC Team  
 * Pax Redoran
 * Ald-ruhn
@@ -245,6 +247,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by Melchior Dahrk  
 [**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
 [**TGD03 The Lizard's Head**](https://www.nexusmods.com/morrowind/mods/39748) by DebiDalio  
+[**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by Necrolesian  
 
 ### Imperial Cult
 [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
