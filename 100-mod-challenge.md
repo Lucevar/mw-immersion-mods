@@ -362,3 +362,4 @@ Installed after new game started:
 305. [**TriangleTooth's Missing Characters**](https://www.nexusmods.com/morrowind/mods/46234) by TriangleTooth  
 306. [**Vivec Records Lore Friendly**](https://www.nexusmods.com/morrowind/mods/43033) by Ostar  
 307. [**Enchanted Weapon Resistance**](https://www.nexusmods.com/morrowind/mods/50194) by Virnetch  
+308. [**Pluginless and Adjustable Lower First Person Sneak**](https://www.nexusmods.com/morrowind/mods/48642) by Celediel  
