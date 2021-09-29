@@ -36,6 +36,8 @@
 [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269) by Melchior Dahrk and quorn  
 [**More Argonian Hair**](https://www.nexusmods.com/morrowind/mods/43133) by Ashiraniir  
 [**Original Faces**](https://www.nexusmods.com/morrowind/mods/42189) by Arhiz  
+[**Hlaalu Nobles Facial Overhaul**](https://www.nexusmods.com/morrowind/mods/48916) by Leyawynn  
+[**Rogue's Gallery**](https://www.nexusmods.com/morrowind/mods/49874) by Von Djangos  
 [**Farmers and Miners**](https://www.nexusmods.com/morrowind/mods/43325) by Danae  
 [**Hold It**](https://www.nexusmods.com/morrowind/mods/43181) by Danae  
 [**Redoran Founder's Armor**](https://www.nexusmods.com/morrowind/mods/44860) by NaxoX9
@@ -69,6 +71,7 @@
 [**Starfire's NPCs**](http://mw.modhistory.com/download-90-13583) by Starfire  
 [**Friends and Foes**](https://www.nexusmods.com/morrowind/mods/49251) by Danae  
 [**Bandits**](https://www.nexusmods.com/morrowind/mods/50084) by RandomPal  
+[**The Nerfed Hostiles**](https://www.nexusmods.com/morrowind/mods/50287) by PolarDash and TrevorDemented  
 
 ## Specific NPCs
 [**Peaceful Qorwynn**](https://www.nexusmods.com/morrowind/mods/46759)  
@@ -80,10 +83,8 @@
 [**Drunk Fargoth**](https://www.nexusmods.com/morrowind/mods/45133) by The Doogster  
 [**Ooh You're Naked begone: Immersive Crassius Curio Greetings**](https://www.nexusmods.com/morrowind/mods/47284) by Lucevar  
 [**Hul, Stop**](https://www.nexusmods.com/morrowind/mods/47121) by PoodleSandwich  
-[**Hlaalu Nobles Facial Overhaul**](https://www.nexusmods.com/morrowind/mods/48916) by Leyawynn  
 [**Fancy Barenziah**](https://www.nexusmods.com/morrowind/mods/49009) by qwertyquit  
 [**Emerald Armor (Orvas Dren)**](https://www.nexusmods.com/morrowind/mods/49051) by Anroha  
-[**Rogue's Gallery**](https://www.nexusmods.com/morrowind/mods/49874) by Von Djangos  
 
 ### Sorkvild the Raven
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
