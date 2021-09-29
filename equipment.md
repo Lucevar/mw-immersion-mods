@@ -81,6 +81,7 @@ Duke's Silver Armor:
 [**Complete and Revised Nordic Iron Armor**](https://www.nexusmods.com/morrowind/mods/50166) by RuffinVangarr  
 [**Indy Gear**](https://www.nexusmods.com/morrowind/mods/50210) by Danae  
 [**Ergalla's Breton Armour**](https://www.nexusmods.com/morrowind/mods/50263) by MorrowGoblins  
+[**Dres Lizard Boots**](https://mw.modhistory.com/download-4-6506) by Ratfink333  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
