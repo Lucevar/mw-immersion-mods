@@ -96,6 +96,7 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
 [**Fighter's Guild Questline Overhaul**](https://www.nexusmods.com/morrowind/mods/48447) by Zelazko  
 [**Caldera - Fighters Guild**](https://www.nexusmods.com/morrowind/mods/47328) by Utseeva  
+[**More Inclusive Fighters Guild**](https://www.nexusmods.com/morrowind/mods/50284) by xxxninja666xxx
 
 ## Imperial Legion
 [**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Gavrilo93  
