@@ -312,6 +312,8 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**The Pyres of Purification**](https://www.nexusmods.com/morrowind/mods/49320) by Alice  
 [**Oath to St Roris Instead**](https://www.nexusmods.com/morrowind/mods/47339) by Alice  
 [**The Manifold Spires**](https://www.nexusmods.com/morrowind/mods/46128) by Team Drama Kwama  
+[**Sanctioned Indoril Armor**](https://www.nexusmods.com/morrowind/mods/49212) by akh  
+[**The Muck Shovel of Vivec**](https://mw.modhistory.com/download-68-2963) by dongle  
 
 ### Twin Lamps
 [**Twin Lamps and Slavehunters -- Cleaned and Edited**](https://www.nexusmods.com/morrowind/mods/47420) by Nevena and l1lartur0  
