@@ -30,6 +30,7 @@
 [**The Beacon of St Rilms**](https://www.nexusmods.com/morrowind/mods/49515) by Markond  
 [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237) by Melchior Dahrk  
 [**Better Ghostgate**](https://www.nexusmods.com/morrowind/mods/50201) by Granko7  
+[**Ghostgate Protection**](https://www.nexusmods.com/morrowind/mods/50289) by ezze  
 
 ## Molag Amur
 [**Shrine of Mount Assarnibi**](https://www.nexusmods.com/morrowind/mods/46858) by istreddify  
