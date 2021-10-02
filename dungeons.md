@@ -571,7 +571,10 @@ This mod adds a quest to a new and dangerous tomb which brings the player to une
 Allows the player to buy and run a mine.  
 
 [**Hashur - Smuggler's Cave**](https://www.nexusmods.com/morrowind/mods/50260) by PF Cacklefanny  
-Adds a new dungeon in Azura's Coast (16, -1), for characters at or above 10th level.
+Adds a new dungeon in Azura's Coast (16, -1), for characters at or above 10th level.  
+
+[**Hiram's Rest**](https://www.nexusmods.com/morrowind/mods/50298) by PF Cacklefanny  
+Adds a new dungeon in Molag Amur Region (10, -6) for characters at or above level 10. Corprus/6th house themed.  
 
 ## <a name="towns"></a> Towns
 **Tel Vos** - [Tel Vos - Dungeon Overhaul](https://www.nexusmods.com/morrowind/mods/46676)
