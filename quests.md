@@ -578,6 +578,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Hashur - Smuggler's Cave**](https://www.nexusmods.com/morrowind/mods/50260) by PF Cacklefanny  
 [**Silent Island**](https://www.nexusmods.com/morrowind/mods/50274) by Billyfighter  
 [**Urban JRPG Project Intro in Seyda Neen**](https://www.nexusmods.com/morrowind/mods/50025) by Booskas Wrath  
+[**Randar's Smithy**](https://www.nexusmods.com/morrowind/mods/50300) by Denina  
 
 # Province Mods
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Tamriel Rebuilt and Project Tamriel  
