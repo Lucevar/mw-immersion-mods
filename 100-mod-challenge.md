@@ -93,7 +93,7 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 69. [**Chimney Smoke Replacer**](https://www.nexusmods.com/morrowind/mods/44025) by R-zero  
 70. [**Flies**](https://www.nexusmods.com/morrowind/mods/43481) by R-zero  
 71. [**Cave Drips**](https://www.nexusmods.com/morrowind/mods/43488) by R-zero  
-72. [**Dwemer Blinking Lights**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=73&Itemid=50&-Dwemer-Blinking-Lights-1-1) by abot & qqqbbb 
+72. <strike>[**Dwemer Blinking Lights**](https://abitoftaste.altervista.org/morrowind/index.php?option=downloads&task=info&id=73&Itemid=50&-Dwemer-Blinking-Lights-1-1) by abot & qqqbbb</strike> removed because giving me headaches   
 73. [**The Dream is the Door**](https://www.nexusmods.com/morrowind/mods/47423) by Melchior Dahrk  
 74. [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
 -- 00 Core
@@ -251,7 +251,7 @@ Removed: stand out a bit too much for me
 196. [**Finding the Erabenimsun Ashlander Camp**](https://www.nexusmods.com/morrowind/mods/49227) by Markond  
 197. [**Big Head's Precious Forks**](https://www.nexusmods.com/morrowind/mods/45689) by Guinefort1  
 198. [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187) by Melchior Dahrk  
-199. [**Kingdom of Clutter**](https://www.nexusmods.com/morrowind/mods/49768) by Endoran  
+199. <strike>[**Kingdom of Clutter**](https://www.nexusmods.com/morrowind/mods/49768) by Endoran</strike> - included in BCOM now    
 200. [**South Wall, Den of Iniquity**](https://www.nexusmods.com/morrowind/mods/49950) by Balathustrius  
 201. [**Redoran Archmaster's Office**](https://www.nexusmods.com/morrowind/mods/49513) by Denina  
 202. [**Mandas Manor**](https://www.nexusmods.com/morrowind/mods/49911) by Endoran  
@@ -331,8 +331,6 @@ Removed: stand out a bit too much for me
 276. [**Silt Strider Courier**](https://www.nexusmods.com/morrowind/mods/48262) by Lucevar and Alice  
 277. [**Color Vvardenfell Map Manu and Splash Screens**](https://www.nexusmods.com/morrowind/mods/49930) by Aitrus  
 278. [**Almalexia Redone**](https://www.nexusmods.com/morrowind/mods/50265/) by Lamb Shark  
-
-Installed after new game started:  
 279. [**Silver Tongue**](https://www.nexusmods.com/morrowind/mods/49086) by Vitruvian Guar  
 280. [**Talking Matters**](https://www.nexusmods.com/morrowind/mods/49089) by Sofiaaq  
 281. [**MAB0's Manipulated**](https://www.nexusmods.com/morrowind/mods/47222) by Meta Barj0  
@@ -366,3 +364,4 @@ Installed after new game started:
 309. [**GMST Menu**](https://www.nexusmods.com/morrowind/mods/46428) by Merlord  
 310. [**Restocking Alchemy Essentials**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
 311. [**Cheat Menu**](https://www.nexusmods.com/morrowind/mods/47143) by qqqbbb  
+312. [**FNVulkan - Performance Boost Using DXVK**](https://www.nexusmods.com/newvegas/mods/73800) by gingerdeadshot - FNV mod that seems to work and improve FPS in MW  
