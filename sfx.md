@@ -71,6 +71,7 @@ A corprus meat replacer.
 [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
 [**Imperial Male Hit Sounds Fixed**](https://www.nexusmods.com/morrowind/mods/49406) by SAJNM  
 [**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
+[**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by Abot  
 
 [**Silent Hits**](https://www.nexusmods.com/morrowind/mods/44556) by Jxrdan  
 [**Sea of Sound**](https://www.nexusmods.com/morrowind/mods/45737) by CptJoker  
