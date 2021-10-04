@@ -40,6 +40,7 @@
 [**FMBP - Michael Michael Michael**](https://www.nexusmods.com/morrowind/mods/48598) by PoodleSandwich - fixes Redguard dialogue.  
 [**AURA - Service Lines module**](https://www.nexusmods.com/morrowind/mods/48255) by tewlwolow  
 [**Voicelines for Nord Fighters Guild Males**](https://www.nexusmods.com/morrowind/mods/50105) by DiscordZeroTwo  
+[**Same Low Price Fix**](https://www.nexusmods.com/morrowind/mods/49671) by ClockworkAngel  
 
 ## Greetings
 [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
