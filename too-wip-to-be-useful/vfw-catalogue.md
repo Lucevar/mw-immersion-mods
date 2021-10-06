@@ -70,3 +70,37 @@ brildraso nethan - ivolga redoran armored robe
 briras tyravel - ashtaar armor  
 bronosa nedalor - ivolga hlaalu armored robe  
 buoyant_armiger_wander - ?? some buoyant armiger mod that IS NOT ivolga's  
+
+canctunian ponius - added to EEC faction  
+chargen boat guard 1 - ?????
+clilias pullia - TD studded leather armor  
+
+dandera selaro - OAAB cloth helm, ashtaar smith skirt  
+daral thireloth - ivolga indoril helm  
+daras aryon - vd ash goggles + hood  
+darns tedalen - TD trollbone bracers  
+darvynea hleran - ivolga armored robe nightblade  
+daynes redothril - ?????  
+daynila andrano - TD common pants and shirt  
+dead elite ordinator - indoril armored robes  
+dethresa saren - ????
+dilami androm - TD common robe, VD ashmask goggles  
+dinuro ienith - OAAB armored hood (but she might not wear it because her unarmored is high)  
+dissu ashalkimallit - ivolga mabrigash armored robe, vd chitin mabrigash mask  
+donus serethi - ivolga hlaalu armored robe  
+dothasi mothryon - TD newtscale cuirass, OAAB cloth helm  
+dralsea arethi - TD common skirt  
+drandryn omoran - OAAB dunmer iron cuirass  
+dravil omavel - TD head/hair (rogue's gallery)  
+dreamer guard - ivolga ashlander rebel (?)  
+drelayn dredayn - ????????  
+drelyne llenim - buoyant armiger armour (non-ivolga)  
+drendrisa fareloth - TD head/hair (rogues gallery), ashtaar rogue netch leather variant  
+dreyns nelas -  buoyant armiger armour (non-ivolga)  
+dronos llervu - ashtaar smith skirt  
+drores arvel - ivolga indoril helm  
+dul gro-dush - TD studded leather  
+duldrar saren - ivolga indoril armored robe  
+dumbuk gro-bolak - TD studded leather  
+durus marius - gives him the db armor (but also doesn't remove his old armor?)  
+duvianus platorius - ivolga armored robe imperial  
