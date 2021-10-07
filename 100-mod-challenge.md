@@ -369,3 +369,6 @@ Removed: stand out a bit too much for me
 314. [**Properly Balanced Creeper and Mudcrab Merchant**](https://www.nexusmods.com/morrowind/mods/49690) by RandomPal  
 315. [**A Strange Plant**](https://www.nexusmods.com/morrowind/mods/42009) by PeterBitt  
 316. [**High Art**](https://www.nexusmods.com/morrowind/mods/47040) by Von Djangos  
+317. [**A Hermit's Request**](https://www.nexusmods.com/morrowind/mods/23714) by Darkelfguy  
+318. [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11  
+319. [**Random Enchantment Encounters Expanded Enhanced**](https://www.nexusmods.com/morrowind/mods/47915) by Stripes  
