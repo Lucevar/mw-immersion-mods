@@ -170,6 +170,9 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Deserter Legionaries**](https://www.nexusmods.com/morrowind/mods/8715) by somesz  
 [**Malinde Hilan**](https://www.nexusmods.com/morrowind/mods/36891) by kllsnke  
 
+### Buoyant Armigers
+[**Arvesa - An Armiger's Tale**](https://www.nexusmods.com/morrowind/mods/50306) by Orion  
+
 ### Camonna Tong
 [**Strike at the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/46865) by ProfArmitage  
 [**Nastier Camonna Tong**](https://www.nexusmods.com/morrowind/mods/22601) by Von Djangos  
@@ -348,6 +351,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Less Generic Bloodmoon**](https://www.nexusmods.com/morrowind/mods/23346) by Ostar  
 [**The Frostmoth Smugglers - Properly Rewarded**](https://www.nexusmods.com/morrowind/mods/47409) by Alice  
 [**Solstheim Rumor Fix - Fixed**](https://www.nexusmods.com/morrowind/mods/47053) by Alice  
+[**Chieftain of Thirsk and Blodskaal**](https://www.nexusmods.com/morrowind/mods/50309) by Alice  
 
 ## New Quests
 [**Hircine's Quest**](https://www.nexusmods.com/morrowind/mods/47651) by Danae & Alice  
