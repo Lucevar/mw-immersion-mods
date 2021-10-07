@@ -86,6 +86,8 @@
 [**Live Free**](https://www.nexusmods.com/morrowind/mods/43999) by Apoapse  
 [**Slave Escort**](http://mw.modhistory.com/download-37-15579) by Cyrano  
 [**Functional Slave Markets**](https://www.nexusmods.com/morrowind/mods/49583) by RandomPal  
+[**More Slaves Freeable**](https://www.nexusmods.com/morrowind/mods/50310) by LNICKS  
+[**Nevena's Twin Lamps and Slave Hunters**](https://www.nexusmods.com/morrowind/mods/47420) by Nevena & 1lartur0  
 
 ## Donations
 [**Donations to the Gods**](http://mw.modhistory.com/download-68-14336) by Slaanesh the Corruptor  
