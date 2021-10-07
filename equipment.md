@@ -1,3 +1,8 @@
+# Balancing
+[**Lucas' BTBGI Patches**](https://www.nexusmods.com/morrowind/mods/50308) by Lucas/Sigourn  
+[**Modern Marksman Overhaul**](https://www.nexusmods.com/morrowind/mods/50307) by Lucas/Sigourn  
+[**Community Equipment Integration**](https://www.nexusmods.com/morrowind/mods/50307) by Lucas/Sigourn  
+
 # Clothes and Armor
 
 [**Kafeid's Spectacles**](https://www.nexusmods.com/morrowind/mods/43167) by Aoimhevelho & Kafeid  
