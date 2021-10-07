@@ -260,6 +260,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 [**Molag Mar X**](https://www.nexusmods.com/morrowind/mods/46273) by SammyB27  
 [**Molag Mar**](https://www.nexusmods.com/morrowind/mods/49005) by N'wahs and Mushrooms  
 [**Sacred Molag Mar - Town of Pilgrims**](https://www.nexusmods.com/morrowind/mods/49392) by Mika  
+[**Arvesa - An Armiger's Tale**](https://www.nexusmods.com/morrowind/mods/50306) by Orion  
 
 ## Tel Uvirith
 [**Uvirith's Legacy**](http://stuporstar.sarahdimento.com/updates/downloads/) by Stuporstar
