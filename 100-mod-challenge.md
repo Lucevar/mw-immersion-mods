@@ -60,8 +60,8 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 40. [**Fire and Frost Salts**](https://www.nexusmods.com/morrowind/mods/47784) by Nwah and Mushrooms  
 41. [**Silt Strider**](https://www.nexusmods.com/morrowind/mods/48664) by Nwah and Mushrooms  
 -- Silt Strider with Vanilla Textures  
-42. [**Creeper the Scamp**](https://www.nexusmods.com/morrowind/mods/47823) by Nwah and Mushrooms 
--- Vanilla version   
+42. <strike>[**Creeper the Scamp**](https://www.nexusmods.com/morrowind/mods/47823) by Nwah and Mushrooms</strike 
+-- <strike>Vanilla version</strike> replaced with RP's Properly Balanced Creeper and Mudcrab Merchant, which includes this mod     
 43. [**Beware the Sixth House**](https://www.nexusmods.com/morrowind/mods/46036) by Mort  
 44. [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by Mort  
 45. [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by Mort  
@@ -366,3 +366,6 @@ Removed: stand out a bit too much for me
 311. [**Cheat Menu**](https://www.nexusmods.com/morrowind/mods/47143) by qqqbbb  
 312. [**FNVulkan - Performance Boost Using DXVK**](https://www.nexusmods.com/newvegas/mods/73800) by gingerdeadshot - FNV mod that seems to work and improve FPS in MW  
 313. [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by Necrolesian  
+314. [**Properly Balanced Creeper and Mudcrab Merchant**](https://www.nexusmods.com/morrowind/mods/49690) by RandomPal  
+315. [**A Strange Plant**](https://www.nexusmods.com/morrowind/mods/42009) by PeterBitt  
+316. [**High Art**](https://www.nexusmods.com/morrowind/mods/47040) by Von Djangos  
