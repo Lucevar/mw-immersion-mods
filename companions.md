@@ -23,3 +23,4 @@ Includes an Argonian companion
 [**Keep Gaea Artoria**](https://www.nexusmods.com/morrowind/mods/49533) by Stripes and Zhydrac  
 [**Kolka the Wolf**](https://www.nexusmods.com/morrowind/mods/49765) by Tizzo  
 [**The Hammer of Orsinium**](https://www.nexusmods.com/morrowind/mods/50027) by Terik Fel  
+[**Arvesa - An Armiger's Tale**](https://www.nexusmods.com/morrowind/mods/50306) by Orion  
