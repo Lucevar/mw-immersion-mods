@@ -372,3 +372,5 @@ Removed: stand out a bit too much for me
 317. [**A Hermit's Request**](https://www.nexusmods.com/morrowind/mods/23714) by Darkelfguy  
 318. [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11  
 319. [**Random Enchantment Encounters Expanded Enhanced**](https://www.nexusmods.com/morrowind/mods/47915) by Stripes  
+320. [**A New Windmill for Pelagiad**](https://www.nexusmods.com/morrowind/mods/50316) by Juidius Xentao  
+321. [**Caldera**](https://www.nexusmods.com/morrowind/mods/50314) by Nwahs and Mushrooms Team  
