@@ -17,7 +17,6 @@ Duke's Silver Armor:
 * [**Resources**](https://www.nexusmods.com/morrowind/mods/35562?) by Alaisiagae  
 * [**Implementation**](https://www.nexusmods.com/morrowind/mods/46828) by SfinnaIronfoot  
 
-[**Cloth Helm**](https://www.nexusmods.com/morrowind/mods/47783) by Axeljk  
 [**Imperial Armor Expanded**](https://www.nexusmods.com/morrowind/mods/49330) by Endoran  
 [**Netch Adamantium Armour**](https://www.nexusmods.com/morrowind/mods/1430) by Cythus  
 [**Quorn Resource Integration**](https://www.nexusmods.com/morrowind/mods/43269) by Melchior Dahrk and quorn  
@@ -31,7 +30,10 @@ Duke's Silver Armor:
 [**Imperial Cult Templar Armour**](https://www.nexusmods.com/morrowind/mods/48233) by FrankG2229  
 [**Void Gear**](https://www.nexusmods.com/morrowind/mods/1789) by Kieve  
 [**Westly Presents Creed of the Assassin**](http://mw.modhistory.com/download-98-13393) by Westly  
+
+[**Cloth Helm**](https://www.nexusmods.com/morrowind/mods/47783) by Axeljk  
 [**Simple Cloth Scarf Mod**](https://www.nexusmods.com/morrowind/mods/49100) by Citadel535  
+[**Many Cloth Helms**](https://www.nexusmods.com/morrowind/mods/49282) by Markond  
 
 [**Sathil Mercenary Armor 2.1**](https://www.nexusmods.com/morrowind/mods/48340) by RuffinVangarr and Ashtaar  
 [**Ceremonial Adamantium Armor**](https://www.nexusmods.com/morrowind/mods/46629) by RuffinVangarr  
@@ -58,7 +60,6 @@ Duke's Silver Armor:
 [**Equipment Variants**](https://www.nexusmods.com/morrowind/mods/49253) by Danae  
 [**H.E.L.L.U.V.A Lite and Balanced**](https://www.nexusmods.com/morrowind/mods/47573) by Danae  
 
-[**Many Cloth Helms**](https://www.nexusmods.com/morrowind/mods/49282) by Markond  
 [**Telvanni Dust Adept**](https://www.nexusmods.com/morrowind/mods/49265) by Ashtaar  
 [**Telvanni Armors - Slavers and Wizards**](https://www.nexusmods.com/morrowind/mods/49266) by Ashtaar  
 [**Complete and Revised Imperial Studded Leather Armor**](https://www.nexusmods.com/morrowind/mods/49301) by RuffinVangarr  
@@ -88,6 +89,7 @@ Duke's Silver Armor:
 [**Ergalla's Breton Armour**](https://www.nexusmods.com/morrowind/mods/50263) by MorrowGoblins  
 [**Dres Lizard Boots**](https://mw.modhistory.com/download-4-6506) by Ratfink333  
 [**Unique Robes**](https://www.nexusmods.com/morrowind/mods/50286) by dietbob196045  
+[**Tattoo Shirts for Males**](https://www.nexusmods.com/morrowind/mods/50315) by AlandroSul  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
