@@ -90,6 +90,7 @@ Duke's Silver Armor:
 [**Dres Lizard Boots**](https://mw.modhistory.com/download-4-6506) by Ratfink333  
 [**Unique Robes**](https://www.nexusmods.com/morrowind/mods/50286) by dietbob196045  
 [**Tattoo Shirts for Males**](https://www.nexusmods.com/morrowind/mods/50315) by AlandroSul  
+[**Female Vampire Outfit**](https://mw.modhistory.com/download-35-14443) by e-bride  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
