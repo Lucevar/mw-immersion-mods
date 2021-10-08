@@ -60,7 +60,7 @@ Mod list for the September 2021 100 esp install challenge. Number on the list wi
 40. [**Fire and Frost Salts**](https://www.nexusmods.com/morrowind/mods/47784) by Nwah and Mushrooms  
 41. [**Silt Strider**](https://www.nexusmods.com/morrowind/mods/48664) by Nwah and Mushrooms  
 -- Silt Strider with Vanilla Textures  
-42. <strike>[**Creeper the Scamp**](https://www.nexusmods.com/morrowind/mods/47823) by Nwah and Mushrooms</strike 
+42. <strike>[**Creeper the Scamp**](https://www.nexusmods.com/morrowind/mods/47823) by Nwah and Mushrooms</strike>   
 -- <strike>Vanilla version</strike> replaced with RP's Properly Balanced Creeper and Mudcrab Merchant, which includes this mod     
 43. [**Beware the Sixth House**](https://www.nexusmods.com/morrowind/mods/46036) by Mort  
 44. [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by Mort  
@@ -372,5 +372,6 @@ Removed: stand out a bit too much for me
 317. [**A Hermit's Request**](https://www.nexusmods.com/morrowind/mods/23714) by Darkelfguy  
 318. [**Blight is Coming**](https://www.nexusmods.com/morrowind/mods/47649) by Half11  
 319. [**Random Enchantment Encounters Expanded Enhanced**](https://www.nexusmods.com/morrowind/mods/47915) by Stripes  
-320. [**A New Windmill for Pelagiad**](https://www.nexusmods.com/morrowind/mods/50316) by Juidius Xentao  
-321. [**Caldera**](https://www.nexusmods.com/morrowind/mods/50314) by Nwahs and Mushrooms Team  
+320. 
+321. [**A New Windmill for Pelagiad**](https://www.nexusmods.com/morrowind/mods/50316) by Juidius Xentao  
+322. [**Caldera**](https://www.nexusmods.com/morrowind/mods/50314) by Nwahs and Mushrooms Team  
