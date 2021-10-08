@@ -106,6 +106,7 @@ For a more restrained aesthetic. Adds appropriate clutter to Gnaar Mok but doesn
 [**Vvardenfell Revisited - Pelagiad**](https://www.nexusmods.com/morrowind/mods/46776) by EnnetWinterhoof  
 [**Stav's Boxes - Pelagiad**](https://www.nexusmods.com/morrowind/mods/44075) by Stavroguin/Heinrich  
 [**A Windmill for Pelagiad**](https://mw.modhistory.com/download-15-6555) by   
+[**A New Windmill for Pelagiad**](https://www.nexusmods.com/morrowind/mods/50316) by Juidius Xentao  
 [**The Quiet Imperial Pelagiad**](https://www.nexusmods.com/morrowind/mods/49378) by Mika  
 [**Halfway Rebuilt**](https://www.nexusmods.com/morrowind/mods/49903) by Rookie from Rendor  
 
@@ -325,6 +326,7 @@ Alternatively, [**Vvardenfell Revisited - Khuul**](https://www.nexusmods.com/mor
 [**Cozy Caldera**](https://www.nexusmods.com/morrowind/mods/49366) by Mika  
 [**Izi Cities - Caldera**](https://www.nexusmods.com/morrowind/mods/49431) by Izi  
 [**Elegant Verick Gemain's Shop**](https://www.nexusmods.com/morrowind/mods/49729) by RandomPal  
+[**Caldera**](https://www.nexusmods.com/morrowind/mods/50314) by Nwahs and Mushrooms Team  
 
 Alternatively, [**Vvardenfell Revisited - Caldera**](https://www.nexusmods.com/morrowind/mods/45182) by EnnetWinterhoof or [**Improved Caldera**](https://www.nexusmods.com/morrowind/mods/45000) by sorcerorsorceror, [**Varo Manor**](https://www.nexusmods.com/morrowind/mods/42924), [**The Doors - Caldera**](https://www.nexusmods.com/morrowind/mods/42511) by Arcimaestro Antares and WH-Reaper. 
 
