@@ -583,6 +583,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Silent Island**](https://www.nexusmods.com/morrowind/mods/50274) by Billyfighter  
 [**Urban JRPG Project Intro in Seyda Neen**](https://www.nexusmods.com/morrowind/mods/50025) by Booskas Wrath  
 [**Randar's Smithy**](https://www.nexusmods.com/morrowind/mods/50300) by Denina  
+[**The Underground 2 Super Patched**](https://www.nexusmods.com/morrowind/mods/50321) by Qarl & Varil92  
 
 # Province Mods
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Tamriel Rebuilt and Project Tamriel  
@@ -610,3 +611,4 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**The Zone**](https://www.nexusmods.com/morrowind/mods/1651) by Tarazaur  
 [**Iredior Conspiracies**](https://www.nexusmods.com/morrowind/mods/1777) by Theta Orionis  
 [**Rajh I**](https://www.nexusmods.com/morrowind/mods/41371) by InariKettu  
+[**Arcanum 3D**](https://www.nexusmods.com/morrowind/mods/50319) by Ignatious  
