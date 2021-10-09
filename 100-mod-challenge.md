@@ -375,3 +375,4 @@ Removed: stand out a bit too much for me
 320. 
 321. [**A New Windmill for Pelagiad**](https://www.nexusmods.com/morrowind/mods/50316) by Juidius Xentao  
 322. [**Caldera**](https://www.nexusmods.com/morrowind/mods/50314) by Nwahs and Mushrooms Team  
+323. [**Sheep No More**](https://www.nexusmods.com/morrowind/mods/45168) by McChuggernaut  
