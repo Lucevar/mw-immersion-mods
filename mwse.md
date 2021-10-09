@@ -7,6 +7,13 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
+# New September 26th - October 9th
+[**Trays Itemized MWSE**](https://www.nexusmods.com/morrowind/mods/50318) by Stripes  
+Static trays are replaced with misc items
+
+[**Lucas' BTBGI Patches**](https://www.nexusmods.com/morrowind/mods/50308) by Lucas  
+Variety of patches for BTB's Game Improvements - Necro Edit. Patches include MWSE components or are patches for MWSE mods.  
+
 # New since September 18th
 [**Protective Helmets**](https://www.nexusmods.com/morrowind/mods/50280) by Virnetch  
 Automatically adds resistances to diseases and poisons when wearing a closed helmet. This is mostly to make traveling in a blight storm more immersive while wearing a helmet with a mod that adds a chance to catch the disease from the storms. Inspired by Protective Masks originally by WanderRA, and rereleased by Half11. The effects behave in the same way as a constant enchantment, but are added when equipping the item instead of editing the original object, thus being compatible with enchanted items.  
