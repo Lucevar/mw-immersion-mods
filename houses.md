@@ -23,3 +23,4 @@
 [**Botanist's Retreat**](http://mw.modhistory.com/download-48-11540) by Nym  
 [**Caius' Rooftop Renovations**](https://www.nexusmods.com/morrowind/mods/50272) by Juidius Xentao  
 [**River Rock Falls**](https://www.nexusmods.com/morrowind/mods/50299) by Denina  
+[**Aldruhn Mansion**](https://www.nexusmods.com/morrowind/mods/50320) by Izi  
