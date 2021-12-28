@@ -23,3 +23,21 @@ For even quicker and more advanced mod testing.
 [**UI Expansion**](https://www.nexusmods.com/morrowind/mods/46071) by NullCascade    
 [**Better Questlist**](https://www.nexusmods.com/morrowind/mods/48272) by Virnetch  
 [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458) by Merlord  
+[**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
+[**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by Anumaril  
+[**Travel Tooltips**](https://www.nexusmods.com/morrowind/mods/48306) by tewlwolow  
+
+# Bug Fixes
+[**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096?) by Half11  
+[**Expeditious Exit**](https://www.nexusmods.com/morrowind/mods/45634) by NullCascade  
+Speaking of life-saving mods, this one fixes a bug where Morrowind will often hang when you try to exit the game (or when you CTD). This will save you a LOT of time.  
+[**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696) by NullCascade  
+This simple mod provides an in-game HUD element as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.  
+
+## Performance Tweaks
+[**Morrowind Optimisation Patch**](https://www.nexusmods.com/morrowind/mods/45384) by Greatness7 and Remiros  
+[**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by Project Atlas Team  
+
+## Graphics Enhancers
+[**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros  
+[**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros
