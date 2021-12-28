@@ -2,6 +2,7 @@ Updated: 28th December 2021
 
 ## Essential 3rd Party Utilities
 [**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510) by Hrnchamd  
+[**Morrowind Code Patch - Beta Fixes**](https://www.nexusmods.com/morrowind/mods/26348) by Hrnchamd  
 [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) by Hrnchamd & MGE Team   
 Make sure to get [**DirectX 9.0c**](https://www.microsoft.com/en-us/download/details.aspx?id=35) as well - yes, future me reading this, it does have to be THIS version of DirectX. MWSE is included in this installer. Make sure to run MWSE-update.exe.    
 [**Wrye Mash (Polemos Fork) 2018**](https://www.nexusmods.com/morrowind/mods/45439) by Polemos & Wrye  
