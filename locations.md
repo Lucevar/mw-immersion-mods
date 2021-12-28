@@ -14,6 +14,7 @@
 [**More Believable Bandit Camps**](https://www.nexusmods.com/morrowind/mods/50066) by RandomPal  
 [**Lots of Lichen**](https://www.nexusmods.com/morrowind/mods/50133) by Denina  
 [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237) by Melchior Dahrk  
+[**OAAB Saplings**](https://www.nexusmods.com/morrowind/mods/50334) by Melchior Dahrk  
 
 ## Ashlands
 [**RR - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822) by the Resdayn Revival Team  
