@@ -38,6 +38,8 @@
 [**Vivec Remade**](https://www.nexusmods.com/morrowind/mods/50317) by Lamb Shark  
 [**Barabus Orcs**](https://www.nexusmods.com/morrowind/mods/50424) by Barabus  
 [**Tarhiel's Journal**](https://www.nexusmods.com/morrowind/mods/50440) by Endoran  
+[**Vanilla water textures for OAAB and TR fake water meshes**](https://www.nexusmods.com/morrowind/mods/50459) by RandomPal  
+[**Leafy Trees Revived**](https://www.nexusmods.com/morrowind/mods/50461) by borok  
 
 # Mod Replacers
 [**Red sclera eyes for Julan**](https://www.nexusmods.com/morrowind/mods/47277?tab=description) by Leetmorry  
