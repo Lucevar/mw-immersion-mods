@@ -377,6 +377,8 @@ Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014)
 [**Mandas Manor**](https://www.nexusmods.com/morrowind/mods/49911) by Endoran  
 [**Redoran Council Overhall**](https://www.nexusmods.com/morrowind/mods/49817) by Leyawynn, Vidi_Aquam, Lucevar  
 [**Ald-ruhn**](https://www.nexusmods.com/morrowind/mods/50120) by Nwahs and Mushrooms  
+[**Izi Cities -  Ald-ruhn**](https://www.nexusmods.com/morrowind/mods/50331) by Izi  
+[**Ald-ruhn-under-Skar**](https://www.nexusmods.com/morrowind/mods/50332) by Nwahs and Mushrooms  
 
 [**The Doors - Aldruhn**](https://www.nexusmods.com/morrowind/mods/42512) by Arcimaestro Antares and WH-Reaper  
 [**Edwinna's Study**](https://www.nexusmods.com/morrowind/mods/49050) by Whitnedak  
