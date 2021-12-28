@@ -118,6 +118,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Escort Caius**](https://www.nexusmods.com/morrowind/mods/49691) by Zaria  
 [**Caius Romance**](https://mw.modhistory.com/download-90-7208) by Princess Stomper  
 [**Blades Informant**](https://www.nexusmods.com/morrowind/mods/48084) by Alice  
+[**New Ilunibi**](https://www.nexusmods.com/morrowind/mods/50393) by Seelof  
 
 ### Nerevarine-Hortator
 [**Kogoruhn Expanded**](https://www.nexusmods.com/morrowind/mods/46098) by Team Drama Kwama  
