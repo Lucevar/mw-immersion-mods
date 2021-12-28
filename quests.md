@@ -614,6 +614,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Starwind**](https://www.nexusmods.com/morrowind/mods/48909) by Ignatious  
 [**Starwind - A Vision of the Dark Knight**](https://www.nexusmods.com/morrowind/mods/49966) by Alice  
 [**Starwind Endor**](https://www.nexusmods.com/morrowind/mods/50356) by Billyfighter  
+[**Starwind Enhanced**](https://www.nexusmods.com/morrowind/mods/50484) by Billyfighter  
 
 ## Others
 [**Duskpoint**](https://www.nexusmods.com/morrowind/mods/45117) by Waspinator1998  
