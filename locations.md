@@ -113,7 +113,8 @@
 [**VSW - Solstheim Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810) by Wollibeebee  
 [**Bloodmoon Fort Frostmoth Bar**](https://www.nexusmods.com/morrowind/mods/42727) by LegoManIAm94  
 [**Interiors of Solstheim**](https://www.nexusmods.com/morrowind/mods/44451/) by Kalian  
-[**Raven Rock Interior Lighting Patch**](https://www.nexusmods.com/morrowind/mods/48125) by Venysri
+[**Raven Rock Interior Lighting Patch**](https://www.nexusmods.com/morrowind/mods/48125) by Venysri  
+[**Solstheim - AllMaker's Shrines**](https://www.nexusmods.com/morrowind/mods/50416) by HMCascade  
 
 ## Misc
 [**Big Head's Precious Forks**](https://www.nexusmods.com/morrowind/mods/45689) by Guinefort1  
