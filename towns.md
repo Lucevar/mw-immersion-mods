@@ -8,6 +8,7 @@
 [**Temples With Shrines**](https://www.nexusmods.com/morrowind/mods/45535) by Leyawynn  
 [**Bigger Temples - Urbanopticum**](https://www.nexusmods.com/morrowind/mods/46184) by Tyddy  
 [**Velothi Wall Art**](https://www.nexusmods.com/morrowind/mods/46454) by Ashtaar  
+[**Velothi Wall Art Compatibility Patches**](https://www.nexusmods.com/morrowind/mods/50415) by Wyrmalla  
 [**Imperials Go Home**](https://www.nexusmods.com/morrowind/mods/44984) by Rats - adds anti-Imperial graffiti around Vvardenfell  
 [**High Art**](https://www.nexusmods.com/morrowind/mods/47040) by vonwolfe  
 [**Holy Art**](https://www.nexusmods.com/morrowind/mods/47107) by lukkar and vonwolfe  
@@ -36,6 +37,7 @@
 [**Vibrant Ivy**](https://www.nexusmods.com/morrowind/mods/49863) by RandomPal  
 [**Rogue Redoran Rugs Removed**](https://www.nexusmods.com/morrowind/mods/49942) by Randolph Carter  
 [**Graffiti of Morrowind**](https://www.nexusmods.com/morrowind/mods/50156) by RandomPal  
+[**Graffiti of Morrowind Compatibility Patches**](https://www.nexusmods.com/morrowind/mods/50426) by Wyrmalla  
 [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267) by Hollaajith  
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by Necrolesian  
 [**More Habitable Common Sleeping Areas for Guilds and Factions**](https://www.nexusmods.com/morrowind/mods/50349) by AlanH42  
