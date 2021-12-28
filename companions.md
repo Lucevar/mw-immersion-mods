@@ -24,3 +24,4 @@ Includes an Argonian companion
 [**Kolka the Wolf**](https://www.nexusmods.com/morrowind/mods/49765) by Tizzo  
 [**The Hammer of Orsinium**](https://www.nexusmods.com/morrowind/mods/50027) by Terik Fel  
 [**Arvesa - An Armiger's Tale**](https://www.nexusmods.com/morrowind/mods/50306) by Orion  
+[**Ancestor Companion**](https://www.nexusmods.com/morrowind/mods/50395) by Drac and Toccatta  
