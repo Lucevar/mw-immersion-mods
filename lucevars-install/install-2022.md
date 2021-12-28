@@ -41,3 +41,9 @@ This simple mod provides an in-game HUD element as the game approaches critical 
 ## Graphics Enhancers
 [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros  
 [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros
+
+## Character Visuals
+[**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by Greatness7 & the MMC Community  
+[**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616) by Remiros  
+[**Morrowind Optimisation Patch - Weapon Sheathing Patch**](https://www.nexusmods.com/morrowind/mods/45384) by Greatness7 and Remiros  
+[**Vanity**](https://www.nexusmods.com/morrowind/mods/48529) by Abot  
