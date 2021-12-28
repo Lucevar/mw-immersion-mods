@@ -591,6 +591,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Randar's Smithy**](https://www.nexusmods.com/morrowind/mods/50300) by Denina  
 [**The Underground 2 Super Patched**](https://www.nexusmods.com/morrowind/mods/50321) by Qarl & Varil92  
 [**Lagoon Island**](https://www.nexusmods.com/morrowind/mods/50401) by Space Goonie  
+[**NERS Continued**](https://www.nexusmods.com/morrowind/mods/50438) by Amyrha  
 
 # Province Mods
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Tamriel Rebuilt and Project Tamriel  
@@ -599,6 +600,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/42145) by Tamriel Rebuilt  
 [**Teacher of the Secret Arts**](https://www.nexusmods.com/morrowind/mods/49167) by Team Sassy Sharmats  
 [**Sword of the Kagouti King**](https://www.nexusmods.com/morrowind/mods/46809) by Melchior Dahrk  
+[**Tamriel Rebuilt Introduction Quest - Help a Khajiit reach the City of Good People**](https://www.nexusmods.com/morrowind/mods/50445) by Denis418  
 
 ## Province: Cyrodiil
 [**Province: Cyrodiil**](https://www.nexusmods.com/morrowind/mods/44922) by Project Tamriel    
