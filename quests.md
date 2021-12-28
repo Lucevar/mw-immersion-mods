@@ -266,6 +266,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Alice  
 [**Gnisis Docks**](https://www.nexusmods.com/morrowind/mods/45994) by Alice  
 [**Legion at the Siege of Firemoth**](https://www.nexusmods.com/morrowind/mods/47924) by Endoran  
+[**Saprius Disguised**](https://www.nexusmods.com/morrowind/mods/50377) by Tyermala  
 
 #### Talos Cult
 [**The Talos Cult Conspiracy**](https://www.nexusmods.com/morrowind/mods/47576) by Alice and Caeris  
