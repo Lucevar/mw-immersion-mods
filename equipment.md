@@ -100,6 +100,7 @@ Duke's Silver Armor:
 [**Danke's Dishonored Mask - Dwemerised**](https://www.nexusmods.com/morrowind/mods/50471) by AllanBorne  
 [**Complete Dukes Guard Armor**](https://www.nexusmods.com/morrowind/mods/50481) by RuffinVangarr  
 [**Full and revised dragonscale set**](https://www.nexusmods.com/morrowind/mods/50476) by stefan19rkc  
+[**Godrngheid the Smith - Malgobatra's Skyrim Armors Translated and Integrated**](https://www.nexusmods.com/morrowind/mods/50391) by KarevKid & Malbogatra  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
