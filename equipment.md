@@ -94,6 +94,7 @@ Duke's Silver Armor:
 [**SM Bone Helmet-Shell**](https://www.nexusmods.com/morrowind/mods/50355) by ShadowMimicry  
 [**Native Dunmer Ebony Armor Replacer and Standalone**](https://www.nexusmods.com/morrowind/mods/50375) by ak0d  
 [**Glorier of Rivia**](https://www.nexusmods.com/morrowind/mods/50388) by karevkid  
+[**Panoplies -- Helluva Ways to Suit Up**](https://www.nexusmods.com/morrowind/mods/50430) by Danae  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
@@ -111,6 +112,7 @@ Duke's Silver Armor:
 [**Enhanced Economics for Wares**](https://www.nexusmods.com/morrowind/mods/49807) by Danae  
 [**Wares for NPCs**](https://www.nexusmods.com/morrowind/mods/49997) by Danae  
 [**Amulets by Xiamara for Wares - Vanity Edition**](https://www.nexusmods.com/morrowind/mods/50015) by qwertyquit  
+[**Panoplies -- Helluva Ways to Suit Up**](https://www.nexusmods.com/morrowind/mods/50430) by Danae  
 
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
