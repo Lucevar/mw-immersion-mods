@@ -35,3 +35,4 @@
 [**Rethan Manor - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50390) by TheWanderer  
 [**The Explorers Magical Bag - Cloud Storage Compatible Bag of Holding**](https://www.nexusmods.com/morrowind/mods/50366) by TheWanderer  
 [**Cloud Storage for Inns and Taverns**](https://www.nexusmods.com/morrowind/mods/50363) by TheWanderer  
+[**On the Move - Ashlander Tent - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50521) by TheWanderer  
