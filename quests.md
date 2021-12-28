@@ -412,6 +412,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Guild of Vampire Hunters - Lucevar Edit**](https://www.nexusmods.com/morrowind/mods/47224) by Alice and Lucevar  
 [**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by Alice  
 [**Cult of the Clouds**](https://mw.modhistory.com/download-35-3192) by MWoody  
+[**Cult of the Clouds Dialogue Patch**](https://www.nexusmods.com/morrowind/mods/50409) by Eismeow  
 [**Dura gra-Bol's House Reclaimed and the Grab-All Gang**](https://www.nexusmods.com/morrowind/mods/46772) by Melchior Dahrk  
 [**The Imperial Dwemer Society**](https://www.nexusmods.com/morrowind/mods/45225) by Team Mythical Beasts  
 [**Welcome to the Arena**](https://www.nexusmods.com/morrowind/mods/22002) by Kalemestari69  
