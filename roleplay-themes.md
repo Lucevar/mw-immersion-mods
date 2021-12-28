@@ -168,6 +168,7 @@ Farmer mod
 # Gambler
 [**Flip a coin**](https://www.nexusmods.com/morrowind/mods/49933) by Discontinuous Qualia  
 [**Gambling Table (Roulette Wheel) from Arx Fatalis**](https://www.nexusmods.com/morrowind/mods/49436) by Adflixit  
+[**S'wit Out of Luck**](https://www.nexusmods.com/morrowind/mods/50385) by Stripes  
 
 # Healer
 [**Balmora guilds expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
