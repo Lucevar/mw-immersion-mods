@@ -14,6 +14,7 @@
 [**Better Century Gothic Font**](https://www.nexusmods.com/morrowind/mods/49844) by ConcernedCitizen  
 [**inom - User Interface hider**](https://www.nexusmods.com/morrowind/mods/50218) by isNaN  
 [**Clear Sight**](https://www.nexusmods.com/morrowind/mods/49780) by tewlwolow  
+[**Better Daedric Font**](https://www.nexusmods.com/morrowind/mods/44540) by hardek  
 
 ## Cursor
 [**Daedric Cursors**](https://www.nexusmods.com/morrowind/mods/49806) by ConcernedCitizen  
