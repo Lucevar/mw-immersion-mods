@@ -52,3 +52,4 @@
 [**N'wahs Work**](https://www.nexusmods.com/morrowind/mods/49103?tab=files) by Nwahs and Mushrooms  
 [**Surfracers**](https://www.nexusmods.com/morrowind/mods/49783) by Danae and XeroFoxx  
 [**Thalassophobia - Sharks of Morrowind**](https://www.nexusmods.com/morrowind/mods/49887) by Balathustrius  
+[**Cait's Critters Unleashed**](https://www.nexusmods.com/morrowind/mods/50342) by Cait  
