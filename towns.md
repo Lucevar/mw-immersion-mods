@@ -1,5 +1,6 @@
 # Towns
 [**Beautiful Cities of Morrowind**](https://www.nexusmods.com/morrowind/mods/49231) by RandomPal  
+[**Aesthesia Grass for BCOM**](https://www.nexusmods.com/morrowind/mods/50578) by Mrovkogon  
 
 # General
 [**Barabus's Fireplaces**](https://www.nexusmods.com/morrowind/mods/45766) by Barabus (update by PoodleSandwich)  
@@ -335,6 +336,7 @@ Alternatively, [**Vvardenfell Revisited - Khuul**](https://www.nexusmods.com/mor
 [**Caldera Windmills**](http://mw.modhistory.com/download-80-6218) by Ayse  
 [**Cozy Caldera**](https://www.nexusmods.com/morrowind/mods/49366) by Mika  
 [**Izi Cities - Caldera**](https://www.nexusmods.com/morrowind/mods/49431) by Izi  
+[**Izi's Caldera and The Stonewood Pass Revisited Compatibility Patch**](https://www.nexusmods.com/morrowind/mods/50564) by Boggo  
 [**Elegant Verick Gemain's Shop**](https://www.nexusmods.com/morrowind/mods/49729) by RandomPal  
 [**Caldera**](https://www.nexusmods.com/morrowind/mods/50314) by Nwahs and Mushrooms Team  
 
