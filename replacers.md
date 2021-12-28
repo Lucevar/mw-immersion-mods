@@ -37,6 +37,7 @@
 [**Morrowind Bodies Reimagined**](https://www.nexusmods.com/morrowind/mods/50293) by Lamb Shark  
 [**Vivec Remade**](https://www.nexusmods.com/morrowind/mods/50317) by Lamb Shark  
 [**Barabus Orcs**](https://www.nexusmods.com/morrowind/mods/50424) by Barabus  
+[**Tarhiel's Journal**](https://www.nexusmods.com/morrowind/mods/50440) by Endoran  
 
 # Mod Replacers
 [**Red sclera eyes for Julan**](https://www.nexusmods.com/morrowind/mods/47277?tab=description) by Leetmorry  
