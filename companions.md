@@ -25,3 +25,4 @@ Includes an Argonian companion
 [**The Hammer of Orsinium**](https://www.nexusmods.com/morrowind/mods/50027) by Terik Fel  
 [**Arvesa - An Armiger's Tale**](https://www.nexusmods.com/morrowind/mods/50306) by Orion  
 [**Ancestor Companion**](https://www.nexusmods.com/morrowind/mods/50395) by Drac and Toccatta  
+[**Henwen the Pack Piglet**](https://www.nexusmods.com/morrowind/mods/50423) by Tizzo  
