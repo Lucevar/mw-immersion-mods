@@ -8,6 +8,45 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # October 10th - December 28th
+[**Clockwork City Map for Map and Compass**](https://www.nexusmods.com/morrowind/mods/50520) by Kalinter  
+This mod adds a map for the Sotha Sil Expanded (by TeamSSE and Trainwiz) version of Clockwork City that is usable in game with the Map and Compass Mod (by JaceyS).
+
+[**Vapourmist**](https://www.nexusmods.com/morrowind/mods/50517) by tewlwolow  
+MWSE-Lua 3D clouds and mist.
+
+[**Extradimensional Pockets**](https://www.nexusmods.com/morrowind/mods/50499) by Yorklag  
+Adds a spell that allows for something every mage has ever dreamed of. Magical Storage! With Spell Creation!  
+
+[**The Wanderer's Stashes - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50494) by TheWanderer  
+Small hideaways located in strategic spots idea for local storage. There are seven in all one near each of these towns. Caldera, Ebonheart, Gnisis, Molag Mar, Seyda Neen, Tel Fyr and Tel Vos  
+
+[**Charming Has Consequences (MWSE)**](https://www.nexusmods.com/morrowind/mods/50473) by KirbonatedBeverage  
+Makes charm effects incur a bounty after they wear off.  
+
+[**Fashionwind - Glasses and Goggles**](https://www.nexusmods.com/morrowind/mods/50448) by Safebox and RuffinVangarr  
+This mod adds glasses and goggles with an MWSE script that allows them to be worn without hiding your hair or even taking up the helmet slot. (requires onion layers mod)
+
+[**Onion - Layered Headwear and Facial Wear**](https://www.nexusmods.com/morrowind/mods/50352) by Safebox  
+Adds armour slots facepaint, eyewear, nosewear, lipwear, earwear, and headwear without removing the hair.  
+
+[**The Wanderer's Lodge - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50422) by TheWanderer  
+A player home set in its own hidden valley. Ample storage, Male and Female mannequins, working practise dummies, but best of all it's compatable with the "Cloud Storage Warehouse". You will find these storage containers throughout your home.  
+
+[**Rethan Manor - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50390) by TheWanderer  
+A slightly larger interior for Rethan Manor now as a Cloud Storage Warehouse compatible player home.
+
+[**The Explorers Magical Bag - Cloud Storage Compatible Bag of Holding**](https://www.nexusmods.com/morrowind/mods/50366) by TheWanderer  
+The Explorers Magical Bag is a Cloud Storage Warehouse compatible bag of holding. Put your items into the bag and retrieve them from any other Cloud Storage Warehouse compatible mod store.  
+
+[**Cloud Storage for Inns and Taverns**](https://www.nexusmods.com/morrowind/mods/50363) by TheWanderer  
+Cloud Storage for Inns and Taverns. A Cloud Storage compatible Mod. This adds a Cloud Storage store 'All' chest activator to every vanilla inn and tavern in Morrowind.  
+
+[**Cloud Storage Warehouse - Storage Resource for Packrats**](https://www.nexusmods.com/morrowind/mods/50386) by TheWanderer  
+Cloud Storage Warehouse provides a cloud storage layer for Morrowind with a wide variety of powerful access activators. Incredibly easy to use and makes inventory management a joy! Weapons, Soulgems, Books, virtually everything a packrat NEEDS can be stored and accessed from any place you call home. A LUA code driven mod
+
+[**MWSE Alchemy Takes Time (inpv edit)**](https://www.nexusmods.com/morrowind/mods/50446) by inpv  
+Alchemical process now takes time, based on potion's value and player's skill. The better the potion and the lower the skill, the longer it'll take to brew it.  
+
 [**Harder Battles**](https://www.nexusmods.com/morrowind/mods/50405) by Stripes  
 Randomly fortifies attributes of NPCs and creatures when they attack the player.  
 
