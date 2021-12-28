@@ -24,3 +24,4 @@
 [**Caius' Rooftop Renovations**](https://www.nexusmods.com/morrowind/mods/50272) by Juidius Xentao  
 [**River Rock Falls**](https://www.nexusmods.com/morrowind/mods/50299) by Denina  
 [**Aldruhn Mansion**](https://www.nexusmods.com/morrowind/mods/50320) by Izi  
+[**Nur Kishar - Cosy Yurt near Gnisis**](https://www.nexusmods.com/morrowind/mods/50367) by ak0d  
