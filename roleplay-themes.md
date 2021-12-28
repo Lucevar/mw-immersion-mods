@@ -78,6 +78,7 @@ Start the game as an Ashlander. Skips the Blades portions of the main quest.
 [**Beautiful Books Volume I: Grimoires**](http://download.fliggerty.com/download-142-1198) by Stuporstar  
 [**Book of Alchemy**](http://mw.modhistory.com/download-13-7339) by Sgaileach1  
 [**Spell Tomes**](https://www.nexusmods.com/morrowind/mods/47217) by MateWushu  
+[**Daedric Primer**](https://www.nexusmods.com/morrowind/mods/50479) by BjornTjockPals  
 
 # Bounty hunter / Mercenary
 Freelancer  
