@@ -41,14 +41,14 @@ __*Lucevar's Note*__: These are fairly limited in scope - they're not full-fledg
 [**LGNPC**]()  
 [**Olyn Hleran: A Redoran Companion**](https://www.nexusmods.com/morrowind/mods/45197) by Team Mythic Beasts  
 __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see the mod page: the screenshots are fairly representative of what I mean). Mod was created for MMM2017 and may have some rough edges.  
-[**Hiring Guards for the Redoran Stronghold - Honourable Solution**](https://www.nexusmods.com/morrowind/mods/48243) by Gavrilo93  
-[**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953) by Gavrilo93  
-[**Morvayn Manor in Maar Gan**](https://www.nexusmods.com/morrowind/mods/48024) by Gavrilo93  
+[**Hiring Guards for the Redoran Stronghold - Honourable Solution**](https://www.nexusmods.com/morrowind/mods/48243) by Alice  
+[**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953) by Alice  
+[**Morvayn Manor in Maar Gan**](https://www.nexusmods.com/morrowind/mods/48024) by Alice  
 
 [**Reinforced Redoran**](https://www.nexusmods.com/morrowind/mods/42386) by bruno13069  
 [**Redoran Vault Extended**](https://www.nexusmods.com/morrowind/mods/42098) by Tarius  
 
-[**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) by Gavrilo93   
+[**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) by Alice   
 [**Redoran Council Hall Improvements**](https://www.nexusmods.com/morrowind/mods/44931?tab=files) by Kalian  
 
 ## Tribunal Temple
@@ -75,7 +75,7 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 ## Great House Telvanni
 [**LGNPC**]()
 [**Quest Tweaks and Alternatives**](https://stuporstar.sarahdimento.com/updates/downloads/) by Stuporstar  
-[**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Gavrilo93  
+[**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Alice  
 [**Uvirith's Legacy**](https://stuporstar.sarahdimento.com/updates/downloads/) by Stuporstar  
 [**Building Up Uvirith's Legacy**](http://mw.modhistory.com/download-69-11851) by Acheron & Artimis Fowl  
 [**Tel Uvirith LITE**](https://www.nexusmods.com/morrowind/mods/45615) by mala  
@@ -102,10 +102,10 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 [**More Inclusive Fighters Guild**](https://www.nexusmods.com/morrowind/mods/50284) by xxxninja666xxx
 
 ## Imperial Legion
-[**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Gavrilo93  
-[**The Fires of Orc**](https://www.nexusmods.com/morrowind/mods/44982) by Gavrilo93  
-[**Imperial Legion Expansion**](https://www.nexusmods.com/morrowind/mods/44469) by Gavrilo93  
-[**Gnisis Docks**](https://www.nexusmods.com/morrowind/mods/45994) by Gavrilo93 & PoodleSandwich  
+[**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Alice  
+[**The Fires of Orc**](https://www.nexusmods.com/morrowind/mods/44982) by Alice  
+[**Imperial Legion Expansion**](https://www.nexusmods.com/morrowind/mods/44469) by Alice  
+[**Gnisis Docks**](https://www.nexusmods.com/morrowind/mods/45994) by Alice & PoodleSandwich  
 [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich  
 
 ## Imperial Cult
@@ -116,13 +116,13 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 
 # Misc
 ## Thieves Guild
-[**Thieves Guild in Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/46754) by Gavrilo93  
+[**Thieves Guild in Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/46754) by Alice  
 [**South Wall, Den of Iniquity**](http://mw.modhistory.com/download-15-13449) by Balasthustrius    
 [**What Thieves Guild?**](http://mw.modhistory.com/download-48-13858) by von Django  
 Ever felt that for law breaking gang of thieves and robbers, finding their guild was as easy as walking into a random building? This mod aims to correct that. They're not as hard to find as the guild in oblivion, but it'll take a little more care and winning of their trust to join them now.  
 [**Strike at the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/46865) by ProfArmitage  
-[**Bal Molagmer Add-on**](https://www.nexusmods.com/morrowind/mods/48198) by Gavrilo93  
-[**Lore-Friendly Bal Molagmer Gloves**](https://www.nexusmods.com/morrowind/mods/48053) by Gavrilo93  
+[**Bal Molagmer Add-on**](https://www.nexusmods.com/morrowind/mods/48198) by Alice  
+[**Lore-Friendly Bal Molagmer Gloves**](https://www.nexusmods.com/morrowind/mods/48053) by Alice  
 [**Arantamo's Room**](https://www.nexusmods.com/morrowind/mods/48249) by Endify  
 
 ## Misc Smuggling Operations
@@ -146,14 +146,14 @@ This mod started as a simple house mod and expanded into an entire smuggling fac
 [**Quarra Clan**](http://mw.modhistory.com/download-21-4404) by Jonathan Nash  
 
 ## Ashlanders 
-[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
+[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Alice  
 Adds a number of new quests for the Ashlanders.  
 [**Trouble at Valenvaryon**](https://www.nexusmods.com/morrowind/mods/48543) by rumeely  
 
 ## Blades
 [**Blades Quest**](http://lovkullen.net/Emma/blade.htm) by Emma  
 [**The Rise of the Tribe Unmourned**](https://www.nexusmods.com/morrowind/mods/45165) by SammyB27 and Caeris  
-[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Gavrilo93  
+[**Main Quest Overhaul**](https://www.nexusmods.com/morrowind/mods/46913) by Alice  
 Adds a number of roleplaying options to the main quest, including alternate paths to completing it, the ability to turn it down completely, and a number of new quests for the Ashlanders.
 
 ## House Dagoth
@@ -166,13 +166,13 @@ Adds a number of roleplaying options to the main quest, including alternate path
 [**Nevena's Twin Lamps and Slave Hunters -- 2019 update**](https://www.nexusmods.com/morrowind/mods/47420) by Nevena and l1lartur0  
 
 ## Talos Cult
-[**The Talos Cult Conspiracy**](https://www.nexusmods.com/morrowind/mods/47576) by Gavrilo93 & Caeris  
-[**Talos Cult Revised - G93's Version**](https://www.nexusmods.com/morrowind/mods/47571) by Gavrilo93 & Cheydin  
+[**The Talos Cult Conspiracy**](https://www.nexusmods.com/morrowind/mods/47576) by Alice & Caeris  
+[**Talos Cult Revised - G93's Version**](https://www.nexusmods.com/morrowind/mods/47571) by Alice & Cheydin  
 [**Talos Cult Revised - with Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44577) by Cheydin  
 
 # New Factions
-[**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by Gavrilo93  
-[**Guild of Vampire Hunters**](https://www.nexusmods.com/morrowind/mods/45832) by Gavrilo93  
+[**Census and Excise Office Faction**](https://www.nexusmods.com/morrowind/mods/46798) by Alice  
+[**Guild of Vampire Hunters**](https://www.nexusmods.com/morrowind/mods/45832) by Alice
 [**Vvardenfell Brotherhood**](https://www.nexusmods.com/morrowind/mods/47314) by Caeris  
 [**To Serve Sithis**](https://www.nexusmods.com/morrowind/mods/45005) by Emerys  
 [**Rise of House Sadras**](https://www.nexusmods.com/morrowind/mods/45200) by RubberMan  
