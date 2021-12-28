@@ -8,6 +8,44 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # October 10th - December 28th
+[**Seph's Enemy Bars**](https://www.nexusmods.com/morrowind/mods/50577) by Sephumbra  
+A simple MWSE mod that adds more detailed health, magicka and fatigue bars to any npc or creature you look at.
+
+[**ASH Travel Tent - Cloud Storage Compatibility Addon**](https://www.nexusmods.com/morrowind/mods/50569) by The Wanderer  
+ASH Travel Tent - Cloud Storage Compatibility addon.
+
+[**Balmora South Gate House - Cloud Storage Compatibility Addon**](https://www.nexusmods.com/morrowind/mods/50568) by The Wanderer  
+This adds Cloud Storage Compatibility to the Balmora South Gate House by Chiaro22
+
+[**The Priests Hideout - Cloud Storage Compatibility Addon**](https://www.nexusmods.com/morrowind/mods/50566) by The Wanderer  
+This adds Cloud Storage Compatibility to The Priest's Hideout by Mika.
+
+[**Seyda Neen House - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/50551) by The Wanderer  
+This adds Cloud Storage Compatibility to the Seyda Neen House by MrAA.
+
+[**Glowbugs**](https://www.nexusmods.com/morrowind/mods/50538) by Melchior Dahrk and Greatness7  
+This mod adds firefly-like insects called glowbugs across the Bitter Coast region. Only coming out on calm nights, these passive insects congregate in clusters across the coast creating magical vistas for players to soak in. Glowbugs can be caught by the agile adventurer. Their thorax makes a quality component in potions of light.
+
+[**Smart Activate**](https://www.nexusmods.com/morrowind/mods/50558) by abot  
+Actors menu to choose who to activate between up to 8 nearby actors. Very useful in crowded places.  
+
+[**Tamriel Rebuilt - Almas Thirr Player Home - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50556) by The Wanderer  
+Cloud Storage addon for Almas Thirr Player Home by Vayatir  
+
+[**Tamriel Rebuilt - Sailen Player Home - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50552) by The Wanderer  
+Cloud Storage addon for Sailen Player Home by Stripes.  
+
+[**Tamriel Rebuilt - Cloud Storage for Taverns and Inns**](https://www.nexusmods.com/morrowind/mods/50541) by The Wanderer  
+Built on TR Version: Build 21.01 January 31st, 2021. Cloud Storage for Inns and Taverns. A Cloud Storage compatible Mod. This adds a Cloud Storage store 'All' chest activator to every inn and tavern in Tamriel Rebuilt.
+
+[**Simpler Balmora Home - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50535) by The Wanderer  
+This adds Cloud Storage Compatibility to the Simpler Balmora Player Home.  
+
+[**WMD Weapons of Misc Distraction**](https://www.nexusmods.com/morrowind/mods/50530) by Stripes  
+Throw misc items - for use with Douse the Lights and Distraction.  
+
+[**On the Move - Ashlander Tent - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50521) by TheWanderer  
+
 [**Clockwork City Map for Map and Compass**](https://www.nexusmods.com/morrowind/mods/50520) by Kalinter  
 This mod adds a map for the Sotha Sil Expanded (by TeamSSE and Trainwiz) version of Clockwork City that is usable in game with the Map and Compass Mod (by JaceyS).
 
