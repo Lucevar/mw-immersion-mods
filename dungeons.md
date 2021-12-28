@@ -240,7 +240,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 ## Daedric Shrines - Mehrunes Dagon
 **Ald Sotha** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [Severa Magia DB Fix](https://www.nexusmods.com/morrowind/mods/45647)  
 **Ashalmimilkala**  
-**Assarnatamat** - [**Assarnatamat Overhaul**](https://www.nexusmods.com/morrowind/mods/50427)    
+**Assarnatamat** - [**Assarnatamat Expansion**](https://www.nexusmods.com/morrowind/mods/50427)    
 **Assernerairan**  
 **Assurnabitashpi**  
 **Ebernanit**  
