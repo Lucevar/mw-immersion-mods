@@ -101,6 +101,7 @@ Duke's Silver Armor:
 [**Complete Dukes Guard Armor**](https://www.nexusmods.com/morrowind/mods/50481) by RuffinVangarr  
 [**Full and revised dragonscale set**](https://www.nexusmods.com/morrowind/mods/50476) by stefan19rkc  
 [**Godrngheid the Smith - Malgobatra's Skyrim Armors Translated and Integrated**](https://www.nexusmods.com/morrowind/mods/50391) by KarevKid & Malbogatra  
+[**Dwarf Style Mage Hat**](https://www.nexusmods.com/morrowind/mods/50523) by AllanBorne  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
