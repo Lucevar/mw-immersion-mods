@@ -5,6 +5,8 @@ Updated: 28th December 2021
 [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102) by Hrnchamd & MGE Team   
 Make sure to get [**DirectX 9.0c**](https://www.microsoft.com/en-us/download/details.aspx?id=35) as well - yes, future me reading this, it does have to be THIS version of DirectX. MWSE is included in this installer. Make sure to run MWSE-update.exe.    
 [**Wrye Mash (Polemos Fork) 2018**](https://www.nexusmods.com/morrowind/mods/45439) by Polemos & Wrye  
+[**FNVulkan - Performance Boost using DXVK**](https://www.nexusmods.com/newvegas/mods/73800) by gingerdeadshot  
+It was made for FNV but it works for Morrowind too! If you have a graphics card that supports Vulkan, you'll probably see a hefty FPS boost if you use this. Results may vary though. Personally I get 10-15 extra FPS in Vivec, Temple, which is traditionally one of the laggiest parts of my game.  
 
 ## Utilities for Mod-Makers
 [**TES3 Construction Set**](https://www.nexusmods.com/morrowind/mods/42196) by Bethesda  
