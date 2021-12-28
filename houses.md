@@ -25,3 +25,13 @@
 [**River Rock Falls**](https://www.nexusmods.com/morrowind/mods/50299) by Denina  
 [**Aldruhn Mansion**](https://www.nexusmods.com/morrowind/mods/50320) by Izi  
 [**Nur Kishar - Cosy Yurt near Gnisis**](https://www.nexusmods.com/morrowind/mods/50367) by ak0d  
+[**Morrowind Housing**](https://www.nexusmods.com/morrowind/mods/50498) by Mac  
+
+## Cloud Storage Compatible
+[**Cloud Storage Warehouse - Storage Resource for Packrats**](https://www.nexusmods.com/morrowind/mods/50386) by TheWanderer  
+
+[**The Wanderer's Stashes - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50494) by TheWanderer  
+[**The Wanderer's Lodge - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50422) by TheWanderer  
+[**Rethan Manor - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50390) by TheWanderer  
+[**The Explorers Magical Bag - Cloud Storage Compatible Bag of Holding**](https://www.nexusmods.com/morrowind/mods/50366) by TheWanderer  
+[**Cloud Storage for Inns and Taverns**](https://www.nexusmods.com/morrowind/mods/50363) by TheWanderer  
