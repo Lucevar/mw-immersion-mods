@@ -594,6 +594,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**NERS Continued**](https://www.nexusmods.com/morrowind/mods/50438) by Amyrha  
 [**Lost Amulet of Almalexia**](https://www.nexusmods.com/morrowind/mods/50503) by Kragos  
 [**French Wave**](https://www.nexusmods.com/morrowind/mods/50497) by wazabear  
+[**TOWER_beta**](https://www.nexusmods.com/morrowind/mods/50540) by Alexis  
 
 # Province Mods
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Tamriel Rebuilt and Project Tamriel  
