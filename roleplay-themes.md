@@ -140,6 +140,7 @@ Includes an Argonian companion
 * [**Frozen in Time**](https://www.nexusmods.com/morrowind/mods/50077) by Billyfighter  
 * [**MTR Daedric Offerings**](https://www.nexusmods.com/morrowind/mods/49697) by MTR  
 * [**Daedric Travel Network**](https://www.nexusmods.com/morrowind/mods/50414) by Stripes  
+* [**Blessings of the Imperial Cult and Good Daedra**](https://www.nexusmods.com/morrowind/mods/50444) by artemgur  
 
 ## Sheogorath
 * [**Throwable Eggs**](https://www.nexusmods.com/morrowind/mods/46446)
@@ -208,6 +209,7 @@ Adds a number of roleplaying options to the main quest, including alternate path
 * [**Hlormaren Reclaimed - Slightly Improved**](https://www.nexusmods.com/morrowind/mods/47301) by Gavrilo93  
 * [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
 * [**Legion Field Gear**](https://www.nexusmods.com/morrowind/mods/49621) by Endoran  
+* [**Blessings of the Imperial Cult and Good Daedra**](https://www.nexusmods.com/morrowind/mods/50444) by artemgur  
 
 # Merchant
 [**Wages and Bonds**](https://www.nexusmods.com/morrowind/mods/46394)  
