@@ -219,6 +219,7 @@ Includes an inn you can buy.
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
 * [**Sorkvild the Raven (Evermore)**](https://www.nexusmods.com/morrowind/mods/46320?)
 * [**Way of the Necromancer Redux**](https://www.nexusmods.com/morrowind/mods/50343) by Balasthustrius and Danae  
+* [**Trophy Taker**](https://www.nexusmods.com/morrowind/mods/50345) by Revacholiere  
 
 ## Orc
 [**The Fires of Orc**](https://www.nexusmods.com/morrowind/mods/44982) by Gavrilo93  
