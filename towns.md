@@ -39,6 +39,7 @@
 [**Intervention Improved**](https://www.nexusmods.com/morrowind/mods/43267) by Hollaajith  
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by Necrolesian  
 [**More Habitable Common Sleeping Areas for Guilds and Factions**](https://www.nexusmods.com/morrowind/mods/50349) by AlanH42  
+[**Immersive Tables**](https://www.nexusmods.com/morrowind/mods/50389) by Corsair  
 
 # Tamriel Rebuilt
 [**Unique Tavern Signs for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/46794) by Rats  
