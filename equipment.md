@@ -97,7 +97,8 @@ Duke's Silver Armor:
 [**Panoplies -- Helluva Ways to Suit Up**](https://www.nexusmods.com/morrowind/mods/50430) by Danae  
 [**Fashionwind - Glasses and Goggles**](https://www.nexusmods.com/morrowind/mods/50448) by Safebox and RuffinVangarr  
 [**Onion - Layered Headwear and Facial Wear**](https://www.nexusmods.com/morrowind/mods/50352) by Safebox  
-
+[**Danke's Dishonored Mask - Dwemerised**](https://www.nexusmods.com/morrowind/mods/50471) by AllanBorne  
+[**Complete Dukes Guard Armor**](https://www.nexusmods.com/morrowind/mods/50481) by RuffinVangarr  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
