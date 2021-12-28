@@ -122,6 +122,7 @@ Includes an Argonian companion
 * Statue of Azura  
 * [**Reclamations in Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimevelho  
 * [**The Doors of Oblivion**](https://www.nexusmods.com/morrowind/mods/44398) by Ashtaar  
+* [**The Doors of Oblivion Levelled List Integration**](https://www.nexusmods.com/morrowind/mods/50418) by Wyrmalla  
 * [**Apostates to Oblivion**](http://mw.modhistory.com/download-68-10394) by Atropos    
 * [**Actual Big Head**](https://www.nexusmods.com/morrowind/mods/44042) by Leyawynn  
 * Big Head's Big Head  
