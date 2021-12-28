@@ -17,6 +17,7 @@
 [**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903) by Melchior Dahrk  
 [**Mistify**](https://www.nexusmods.com/morrowind/mods/48112) by Melchior Dahrk  
 [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435) by Melchior Dahrk  
+[**Vapourmist**](https://www.nexusmods.com/morrowind/mods/50517) by tewlwolow  
 [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973) by Tewlwolow  
 [**The Blight**](https://www.nexusmods.com/morrowind/mods/49504) by OperatorJack and Greatness7  
 [**Fallen Ash**](https://www.nexusmods.com/morrowind/mods/48711) by NullCascade and Greatness7  
