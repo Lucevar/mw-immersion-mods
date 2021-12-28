@@ -30,6 +30,7 @@
 [**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886) by Melchior Dahrk  
 [**Nords Shut Your Windows**](https://www.nexusmods.com/morrowind/mods/50087) by Vegetto  
 [**Graphic Herbalism**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
+[**Glowbugs**](https://www.nexusmods.com/morrowind/mods/50538) by Melchior Dahrk and Greatness7  
 
 ## Items
 [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
