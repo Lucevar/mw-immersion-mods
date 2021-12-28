@@ -26,6 +26,7 @@
 [**Aldruhn Mansion**](https://www.nexusmods.com/morrowind/mods/50320) by Izi  
 [**Nur Kishar - Cosy Yurt near Gnisis**](https://www.nexusmods.com/morrowind/mods/50367) by ak0d  
 [**Morrowind Housing**](https://www.nexusmods.com/morrowind/mods/50498) by Mac  
+[**Bunkering with Fargoth**](https://www.nexusmods.com/morrowind/mods/50543) by Tel Shadow  
 
 ## Cloud Storage Compatible
 [**Cloud Storage Warehouse - Storage Resource for Packrats**](https://www.nexusmods.com/morrowind/mods/50386) by TheWanderer  
@@ -36,3 +37,7 @@
 [**The Explorers Magical Bag - Cloud Storage Compatible Bag of Holding**](https://www.nexusmods.com/morrowind/mods/50366) by TheWanderer  
 [**Cloud Storage for Inns and Taverns**](https://www.nexusmods.com/morrowind/mods/50363) by TheWanderer  
 [**On the Move - Ashlander Tent - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50521) by TheWanderer  
+[**Simpler Balmora Home - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50535) by The Wanderer  
+[**Tamriel Rebuilt - Cloud Storage for Taverns and Inns**](https://www.nexusmods.com/morrowind/mods/50541) by The Wanderer  
+[**Tamriel Rebuilt - Sailen Player Home - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50552) by The Wanderer  
+[**Tamriel Rebuilt - Almas Thirr Player Home - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50556) by The Wanderer  
