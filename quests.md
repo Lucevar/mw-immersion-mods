@@ -146,6 +146,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Dagoth's Chosen**](https://www.nexusmods.com/morrowind/mods/31429) by Von Djangos  
 
 ### Post Main Quest Mods
+[**By Azura**](https://www.nexusmods.com/morrowind/mods/50567) by Lamb Shark  
 [**Vivec's Fate: The Ashlander Heresy**](http://mw.modhistory.com/download-53-10736) by Brother Juniper  
 [**After the Blight**](https://www.nexusmods.com/morrowind/mods/46099) by Team Purist Pariahs  
 [**The Rise of the Tribe Unmourned**](https://www.nexusmods.com/morrowind/mods/45165) by Caeris  
@@ -595,6 +596,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Lost Amulet of Almalexia**](https://www.nexusmods.com/morrowind/mods/50503) by Kragos  
 [**French Wave**](https://www.nexusmods.com/morrowind/mods/50497) by wazabear  
 [**TOWER_beta**](https://www.nexusmods.com/morrowind/mods/50540) by Alexis  
+[**Morrowind Zombie Apocalypse**](https://www.nexusmods.com/morrowind/mods/50579) by Jawohl  
 
 # Province Mods
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Tamriel Rebuilt and Project Tamriel  
@@ -619,6 +621,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Starwind Endor**](https://www.nexusmods.com/morrowind/mods/50356) by Billyfighter  
 [**Starwind Enhanced**](https://www.nexusmods.com/morrowind/mods/50484) by Billyfighter  
 [**Jiub Onasi Companion for Starwind**](https://www.nexusmods.com/morrowind/mods/50554) by kvatchcount  
+[**Starwind Christmas**](https://www.nexusmods.com/morrowind/mods/50575) by Ignatious  
 
 ## Others
 [**Duskpoint**](https://www.nexusmods.com/morrowind/mods/45117) by Waspinator1998  
