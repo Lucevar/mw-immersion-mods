@@ -172,6 +172,7 @@ Has a version which is compatible with Dramatic Vivec
 [**Library of Vivec Enhanced**](https://www.nexusmods.com/morrowind/mods/50181) by Duo Dynamico  
 [**Simple Vivec Library Overhaul**](https://www.nexusmods.com/morrowind/mods/50189) by RandomPal  
 [**Imperial Altar in Vivec**](https://www.nexusmods.com/morrowind/mods/50273) by Tyermala  
+[**Waterfall Lights Remover**](https://www.nexusmods.com/morrowind/mods/50437) by Necrolesian  
 
 [**Crassius Curio's Argonian Maid**](https://www.nexusmods.com/morrowind/mods/49923) by AmazinglyRandi  
 [**Crassius Curio's Weekly Pilgrimage**](https://www.nexusmods.com/morrowind/mods/49927) by AmazinglyRandi  
@@ -266,6 +267,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 [**Molag Mar**](https://www.nexusmods.com/morrowind/mods/49005) by N'wahs and Mushrooms  
 [**Sacred Molag Mar - Town of Pilgrims**](https://www.nexusmods.com/morrowind/mods/49392) by Mika  
 [**Arvesa - An Armiger's Tale**](https://www.nexusmods.com/morrowind/mods/50306) by Orion  
+[**Waterfall Lights Remover**](https://www.nexusmods.com/morrowind/mods/50437) by Necrolesian  
 
 ## Tel Uvirith
 [**Uvirith's Legacy**](http://stuporstar.sarahdimento.com/updates/downloads/) by Stuporstar
