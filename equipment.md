@@ -95,6 +95,9 @@ Duke's Silver Armor:
 [**Native Dunmer Ebony Armor Replacer and Standalone**](https://www.nexusmods.com/morrowind/mods/50375) by ak0d  
 [**Glorier of Rivia**](https://www.nexusmods.com/morrowind/mods/50388) by karevkid  
 [**Panoplies -- Helluva Ways to Suit Up**](https://www.nexusmods.com/morrowind/mods/50430) by Danae  
+[**Fashionwind - Glasses and Goggles**](https://www.nexusmods.com/morrowind/mods/50448) by Safebox and RuffinVangarr  
+[**Onion - Layered Headwear and Facial Wear**](https://www.nexusmods.com/morrowind/mods/50352) by Safebox  
+
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
