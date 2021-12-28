@@ -43,6 +43,7 @@
 [**Retextured Ebony Armor**](https://www.nexusmods.com/morrowind/mods/50463) by bearhead86  
 [**Unique Tombs**](https://www.nexusmods.com/morrowind/mods/50496) by tronvillain  
 [**Daedric Armor Glowmap Replacer**](https://www.nexusmods.com/morrowind/mods/50511) by Librius  
+[**All Books Color-Coded and Designed**](https://www.nexusmods.com/morrowind/mods/50536) by XeroFoxx  
 
 # Mod Replacers
 [**Red sclera eyes for Julan**](https://www.nexusmods.com/morrowind/mods/47277?tab=description) by Leetmorry  
