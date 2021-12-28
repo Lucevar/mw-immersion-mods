@@ -61,6 +61,7 @@
 [**Alvur Relds**](https://www.nexusmods.com/morrowind/mods/49064) by Ashtaar  
 [**Bendu-Olo Templar Armor**](https://www.nexusmods.com/morrowind/mods/49073) by Ashtaar  
 [**Sload and Slavers**](https://www.nexusmods.com/morrowind/mods/49074) by Ashtaar  
+[**Morrowind Working Girls**](https://www.nexusmods.com/morrowind/mods/50338) by DingusTrashCanus  
 
 ## New Handplaced Enemies
 [**Smugglers and Pirates**](https://www.nexusmods.com/morrowind/mods/44914) by Darusthemodder  
