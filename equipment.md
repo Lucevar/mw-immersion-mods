@@ -92,6 +92,7 @@ Duke's Silver Armor:
 [**Tattoo Shirts for Males**](https://www.nexusmods.com/morrowind/mods/50315) by AlandroSul  
 [**Female Vampire Outfit**](https://mw.modhistory.com/download-35-14443) by e-bride  
 [**SM Bone Helmet-Shell**](https://www.nexusmods.com/morrowind/mods/50355) by ShadowMimicry  
+[**Native Dunmer Ebony Armor Replacer and Standalone**](https://www.nexusmods.com/morrowind/mods/50375) by ak0d  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
