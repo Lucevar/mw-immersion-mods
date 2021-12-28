@@ -116,3 +116,6 @@ No saving in battle!
 [**Subtle Annimated Menu Background Assemble SAMBA**](https://www.nexusmods.com/morrowind/mods/50037) by Vegetto  
 [**Morrowind Definitive Menu Animation**](https://www.nexusmods.com/morrowind/mods/50080) by Duo Dinamico  
 [**Sunrise Over Vvardenfell (Animated Main Menu Replacer)**](https://www.nexusmods.com/morrowind/mods/50282) by StannieDum  
+
+## Videos 
+[**Unstretched Videos**](https://www.nexusmods.com/morrowind/mods/50482) by Necrolesian  
