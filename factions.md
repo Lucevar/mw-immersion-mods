@@ -112,6 +112,7 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 [**Illy's Oh My Goddess**](http://mw.modhistory.com/download-4-14546) by Illuminiel  
 [**The Divines**](https://www.nexusmods.com/morrowind/mods/40784) by Ratfink333  
 [**Imperial Cult Templar Armour**](https://www.nexusmods.com/morrowind/mods/48233) by FrankG2229  
+[**Blessings of the Imperial Cult and Good Daedra**](https://www.nexusmods.com/morrowind/mods/50444) by artemgur  
 
 # Misc
 ## Thieves Guild
