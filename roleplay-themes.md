@@ -196,6 +196,7 @@ Farmer mod
 * [**Shinies**](https://www.nexusmods.com/morrowind/mods/48903) by Danae  
 * [**Booze for Purists**](https://www.nexusmods.com/morrowind/mods/48914) by Danae  
 * [**The Great Gold Egg Hunt**](https://www.nexusmods.com/morrowind/mods/49396) by XeroFoxx  
+* [**Collectible Mini Armor Display**](https://www.nexusmods.com/morrowind/mods/50524) by TheWanderer  
 
 # Imperial Loyalist
 * [**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Gavrilo93  
@@ -277,6 +278,7 @@ Rubberman sharpen mod
 * [**Trouble at Sea**](http://mw.modhistory.com/download-53-12731) by Danjb  
 * [**Sea Dog Tavern**](https://www.nexusmods.com/morrowind/mods/49978) by Billyfighter  
 * [**Hooms Ahoy**](https://www.nexusmods.com/morrowind/mods/50281) by Hoogwauts  
+* [**Morrowind Fishing**](https://www.nexusmods.com/morrowind/mods/50531) by LegoManIAm94  
 
 # Slave
 [**Slave Bracers Revamped**](https://www.nexusmods.com/morrowind/mods/32493) by xception  
