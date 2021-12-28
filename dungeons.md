@@ -164,7 +164,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Hassour** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Hinnabi** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Ibar-Dad** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Ilunibi** - [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
+**Ilunibi** - [**New Ilunibi**](https://www.nexusmods.com/morrowind/mods/50393), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
 **Kora-Dur** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
 **Kudanat** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Kumarahaz** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
