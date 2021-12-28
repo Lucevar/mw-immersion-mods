@@ -34,13 +34,14 @@ Speaking of life-saving mods, this one fixes a bug where Morrowind will often ha
 [**Memory Monitor**](https://www.nexusmods.com/morrowind/mods/45696) by NullCascade  
 This simple mod provides an in-game HUD element as the game approaches critical memory limits. At a critical threshold, it can prompt to save and quit.  
 
-## Performance Tweaks
-[**Morrowind Optimisation Patch**](https://www.nexusmods.com/morrowind/mods/45384) by Greatness7 and Remiros  
-[**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by Project Atlas Team  
-
 ## Graphics Enhancers
 [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros  
 [**Remiros' Groundcover**](https://www.nexusmods.com/morrowind/mods/46733) by Remiros
+
+## Performance Tweaks
+[**Morrowind Optimisation Patch**](https://www.nexusmods.com/morrowind/mods/45384) by Greatness7 and Remiros  
+[**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by Project Atlas Team  
+[**Intelligent Textures - Atlas Textures patch**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros
 
 ## Character Visuals
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by Greatness7 & the MMC Community  
