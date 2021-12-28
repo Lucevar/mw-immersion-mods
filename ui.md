@@ -1,5 +1,9 @@
 # UI
 
+## Menus
+[**Ruby UI Mashup**](https://www.nexusmods.com/morrowind/mods/50512) by BjornTjockPals Sir Bob Innicin jiffyadvent Arukinn  
+[**Skyrim UI Overhaul for Morrowind**](https://www.nexusmods.com/morrowind/mods/43039) by mikeandike  
+
 ## HUD
 [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
 [**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455) by JaceyS  
