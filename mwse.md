@@ -7,6 +7,31 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
+# October 10th - December 28th
+[**Harder Battles**](https://www.nexusmods.com/morrowind/mods/50405) by Stripes  
+Randomly fortifies attributes of NPCs and creatures when they attack the player.  
+
+[**Slaughtery Slaughterfish**](https://www.nexusmods.com/morrowind/mods/50376) by Stripes  
+Slaughterfish attack NPCs that swim near them. Requires MWSE  
+
+[**Safety in Numbers**](https://www.nexusmods.com/morrowind/mods/50370) by Stripes  
+When resting with one or more companions following you, you will not be interrupted by region creatures. Requires MWSE  
+
+[**Ahead of the Classes**](https://www.nexusmods.com/morrowind/mods/50346) by Danae & Merlord   
+100+ classes (vanilla, NPC classes, TR classes, new classes) that get a specific set of items and/or spells and powers as well as MWSE skill buffs. specifically tailored to your class. Loadouts include vanilla, TR, OAAB, and, depending on your modlist, **items from your mods.** Includes custom classes.
+
+[**Trophy Taker**](https://www.nexusmods.com/morrowind/mods/50345) by Revacholiere  
+Create dynamically-named trophies from any defeated enemy.
+
+[**Feedbag - Feed the Beasties and Earn Your Doolittle Doctorate**](https://www.nexusmods.com/morrowind/mods/50340) by Duskwulf  
+If you've ever wanted to be able to feed Morrowind's diverse array of critters rather than having to murder them, this is the mod for you. Feedbag is for the pacifist animal-lovers. (Especially those with a Kirkbride-esque appreciation of big bugs.)
+
+[**WulfLib**](https://www.nexusmods.com/morrowind/mods/50339) by Duskwulf  
+A library of shared data used by my Bonk and Feedbag mods (and maybe others in the future).
+
+[**MWSE-Lua NPC Birthsigns**](https://www.nexusmods.com/morrowind/mods/50337) by abot  
+Gives birthsign abilities to NPCs, on combat start/when a follower is activated by player as this should cover any NPC potentially using them
+
 # New September 26th - October 9th
 [**Trays Itemized MWSE**](https://www.nexusmods.com/morrowind/mods/50318) by Stripes  
 Static trays are replaced with misc items
