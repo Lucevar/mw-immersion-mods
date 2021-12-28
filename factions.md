@@ -9,6 +9,7 @@ __*Lucevar's Note*__
 [**Imperial Factions**](https://www.nexusmods.com/morrowind/mods/49855) by Danae  
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by Necrolesian  
 [**Privileges and Services**](https://www.nexusmods.com/morrowind/mods/50403) by Arcimaestro Antares  
+[**Privileges and Services & Mage Robes Patch**](https://www.nexusmods.com/morrowind/mods/50408) by salvatoremaranzano  
 
 # Dunmer Great Houses & Temple
 ## Great House Hlaalu
