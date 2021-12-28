@@ -40,8 +40,6 @@ This simple mod provides an in-game HUD element as the game approaches critical 
 
 ## Performance Tweaks
 [**Morrowind Optimisation Patch**](https://www.nexusmods.com/morrowind/mods/45384) by Greatness7 and Remiros  
-[**Project Atlas**](https://www.nexusmods.com/morrowind/mods/45399) by Project Atlas Team  
-[**Intelligent Textures - Atlas Textures patch**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros
 
 ## Character Visuals
 [**Weapon Sheathing**](https://www.nexusmods.com/morrowind/mods/46069) by Greatness7 & the MMC Community  
