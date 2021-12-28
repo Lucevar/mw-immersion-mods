@@ -585,6 +585,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Urban JRPG Project Intro in Seyda Neen**](https://www.nexusmods.com/morrowind/mods/50025) by Booskas Wrath  
 [**Randar's Smithy**](https://www.nexusmods.com/morrowind/mods/50300) by Denina  
 [**The Underground 2 Super Patched**](https://www.nexusmods.com/morrowind/mods/50321) by Qarl & Varil92  
+[**Lagoon Island**](https://www.nexusmods.com/morrowind/mods/50401) by Space Goonie  
 
 # Province Mods
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Tamriel Rebuilt and Project Tamriel  
