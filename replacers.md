@@ -40,6 +40,7 @@
 [**Tarhiel's Journal**](https://www.nexusmods.com/morrowind/mods/50440) by Endoran  
 [**Vanilla water textures for OAAB and TR fake water meshes**](https://www.nexusmods.com/morrowind/mods/50459) by RandomPal  
 [**Leafy Trees Revived**](https://www.nexusmods.com/morrowind/mods/50461) by borok  
+[**Retextured Ebony Armor**](https://www.nexusmods.com/morrowind/mods/50463) by bearhead86  
 
 # Mod Replacers
 [**Red sclera eyes for Julan**](https://www.nexusmods.com/morrowind/mods/47277?tab=description) by Leetmorry  
