@@ -86,6 +86,7 @@
 [**Hul, Stop**](https://www.nexusmods.com/morrowind/mods/47121) by PoodleSandwich  
 [**Fancy Barenziah**](https://www.nexusmods.com/morrowind/mods/49009) by qwertyquit  
 [**Emerald Armor (Orvas Dren)**](https://www.nexusmods.com/morrowind/mods/49051) by Anroha  
+[**Saprius Disguised**](https://www.nexusmods.com/morrowind/mods/50377) by Tyermala  
 
 ### Sorkvild the Raven
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
