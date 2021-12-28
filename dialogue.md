@@ -22,6 +22,7 @@
 [**Immersive Omens and Fortune Tellers**](https://www.nexusmods.com/morrowind/mods/49026) by super1422223   
 [**Relevant Rumors**](https://www.nexusmods.com/morrowind/mods/49650) by Elanhant  
 [**Dual Faction Membership**](https://www.nexusmods.com/morrowind/mods/49885) by Alice  
+[**Gender Neutral Morrowind**](https://www.nexusmods.com/morrowind/mods/50464) by raptorialclaw  
 
 ## Audio
 [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero  
