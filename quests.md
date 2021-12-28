@@ -439,6 +439,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**The Doors of Oblivion**](https://www.nexusmods.com/morrowind/mods/44398) by Ashtaar  
 [**The Doors of Oblivion Mesh Fixes**](https://www.nexusmods.com/morrowind/mods/46374) by Qwertyquit  
 [**The Doors of Oblivion - Caprice Upscale**](https://www.nexusmods.com/morrowind/mods/50291) by ikesorea  
+[**The Doors of Oblivion Levelled List Integration**](https://www.nexusmods.com/morrowind/mods/50418) by Wyrmalla  
 [**Daedric Sorcery**](https://mw.modhistory.com/download-68-4488) by EdwardsMD  
 [**Snakes on a Place (of Oblivion)**](https://www.nexusmods.com/morrowind/mods/9975) by CowGuru  
 [**The Demon of Knowledge**](https://www.nexusmods.com/morrowind/mods/46126) by Team Sexy Sloads  
