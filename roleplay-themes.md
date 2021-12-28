@@ -136,6 +136,7 @@ Includes an Argonian companion
 * [**Pimp My Shrine - Legend of Vernaccus**](https://www.nexusmods.com/morrowind/mods/49173) by Team Scuttling Scribs  
 * [**Frozen in Time**](https://www.nexusmods.com/morrowind/mods/50077) by Billyfighter  
 * [**MTR Daedric Offerings**](https://www.nexusmods.com/morrowind/mods/49697) by MTR  
+* [**Daedric Travel Network**](https://www.nexusmods.com/morrowind/mods/50414) by Stripes  
 
 ## Sheogorath
 * [**Throwable Eggs**](https://www.nexusmods.com/morrowind/mods/46446)
