@@ -103,7 +103,7 @@
 [**Trackless Grazelands**](https://www.nexusmods.com/morrowind/mods/44194) by R-zero  
 [**OAAB Golden Reeds**](https://www.nexusmods.com/morrowind/mods/49045?tab=files) by Melchior Dahrk  
 [**Sea Dog Tavern**](https://www.nexusmods.com/morrowind/mods/49978) by Billyfighter  
-[**Dwemer's Vestiges**](https://www.nexusmods.com/morrowind/mods/50455) by Duo Dinamico  
+[**Dwemer's Vestiges**](https://www.nexusmods.com/morrowind/mods/50455) by Vegetto  
 
 ## Sheogorad
 [**The Grove of Ben'Abi**](https://www.nexusmods.com/morrowind/mods/46137) by Remiros  
