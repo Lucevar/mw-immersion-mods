@@ -78,6 +78,8 @@ Updates vanilla classes to be more useable, makes NPC classes playable, adds a v
 
 [**Written in the Stars**](https://www.nexusmods.com/morrowind/mods/50378) by Danae  
 
+[**Powers-Based Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/50384) by bloodskalbarbarian  
+
 # New Starting Equipment
 [**Personal Effects**](https://www.nexusmods.com/morrowind/mods/45338) by R-Zero  
 If you start as one of the vanilla classes, gain items based on your class instead of the vanilla 87 gold.  
