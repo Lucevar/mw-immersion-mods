@@ -17,6 +17,8 @@
 [**Imperial Armour Expanded - Beta**](https://www.nexusmods.com/morrowind/mods/49330) by Endoran  
 [**New Imperial Helms**](https://www.nexusmods.com/morrowind/mods/49448) by grVulture  
 [**Smart Heads**](https://www.nexusmods.com/morrowind/mods/50098) by abot  
+[**Complete Dukes Guard Armor**](https://www.nexusmods.com/morrowind/mods/50481) by RuffinVangarr  
+[**Canine Guards**](https://www.nexusmods.com/morrowind/mods/50483) by undertaker1974  
 
 ## Pubs and Taverns
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) by Half11  
