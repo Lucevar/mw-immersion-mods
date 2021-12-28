@@ -99,6 +99,7 @@ Duke's Silver Armor:
 [**Onion - Layered Headwear and Facial Wear**](https://www.nexusmods.com/morrowind/mods/50352) by Safebox  
 [**Danke's Dishonored Mask - Dwemerised**](https://www.nexusmods.com/morrowind/mods/50471) by AllanBorne  
 [**Complete Dukes Guard Armor**](https://www.nexusmods.com/morrowind/mods/50481) by RuffinVangarr  
+[**Full and revised dragonscale set**](https://www.nexusmods.com/morrowind/mods/50476) by stefan19rkc  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
