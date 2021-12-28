@@ -226,6 +226,7 @@ Includes an inn you can buy.
 Join an Orcish clan and do quests for them.  
 [**Yashga Orc Companion**](https://www.nexusmods.com/morrowind/mods/45734) by AlandroSul  
 Be joined on your adventures by Yashga.  
+[**Nur Kishar - Cosy Yurt near Gnisis**](https://www.nexusmods.com/morrowind/mods/50367) by ak0d  
 
 # Ordinary Joe
 * [**Imperial Employment Agency, MD Edit**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk  
