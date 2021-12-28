@@ -42,6 +42,8 @@
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by Necrolesian  
 [**More Habitable Common Sleeping Areas for Guilds and Factions**](https://www.nexusmods.com/morrowind/mods/50349) by AlanH42  
 [**Immersive Tables**](https://www.nexusmods.com/morrowind/mods/50389) by Corsair  
+[**Telvanni Expansion**](https://www.nexusmods.com/morrowind/mods/50525) by Kragos  
+[**Cantons on the Global Map**](https://www.nexusmods.com/morrowind/mods/50534) by Hemaris  
 
 # Tamriel Rebuilt
 [**Unique Tavern Signs for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/46794) by Rats  
@@ -358,6 +360,7 @@ or
 [**Balmora The Awakening**](https://www.nexusmods.com/morrowind/mods/49465) by Mika  
 [**Dallara Balmora**](https://www.nexusmods.com/morrowind/mods/49669) by Dallara  
 [**Hlaalu Council Manor Overhaul**](https://www.nexusmods.com/morrowind/mods/50164) by RandomPal  
+[**Odai Riverbed**](https://www.nexusmods.com/morrowind/mods/50515) by multiple  
 
 [**Fort Moonmoth Expanded**](https://www.nexusmods.com/morrowind/mods/46963) by Yommumoi  
 [**Moonmoth Legion Fort Overhaul**](https://www.nexusmods.com/morrowind/mods/48835) by RandomPal  
