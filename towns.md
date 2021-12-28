@@ -271,6 +271,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 [**Sacred Molag Mar - Town of Pilgrims**](https://www.nexusmods.com/morrowind/mods/49392) by Mika  
 [**Arvesa - An Armiger's Tale**](https://www.nexusmods.com/morrowind/mods/50306) by Orion  
 [**Waterfall Lights Remover**](https://www.nexusmods.com/morrowind/mods/50437) by Necrolesian  
+[**Sloadic Transports**](https://www.nexusmods.com/morrowind/mods/50546) by Ashtaar and Melchior Dahrk  
 
 ## Tel Uvirith
 [**Uvirith's Legacy**](http://stuporstar.sarahdimento.com/updates/downloads/) by Stuporstar
