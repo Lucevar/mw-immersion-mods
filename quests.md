@@ -355,6 +355,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**The Frostmoth Smugglers - Properly Rewarded**](https://www.nexusmods.com/morrowind/mods/47409) by Alice  
 [**Solstheim Rumor Fix - Fixed**](https://www.nexusmods.com/morrowind/mods/47053) by Alice  
 [**Chieftain of Thirsk and Blodskaal**](https://www.nexusmods.com/morrowind/mods/50309) by Alice  
+[**Preferred Pronouns - Thirsk a History**](https://www.nexusmods.com/morrowind/mods/50413) by HMCascade  
 
 ## New Quests
 [**Hircine's Quest**](https://www.nexusmods.com/morrowind/mods/47651) by Danae & Alice  
