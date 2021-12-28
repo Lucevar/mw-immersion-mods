@@ -54,6 +54,9 @@ Improves the vanilla classes by changing the skills they use to make more sense.
 [**Pianobadger's Class Mod**](https://www.nexusmods.com/morrowind/mods/47958) by Pianobadger  
 Updates vanilla classes to be more useable, makes NPC classes playable, adds a variety of new classes.  
 
+[**Ahead of the Classes**](https://www.nexusmods.com/morrowind/mods/50346) by Danae & Merlord  
+100+ classes (vanilla, NPC classes, TR classes, new classes) that get a specific set of items and/or spells and powers as well as MWSE skill buffs. specifically tailored to your class. Loadouts include vanilla, TR, OAAB, and, depending on your modlist, **items from your mods.** Includes custom classes.
+
 # Starting Abilities and Powers
 [**Beast Race Abilities Toggleable**](https://www.nexusmods.com/morrowind/mods/44948) by PhDinSorcery  
 
@@ -73,6 +76,8 @@ Updates vanilla classes to be more useable, makes NPC classes playable, adds a v
 
 [**Interesting Races**](https://www.nexusmods.com/morrowind/mods/50192) by lorien  
 
+[**Written in the Stars**](https://www.nexusmods.com/morrowind/mods/50378) by Danae  
+
 # New Starting Equipment
 [**Personal Effects**](https://www.nexusmods.com/morrowind/mods/45338) by R-Zero  
 If you start as one of the vanilla classes, gain items based on your class instead of the vanilla 87 gold.  
@@ -82,6 +87,9 @@ Adds starting equipment, based on the items seen in the images in the class sele
 
 [**Adventurer Starter Pack**](https://www.nexusmods.com/morrowind/mods/47295) by Gavrilo93  
 For 500 gold you will have the opportunity to buy an "adventurer starter pack" with useful potions, torches and repair hammers from Arrille.  
+
+[**Ahead of the Classes**](https://www.nexusmods.com/morrowind/mods/50346) by Danae & Merlord  
+100+ classes (vanilla, NPC classes, TR classes, new classes) that get a specific set of items and/or spells and powers as well as MWSE skill buffs. specifically tailored to your class. Loadouts include vanilla, TR, OAAB, and, depending on your modlist, **items from your mods.** Includes custom classes.
 
 # New Starting Locations
 
