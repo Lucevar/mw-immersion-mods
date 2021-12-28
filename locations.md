@@ -99,6 +99,7 @@
 [**Rocky West Gash**](https://www.nexusmods.com/morrowind/mods/50109) by Malbogatra  
 [**Rocky West Gash Compatibility Version**](https://www.nexusmods.com/morrowind/mods/50150) by Bluttier  
 [**Rocky West Gash Aggressively Compatible Version**](https://www.nexusmods.com/morrowind/mods/50161) by Markond  
+[**BCOM Rocky West Gash**](https://www.nexusmods.com/morrowind/mods/50565) by Publicola  
 
 ## Grazelands
 [**Trackless Grazelands**](https://www.nexusmods.com/morrowind/mods/44194) by R-zero  
