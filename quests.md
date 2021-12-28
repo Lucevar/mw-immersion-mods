@@ -106,6 +106,7 @@ Removes level requirements for a number of quests.
 [**Blight at the Hairat-Vassamsi Mine**](https://www.nexusmods.com/morrowind/mods/47589) by Alice  
 [**Strange Man At Gindrala's House**](https://www.nexusmods.com/morrowind/mods/47427) by Alice  
 [**Cleansing Ash Statues**](https://www.nexusmods.com/morrowind/mods/44801) by twilotspankle  
+[**Bases of the Sixth House - Piran**](https://www.nexusmods.com/morrowind/mods/50411) by Wyrmalla  
 
 Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/articles/blight.md) for further blight/disease mods that add to the menace.  
 Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/creatures.md) for more Sixth House related replacers.  
