@@ -8,6 +8,9 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # October 10th - December 28th
+[**Seph's Inventory Decorator**](https://www.nexusmods.com/morrowind/mods/50582) by Sephumbra  
+A simple MWSE mod that adds more information and decorations to inventory item tiles for quicker item management and discovery.  
+
 [**Seph's Enemy Bars**](https://www.nexusmods.com/morrowind/mods/50577) by Sephumbra  
 A simple MWSE mod that adds more detailed health, magicka and fatigue bars to any npc or creature you look at.
 
