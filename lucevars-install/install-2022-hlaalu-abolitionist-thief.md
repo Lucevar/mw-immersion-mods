@@ -98,7 +98,7 @@ This simple mod provides an in-game HUD element as the game approaches critical 
 [**South Wall Den of Iniquity**](https://www.nexusmods.com/morrowind/mods/49950) by Balasthustrius  
 [**Free the Slaves**](https://www.nexusmods.com/morrowind/mods/45191) by Caeris  
 [**Roleplay Options for Great House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by Caeris  
-[**Hlaalu Business**](https://www.nexusmods.com/morrowind/mods/39698) by 
+[**Hlaalu Business**](https://www.nexusmods.com/morrowind/mods/39698) by 4LOM  
 
 # NPCs
 [**Hlaalu Nobles Facial Overhaul**](https://www.nexusmods.com/morrowind/mods/48916) by Leyawynn  
