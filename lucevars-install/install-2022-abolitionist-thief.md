@@ -53,11 +53,14 @@ This simple mod provides an in-game HUD element as the game approaches critical 
 
 # Worldspace Enhancers
 [**Graphic Herbalism MWSE**](https://www.nexusmods.com/morrowind/mods/46599) by Greatness7 & Stuporstar  
+[**All Books Color-Coded and Designed**](https://www.nexusmods.com/morrowind/mods/50536) by XeroFoxx  
 
 # Chargen
-[**Useful Starting Spells**](https://www.nexusmods.com/morrowind/mods/40439) by Tizzo  
 [**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915) by Petetehgoat  
 [**Merlord's Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795) by Merlord  
+[**Ahead of the Classes**](https://www.nexusmods.com/morrowind/mods/50346) by Danae  
+[**Class Starting Spells**](https://www.nexusmods.com/morrowind/mods/49010) by Vitruvian Guar  
+[**Written in the Stars**](https://www.nexusmods.com/morrowind/mods/50378) by Danae  
 
 # Stealth & Light
 [**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581/) by Mort  
@@ -78,6 +81,7 @@ This simple mod provides an in-game HUD element as the game approaches critical 
 [**Skoomaesthesia**](https://www.nexusmods.com/morrowind/mods/49920) by Merlord & XeroFoxx  
 [**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by Mort  
 [**Worth Its Weight**](https://www.nexusmods.com/morrowind/mods/48070) by JaceyS  
+[**Bardic Inspiration**](https://www.nexusmods.com/morrowind/mods/45441) by Merlord  
 
 # Quests & Dialogue  
 [**Bounty Hunter Assignments**](https://www.nexusmods.com/morrowind/mods/46928) by Alice  
@@ -93,3 +97,8 @@ This simple mod provides an in-game HUD element as the game approaches critical 
 [**Strike at the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/46865) by ProfArmitage  
 [**South Wall Den of Iniquity**](https://www.nexusmods.com/morrowind/mods/49950) by Balasthustrius  
 [**Free the Slaves**](https://www.nexusmods.com/morrowind/mods/45191) by Caeris  
+
+# Cosmetics & Collectibles
+[**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae  
+[**Olaf's Best Cloaks in Towns**](https://www.nexusmods.com/morrowind/mods/49612) by Olaf  
+[**Wares for OAAB**](https://www.nexusmods.com/morrowind/mods/49205?tab=files) by Danae 
