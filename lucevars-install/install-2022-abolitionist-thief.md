@@ -26,6 +26,7 @@ For even quicker and more advanced mod testing.
 [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
 [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by Anumaril  
 [**Travel Tooltips**](https://www.nexusmods.com/morrowind/mods/48306) by tewlwolow  
+[**Visible Persuasion Chance**](https://www.nexusmods.com/morrowind/mods/48634) by skmrSharma  
 
 # Bug Fixes
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096?) by Half11  
@@ -46,3 +47,49 @@ This simple mod provides an in-game HUD element as the game approaches critical 
 [**Weapon Sheathing Additions**](https://www.nexusmods.com/morrowind/mods/49616) by Remiros  
 [**Morrowind Optimisation Patch - Weapon Sheathing Patch**](https://www.nexusmods.com/morrowind/mods/45384) by Greatness7 and Remiros  
 [**Vanity**](https://www.nexusmods.com/morrowind/mods/48529) by Abot  
+
+[**OAAB Data**](https://www.nexusmods.com/morrowind/mods/49042) by OAAB Team  
+[**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Tamriel Rebuilt & Project Tamriel  
+
+# Worldspace Enhancers
+[**Graphic Herbalism MWSE**](https://www.nexusmods.com/morrowind/mods/46599) by Greatness7 & Stuporstar  
+
+# Chargen
+[**Useful Starting Spells**](https://www.nexusmods.com/morrowind/mods/40439) by Tizzo  
+[**Randomised Chargen**](https://www.nexusmods.com/morrowind/mods/46915) by Petetehgoat  
+[**Merlord's Character Backgrounds**](https://www.nexusmods.com/morrowind/mods/46795) by Merlord  
+
+# Stealth & Light
+[**Pickpocket**](https://www.nexusmods.com/morrowind/mods/47581/) by Mort  
+[**Distraction**](https://www.nexusmods.com/morrowind/mods/49680) by Mort  
+[**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614) by Mort  
+[**Mantle of Ascension**](https://www.nexusmods.com/morrowind/mods/49870) by Vtastek  
+[**Security Enhanced**](https://www.nexusmods.com/morrowind/mods/47038) by Operator Jack  
+[**The Midnight Oil**](https://www.nexusmods.com/morrowind/mods/48293) by Merlord  
+[**Glow in the Dahrk**](https://www.nexusmods.com/morrowind/mods/45886/) by Melchior Dahrk  
+[**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786) by Lucevar  
+[**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912) by RedFurryDemon  
+[**Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565/) by Operator Jack  
+
+# Gameplay
+[**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034) by Merlord  
+[**Ashfall**](https://www.nexusmods.com/morrowind/mods/49057) by Merlord  
+[**MWSE Hide the Skooma**](https://www.nexusmods.com/morrowind/mods/48454) by Necrolesian  
+[**Skoomaesthesia**](https://www.nexusmods.com/morrowind/mods/49920) by Merlord & XeroFoxx  
+[**Harder Barter**](https://www.nexusmods.com/morrowind/mods/46188) by Mort  
+[**Worth Its Weight**](https://www.nexusmods.com/morrowind/mods/48070) by JaceyS  
+
+# Quests & Dialogue  
+[**Bounty Hunter Assignments**](https://www.nexusmods.com/morrowind/mods/46928) by Alice  
+[**Dura gra-Bol's House Reclaimed - and the Grab-All Gang**](https://www.nexusmods.com/morrowind/mods/46772) by Melchior Dahrk  
+[**LDM - Context Matters**](https://www.nexusmods.com/morrowind/mods/48273) by Lucevar  
+[**LDM - Choices and Consequences**](https://github.com/Lucevar/ldm) by Lucevar  
+[**Twin Lamps**](https://mw.modhistory.com/download-53-7283) by Brother Juniper  
+[**LuceEdit Radiant Quests**](https://www.nexusmods.com/morrowind/mods/46451) by WanderRA  
+[**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618) by Alice and Lucevar  
+[**Raym's Vampire Rumors**](https://www.nexusmods.com/morrowind/mods/48469) by Raym  
+[**Guild of Vampire Hunters**](https://www.nexusmods.com/morrowind/mods/45832) by Alice and Lucevar  
+[**Caldera Mine Expanded**](https://www.nexusmods.com/morrowind/mods/45194) by TDM, Melchior Dahrk, Greatness7  
+[**Strike at the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/46865) by ProfArmitage  
+[**South Wall Den of Iniquity**](https://www.nexusmods.com/morrowind/mods/49950) by Balasthustrius  
+[**Free the Slaves**](https://www.nexusmods.com/morrowind/mods/45191) by Caeris  
