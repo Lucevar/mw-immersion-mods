@@ -1,5 +1,5 @@
 # MGE/MWSE Mods List
-**Updated**: 2021/01/12
+**Updated**: 2021/12/29
 
 First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102), then run MWSE-update.exe, and get the [**Morrowind Code Patch (MCP)**](https://www.nexusmods.com/morrowind/mods/19510) for good measure.  
 
@@ -7,7 +7,10 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
-# October 10th - December 28th
+# October 10th - December 29th
+[**Seph's Guar Petting**](https://www.nexusmods.com/morrowind/mods/50584) by Sephumbra  
+A tiny MWSE lua mod that makes guars play sounds and optionally display messages when 'activated'.  
+
 [**Seph's Inventory Decorator**](https://www.nexusmods.com/morrowind/mods/50582) by Sephumbra  
 A simple MWSE mod that adds more information and decorations to inventory item tiles for quicker item management and discovery.  
 
