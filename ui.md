@@ -3,6 +3,7 @@
 ## Menus
 [**Ruby UI Mashup**](https://www.nexusmods.com/morrowind/mods/50512) by BjornTjockPals Sir Bob Innicin jiffyadvent Arukinn  
 [**Skyrim UI Overhaul for Morrowind**](https://www.nexusmods.com/morrowind/mods/43039) by mikeandike  
+[**Seph's Inventory Decorator**](https://www.nexusmods.com/morrowind/mods/50582) by Sephumbra  
 
 ## HUD
 [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
@@ -38,6 +39,7 @@ Changes the cursors to a daedric gauntlet (and daedric crescent when resizing me
 [**No Combat Menu**](https://www.nexusmods.com/morrowind/mods/46732) by Merlord  
 [**HardSave**](https://www.nexusmods.com/morrowind/mods/47170) by Archimag  
 No saving in battle!  
+[**Seph's Enemy Bars**](https://www.nexusmods.com/morrowind/mods/50577) by Sephumbra  
 
 ## Skills
 [**Logical Skill Descriptions**](https://www.nexusmods.com/morrowind/mods/48991) by OEA  
