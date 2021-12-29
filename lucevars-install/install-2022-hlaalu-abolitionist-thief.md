@@ -97,6 +97,12 @@ This simple mod provides an in-game HUD element as the game approaches critical 
 [**Strike at the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/46865) by ProfArmitage  
 [**South Wall Den of Iniquity**](https://www.nexusmods.com/morrowind/mods/49950) by Balasthustrius  
 [**Free the Slaves**](https://www.nexusmods.com/morrowind/mods/45191) by Caeris  
+[**Roleplay Options for Great House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by Caeris  
+[**Hlaalu Business**](https://www.nexusmods.com/morrowind/mods/39698) by 
+
+# NPCs
+[**Hlaalu Nobles Facial Overhaul**](https://www.nexusmods.com/morrowind/mods/48916) by Leyawynn  
+[**Rogue's Gallery**](https://www.nexusmods.com/morrowind/mods/49874) by Von Django  
 
 # Cosmetics & Collectibles
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae  
