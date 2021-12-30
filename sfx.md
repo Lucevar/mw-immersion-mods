@@ -50,6 +50,7 @@ A corprus meat replacer.
 
 ## Magic 
 [**Shield Spells Reforged**](https://www.nexusmods.com/morrowind/mods/50073) by Kurpulio  
+[**Bound Spells Reforged**](https://www.nexusmods.com/morrowind/mods/48750) by Kurpulio  
 [**MAO Spell Sounds**](https://www.nexusmods.com/morrowind/mods/50486) by Publicola  
 
 ## Animations  
