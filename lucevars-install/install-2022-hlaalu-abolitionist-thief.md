@@ -73,6 +73,7 @@ This simple mod provides an in-game HUD element as the game approaches critical 
 [**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786) by Lucevar  
 [**Let There Be Darkness**](https://www.nexusmods.com/morrowind/mods/47912) by RedFurryDemon  
 [**Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565/) by Operator Jack  
+[**Douse the Lights**](https://www.nexusmods.com/morrowind/mods/47980) by Operator Jack  
 
 # Gameplay
 [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034) by Merlord  
