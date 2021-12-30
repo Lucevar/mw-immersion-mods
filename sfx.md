@@ -52,6 +52,12 @@ A corprus meat replacer.
 [**Shield Spells Reforged**](https://www.nexusmods.com/morrowind/mods/50073) by Kurpulio  
 [**Bound Spells Reforged**](https://www.nexusmods.com/morrowind/mods/48750) by Kurpulio  
 [**MAO Spell Sounds**](https://www.nexusmods.com/morrowind/mods/50486) by Publicola  
+[**MM - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565) by Operator Jack, Kurpulio & Vtastek  
+[**MM - Enhanced Reflection**](https://www.nexusmods.com/morrowind/mods/48956) by Operator Jack  
+[**MM - Better Buoyancy**](https://www.nexusmods.com/morrowind/mods/48929) by Operator Jack  
+[**MM - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672) by Operator Jack, Kurpulio, Greatness7  
+[**MM - Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534) by Operator Jack & Kurpulio  
+[**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480) by Operator Jack, Kurpulio & RedFurryDemon  
 
 ## Animations  
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150) by R-Zero  
