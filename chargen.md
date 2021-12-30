@@ -82,6 +82,8 @@ Updates vanilla classes to be more useable, makes NPC classes playable, adds a v
 
 [**Birthsign Compendium**](https://www.nexusmods.com/morrowind/mods/50441) by FirefallJumper  
 
+[**Predator Beast Races**](https://www.nexusmods.com/morrowind/mods/48894) by Qwertyquit  
+
 # New Starting Equipment
 [**Personal Effects**](https://www.nexusmods.com/morrowind/mods/45338) by R-Zero  
 If you start as one of the vanilla classes, gain items based on your class instead of the vanilla 87 gold.  
