@@ -8,6 +8,7 @@
 ## HUD
 [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
 [**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455) by JaceyS  
+[**HUD Encumbrance Bar**](https://www.nexusmods.com/morrowind/mods/49608) by Operator Jack  
 
 ## Fonts
 [**Daedricwind**](https://www.nexusmods.com/morrowind/mods/49655) by Necrolesian  
@@ -41,8 +42,13 @@ Changes the cursors to a daedric gauntlet (and daedric crescent when resizing me
 No saving in battle!  
 [**Seph's Enemy Bars**](https://www.nexusmods.com/morrowind/mods/50577) by Sephumbra  
 
+## Player Character
+[**Cosmetic Overrides**](https://www.nexusmods.com/morrowind/mods/47713) by Operator Jack  
+
 ## Skills
 [**Logical Skill Descriptions**](https://www.nexusmods.com/morrowind/mods/48991) by OEA  
+[**Tiered Magicka**](https://www.nexusmods.com/morrowind/mods/47698) by Operator Jack  
+[**Circinates**](https://www.nexusmods.com/morrowind/mods/47899) by Operator Jack  
 
 ### Alchemy
 [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
