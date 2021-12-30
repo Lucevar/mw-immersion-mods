@@ -7,7 +7,10 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
-# October 10th - December 29th
+# October 10th - December 30th
+[**Predator Beast Races**](https://www.nexusmods.com/morrowind/mods/48894) by Qwertyquit  
+Beast Races overhaul with MWSE abilities.  
+
 [**Seph's Guar Petting**](https://www.nexusmods.com/morrowind/mods/50584) by Sephumbra  
 A tiny MWSE lua mod that makes guars play sounds and optionally display messages when 'activated'.  
 
