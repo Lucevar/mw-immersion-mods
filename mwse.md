@@ -7,7 +7,10 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
-# October 10th - December 30th
+# October 10th - December 31st
+[**Seph's HUD Customizer**](https://www.nexusmods.com/morrowind/mods/50588) by Sephumbra  
+A MWSE mod that makes almost every element of the HUD customizable to a certain degree.  
+
 [**The Inflation**](https://www.nexusmods.com/morrowind/mods/50580) by C3pa  
 The fate of the Empire's economy is in the Nerevarine's hands. The Nerevarine's net worth changes the Inflation rate of the Empire's currency, Septim. Now, enough drama. This mod changes the prices when buying items, and spells, and for repair, travel, and training services, aiming to keep the feeling that low-level items have value.
 
