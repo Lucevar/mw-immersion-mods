@@ -1,6 +1,7 @@
 # Towns
 [**Beautiful Cities of Morrowind**](https://www.nexusmods.com/morrowind/mods/49231) by RandomPal  
 [**Aesthesia Grass for BCOM**](https://www.nexusmods.com/morrowind/mods/50578) by Mrovkogon  
+[**Irisie's Reorganised Settlements**](https://www.nexusmods.com/morrowind/mods/50589) by Irisie  
 
 # General
 [**Barabus's Fireplaces**](https://www.nexusmods.com/morrowind/mods/45766) by Barabus (update by PoodleSandwich)  
