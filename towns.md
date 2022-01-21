@@ -198,6 +198,7 @@ These affect different parts of Ebonheart and are therefore compatible.
 [**Ebonheart Dragon Statue Replacer**](https://www.nexusmods.com/morrowind/mods/48310) by RandomPal  
 [**Majestic Ebonheart**](https://www.nexusmods.com/morrowind/mods/48771) by RandomPal  
 [**Ebonheart The Old Castle**](https://www.nexusmods.com/morrowind/mods/49524) by Mika  
+[**ALWP - Ebonheart Revamped**](https://www.nexusmods.com/morrowind/mods/50673) by Citadel  
 
 ## Rethan Manor
 [**Resplendent Rethan - Jewel of the Odai**](https://www.nexusmods.com/morrowind/mods/47281) by Team Azturnal  
