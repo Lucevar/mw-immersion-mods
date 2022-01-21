@@ -104,6 +104,10 @@ Duke's Silver Armor:
 [**Dwarf Style Mage Hat**](https://www.nexusmods.com/morrowind/mods/50523) by AllanBorne  
 [**Ebony Frogmouth Helm**](https://www.nexusmods.com/morrowind/mods/50602) by elucidace  
 [**Imperial Burgonet**](https://www.nexusmods.com/morrowind/mods/50620) by elucidace  
+[**Netch Scout Helm**](https://www.nexusmods.com/morrowind/mods/50636) by elucidace  
+[**Addendum to Tamriel Lore**](https://www.nexusmods.com/morrowind/mods/50647) by Pikachuno  
+[**Northern Redoran Armor**](https://www.nexusmods.com/morrowind/mods/50649) by RuffinVangarr  
+[**Indoril Ronin Helmet**](https://www.nexusmods.com/morrowind/mods/50689) by elucidace  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
