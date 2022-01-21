@@ -58,6 +58,7 @@
 [**Reclamations in Holamayan**](https://www.nexusmods.com/morrowind/mods/43226) by Aoimhevelho  
 [**Liar Yes - Idiot No**](https://www.nexusmods.com/morrowind/mods/49908) by Danae and Alice  
 [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran  
+[**The Slaver's Spire**](https://www.nexusmods.com/morrowind/mods/50662) by Markond  
 
 ## Ascadian Isles
 [**Omani Manor - Hlaalu Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/46147) by Tel Shadow  
@@ -87,6 +88,7 @@
 [**Morrowind Swamp Trees**](https://www.nexusmods.com/morrowind/mods/50151) by Vegetto  
 [**Hybrid Trees**](https://www.nexusmods.com/morrowind/mods/50167) by SilentJacket  
 [**Glowbugs**](https://www.nexusmods.com/morrowind/mods/50538) by Melchior Dahrk and Greatness7  
+[**Sage Shrine**](https://www.nexusmods.com/morrowind/mods/50650) by VvardenfellStormSage  
 
 ## West Gash
 [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187)  
