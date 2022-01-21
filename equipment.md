@@ -102,6 +102,8 @@ Duke's Silver Armor:
 [**Full and revised dragonscale set**](https://www.nexusmods.com/morrowind/mods/50476) by stefan19rkc  
 [**Godrngheid the Smith - Malgobatra's Skyrim Armors Translated and Integrated**](https://www.nexusmods.com/morrowind/mods/50391) by KarevKid & Malbogatra  
 [**Dwarf Style Mage Hat**](https://www.nexusmods.com/morrowind/mods/50523) by AllanBorne  
+[**Ebony Frogmouth Helm**](https://www.nexusmods.com/morrowind/mods/50602) by elucidace  
+[**Imperial Burgonet**](https://www.nexusmods.com/morrowind/mods/50620) by elucidace  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
@@ -132,3 +134,4 @@ Duke's Silver Armor:
 [**Tamrielic Tomahawks**](https://www.nexusmods.com/morrowind/mods/49720) by Stripes  
 [**Sensible Spear Tweaks and Additions**](https://www.nexusmods.com/morrowind/mods/50261) by iris  
 [**Spears Use Strength**](https://www.nexusmods.com/morrowind/mods/50288) by xxxninja666xxx   
+[**Bronze Sickle-sword**](https://www.nexusmods.com/morrowind/mods/50624) by elucidace  
