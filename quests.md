@@ -270,6 +270,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Gnisis Docks**](https://www.nexusmods.com/morrowind/mods/45994) by Alice  
 [**Legion at the Siege of Firemoth**](https://www.nexusmods.com/morrowind/mods/47924) by Endoran  
 [**Saprius Disguised**](https://www.nexusmods.com/morrowind/mods/50377) by Tyermala  
+[**Alternate Legion Chapter 1 Path of Spearman**](https://www.nexusmods.com/morrowind/mods/50622) by Deadly Frog Productions  
 
 #### Talos Cult
 [**The Talos Cult Conspiracy**](https://www.nexusmods.com/morrowind/mods/47576) by Alice and Caeris  
@@ -427,6 +428,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Order of Sanctity**](https://www.nexusmods.com/morrowind/mods/47202) by Team Hungry Hungers  
 [**Arcane Archers**](https://www.nexusmods.com/morrowind/mods/37672) by Karpik777  
 [**The Vvardenfell Libraries**](https://www.nexusmods.com/morrowind/mods/43595) by The Wanderer  
+[**Imperial Knights Faction**](https://www.nexusmods.com/morrowind/mods/50643) by Alice  
 
 ## Daedric Quests
 [**Vaermina's Quest - Dreams of the Escaped**](https://www.nexusmods.com/morrowind/mods/49172) by Team Tenacious Templars  
