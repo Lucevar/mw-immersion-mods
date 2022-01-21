@@ -16,6 +16,10 @@
 [**OAAB Dwemer Pavements**](https://www.nexusmods.com/morrowind/mods/50237) by Melchior Dahrk  
 [**OAAB Saplings**](https://www.nexusmods.com/morrowind/mods/50334) by Melchior Dahrk  
 [**OAAB Saplings for BCOM and Stonewood Pass**](https://www.nexusmods.com/morrowind/mods/50626) by mrovkogon  
+[**Water Flow Markers**](https://www.nexusmods.com/morrowind/mods/50674) by Stripes  
+
+## Grass
+[**Aesthesia Updated Groundcover for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/50670) by Citadel  
 
 ## Ashlands
 [**RR - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822) by the Resdayn Revival Team  
