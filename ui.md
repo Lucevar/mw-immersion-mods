@@ -132,3 +132,4 @@ No saving in battle!
 
 ## Videos 
 [**Unstretched Videos**](https://www.nexusmods.com/morrowind/mods/50482) by Necrolesian  
+[**Lorkhs Ludicrous Launch Movie**](https://www.nexusmods.com/morrowind/mods/50615) by Lorkh  
