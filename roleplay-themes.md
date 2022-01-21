@@ -197,6 +197,7 @@ Farmer mod
 * [**Booze for Purists**](https://www.nexusmods.com/morrowind/mods/48914) by Danae  
 * [**The Great Gold Egg Hunt**](https://www.nexusmods.com/morrowind/mods/49396) by XeroFoxx  
 * [**Collectible Mini Armor Display**](https://www.nexusmods.com/morrowind/mods/50524) by TheWanderer  
+* [**Medallions and Displays**](https://www.nexusmods.com/morrowind/mods/50616) by dietbob  
 
 # Imperial Loyalist
 * [**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Gavrilo93  
