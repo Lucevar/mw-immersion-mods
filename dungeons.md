@@ -79,7 +79,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Hlaalu Ancestral Tomb**  
 **Hlaalu Ancestral Vaults** - [**OAAB Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131)   
 **Hleran Ancestral Tomb**  
-**Hlervi Ancestral Tomb**  
+**Hlervi Ancestral Tomb** - [**The Vestige of Bethaleft**](https://www.nexusmods.com/morrowind/mods/50663)    
 **Hlervu Ancestral Tomb**  
 **Ienith Ancestral Tomb**  
 **Indalen Ancestral Tomb**  
