@@ -54,6 +54,7 @@ Removes level requirements for a number of quests.
 * [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
 * [**Harvest's End Festival**](https://www.nexusmods.com/morrowind/mods/49834) by Alice  
 * [**Fargoth in Distress**](https://www.nexusmods.com/morrowind/mods/45752) by Alice  
+* [**Council Books of 427**](https://www.nexusmods.com/morrowind/mods/50645) by Tyermala & PhD in Sorcery  
 
 ## Main Quest Mods
 ### General
@@ -216,6 +217,8 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Rethan Redivivus**](https://www.nexusmods.com/morrowind/mods/49776) by Istreddify  
 [**Resplendant Rethan - Jewel of the Odai**](https://www.nexusmods.com/morrowind/mods/47281) by Team Azturnal  
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by Necrolesian  
+[**The Mischievous Scheme**](https://www.nexusmods.com/morrowind/mods/50654) by Lastutin  
+[**A Really Great House**](https://www.nexusmods.com/morrowind/mods/50683) by Serpentbyte  
 
 ### House Redoran
 [**Guard Sarethi Manor Add-on - Morag Tong Hit Squad**](https://www.nexusmods.com/morrowind/mods/49343) by Sigourn  
@@ -229,6 +232,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Olyn Hleran -- Redoran Companion**](https://www.nexusmods.com/morrowind/mods/45197) by Team Mythical Beast  
 [**Old Blue Fin**](https://www.nexusmods.com/morrowind/mods/49503) by Leyawynn  
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by Necrolesian  
+[**Indarys Improved**](https://www.nexusmods.com/morrowind/mods/50666) by Cyprinus  
 [**LGNPC**](http://lgnpc.org/downloads) by LGNPC Team  
 * Pax Redoran
 * Ald-ruhn
@@ -254,6 +258,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
 [**TGD03 The Lizard's Head**](https://www.nexusmods.com/morrowind/mods/39748) by DebiDalio  
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by Necrolesian  
+[**House Telvanni - The Forgotten Apocrypha Excursion**](https://www.nexusmods.com/morrowind/mods/50661) by Arron Dominion  
 
 ### Imperial Cult
 [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
@@ -271,6 +276,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Legion at the Siege of Firemoth**](https://www.nexusmods.com/morrowind/mods/47924) by Endoran  
 [**Saprius Disguised**](https://www.nexusmods.com/morrowind/mods/50377) by Tyermala  
 [**Alternate Legion Chapter 1 Path of Spearman**](https://www.nexusmods.com/morrowind/mods/50622) by Deadly Frog Productions  
+[**Legion Veterans**](https://www.nexusmods.com/morrowind/mods/50646) by Endoran  
 
 #### Talos Cult
 [**The Talos Cult Conspiracy**](https://www.nexusmods.com/morrowind/mods/47576) by Alice and Caeris  
@@ -398,6 +404,8 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Own Foryn Gilnith's Shack**](https://www.nexusmods.com/morrowind/mods/47002) by MasterJinroku  
 [**A Noble Deed - Kill Fargoth**](https://www.nexusmods.com/morrowind/mods/45764) by Harveh  
 [**Caldera Mine Expanded**](https://www.nexusmods.com/morrowind/mods/45194) by Melchior Dahrk, TheDrunkenMudcrab, Greatness7  
+[**The Artnapping of Barenziah**](https://www.nexusmods.com/morrowind/mods/50659) by K1N6R3D  
+[**Ranis Athrys - Let Go and Begin Again**](https://www.nexusmods.com/morrowind/mods/50664) by HMCascade  
 
 # Totally New Quests
 ## New Factions
@@ -429,6 +437,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Arcane Archers**](https://www.nexusmods.com/morrowind/mods/37672) by Karpik777  
 [**The Vvardenfell Libraries**](https://www.nexusmods.com/morrowind/mods/43595) by The Wanderer  
 [**Imperial Knights Faction**](https://www.nexusmods.com/morrowind/mods/50643) by Alice  
+[**Join the Royal Guards**](https://www.nexusmods.com/morrowind/mods/50676) by Alice  
 
 ## Daedric Quests
 [**Vaermina's Quest - Dreams of the Escaped**](https://www.nexusmods.com/morrowind/mods/49172) by Team Tenacious Templars  
@@ -453,6 +462,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**The Ebony Blade**](https://www.nexusmods.com/morrowind/mods/47645) by Leyawynn  
 [**Charm of Molag Bal**](https://www.nexusmods.com/morrowind/mods/47496) by Revya  
 [**The Wabbajack**](https://www.nexusmods.com/morrowind/mods/44653) by Team Wretched Netch  
+[**House Telvanni - The Forgotten Apocrypha Excursion**](https://www.nexusmods.com/morrowind/mods/50661) by Arron Dominion  
 
 ## Other New Quests
 [**Facility 343**](https://www.nexusmods.com/morrowind/mods/46468)  
@@ -599,6 +609,13 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**French Wave**](https://www.nexusmods.com/morrowind/mods/50497) by wazabear  
 [**TOWER_beta**](https://www.nexusmods.com/morrowind/mods/50540) by Alexis  
 [**Morrowind Zombie Apocalypse**](https://www.nexusmods.com/morrowind/mods/50579) by Jawohl  
+[**Addendum to Tamriel Lore**](https://www.nexusmods.com/morrowind/mods/50647) by Pikachuno  
+[**Lost Threads**](https://www.nexusmods.com/morrowind/mods/50651) by Dioberne  
+[**A Goblin Origin Tale**](https://www.nexusmods.com/morrowind/mods/50655) by Lamb Shark  
+[**Titans of Vvardenfell**](https://www.nexusmods.com/morrowind/mods/50658) by ProfArmitage  
+[**The Vestige of Bethaleft**](https://www.nexusmods.com/morrowind/mods/50663) by Remiros  
+[**The Aethernauts**](https://www.nexusmods.com/morrowind/mods/50665) by Ignatious  
+[**Career Change - A Bard Quest**](https://www.nexusmods.com/morrowind/mods/50684) by ECLong  
 
 # Province Mods
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Tamriel Rebuilt and Project Tamriel  
