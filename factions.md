@@ -108,6 +108,7 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 [**Gnisis Docks**](https://www.nexusmods.com/morrowind/mods/45994) by Alice & PoodleSandwich  
 [**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich  
 [**Alternate Legion Chapter 1 Path of Spearman**](https://www.nexusmods.com/morrowind/mods/50622) by Deadly Frog Productions  
+[**Imperial Knights Faction**](https://www.nexusmods.com/morrowind/mods/50643) by Alice  
 
 ## Imperial Cult
 [**Illy's Oh My Goddess**](http://mw.modhistory.com/download-4-14546) by Illuminiel  
