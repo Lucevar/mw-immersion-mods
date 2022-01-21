@@ -79,7 +79,8 @@ __*Lucevar's Note*__: Diverges from the vanilla aesthetic in some places (see th
 [**Uvirith's Legacy**](https://stuporstar.sarahdimento.com/updates/downloads/) by Stuporstar  
 [**Building Up Uvirith's Legacy**](http://mw.modhistory.com/download-69-11851) by Acheron & Artimis Fowl  
 [**Tel Uvirith LITE**](https://www.nexusmods.com/morrowind/mods/45615) by mala  
-[**Of Ash And Blight - Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk
+[**Of Ash And Blight - Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
+[**Animated Archmagister**](https://www.nexusmods.com/morrowind/mods/50656) by Vidi Aquam  
 
 # Imperial Factions
 ## Mages Guild
