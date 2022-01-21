@@ -178,6 +178,7 @@ Has a version which is compatible with Dramatic Vivec
 [**Simple Vivec Library Overhaul**](https://www.nexusmods.com/morrowind/mods/50189) by RandomPal  
 [**Imperial Altar in Vivec**](https://www.nexusmods.com/morrowind/mods/50273) by Tyermala  
 [**Waterfall Lights Remover**](https://www.nexusmods.com/morrowind/mods/50437) by Necrolesian  
+[**High Fane Shrines of the Tribunal**](https://www.nexusmods.com/morrowind/mods/50685) by artemgur  
 
 [**Crassius Curio's Argonian Maid**](https://www.nexusmods.com/morrowind/mods/49923) by AmazinglyRandi  
 [**Crassius Curio's Weekly Pilgrimage**](https://www.nexusmods.com/morrowind/mods/49927) by AmazinglyRandi  
