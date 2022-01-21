@@ -86,6 +86,8 @@ Updates vanilla classes to be more useable, makes NPC classes playable, adds a v
 
 [**The Definitive Birthsigns Pack**](https://www.nexusmods.com/morrowind/mods/50610) by Doy and IceNine  
 
+[**Amyrha's Race Rebalance**](https://www.nexusmods.com/morrowind/mods/50668) by Amyrha  
+
 # New Starting Equipment
 [**Personal Effects**](https://www.nexusmods.com/morrowind/mods/45338) by R-Zero  
 If you start as one of the vanilla classes, gain items based on your class instead of the vanilla 87 gold.  
