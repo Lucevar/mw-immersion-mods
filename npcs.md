@@ -89,6 +89,7 @@
 [**Fancy Barenziah**](https://www.nexusmods.com/morrowind/mods/49009) by qwertyquit  
 [**Emerald Armor (Orvas Dren)**](https://www.nexusmods.com/morrowind/mods/49051) by Anroha  
 [**Saprius Disguised**](https://www.nexusmods.com/morrowind/mods/50377) by Tyermala  
+[**Animated Archmagister**](https://www.nexusmods.com/morrowind/mods/50656) by Vidi Aquam  
 
 ### Sorkvild the Raven
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
