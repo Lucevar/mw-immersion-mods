@@ -7,6 +7,13 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
+# January 1st 2022 - 21st January 2022
+[**Power Fantasy**](https://www.nexusmods.com/morrowind/mods/50617) by Nephtelas  
+A massive gameplay overhaul powered by the extensive capabilities of MWSE Lua, coming with several new game mechanics like critical hits, semi-active blocking and dashing, as well as an Oblivion-esque perk system and a complete re-imagination of Morrowind's races and birthsigns, with the goal to make your choices matter throughout the entire game.  
+
+[**Seph's Soul Battle**](https://www.nexusmods.com/morrowind/mods/50657) by Sephumbra  
+A MWSE mod that lets you challenge NPCs to a soul gem battle, letting the creatures' souls fight.
+
 # October 10th - December 31st
 [**Seph's HUD Customizer**](https://www.nexusmods.com/morrowind/mods/50588) by Sephumbra  
 A MWSE mod that makes almost every element of the HUD customizable to a certain degree.  
