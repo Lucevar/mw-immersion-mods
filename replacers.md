@@ -56,7 +56,7 @@
 [**By Azura**](https://www.nexusmods.com/morrowind/mods/50567) by Lamb Shark  
 [**Trueflame Reforged**](https://www.nexusmods.com/morrowind/mods/50559) by Lorkhansheart  
 [**Dragon Statue Revisited**](https://www.nexusmods.com/morrowind/mods/50561) by Melchior Dahrk  
-
+[**Dagoth Ur HD**](https://www.nexusmods.com/morrowind/mods/50660) by Vegetto  
 
 # Mod Replacers
 [**Red sclera eyes for Julan**](https://www.nexusmods.com/morrowind/mods/47277?tab=description) by Leetmorry  
