@@ -616,6 +616,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**The Vestige of Bethaleft**](https://www.nexusmods.com/morrowind/mods/50663) by Remiros  
 [**The Aethernauts**](https://www.nexusmods.com/morrowind/mods/50665) by Ignatious  
 [**Career Change - A Bard Quest**](https://www.nexusmods.com/morrowind/mods/50684) by ECLong  
+[**The Underground 2 - Repackaged**](https://www.nexusmods.com/morrowind/mods/50697) by Operator Jack & Qarl  
 
 # Province Mods
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Tamriel Rebuilt and Project Tamriel  
