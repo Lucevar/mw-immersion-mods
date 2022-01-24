@@ -46,3 +46,4 @@
 [**The Priests Hideout - Cloud Storage Compatibility Addon**](https://www.nexusmods.com/morrowind/mods/50566) by The Wanderer  
 [**Balmora South Gate House - Cloud Storage Compatibility Addon**](https://www.nexusmods.com/morrowind/mods/50568) by The Wanderer  
 [**ASH Travel Tent - Cloud Storage Compatibility Addon**](https://www.nexusmods.com/morrowind/mods/50569) by The Wanderer  
+[**Ashpit Retreat - Ashlands Player Home**](https://www.nexusmods.com/morrowind/mods/50695) by Fjaldi  
