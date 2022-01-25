@@ -8,6 +8,9 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 # January 1st 2022 - 24th January 2022
+[**Kirbonated Character Progression**](https://www.nexusmods.com/morrowind/mods/50702) by Kirbonated Beverage  
+Completely overhauls character progression with a new XP system, perks, and new level up UI  
+
 [**Buying Game**](https://www.nexusmods.com/morrowind/mods/50574) by Vitruvian Guar  
 MWSE-lua overhaul of trade system with new gameplay and UI functionality for Mercantile skill  
 
