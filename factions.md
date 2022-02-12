@@ -10,6 +10,8 @@ __*Lucevar's Note*__
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by Necrolesian  
 [**Privileges and Services**](https://www.nexusmods.com/morrowind/mods/50403) by Arcimaestro Antares  
 [**Privileges and Services & Mage Robes Patch**](https://www.nexusmods.com/morrowind/mods/50408) by salvatoremaranzano  
+[**Service Requirements Revised**](https://www.nexusmods.com/morrowind/mods/50715) by Lucas9  
+[**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618) by Lucevar and Alice  
 
 # Dunmer Great Houses & Temple
 ## Great House Hlaalu
@@ -144,6 +146,7 @@ This mod started as a simple house mod and expanded into an entire smuggling fac
 ## Camonna Tong
 [**Nastier Camonna Tong**](https://www.nexusmods.com/morrowind/mods/22601) by Von Djangos  
 [**Errands for Orvas**](https://calezane.home.xs4all.nl/mw/mwmods.htm) by Calezane  
+[**Camonna Tong**](https://www.nexusmods.com/morrowind/mods/50740) by Caeris  
 
 ## Vampire Clans
 [**Quarra Clan**](http://mw.modhistory.com/download-21-4404) by Jonathan Nash  
