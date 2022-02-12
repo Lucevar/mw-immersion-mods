@@ -28,6 +28,9 @@
 [**Morrowind Housing**](https://www.nexusmods.com/morrowind/mods/50498) by Mac  
 [**Bunkering with Fargoth**](https://www.nexusmods.com/morrowind/mods/50543) by Tel Shadow  
 [**Bosmer's Treehouse**](https://www.nexusmods.com/morrowind/mods/50562) by Satiharu  
+[**The Eye of Ariisiss Redux**](https://www.nexusmods.com/morrowind/mods/50754) by OperatorJack, MasterSam, Geonox & Melchior Dahrk  
+[**Nerevarine's Yurt**](https://www.nexusmods.com/morrowind/mods/50735) by PollutedGaming  
+
 
 ## Cloud Storage Compatible
 [**Cloud Storage Warehouse - Storage Resource for Packrats**](https://www.nexusmods.com/morrowind/mods/50386) by TheWanderer  
@@ -47,3 +50,5 @@
 [**Balmora South Gate House - Cloud Storage Compatibility Addon**](https://www.nexusmods.com/morrowind/mods/50568) by The Wanderer  
 [**ASH Travel Tent - Cloud Storage Compatibility Addon**](https://www.nexusmods.com/morrowind/mods/50569) by The Wanderer  
 [**Ashpit Retreat - Ashlands Player Home**](https://www.nexusmods.com/morrowind/mods/50695) by Fjaldi  
+[**The Dressing Room - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50751) by TheWanderer  
+[**Pocket Display Museum**](https://www.nexusmods.com/morrowind/mods/50709) by TheWanderer  
