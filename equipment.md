@@ -108,6 +108,11 @@ Duke's Silver Armor:
 [**Addendum to Tamriel Lore**](https://www.nexusmods.com/morrowind/mods/50647) by Pikachuno  
 [**Northern Redoran Armor**](https://www.nexusmods.com/morrowind/mods/50649) by RuffinVangarr  
 [**Indoril Ronin Helmet**](https://www.nexusmods.com/morrowind/mods/50689) by elucidace  
+[**Dwemer Mitre Headgear in Morrowind**](https://www.nexusmods.com/morrowind/mods/50706) by AllanBorne  
+[**Alternate Helmets**](https://www.nexusmods.com/morrowind/mods/50713) by Endoran  
+[**SM Traveller's Clothing**](https://www.nexusmods.com/morrowind/mods/50728) by ShadowMimicry  
+[**Morag Tong Helmet Diversity**](https://www.nexusmods.com/morrowind/mods/50738) by RuffinVangarr  
+[**Ebony Naginata**](https://www.nexusmods.com/morrowind/mods/50759) by Elucidace  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
