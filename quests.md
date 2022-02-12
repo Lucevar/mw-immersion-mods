@@ -114,6 +114,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 
 ### Caius / Blades
 [**FMI - Alice's Package**](https://www.nexusmods.com/morrowind/mods/48003) by Alice  
+[**Caius Gives You A Cover Story**](https://www.nexusmods.com/morrowind/mods/50732) by RingComics  
 [**MTR Dwemer Puzzle Box Randomizer**](https://www.nexusmods.com/morrowind/mods/49781) by MTR  
 [**Andrano Ancestral Tomb Remastered**](https://www.nexusmods.com/morrowind/mods/44672) by Team Wretched Netch  
 [**Consequences for Looting the Andrano Tomb**](https://www.nexusmods.com/morrowind/mods/49728) by Alice  
@@ -182,6 +183,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Nastier Camonna Tong**](https://www.nexusmods.com/morrowind/mods/22601) by Von Djangos  
 [**Join the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/44214) by DD4N  
 [**Errands for Orvas**](http://simania.nl/mw/mwmods.htm) by Simania  
+[**Camonna Tong**](https://www.nexusmods.com/morrowind/mods/50740) by Caeris  
 
 ### Dark Brotherhood
 #### Joinable Dark Brotherhood 
@@ -305,6 +307,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Morag Tong Writ Fix**](https://www.nexusmods.com/morrowind/mods/47788) by Lurlock  
 [**Vegtabill's Threads of the Webspinner**](https://www.nexusmods.com/morrowind/mods/43893) by Vegtabill  
 [**Threads of the Webspinner Completed**](https://www.nexusmods.com/morrowind/mods/43905) by Curmudgeon  
+[**Morag Tong Pesticide**](https://www.nexusmods.com/morrowind/mods/50758) by Leyawynn 
 
 ### Thieves Guild
 [**What Thieves Guild**](https://www.nexusmods.com/morrowind/mods/47728) by Von Djangos  
@@ -617,6 +620,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**The Aethernauts**](https://www.nexusmods.com/morrowind/mods/50665) by Ignatious  
 [**Career Change - A Bard Quest**](https://www.nexusmods.com/morrowind/mods/50684) by ECLong  
 [**The Underground 2 - Repackaged**](https://www.nexusmods.com/morrowind/mods/50697) by Operator Jack & Qarl  
+[**Tim's Extra Quest - Dwemer Ancestry**](https://www.nexusmods.com/morrowind/mods/50719) by Tim Haubert  
 
 # Province Mods
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Tamriel Rebuilt and Project Tamriel  
