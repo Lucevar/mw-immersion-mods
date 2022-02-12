@@ -297,6 +297,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 [**Redaynia Village**](https://www.nexusmods.com/morrowind/mods/17935) by Darkelfguy   
 [**Sheogorad - Groves of the North**](https://www.nexusmods.com/morrowind/mods/48240) by Tapetenklaus  
 [**Grey North - Ruined Redaynia**](https://www.nexusmods.com/morrowind/mods/49862) by Anumaril  
+[**Ald Redaynia Mod N. 147**](https://www.nexusmods.com/morrowind/mods/50727) by Alice  
 
 # West Gash
 ## Gnisis
