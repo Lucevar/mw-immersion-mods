@@ -45,6 +45,7 @@
 [**Shattered Stones**](https://www.nexusmods.com/morrowind/mods/45105) by R-Zero, Greatness7, Vtastek  
 [**The Great Scathes**](https://www.nexusmods.com/morrowind/mods/48918) by Leyawynn  
 [**Finding the Erabenimsun Ashlander Camp**](https://www.nexusmods.com/morrowind/mods/49227) by Markond  
+[**OAAB Pomegranates**](https://www.nexusmods.com/morrowind/mods/50726) by Melchior Dahrk  
 
 ## Red Mountain
 [**Mountainous Red Mountain**](https://www.nexusmods.com/morrowind/mods/42125) by Piratelord  
