@@ -7,6 +7,33 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
+January 25th - February 12th
+[**The Dressing Room - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50751) by TheWanderer  
+This is a dressing room, walk in wardrobe, which is accessed by using a key.  
+It has 6 full size mannequins and 24 miniture ones a mix of male and female, stone and wood. 
+
+[**Etheral Ghosts**](https://www.nexusmods.com/morrowind/mods/50757) [sic] by VitruvianGuar  
+MWSE-lua mod that allows ghost and other incorporeal creatures to pass through closed doors 
+
+[**Smart Intervention**](https://www.nexusmods.com/morrowind/mods/50752) by abot  
+This mod gives you two ways you can know the closest Intervention spell destination. 
+
+[**Seph's NPC Soul Trapping**](https://www.nexusmods.com/morrowind/mods/50744) by Sephumbra  
+A MWSE mod that lets you soul trap NPCs. 
+
+[**Self Dressing Mannequins**](https://www.nexusmods.com/morrowind/mods/50723) by TheWanderer  
+This will add a freature to most exisiting mannequins so you can quickly and simply swap cloths with any mannequin and vice versa.
+or with a little manual intervention if your favourite mannequins are not included you can add them. 
+
+[**Pocket Display Museum**](https://www.nexusmods.com/morrowind/mods/50709) by TheWanderer  
+If you are like me and love to display all your treasures, but hate trying to arrange them neatly, then this mod is for you. 
+
+[**Give or Take**](https://www.nexusmods.com/morrowind/mods/50716) by abot  
+ Adds "Give" and "Take" buttons to any suitable actor/container, so you can easily move (all/all filtered) things in and out with Lua speed. 
+
+[**Seph's Library**](https://www.nexusmods.com/morrowind/mods/50708) by Sephumbra  
+A MWSE lua library that may be required by other mods. It does nothing on its own. 
+
 # January 1st 2022 - 24th January 2022
 [**Kirbonated Character Progression**](https://www.nexusmods.com/morrowind/mods/50702) by Kirbonated Beverage  
 Completely overhauls character progression with a new XP system, perks, and new level up UI  
