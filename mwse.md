@@ -1,5 +1,5 @@
 # MGE/MWSE Mods List
-**Updated**: 2021/12/29
+**Updated**: 2022/02/12
 
 First grab [**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102), then run MWSE-update.exe, and get the [**Morrowind Code Patch (MCP)**](https://www.nexusmods.com/morrowind/mods/19510) for good measure.  
 
@@ -7,7 +7,7 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
-January 25th - February 12th
+## January 25th - February 12th
 [**The Dressing Room - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50751) by TheWanderer  
 This is a dressing room, walk in wardrobe, which is accessed by using a key.  
 It has 6 full size mannequins and 24 miniture ones a mix of male and female, stone and wood. 
@@ -655,8 +655,8 @@ Re-configurable by MCM
 
 [**MCM Quick Keys**](https://www.nexusmods.com/morrowind/mods/48904) by Svengineer99  
 Adds Quick Keys for Selecting MCM menu Mod Pages:  
-**Ctrl-<a-z>**: selects the next Mod starting with that letter  
-**Ctrl-<up/down arrow key, mouse wheel>**: selects the prev/next Mod  
+**Ctrl-a-z**: selects the next Mod starting with that letter  
+**Ctrl-up/down arrow key, mouse wheel**: selects the prev/next Mod  
 **On re-opening the MCM**: selects the last open Mod MCM page.  
 Re-configurable by MCM  
 
@@ -1119,9 +1119,6 @@ This mod adds faster walking (running), sprinting, and gives you 3 options in st
 
 [**100 Percent Hit and Cast Rate by All**](https://www.nexusmods.com/morrowind/mods/47326) by iLiveOnFear  
 Changes Hitrate to 100% for both the player, NPC, and enemies using MWSE. This makes weapon skills obsolete, so keep that in mind. Optional: Changes Spell Cast Rate to 100%. Again, it's for both the player, NPC, and enemies. This makes magic skills useless.
-
-[**Anchor Teleportation**](https://www.nexusmods.com/morrowind/mods/47413) by OperatorJack  
-This mod makes mark and recall behave like in Daggerfall. Whenever you use recall, the location you have marked will be lost and you must cast mark again, creating an "anchor".
 
 [**Tamriel Rebuilt - Original Soundtrack**](https://www.nexusmods.com/morrowind/mods/47254) by Rytelier and ASKII  
 Adds whole new soundtrack for Tamriel Rebuilt areas, with region based music, dungeons, cities and other. Requires [**MUSE 2**](https://www.nexusmods.com/morrowind/mods/46200) 
