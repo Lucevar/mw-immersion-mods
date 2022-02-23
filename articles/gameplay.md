@@ -205,6 +205,10 @@ Enables on touch, on target, and area effect bound item spells.
 Bound weapons' damage and bound armor's AR scales with Conjuration or Willpower. Only affects vanilla and Magicka Expanded bound items.
 * [**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105) by OperatorJack  
 Using MWSE Lua, this mod makes it so that performing a summoning spell in a town or city is illegal, as it was originally intended to be. Applies to the player, NPCs, and creatures.
+* [**Bound Spells Reforged**](https://www.nexusmods.com/morrowind/mods/48750) by Kurpulio 
+Visual overhaul of Bound Spells.   
+* [**Animate Weapon Spell**](https://www.nexusmods.com/morrowind/mods/50165) by Kurpulio  
+New conjuration spell to command your army of weapons.
 
 ### Enchant
 * [**Consistent Enchanting**](https://www.nexusmods.com/morrowind/mods/50029) by NullCascade  
