@@ -283,6 +283,8 @@ The player can now also bribe NPCs with items, instead of just gold.
 Bed Buddies prevents you from sleeping in owned beds unless the owner really likes you. Disposition requirement is based on your Personality. Attempting to sleep in an owned bed no longer triggers a crime, even if the owner doesn't like you.  
 * [**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786) by Lucevar  
 In vanilla Morrowind, you have two options for clearing a bounty: turning yourself in to the guards or joining the Thieves Guild and paying them to make the problem go away. This mod adds more options, all RP friendly. 
+* [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by PoodleSandwich  
+Expands quorn's HospitalityPapers Mod, ft. voice acting by Jeff Baker
 
 **Mercantile**
 * [**Buying Game**](https://www.nexusmods.com/morrowind/mods/50574) by Vitruvian Guar  
