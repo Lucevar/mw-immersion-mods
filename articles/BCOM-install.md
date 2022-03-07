@@ -94,10 +94,11 @@ Patches - install after you've downloaded and installed everything
 * [**Ald Sotha - Severa Magia DB Fix**](https://www.nexusmods.com/morrowind/mods/45647) by Corsair  
 
 ### Landscape
-* Vvardenfell Ecology (unreleased) by Wolli  
--- 011 Leafy Tree Models  
--- 013 Rocks Revamped  
--- 021 Spores and Ores  
+* [**Vvardenfell Ecology**](https://github.com/Ellnz/VvEcology) by Wolli  
+-- 011 Landscaping Esps  
+-- 021 Leafy Trees  
+-- 021 Spores and Ores 
+-- 032 Mad Butchers Meat (adds TR meats and hides to vanilla creatures)
 * [**Concept Art Plantations**](https://www.nexusmods.com/morrowind/mods/50020) by Duo Dinamico  
 
 ### Ebonheart 
@@ -108,7 +109,6 @@ Patches - install after you've downloaded and installed everything
 * [**Carefully Cluttered Cosy Cat Condo**](https://www.nexusmods.com/morrowind/mods/50275) by Juidius Xentao  
 **Note**: Strictly speaking, NOT compatible with BCOM. Run this tes3cmd command to delete BCOM's version of Ahnassi's house so you can use this cluttermonkey's paradise instead.  
 *tes3cmd delete --backup-dir tes3cmdbck --hide-backups --interior --exact-id "Pelagiad, Ahnassi's House" "Beautiful cities of Morrowind.ESP"*
-
 
 ### Vivec
 * [**Portrait of Crassius Curio**](https://www.nexusmods.com/morrowind/mods/42812) by aralin  
