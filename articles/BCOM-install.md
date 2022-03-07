@@ -171,6 +171,7 @@ Patches - install after you've downloaded and installed everything
 * [**Hlormaren Reclaimed - Slightly Improved**](https://www.nexusmods.com/morrowind/mods/47301) by Alice  
 * [**Expedition to Mzelthuand**](https://www.nexusmods.com/morrowind/mods/45229) by Greatness7, Melchior Dahrk, TheDrunkenMudcrab  
 * [**Of Dungeons and Abodes**](https://www.nexusmods.com/morrowind/mods/44253) by Darkelfguy  
+* [**New Illunibi**](https://www.nexusmods.com/morrowind/mods/50393) by seelof  
 
 ### Landscape
 * [**OAAB The Ashen Divide**](https://www.nexusmods.com/morrowind/mods/49047) by Remiros  
