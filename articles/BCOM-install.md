@@ -118,6 +118,7 @@ Patches - install after you've downloaded and installed everything
 * [**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916) by Seelof  
 * [**Concept Art Palace**](https://www.nexusmods.com/morrowind/mods/48136) by Vegetto  
 * [**Imperial Altar in Vivec**](https://www.nexusmods.com/morrowind/mods/50273) by Tyermala  
+* [**Baar Dau**](https://www.nexusmods.com/morrowind/mods/49456) by RandomPal  
 
 ## Ashlands 
 ### Dungeons
