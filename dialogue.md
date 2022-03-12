@@ -62,6 +62,7 @@
 [**Drinks at Desele's**](https://calezane.home.xs4all.nl/mw/mwmods.htm) by Calezane  
 [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich  
 [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
+[**Service Requirements Revised**](https://www.nexusmods.com/morrowind/mods/50715) by Sigourn  
 
 ## Disease
 [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335) by Alice  
