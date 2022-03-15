@@ -126,6 +126,8 @@ For a more restrained aesthetic. Adds appropriate clutter to Gnaar Mok but doesn
 [**Concept Art Hlaalu Balconies**](https://www.nexusmods.com/morrowind/mods/48667) by RandomPal  
 [**Izi Cities - Suran**](https://www.nexusmods.com/morrowind/mods/49148) by Izi  
 [**Fabulous Suran**](https://www.nexusmods.com/morrowind/mods/49536) by Mika  
+[**Desele's House - Dancers and Delights**](https://www.nexusmods.com/morrowind/mods/50875?tab=posts) by Aphiteth  
+[**Atmospheric Delights**](https://www.nexusmods.com/morrowind/mods/47472) by Lucevar  
 
 ## Vivec
 [**Dramatic Vivec**](https://www.nexusmods.com/morrowind/mods/43385) by LondonRook  
@@ -159,6 +161,7 @@ Has a version which is compatible with Dramatic Vivec
 [**More Banners for Vivec City (Concept Art)**](https://www.nexusmods.com/morrowind/mods/50052) by mateoands  
 [**Vivec City**](https://www.nexusmods.com/morrowind/mods/50111) by Nwahs and Mushrooms  
 [**Guar Stables of Vivec**](https://www.nexusmods.com/morrowind/mods/50118) by RandomPal  
+[**Baar Dau - Ministry of Truth**](https://www.nexusmods.com/morrowind/mods/50877) by N'wahs and Mushrooms  
 
 [**Canalworks Connected**](https://www.nexusmods.com/morrowind/mods/47354) by iLoveOnFear  
 [**Jobasha's Rare Books Expanded**](https://www.nexusmods.com/morrowind/mods/45153) twgear2  
@@ -369,6 +372,7 @@ or
 [**Dallara Balmora**](https://www.nexusmods.com/morrowind/mods/49669) by Dallara  
 [**Hlaalu Council Manor Overhaul**](https://www.nexusmods.com/morrowind/mods/50164) by RandomPal  
 [**Odai Riverbed**](https://www.nexusmods.com/morrowind/mods/50515) by multiple  
+[**Balmora Mage Guild - No Fire Hazard**](https://www.nexusmods.com/morrowind/mods/50874) by Loth  
 
 [**Fort Moonmoth Expanded**](https://www.nexusmods.com/morrowind/mods/46963) by Yommumoi  
 [**Moonmoth Legion Fort Overhaul**](https://www.nexusmods.com/morrowind/mods/48835) by RandomPal  
