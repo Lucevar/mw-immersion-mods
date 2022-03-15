@@ -201,7 +201,12 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588) by Half11  
 
 ### East Empire Company
+**Factor's Estate Overhauls**  
+[**Mage Character's Factors Estate**](https://www.nexusmods.com/morrowind/mods/43845) by roerich  
+[**Rather Nice Factor's Estate**](https://www.nexusmods.com/morrowind/mods/47933) by Atrayonis  
 
+**Quests**  
+[**Galerion's Tools**](https://www.nexusmods.com/morrowind/mods/47901) by Operator Jack  
 
 ### Fighters Guild
 [**Zelazko's Fighters Guild Quest Options**](https://www.nexusmods.com/morrowind/mods/47196) by Zelazko  
