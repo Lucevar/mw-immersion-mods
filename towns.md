@@ -181,11 +181,12 @@ Has a version which is compatible with Dramatic Vivec
 [**Shrines of the Seven Graces**](https://www.nexusmods.com/morrowind/mods/46417?tab=files) by QueenLunara  
 The Shrine of Daring isn't compatible with Holidays Across Tamriel/Dramatic Vivec. I recommend getting the other six and leaving that one out.  
 
-[**Concept Art Palace (Vivec City)**](https://www.nexusmods.com/morrowind/mods/48136) by NobuRed and NMTeam  
+[**Concept Art Palace (Vivec City)**](https://www.nexusmods.com/morrowind/mods/48136) by NobuRed, Vegetto and NMTeam  
 [**Illuminated Palace of Vivec**](https://www.nexusmods.com/morrowind/mods/44585) by vojteek  
 [**Palace of Vehk**](https://www.nexusmods.com/morrowind/mods/46800) by Enclavekiller  
 [**Vivec's Chamber**](https://www.nexusmods.com/morrowind/mods/47344) by Dagoth Slayer  
 [**Vivec Palace Illuminated - Redux**](https://www.nexusmods.com/morrowind/mods/48681) by Shehriazad  
+[**N'wahs Work - Vivec Palace**](https://www.nexusmods.com/morrowind/mods/49103) by Nwashs and Mushrooms
 
 ### Vivec - Prison Moon Baar Dau
 [**Higher Ministry of Truth**](https://www.nexusmods.com/morrowind/mods/49415) by RandomPal  
