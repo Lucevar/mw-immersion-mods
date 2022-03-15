@@ -1,4 +1,4 @@
-# Quests 
+# Quests and Factions
 # Vanilla Quest Changes
 ## General
 [**Patch for Purists**](https://www.nexusmods.com/morrowind/mods/45096) by Half11  
@@ -212,9 +212,13 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Galerion's Tools**](https://www.nexusmods.com/morrowind/mods/47901) by Operator Jack  
 
 ### Fighters Guild
-[**Zelazko's Fighters Guild Quest Options**](https://www.nexusmods.com/morrowind/mods/47196) by Zelazko  
-[**Fighters Guild Rebuild in Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/29684) by Gforcebond  
-[**Suran Fighters Guild**](https://www.nexusmods.com/morrowind/mods/50017) by Sawyer Morgan  
+* [**Zelazko's Fighters Guild Quest Options**](https://www.nexusmods.com/morrowind/mods/47196) by Zelazko  
+* [**Fighters Guild Rebuild in Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/29684) by Gforcebond  
+* [**Suran Fighters Guild**](https://www.nexusmods.com/morrowind/mods/50017) by Sawyer Morgan  
+* [**Caldera - Fighters Guild**](https://www.nexusmods.com/morrowind/mods/47328) by Utseeva  
+* [**Wolverine Hall Interior Expansion**](https://www.nexusmods.com/morrowind/mods/44965) by Mordaxis  
+* [**Wolverine Hall overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort  
+* [**Wolverine Hall Overhauled**](https://www.nexusmods.com/morrowind/mods/50808) by Gevalt/Heinrich  
 
 ### House Hlaalu
 [**Crassius Curio Gets Comfortable**](https://www.nexusmods.com/morrowind/mods/49922) by Amazingly Randi  
@@ -234,18 +238,52 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Remove Rethan Manor Loot**](https://www.nexusmods.com/morrowind/mods/50815) by flaratt ljos  
 
 ### House Redoran
+#### Redoran - Dialogue
+[**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) by Alice  
+
+#### Redoran - Vanilla Quests
 [**Guard Sarethi Manor Add-on - Morag Tong Hit Squad**](https://www.nexusmods.com/morrowind/mods/49343) by Sigourn  
 [**Redoran Founder's Helm Add-on - Arena Duel**](https://www.nexusmods.com/morrowind/mods/49342) by Sigourn  
 [**Hiring Guards for the Redoran Stronghold - Honorable Solution**](https://www.nexusmods.com/morrowind/mods/48243) by Alice  
-[**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953) by Alice  
-[**Redoran Founder's Helm Add-on**](https://www.nexusmods.com/morrowind/mods/47352) by Alice  
 [**Duel of Honor - Improve the Chances**](https://www.nexusmods.com/morrowind/mods/47393) by Alice  
-[**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) by Alice  
 [**Redoran Archmaster's Perks**](https://www.nexusmods.com/morrowind/mods/49519) by Mort  
-[**Olyn Hleran -- Redoran Companion**](https://www.nexusmods.com/morrowind/mods/45197) by Team Mythical Beast  
 [**Old Blue Fin**](https://www.nexusmods.com/morrowind/mods/49503) by Leyawynn  
+
+#### Redoran - Stronghold
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by Necrolesian  
 [**Indarys Improved**](https://www.nexusmods.com/morrowind/mods/50666) by Cyprinus  
+
+#### Redoran - Locations
+[**Redoran Archmaster's Office**](https://www.nexusmods.com/morrowind/mods/49513) by Denina  
+[**Immersive Drulene Falen's Hut**](https://www.nexusmods.com/morrowind/mods/49623) by RandomPal  
+[**Redoran Council Overhall**](https://www.nexusmods.com/morrowind/mods/49817) by Vidi Aquam, Lucevar, Leyawynn  
+[**Marandus Rebuilt**](https://www.nexusmods.com/morrowind/mods/49522) by Endoran  
+[**Redoran Vault Extended**](https://www.nexusmods.com/morrowind/mods/42098) by Tarius  
+[**Redoran Vaults Expanded**](https://www.nexusmods.com/morrowind/mods/42089) by SlaaneshTheCorrupter  
+[**Reinforced Redoran**](https://www.nexusmods.com/morrowind/mods/42386) by bruno12069  
+[**Maintained Redoran Walls**](https://www.nexusmods.com/morrowind/mods/46888) by Ava Aelius  
+[**Rogue Redoran Rugs Removed**](https://www.nexusmods.com/morrowind/mods/49942) by Randolph Carter  
+[**Mandas Manor**](https://www.nexusmods.com/morrowind/mods/49911) by Endoran  
+[**Morvayn Manor in Maar Gan**](https://www.nexusmods.com/morrowind/mods/48024) by Alice  
+
+#### Redoran - NPCs and Equipment
+[**The Last of the Redas Family**](https://www.nexusmods.com/morrowind/mods/47953) by Alice  
+[**Redoran Founder's Helm Add-on**](https://www.nexusmods.com/morrowind/mods/47352) by Alice  
+[**Redoran War Armor and Sathil Mercenary Equipment**](https://www.nexusmods.com/morrowind/mods/44038) by Ashtaar  
+[**Redoran War Armor and Sathil Mercenary Equipment ESRGANED**](https://www.nexusmods.com/morrowind/mods/47720) by JahDexter  
+[**Redoran Founder's Armor**](https://www.nexusmods.com/morrowind/mods/44860) by NazoX9  
+[**Redoran Patrols - Gnisis**](https://www.nexusmods.com/morrowind/mods/49484) by Ashtaar  
+[**Redoran Exile Armor**](https://www.nexusmods.com/morrowind/mods/49509) by RuffinVangarr  
+[**Redoran War Armor v2**](https://www.nexusmods.com/morrowind/mods/48770) by RuffinVangarr  
+[**Northern Redoran Armor**](https://www.nexusmods.com/morrowind/mods/50649) by RuffinVangarr  
+[**Redoran Hortator Armor Chest**](https://www.nexusmods.com/morrowind/mods/49498) by Stripes  
+
+#### Redoran - New Quests
+[**Olyn Hleran -- Redoran Companion**](https://www.nexusmods.com/morrowind/mods/45197) by Team Mythical Beast  
+[**Lost Redoran Relics**](https://www.nexusmods.com/morrowind/mods/49507) by Billyfighter  
+[**The Redoran Bard**](https://www.nexusmods.com/morrowind/mods/49511) by RingComics  
+[**The Redoran Amulet**](https://www.nexusmods.com/morrowind/mods/49501) by Endify  
+[**Redoran Heat - A Necromancer's Sorrow**](https://www.nexusmods.com/morrowind/mods/49505) by ZaMothman  
 [**LGNPC**](http://lgnpc.org/downloads) by LGNPC Team  
 * Pax Redoran
 * Ald-ruhn
@@ -273,8 +311,9 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**RR - Better Telvanni Cephalopod Armor**](https://www.nexusmods.com/morrowind/mods/44837) by RR Team  
 [**No Back Shell for Better Telvanni Cephalopod Armor**](https://www.nexusmods.com/morrowind/mods/49334) by PopeRigby  
 [**Female Tel Mora Guards**](https://www.nexusmods.com/morrowind/mods/43559) by Hlaalu66  
+[**Animated Archmagister**](https://www.nexusmods.com/morrowind/mods/50656) by Vidi Aquam  
 
-#### Telvanni Locations
+#### Telvanni - Locations
 See the Towns list and the Locations list for more mods making general additions to Telvanni towns.
 
 [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by Melchior Dahrk  
@@ -291,14 +330,14 @@ See the Towns list and the Locations list for more mods making general additions
 [**The Great Treasury Heist of Tel Naga Tower**](https://www.nexusmods.com/morrowind/mods/47710) by Dagoth Slayer  
 [**Out of the Fyring Pan - Into the Fyr**](https://www.nexusmods.com/morrowind/mods/49439) by Mark  
 
-#### Vanilla Quests
+#### Telvanni - Vanilla Quests
 [**Therana vs Trerayna**](https://www.nexusmods.com/morrowind/mods/49332) by Alice  
 [**Immersive Neloth Reward**](https://www.nexusmods.com/morrowind/mods/49836) by Alice  
 [**Drakes Pride Refusal**](https://www.nexusmods.com/morrowind/mods/46894) by chryssvoler  
 [**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Alice  
 [**Quest Tweaks and Alternatives**](https://stuporstar.sarahdimento.com/updates/downloads/) by Stuporstar  
 
-#### Tel Uvirith
+#### Telvanni - Tel Uvirith
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by Necrolesian 
 [**Uvirith's Legacy**](https://stuporstar.sarahdimento.com/updates/downloads/) by Stuporstar  
 [**Building Up Uvirith's Legacy**](https://mw.modhistory.com/download-47-11851) by Acheron & Artimis Fowl  
@@ -310,7 +349,7 @@ See the Towns list and the Locations list for more mods making general additions
 [**Building Up Uvirith's Grave**](https://mw.modhistory.com/download-87-15527) by Acheron  
 [**Tel Uvirith Underground**](https://mw.modhistory.com/download-44-9509) by Morpheron  
 
-#### Other Telvanni Houses
+#### Telvanni - Other Houses
 [**Tel Galen - Evil Telvanni Player Home**](https://www.nexusmods.com/morrowind/mods/44988) by Mythic Emperor  
 [**Telvanni Strider House**](https://www.nexusmods.com/morrowind/mods/44987) by WulfShaman  
 [**Grow Your Own Telvanni Towers**](https://www.nexusmods.com/morrowind/mods/47674) by Kaosnyrb  
@@ -324,7 +363,7 @@ See the Towns list and the Locations list for more mods making general additions
 [**Tel Meskoa**](https://www.nexusmods.com/morrowind/mods/41896) by FIM  
 [**Tel Dranori**](https://www.nexusmods.com/morrowind/mods/42763) by TheDrunkenMudcrab  
 
-#### New Telvanni Quests
+#### Telvanni - New Quests
 [**House Telvanni - The Forgotten Apocrypha Excursion**](https://www.nexusmods.com/morrowind/mods/50661) by Arron Dominion  
 [**Rise of House Telvanni 2.0**](https://www.nexusmods.com/morrowind/mods/48225) by mort  
 [**The Tragedy of Dahrk Mezalf the Wise**](https://www.nexusmods.com/morrowind/mods/47235) by Team Suran Suran  
@@ -339,14 +378,44 @@ See the Towns list and the Locations list for more mods making general additions
 [**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995) by Alice  
 
 ### Imperial Legion
-[**Courtesy**](https://www.nexusmods.com/morrowind/mods/46781) by chantox  
+#### Legion - Dialogue
+[**Legion Papers**](https://www.nexusmods.com/morrowind/mods/5512) by maw3193  
+[**Legion Uniform Apathy**](https://www.nexusmods.com/morrowind/mods/46024) by mort  
+[**Legion Uniform Complete Apathy**](https://www.nexusmods.com/morrowind/mods/50678) by artemgur  
+[**FMI - Legion Dialogue**](https://www.nexusmods.com/morrowind/mods/47318) by PoodleSandwich  
+
+#### Legion - Vanilla Quests
 [**Imperial Legion Expansion**](https://www.nexusmods.com/morrowind/mods/44469) by Alice  
-[**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Alice  
-[**Gnisis Docks**](https://www.nexusmods.com/morrowind/mods/45994) by Alice  
-[**Legion at the Siege of Firemoth**](https://www.nexusmods.com/morrowind/mods/47924) by Endoran  
 [**Saprius Disguised**](https://www.nexusmods.com/morrowind/mods/50377) by Tyermala  
+[**Courtesy**](https://www.nexusmods.com/morrowind/mods/46781) by chantox  
+[**Gnisis Docks**](https://www.nexusmods.com/morrowind/mods/45994) by Alice  
+
+#### Legion - Locations
+[**Moonmoth Legion Fort Overhaul**](https://www.nexusmods.com/morrowind/mods/48835) by RandomPal  
+[**Moonmoth Legion Home**](https://www.nexusmods.com/morrowind/mods/43979) by Crankgorilla  
+[**More Detailed Places - Fort Buckmoth**](https://www.nexusmods.com/morrowind/mods/30954) by Ragox  
+[**Better Imperial Forts**](https://www.nexusmods.com/morrowind/mods/49745) by Dallara  
+[**Vvardenfell Expanded - Fort Moonmoth**](https://www.nexusmods.com/morrowind/mods/46963) by Yommumoi  
+[**Fort Darius**](https://www.nexusmods.com/morrowind/mods/49600) by Joi Ror  
+[**Fort Moonmoth Overhaul**](https://www.nexusmods.com/morrowind/mods/48427) by Tel Shadow  
+[**Izi Forts - All in One**](https://www.nexusmods.com/morrowind/mods/49548) by Izi  
+[**Yellow Border B-Gone, Imperial Banner and Flag Retexture**](https://www.nexusmods.com/morrowind/mods/47685) by Leetmorry  
+[**Imperial Presence**](https://www.nexusmods.com/morrowind/mods/43216) by cml33  
+[**Ships of the Imperial Navy**](https://www.nexusmods.com/morrowind/mods/42103) by Neoptolemus  
+
+#### Legion - NPCs and Equipment
+[**Legion Field Gear**](https://www.nexusmods.com/morrowind/mods/49621) by Endoran  
+[**Imperial Armor Expanded**](https://www.nexusmods.com/morrowind/mods/49330) by Endoran  
+[**Imperial Legion Goods**](https://www.nexusmods.com/morrowind/mods/43002) by CryptsOfTheDead  
+[**Imperial Studded Armor**](https://www.nexusmods.com/morrowind/mods/44934) by NazoX9  
+[**Complete and Revised Imperial Studded Leather Armor**](https://www.nexusmods.com/morrowind/mods/49301) by RuffinVangarr  
+[**Imperial Presence**](https://www.nexusmods.com/morrowind/mods/43216) by cml33  
+
+#### Legion - New Quests
 [**Alternate Legion Chapter 1 Path of Spearman**](https://www.nexusmods.com/morrowind/mods/50622) by Deadly Frog Productions  
+[**Publius Claudius Follower**](https://www.nexusmods.com/morrowind/mods/46645) by Alice  
 [**Legion Veterans**](https://www.nexusmods.com/morrowind/mods/50646) by Endoran  
+[**Legion at the Siege of Firemoth**](https://www.nexusmods.com/morrowind/mods/47924) by Endoran  
 
 #### Talos Cult
 [**The Talos Cult Conspiracy**](https://www.nexusmods.com/morrowind/mods/47576) by Alice and Caeris  
@@ -354,17 +423,34 @@ See the Towns list and the Locations list for more mods making general additions
 [**Talos Cult Revised - Alice's Version**](https://www.nexusmods.com/morrowind/mods/47571) by Alice  
 
 ### Mages Guild
-[**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von Django  
-[**Shal Overgrown**](https://www.nexusmods.com/morrowind/mods/47219) by Team Dandy Daedra  
+#### Mages Guild - Locations
+* [**Caldera Mages Guild Expanded**](https://www.nexusmods.com/morrowind/mods/45750) by Lucevar  
+* [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
+* [**Stav's Boxes - Mages Guild Aesthetic Overhaul**](https://www.nexusmods.com/morrowind/mods/43561) by Stavroguin  
+* [**Vivec Guild of Mages Expanded**](https://www.nexusmods.com/morrowind/mods/44935) by Mordaxis  
+* [**Mages Guild Quarters**](https://www.nexusmods.com/morrowind/mods/43596) by Vals_Fan  
+* [**Balmora Mages Guild Storage and Bed**](https://www.nexusmods.com/morrowind/mods/45775) by Omeletter  
+* [**Wolverine Hall Interior Expansion**](https://www.nexusmods.com/morrowind/mods/44965) by Mordaxis  
+* [**Wolverine Hall overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort  
+* [**Wolverine Hall Overhauled**](https://www.nexusmods.com/morrowind/mods/50808) by Gevalt/Heinrich  
+* [**Ald-ruhn Mages Guild Expansion**](https://www.nexusmods.com/morrowind/mods/48321) by Endify   
+* [**Edwinna's Study**](https://www.nexusmods.com/morrowind/mods/49050) by Whitnedak  
+
+#### Mages Guild - NPCs and Equipment
+[**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739) by Melchior Dahrk  
 [**Ajira Deflowered**](https://www.nexusmods.com/morrowind/mods/47585) by Alice  
+
+#### Mages Guild - Vanilla Quest Edits
 [**Ajira's Alchemy Reports Randomized**](https://www.nexusmods.com/morrowind/mods/47550) by Danae and Merlord  
 [**Ajira's Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/34180) by DebiDalio  
 [**Pacifist Options - Where They Make Sense**](https://www.nexusmods.com/morrowind/mods/47961) by Alice  
+[**Shal Overgrown**](https://www.nexusmods.com/morrowind/mods/47219) by Team Dandy Daedra  
 [**A Cure for Vampirism - Skink's Solution**](https://www.nexusmods.com/morrowind/mods/47375) by Alice  
+
+#### Mages Guild - New Quests
+[**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von Django  
 [**God of Worms**](https://www.nexusmods.com/morrowind/mods/48028) by Caeris  
-[**Caldera Mages Guild Expanded**](https://www.nexusmods.com/morrowind/mods/45750) by Lucevar  
 [**Master Index Redux**](https://www.nexusmods.com/morrowind/mods/48977) by Endoran  
-[**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739) by Melchior Dahrk  
 [**Scrolls of the Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831) by Melchior Dahrk  
 [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126) by Melchior Dahrk  
 
@@ -383,6 +469,7 @@ See the Towns list and the Locations list for more mods making general additions
 [**What Thieves Guild**](https://www.nexusmods.com/morrowind/mods/47728) by Von Djangos  
 [**Even Seedier Eight Plates**](https://www.nexusmods.com/morrowind/mods/49236) by Lucevar  
 [**Thieves Guild Regained Trust**](https://www.nexusmods.com/morrowind/mods/45211) by ProfArmitage  
+[**The Rat in the Pot**](https://www.nexusmods.com/morrowind/mods/34186) by DebiDalio  
 [**South Wall, Den of Iniquity**](https://www.nexusmods.com/morrowind/mods/49950) by Balasthustrius  
 [**Thief Quests**](https://www.nexusmods.com/morrowind/mods/507) by ?  
 [**Thieves Guild Mediaries - A  Price on Your Head**](https://www.nexusmods.com/morrowind/mods/50858) by Aphiteth  
@@ -402,6 +489,7 @@ See the Towns list and the Locations list for more mods making general additions
 [**The Manifold Spires**](https://www.nexusmods.com/morrowind/mods/46128) by Team Drama Kwama  
 [**Sanctioned Indoril Armor**](https://www.nexusmods.com/morrowind/mods/49212) by akh  
 [**The Muck Shovel of Vivec**](https://mw.modhistory.com/download-68-2963) by dongle  
+[**Aldruhn Temple Expansion**](http://mw.modhistory.com/download-80-14377) by Xeth-Ban  
 
 ### Twin Lamps
 [**Twin Lamps and Slavehunters -- Cleaned and Edited**](https://www.nexusmods.com/morrowind/mods/47420) by Nevena and l1lartur0  
