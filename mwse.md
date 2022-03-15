@@ -7,7 +7,34 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
-## January 25th - February 12th
+## January 25th - March 15th
+
+
+[**Revolving Doors Blocker**](https://www.nexusmods.com/morrowind/mods/50828) by abot  
+A quick and dirty blocker for doors going nowhere.  
+
+[**Safebox's Compass**](https://www.nexusmods.com/morrowind/mods/50821) by Safebox  
+Adds a Skyrim-style compass marking various features including shops, merchants, and detect spells.  
+
+[**Ingredient Sorter**](https://www.nexusmods.com/morrowind/mods/50795) by TheWanderer  
+This will add auto sorting to TheWanderer's Ingredient Boxes, by whoever and wherever they have been added. This is achieved via spells that are given to you on first load.
+You can also recover all the ingredients from all the boxes with the Recover Ingredients spell
+
+[**Swap Clothes With Me**](https://www.nexusmods.com/morrowind/mods/50803) by TheWanderer  
+You are given a spell on load call "Swap Clothes" casting it on any NPC will do just what it says. You swap clothes with the NPC
+
+[**Hourglass Menu**](https://www.nexusmods.com/morrowind/mods/50790) by TheWanderer  
+This will add a menu to all my hourglass resources wherever and by whoever it has been added, as long as the modder did not change it’s original ID. Works with OAAB hourglasses also! 
+
+[**Interop for Ashfall and Stuporstar's Tea Mod**](https://www.nexusmods.com/morrowind/mods/50789) by Aldurion  
+This is an interop file to make the food, tea and coffee ingredients added by Stuporstar's Tea Mod work through Ashfall's framework. It will do absolutely nothing without both those mods.
+
+[**Bound Ammo**](https://www.nexusmods.com/morrowind/mods/50766) by Yorklag  
+Adds in a bound arrow spell effect.
+
+[**Keyring - For The Explorer's Magical Bag**](https://www.nexusmods.com/morrowind/mods/50762) by TheWanderer  
+Fed up with looking for that elusive key in your inventory? Well now with “Keyring for The Explorers Magical Bag” you won’t need to.
+
 [**The Dressing Room - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50751) by TheWanderer  
 This is a dressing room, walk in wardrobe, which is accessed by using a key.  
 It has 6 full size mannequins and 24 miniture ones a mix of male and female, stone and wood. 
