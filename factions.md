@@ -129,6 +129,7 @@ Ever felt that for law breaking gang of thieves and robbers, finding their guild
 [**Bal Molagmer Add-on**](https://www.nexusmods.com/morrowind/mods/48198) by Alice  
 [**Lore-Friendly Bal Molagmer Gloves**](https://www.nexusmods.com/morrowind/mods/48053) by Alice  
 [**Arantamo's Room**](https://www.nexusmods.com/morrowind/mods/48249) by Endify  
+[**Strike at the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/46865) by ProfArmitage  
 
 ## Misc Smuggling Operations
 [**Adanumuran Reclaimed**](https://www.nexusmods.com/morrowind/mods/43340) by Danae  
@@ -143,7 +144,9 @@ This mod started as a simple house mod and expanded into an entire smuggling fac
 [**Morag Tong Armor Resource**](https://www.nexusmods.com/morrowind/mods/35564) by Alaisiagae  
 [**Morag Tong Armor**](https://www.nexusmods.com/morrowind/mods/44938) by NazoX9  
 
+
 ## Camonna Tong
+[**Strike at the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/46865) by ProfArmitage  
 [**Nastier Camonna Tong**](https://www.nexusmods.com/morrowind/mods/22601) by Von Djangos  
 [**Errands for Orvas**](https://calezane.home.xs4all.nl/mw/mwmods.htm) by Calezane  
 [**Camonna Tong**](https://www.nexusmods.com/morrowind/mods/50740) by Caeris  
