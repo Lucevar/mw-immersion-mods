@@ -43,6 +43,7 @@
 * [**The Levitation Act**](https://www.nexusmods.com/morrowind/mods/47345) by OperatorJack and Gavrilo93  
 * [**Bound to Balance**](https://www.nexusmods.com/morrowind/mods/48563?tab=description) by OEA  
 * [**Miscast Enhanced**](https://www.nexusmods.com/morrowind/mods/47948) by OperatorJack  
+* [**Bound Ammo**](https://www.nexusmods.com/morrowind/mods/50766) by Yorklag  
 
 ## Objects
 * [**Spell Tomes**](https://www.nexusmods.com/morrowind/mods/47217) by MateWushu  
