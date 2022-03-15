@@ -160,8 +160,10 @@ For overhauls of vanilla Dwemer ruins, see the [**Dungeons**](https://github.com
 * [**The Royal Game of Ur**](https://www.nexusmods.com/morrowind/mods/44945) by Lord Berandas  
 
 ## New Factions
-* [**Cult of the Clouds**]() 
-* [**Illuminated Order 2.0**]() by Mort  
+* [**Cult of the Clouds**](https://mw.modhistory.com/download-35-3192) by MWoody  
+* [**Cult of the Clouds Dialogue Patch**](https://www.nexusmods.com/morrowind/mods/50409) by Eismeow  
+* [**Illuminated Order 2.0**](https://www.nexusmods.com/morrowind/mods/47414) by Mort  
+* [**The Imperial Dwemer Society**](https://www.nexusmods.com/morrowind/mods/45225) by Team Mythical Beasts  
 
 ## Quests
 * [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126)
@@ -171,6 +173,7 @@ For overhauls of vanilla Dwemer ruins, see the [**Dungeons**](https://github.com
 * [**Chrysopeia**](https://www.nexusmods.com/morrowind/mods/47008) by OperatorJack  
 * [**3E 427 A Space Odyssey**](https://www.nexusmods.com/morrowind/mods/48019) by OperatorJack and Alice93  
 * [**Scrolls of the Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831) by Melchior Dahrk    
+* [**Galerion's Tools**](https://www.nexusmods.com/morrowind/mods/47901) by OperatorJack  
 
 ## Necromancy
 * [**dopey Necromancy**](https://www.nexusmods.com/morrowind/mods/43313) by dopeyFish  
