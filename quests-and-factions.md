@@ -161,7 +161,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**The Resistable Rise of the Tribe Unmourned**](https://www.nexusmods.com/morrowind/mods/44604) by MSam  
 
 ## Vanilla Factions
-### Ashlanders
+# Ashlanders
 [**The Mystery of the Ghost Snake**](https://www.nexusmods.com/morrowind/mods/49358) by Alice  
 [**Failed Incarnates Pilgrimage**](https://www.nexusmods.com/morrowind/mods/48717) by Danae  
 [**Ashlander Quests**](https://www.nexusmods.com/morrowind/mods/46817) by Alice  
@@ -170,17 +170,17 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Trouble at Valenvaryon**](https://www.nexusmods.com/morrowind/mods/48543) by rumeely  
 [**Zainab Burial Caverns**](https://www.nexusmods.com/morrowind/mods/48703) by urm and testman  
 
-### Blades
+# Blades
 [**Blades Informant**](https://www.nexusmods.com/morrowind/mods/48084) by Alice  
 [**Blades Quest: Prophecy of the Lost Heir**](http://lovkullen.net/Emma/blade.htm) by Emma  
 [**Blades of Vvardenfell**](https://www.nexusmods.com/morrowind/mods/44551) by Febbles  
 [**Deserter Legionaries**](https://www.nexusmods.com/morrowind/mods/8715) by somesz  
 [**Malinde Hilan**](https://www.nexusmods.com/morrowind/mods/36891) by kllsnke  
 
-### Buoyant Armigers
+# Buoyant Armigers
 [**Arvesa - An Armiger's Tale**](https://www.nexusmods.com/morrowind/mods/50306) by Orion  
 
-### Camonna Tong
+# Camonna Tong
 [**Strike at the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/46865) by ProfArmitage  
 [**Nastier Camonna Tong**](https://www.nexusmods.com/morrowind/mods/22601) by Von Djangos  
 [**Join the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/44214) by DD4N  
@@ -188,7 +188,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Camonna Tong**](https://www.nexusmods.com/morrowind/mods/50740) by Caeris  
 [**LDM - Racist Service Refusal**](https://www.nexusmods.com/morrowind/mods/50870) by Lucevar  
 
-### Dark Brotherhood
+# Dark Brotherhood
 #### Joinable Dark Brotherhood 
 [**Join the Dark Brotherhood**](https://www.nexusmods.com/morrowind/mods/48858) by DD4N  
 [**To Serve Sithis**](https://www.nexusmods.com/morrowind/mods/45005) by Emryn  
@@ -203,7 +203,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Dark Brotherhood Assassins Attack Once**](https://www.nexusmods.com/morrowind/mods/43632) by Instinktive  
 [**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588) by Half11  
 
-### East Empire Company
+# East Empire Company
 **Factor's Estate Overhauls**  
 [**Mage Character's Factors Estate**](https://www.nexusmods.com/morrowind/mods/43845) by roerich  
 [**Rather Nice Factor's Estate**](https://www.nexusmods.com/morrowind/mods/47933) by Atrayonis  
@@ -211,7 +211,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 **Quests**  
 [**Galerion's Tools**](https://www.nexusmods.com/morrowind/mods/47901) by Operator Jack  
 
-### Fighters Guild
+# Fighters Guild
 * [**Zelazko's Fighters Guild Quest Options**](https://www.nexusmods.com/morrowind/mods/47196) by Zelazko  
 * [**Fighters Guild Rebuild in Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/29684) by Gforcebond  
 * [**Suran Fighters Guild**](https://www.nexusmods.com/morrowind/mods/50017) by Sawyer Morgan  
@@ -220,7 +220,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 * [**Wolverine Hall overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort  
 * [**Wolverine Hall Overhauled**](https://www.nexusmods.com/morrowind/mods/50808) by Gevalt/Heinrich  
 
-### House Hlaalu
+# House Hlaalu
 [**Crassius Curio Gets Comfortable**](https://www.nexusmods.com/morrowind/mods/49922) by Amazingly Randi  
 [**Hlaalu Predatory Recruitment**](https://www.nexusmods.com/morrowind/mods/45007) by Yu Narukaze  
 [**Hlaalu Business**](https://www.nexusmods.com/morrowind/mods/39698) by 4LOM  
@@ -241,7 +241,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 #### Redoran - Dialogue
 [**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) by Alice  
 
-#### Redoran - Vanilla Quests
+# Redoran - Vanilla Quests
 [**Guard Sarethi Manor Add-on - Morag Tong Hit Squad**](https://www.nexusmods.com/morrowind/mods/49343) by Sigourn  
 [**Redoran Founder's Helm Add-on - Arena Duel**](https://www.nexusmods.com/morrowind/mods/49342) by Sigourn  
 [**Hiring Guards for the Redoran Stronghold - Honorable Solution**](https://www.nexusmods.com/morrowind/mods/48243) by Alice  
@@ -294,7 +294,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 * Maar Gan
 * Indarys Manor
 
-### House Telvanni
+# House Telvanni
 #### Dialogue 
 [**Racist Telvanni Guards**](https://mw.modhistory.com/download-53-10731) by Vagor  
 [**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by PoodleSandwich  
@@ -369,7 +369,7 @@ See the Towns list and the Locations list for more mods making general additions
 [**The Tragedy of Dahrk Mezalf the Wise**](https://www.nexusmods.com/morrowind/mods/47235) by Team Suran Suran  
 [**Aloros the Telvanni Companion**](https://www.nexusmods.com/morrowind/mods/44069) by MatthewTheBagel  
 
-### Imperial Cult
+# Imperial Cult
 [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
 [**Harvest's End Festival**](https://www.nexusmods.com/morrowind/mods/49834) by Alice  
 [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
@@ -377,7 +377,7 @@ See the Towns list and the Locations list for more mods making general additions
 [**FMI - Alice's Package**](https://www.nexusmods.com/morrowind/mods/48003) by Alice  
 [**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995) by Alice  
 
-### Imperial Legion
+# Imperial Legion
 #### Legion - Dialogue
 [**Legion Papers**](https://www.nexusmods.com/morrowind/mods/5512) by maw3193  
 [**Legion Uniform Apathy**](https://www.nexusmods.com/morrowind/mods/46024) by mort  
@@ -417,12 +417,12 @@ See the Towns list and the Locations list for more mods making general additions
 [**Legion Veterans**](https://www.nexusmods.com/morrowind/mods/50646) by Endoran  
 [**Legion at the Siege of Firemoth**](https://www.nexusmods.com/morrowind/mods/47924) by Endoran  
 
-#### Talos Cult
+#### Legion - Talos Cult
 [**The Talos Cult Conspiracy**](https://www.nexusmods.com/morrowind/mods/47576) by Alice and Caeris  
 [**Talos Cult Revised**](https://www.nexusmods.com/morrowind/mods/44577) by Cheydin  
 [**Talos Cult Revised - Alice's Version**](https://www.nexusmods.com/morrowind/mods/47571) by Alice  
 
-### Mages Guild
+# Mages Guild
 #### Mages Guild - Locations
 * [**Caldera Mages Guild Expanded**](https://www.nexusmods.com/morrowind/mods/45750) by Lucevar  
 * [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
@@ -454,7 +454,7 @@ See the Towns list and the Locations list for more mods making general additions
 [**Scrolls of the Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831) by Melchior Dahrk  
 [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126) by Melchior Dahrk  
 
-### Morag Tong
+# Morag Tong
 [**Morag Tong - Methas Hlaalu**](https://www.nexusmods.com/morrowind/mods/28252) by Sladle  
 [**Morag Tong Expanded**](https://www.nexusmods.com/morrowind/mods/42120) by Shuuda  
 [**Morag Tong Polished**](https://www.nexusmods.com/morrowind/mods/47041) by Caeris  
@@ -465,7 +465,7 @@ See the Towns list and the Locations list for more mods making general additions
 [**MWSE - Morag Tong Helmets**](https://www.nexusmods.com/morrowind/mods/50827) by Stripes  
 [**Morag Tong Helmet Diversity**](https://www.nexusmods.com/morrowind/mods/50738) by RuffinVangarr  
 
-### Thieves Guild
+# Thieves Guild
 [**What Thieves Guild**](https://www.nexusmods.com/morrowind/mods/47728) by Von Djangos  
 [**Even Seedier Eight Plates**](https://www.nexusmods.com/morrowind/mods/49236) by Lucevar  
 [**Thieves Guild Regained Trust**](https://www.nexusmods.com/morrowind/mods/45211) by ProfArmitage  
@@ -480,7 +480,7 @@ See the Towns list and the Locations list for more mods making general additions
 * [**Wanted Posters**](https://www.nexusmods.com/morrowind/mods/47000) by Alice  
 * [**Plunder the Dungeon**](https://www.nexusmods.com/morrowind/mods/46977) by Alice  
 
-### Tribunal Temple
+# Tribunal Temple
 [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
 [**FMI - Alice's Package**](https://www.nexusmods.com/morrowind/mods/48003) by Alice  
 [**Elisamsi Follower**](https://www.nexusmods.com/morrowind/mods/49326) by Alice  
@@ -491,11 +491,11 @@ See the Towns list and the Locations list for more mods making general additions
 [**The Muck Shovel of Vivec**](https://mw.modhistory.com/download-68-2963) by dongle  
 [**Aldruhn Temple Expansion**](http://mw.modhistory.com/download-80-14377) by Xeth-Ban  
 
-### Twin Lamps
+# Twin Lamps
 [**Twin Lamps and Slavehunters -- Cleaned and Edited**](https://www.nexusmods.com/morrowind/mods/47420) by Nevena and l1lartur0  
 [**Brother Juniper's Twin Lamps**](https://mw.modhistory.com/download-53-7283) by Brother Juniper  
 
-### Vampire Clans
+# Vampire Clans
 [**Quests for CLans and Vampire Legends (QCVL)**](https://www.nexusmods.com/morrowind/mods/49486) by SpiritTauren  
 [**Bloodlines**](https://www.nexusmods.com/morrowind/mods/12550) by Carnithus  
 [**The Mysterious Hunter**](https://www.nexusmods.com/morrowind/mods/44336) by Enclavekiller  
