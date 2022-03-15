@@ -257,21 +257,78 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 * Indarys Manor
 
 ### House Telvanni
+#### Dialogue 
+[**Racist Telvanni Guards**]() 
+[**FMI - Hospitality Papers Expanded**]()
+
+#### NPCs and Outfits
+[**Unique Gothren's Cephalopod Helm**](https://www.nexusmods.com/morrowind/mods/46534) by Leyawynn    
+[**Dark Telvanni Armor**](https://www.nexusmods.com/morrowind/mods/2998) by Kieve  
+[**Telvanni Staff for the Telvanni Staff**](https://www.nexusmods.com/morrowind/mods/47869) by Alice  
+[**Daedric Telvanni Robe**](https://www.nexusmods.com/morrowind/mods/49652) by RuffinVangarr  
+[**Telvanni Armors - Slavers and Wizards**](https://www.nexusmods.com/morrowind/mods/49266) by Ashtaar  
+[**Telvanni Dust Adepts**](https://www.nexusmods.com/morrowind/mods/49265) by Ashtaar  
+[**Telvanni Warriors**](https://www.nexusmods.com/morrowind/mods/43254) by Heinrich/Gevalt/Stavroguin  
+[**Telvanni Cephalopod Armor**](https://www.nexusmods.com/morrowind/mods/44062) by Danke and Cheydin  
+[**RR - Better Telvanni Cephalopod Armor**](https://www.nexusmods.com/morrowind/mods/44837) by RR Team  
+[**No Back Shell for Better Telvanni Cephalopod Armor**](https://www.nexusmods.com/morrowind/mods/49334) by PopeRigby  
+[**Female Tel Mora Guards**](https://www.nexusmods.com/morrowind/mods/43559) by Hlaalu66  
+
+#### Telvanni Locations
+See the Towns list and the Locations list for more mods making general additions to Telvanni towns.
+
+[**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by Melchior Dahrk  
+[**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
+[**Magical Lights for Telvanni**](https://www.nexusmods.com/morrowind/mods/49453) by RandomPal  
+[**Tel Aruhn Chronicles**](https://www.nexusmods.com/morrowind/mods/49171) by Team Lazy Lame Corprus Stalkers  
+[**TGD03 The Lizard's Head**](https://www.nexusmods.com/morrowind/mods/39748) by DebiDalio  
+[**Telvanni Travel Network**](https://www.nexusmods.com/morrowind/mods/49443) by RandomPal  
+[**Telvanni Lighthouse in Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/49461) by RandomPal  
+[**Telvanni Council House Lounge Room**](https://www.nexusmods.com/morrowind/mods/49285) by RandomPal  
+[**Telvanni Council Lounge Alternate**](https://www.nexusmods.com/morrowind/mods/49804) by Coricus  
+[**Telvanni Lighthouse Tel Branora**](https://www.nexusmods.com/morrowind/mods/42664) by RR Team  
+[**Telvanni Lighthouse Tel Vos**](https://www.nexusmods.com/morrowind/mods/42744) by RR Team  
+[**The Great Treasury Heist of Tel Naga Tower**](https://www.nexusmods.com/morrowind/mods/47710) by Dagoth Slayer  
+[**Out of the Fyring Pan - Into the Fyr**](https://www.nexusmods.com/morrowind/mods/49439) by Mark  
+
+#### Vanilla Quests
 [**Therana vs Trerayna**](https://www.nexusmods.com/morrowind/mods/49332) by Alice  
 [**Immersive Neloth Reward**](https://www.nexusmods.com/morrowind/mods/49836) by Alice  
 [**Drakes Pride Refusal**](https://www.nexusmods.com/morrowind/mods/46894) by chryssvoler  
+[**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Alice  
+[**Quest Tweaks and Alternatives**](https://stuporstar.sarahdimento.com/updates/downloads/) by Stuporstar  
+
+#### Tel Uvirith
+[**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by Necrolesian 
 [**Uvirith's Legacy**](https://stuporstar.sarahdimento.com/updates/downloads/) by Stuporstar  
 [**Building Up Uvirith's Legacy**](https://mw.modhistory.com/download-47-11851) by Acheron & Artimis Fowl  
+[**Dark Uvirith Exterior**](https://stuporstar.sarahdimento.com/updates/downloads) by Stuporstar  
+[**Dark Uvirith Exterior for Building Up Uvirith's Grave/Legacy**](https://stuporstar.sarahdimento.com/updates/downloads) by Stuporstar  
 [**LGNPC Tel Uvirith**](http://lgnpc.org/downloads) by LGNPC Team  
 [**Tel Uvirith LITE**](https://www.nexusmods.com/morrowind/mods/45615) by mala  
-[**Rise of House Telvanni 2.0**](https://www.nexusmods.com/morrowind/mods/48225) by mort  
-[**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Alice  
-[**The Tragedy of Dahrk Mezalf the Wise**](https://www.nexusmods.com/morrowind/mods/47235) by Team Suran Suran  
-[**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by Melchior Dahrk  
-[**OAAB Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
-[**TGD03 The Lizard's Head**](https://www.nexusmods.com/morrowind/mods/39748) by DebiDalio  
-[**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by Necrolesian  
+[**Village of Uvirith Mora**](https://mw.modhistory.com/download-87-5817) by Kosta51  
+[**Building Up Uvirith's Grave**](https://mw.modhistory.com/download-87-15527) by Acheron  
+[**Tel Uvirith Underground**](https://mw.modhistory.com/download-44-9509) by Morpheron  
+
+#### Other Telvanni Houses
+[**Tel Galen - Evil Telvanni Player Home**](https://www.nexusmods.com/morrowind/mods/44988) by Mythic Emperor  
+[**Telvanni Strider House**](https://www.nexusmods.com/morrowind/mods/44987) by WulfShaman  
+[**Grow Your Own Telvanni Towers**](https://www.nexusmods.com/morrowind/mods/47674) by Kaosnyrb  
+[**Green Hideout (Vivec Telvanni Player Home)**](https://www.nexusmods.com/morrowind/mods/48982) by inpv  
+[**Tel Rerandris**](https://www.nexusmods.com/morrowind/mods/43957) by MatthewTheBagel  
+[**Telvanni Manor in Tel Branora**](https://www.nexusmods.com/morrowind/mods/334) by Ravensong  
+[**OAAB Tel Raloran**](https://www.nexusmods.com/morrowind/mods/46841) by Corsair  
+[**Tel Nechim**](https://www.nexusmods.com/morrowind/mods/27239) by Antiscamp  
+[**Tel Nechim - TR Compatible**](https://www.nexusmods.com/morrowind/mods/43204) by abot  
+[**Tel Morgana**](https://www.nexusmods.com/morrowind/mods/43930) by Ferian  
+[**Tel Meskoa**](https://www.nexusmods.com/morrowind/mods/41896) by FIM  
+[**Tel Dranori**](https://www.nexusmods.com/morrowind/mods/42763) by TheDrunkenMudcrab  
+
+#### New Telvanni Quests
 [**House Telvanni - The Forgotten Apocrypha Excursion**](https://www.nexusmods.com/morrowind/mods/50661) by Arron Dominion  
+[**Rise of House Telvanni 2.0**](https://www.nexusmods.com/morrowind/mods/48225) by mort  
+[**The Tragedy of Dahrk Mezalf the Wise**](https://www.nexusmods.com/morrowind/mods/47235) by Team Suran Suran  
+[**Aloros the Telvanni Companion**](https://www.nexusmods.com/morrowind/mods/44069) by MatthewTheBagel  
 
 ### Imperial Cult
 [**Fort Moonmoth Fundraiser Dinner**](https://www.nexusmods.com/morrowind/mods/49837) by Alice  
