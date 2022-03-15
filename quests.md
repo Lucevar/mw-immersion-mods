@@ -122,6 +122,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Caius Romance**](https://mw.modhistory.com/download-90-7208) by Princess Stomper  
 [**Blades Informant**](https://www.nexusmods.com/morrowind/mods/48084) by Alice  
 [**New Ilunibi**](https://www.nexusmods.com/morrowind/mods/50393) by Seelof  
+[**Bounty Hunters - Main Quest Reminders**](https://www.nexusmods.com/morrowind/mods/50867) by Innocent82  
 
 ### Nerevarine-Hortator
 [**Kogoruhn Expanded**](https://www.nexusmods.com/morrowind/mods/46098) by Team Drama Kwama  
@@ -325,6 +326,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Thieves Guild Regained Trust**](https://www.nexusmods.com/morrowind/mods/45211) by ProfArmitage  
 [**South Wall, Den of Iniquity**](https://www.nexusmods.com/morrowind/mods/49950) by Balasthustrius  
 [**Thief Quests**](https://www.nexusmods.com/morrowind/mods/507) by ?  
+[**Thieves Guild Mediaries - A  Price on Your Head**](https://www.nexusmods.com/morrowind/mods/50858) by Aphiteth  
 [**Thieves Guild Overhaul**](https://www.nexusmods.com/morrowind/mods/49944) by Alice contains:  
 * [**Thieves Guild in Gnaar Mok**](https://www.nexusmods.com/morrowind/mods/46754) by Alice  
 * [**Bal Molagmer Add-on**](https://www.nexusmods.com/morrowind/mods/48198) by Alice  
@@ -637,6 +639,8 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**The Underground 2 - Repackaged**](https://www.nexusmods.com/morrowind/mods/50697) by Operator Jack & Qarl  
 [**Tim's Extra Quest - Dwemer Ancestry**](https://www.nexusmods.com/morrowind/mods/50719) by Tim Haubert  
 [**Triumph at Firemoth**](https://www.nexusmods.com/morrowind/mods/50806) by Aphiteth  
+[**Searching Addamasartus**](https://www.nexusmods.com/morrowind/mods/50852) by Xeirseus  
+[**Helm of Tohan**](https://www.nexusmods.com/morrowind/mods/50866) by Bethesda  
 
 # Province Mods
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Tamriel Rebuilt and Project Tamriel  
@@ -664,6 +668,11 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Starwind Christmas**](https://www.nexusmods.com/morrowind/mods/50575) by Ignatious  
 [**McJabba's**](https://www.nexusmods.com/morrowind/mods/50587) by Ignatious  
 [**Starwind Player Housing**](https://www.nexusmods.com/morrowind/mods/50825) by quickdrawmcgraw  
+[**Starwind - Gungan Joinable Faction**](https://www.nexusmods.com/morrowind/mods/50861) by quickdrawmcgraw  
+[**Starwind Cow Race**](https://www.nexusmods.com/morrowind/mods/50869) by quickdrawmcgraw  
+[**Ninullin Villaks Companion**](https://www.nexusmods.com/morrowind/mods/50871) by kvatchcount  
+[**Starwind DFJ**](https://www.nexusmods.com/morrowind/mods/50832) by quickdrawmcgraw  
+[**Starwind Death Stalker**](https://www.nexusmods.com/morrowind/mods/50835) by quickdrawmcgraw  
 
 ## Others
 [**Duskpoint**](https://www.nexusmods.com/morrowind/mods/45117) by Waspinator1998  
