@@ -212,36 +212,42 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Galerion's Tools**](https://www.nexusmods.com/morrowind/mods/47901) by Operator Jack  
 
 # Fighters Guild
-* [**Zelazko's Fighters Guild Quest Options**](https://www.nexusmods.com/morrowind/mods/47196) by Zelazko  
-* [**Fighters Guild Rebuild in Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/29684) by Gforcebond  
-* [**Suran Fighters Guild**](https://www.nexusmods.com/morrowind/mods/50017) by Sawyer Morgan  
-* [**Caldera - Fighters Guild**](https://www.nexusmods.com/morrowind/mods/47328) by Utseeva  
-* [**Wolverine Hall Interior Expansion**](https://www.nexusmods.com/morrowind/mods/44965) by Mordaxis  
-* [**Wolverine Hall overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort  
-* [**Wolverine Hall Overhauled**](https://www.nexusmods.com/morrowind/mods/50808) by Gevalt/Heinrich  
+[**Zelazko's Fighters Guild Quest Options**](https://www.nexusmods.com/morrowind/mods/47196) by Zelazko  
+[**Fighters Guild Rebuild in Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/29684) by Gforcebond  
+[**Suran Fighters Guild**](https://www.nexusmods.com/morrowind/mods/50017) by Sawyer Morgan  
+[**Caldera - Fighters Guild**](https://www.nexusmods.com/morrowind/mods/47328) by Utseeva  
+[**Wolverine Hall Interior Expansion**](https://www.nexusmods.com/morrowind/mods/44965) by Mordaxis  
+[**Wolverine Hall overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort  
+[**Wolverine Hall Overhauled**](https://www.nexusmods.com/morrowind/mods/50808) by Gevalt/Heinrich  
 
 # House Hlaalu
-[**Crassius Curio Gets Comfortable**](https://www.nexusmods.com/morrowind/mods/49922) by Amazingly Randi  
+### Hlaalu - Vanilla Quests
 [**Hlaalu Predatory Recruitment**](https://www.nexusmods.com/morrowind/mods/45007) by Yu Narukaze  
-[**Hlaalu Business**](https://www.nexusmods.com/morrowind/mods/39698) by 4LOM  
 [**Roleplay Options for Great House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by Caeris and Luj1  
 [**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995) by Alice  
-[**Sexual Harassment Remover**](https://www.nexusmods.com/morrowind/mods/48541) by JaceyS  
-[**The Mischievous Scheme**](https://www.nexusmods.com/morrowind/mods/50654) by Lastutin  
-[**A Really Great House**](https://www.nexusmods.com/morrowind/mods/50683) by Serpentbyte  
-[**Uncle Crassius**](https://www.nexusmods.com/morrowind/mods/50768) by Caleb C  
 
+### Hlaalu - Rethan Manor
 [**Rethan Estate**](https://www.nexusmods.com/morrowind/mods/47422) by Qirin Domean  
 [**Rethan Redivivus**](https://www.nexusmods.com/morrowind/mods/49776) by Istreddify  
 [**Resplendant Rethan - Jewel of the Odai**](https://www.nexusmods.com/morrowind/mods/47281) by Team Azturnal  
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by Necrolesian  
 [**Remove Rethan Manor Loot**](https://www.nexusmods.com/morrowind/mods/50815) by flaratt ljos  
 
-### House Redoran
+### Hlaalu - Crassius Curio 
+[**Uncle Crassius**](https://www.nexusmods.com/morrowind/mods/50768) by Caleb C  
+[**Sexual Harassment Remover**](https://www.nexusmods.com/morrowind/mods/48541) by JaceyS  
+[**Crassius Curio Gets Comfortable**](https://www.nexusmods.com/morrowind/mods/49922) by Amazingly Randi  
+
+### Hlaalu - New Quests
+[**Hlaalu Business**](https://www.nexusmods.com/morrowind/mods/39698) by 4LOM  
+[**The Mischievous Scheme**](https://www.nexusmods.com/morrowind/mods/50654) by Lastutin  
+[**A Really Great House**](https://www.nexusmods.com/morrowind/mods/50683) by Serpentbyte  
+
+# House Redoran
 #### Redoran - Dialogue
 [**Redoran Freeloaders**](https://www.nexusmods.com/morrowind/mods/47321) by Alice  
 
-# Redoran - Vanilla Quests
+#### Redoran - Vanilla Quests
 [**Guard Sarethi Manor Add-on - Morag Tong Hit Squad**](https://www.nexusmods.com/morrowind/mods/49343) by Sigourn  
 [**Redoran Founder's Helm Add-on - Arena Duel**](https://www.nexusmods.com/morrowind/mods/49342) by Sigourn  
 [**Hiring Guards for the Redoran Stronghold - Honorable Solution**](https://www.nexusmods.com/morrowind/mods/48243) by Alice  
@@ -424,17 +430,17 @@ See the Towns list and the Locations list for more mods making general additions
 
 # Mages Guild
 #### Mages Guild - Locations
-* [**Caldera Mages Guild Expanded**](https://www.nexusmods.com/morrowind/mods/45750) by Lucevar  
-* [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
-* [**Stav's Boxes - Mages Guild Aesthetic Overhaul**](https://www.nexusmods.com/morrowind/mods/43561) by Stavroguin  
-* [**Vivec Guild of Mages Expanded**](https://www.nexusmods.com/morrowind/mods/44935) by Mordaxis  
-* [**Mages Guild Quarters**](https://www.nexusmods.com/morrowind/mods/43596) by Vals_Fan  
-* [**Balmora Mages Guild Storage and Bed**](https://www.nexusmods.com/morrowind/mods/45775) by Omeletter  
-* [**Wolverine Hall Interior Expansion**](https://www.nexusmods.com/morrowind/mods/44965) by Mordaxis  
-* [**Wolverine Hall overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort  
-* [**Wolverine Hall Overhauled**](https://www.nexusmods.com/morrowind/mods/50808) by Gevalt/Heinrich  
-* [**Ald-ruhn Mages Guild Expansion**](https://www.nexusmods.com/morrowind/mods/48321) by Endify   
-* [**Edwinna's Study**](https://www.nexusmods.com/morrowind/mods/49050) by Whitnedak  
+[**Caldera Mages Guild Expanded**](https://www.nexusmods.com/morrowind/mods/45750) by Lucevar  
+[**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
+[**Stav's Boxes - Mages Guild Aesthetic Overhaul**](https://www.nexusmods.com/morrowind/mods/43561) by Stavroguin  
+[**Vivec Guild of Mages Expanded**](https://www.nexusmods.com/morrowind/mods/44935) by Mordaxis  
+[**Mages Guild Quarters**](https://www.nexusmods.com/morrowind/mods/43596) by Vals_Fan  
+[**Balmora Mages Guild Storage and Bed**](https://www.nexusmods.com/morrowind/mods/45775) by Omeletter  
+[**Wolverine Hall Interior Expansion**](https://www.nexusmods.com/morrowind/mods/44965) by Mordaxis  
+[**Wolverine Hall overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort  
+[**Wolverine Hall Overhauled**](https://www.nexusmods.com/morrowind/mods/50808) by Gevalt/Heinrich  
+[**Ald-ruhn Mages Guild Expansion**](https://www.nexusmods.com/morrowind/mods/48321) by Endify   
+[**Edwinna's Study**](https://www.nexusmods.com/morrowind/mods/49050) by Whitnedak  
 
 #### Mages Guild - NPCs and Equipment
 [**Mage Robes**](https://www.nexusmods.com/morrowind/mods/45739) by Melchior Dahrk  
