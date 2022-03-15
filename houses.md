@@ -30,6 +30,8 @@
 [**Bosmer's Treehouse**](https://www.nexusmods.com/morrowind/mods/50562) by Satiharu  
 [**The Eye of Ariisiss Redux**](https://www.nexusmods.com/morrowind/mods/50754) by OperatorJack, MasterSam, Geonox & Melchior Dahrk  
 [**Nerevarine's Yurt**](https://www.nexusmods.com/morrowind/mods/50735) by PollutedGaming  
+[**Moonlight Manor**](https://www.nexusmods.com/morrowind/mods/50859) by Nerevec  
+[**Balmora House**](https://www.nexusmods.com/morrowind/mods/50857) by Aratayn  
 
 
 ## Cloud Storage Compatible
@@ -52,3 +54,6 @@
 [**Ashpit Retreat - Ashlands Player Home**](https://www.nexusmods.com/morrowind/mods/50695) by Fjaldi  
 [**The Dressing Room - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50751) by TheWanderer  
 [**Pocket Display Museum**](https://www.nexusmods.com/morrowind/mods/50709) by TheWanderer  
+[**Cloud Storage Warehouse - Public Shoppe**](https://www.nexusmods.com/morrowind/mods/50863) by TheWanderer  
+[**Drathen Hall - Player Home in Suran**](https://www.nexusmods.com/morrowind/mods/50784) by TheWanderer  
+[**Sifkining Manor - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50836) by TheWanderer  
