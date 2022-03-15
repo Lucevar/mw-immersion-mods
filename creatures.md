@@ -16,6 +16,8 @@
 [**Almalexia Redone**](https://www.nexusmods.com/morrowind/mods/50265/) by Lamb Shark
 [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194) by rot
 [**Centurion Spider Replacer**](https://www.nexusmods.com/morrowind/mods/47349) by Autoclock  
+[**N'wahs Work**](https://www.nexusmods.com/morrowind/mods/49103?tab=files) by Nwahs and Mushrooms  
+
 
 ## Overhaul
 [**Creatures XI**](https://www.nexusmods.com/morrowind/mods/30563) by Piatelord  
