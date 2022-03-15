@@ -123,6 +123,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Blades Informant**](https://www.nexusmods.com/morrowind/mods/48084) by Alice  
 [**New Ilunibi**](https://www.nexusmods.com/morrowind/mods/50393) by Seelof  
 [**Bounty Hunters - Main Quest Reminders**](https://www.nexusmods.com/morrowind/mods/50867) by Innocent82  
+[**Baar Dau - Ministry of Truth**](https://www.nexusmods.com/morrowind/mods/50877) by N'wahs and Mushrooms  
 
 ### Nerevarine-Hortator
 [**Kogoruhn Expanded**](https://www.nexusmods.com/morrowind/mods/46098) by Team Drama Kwama  
@@ -185,6 +186,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Join the Camonna Tong**](https://www.nexusmods.com/morrowind/mods/44214) by DD4N  
 [**Errands for Orvas**](http://simania.nl/mw/mwmods.htm) by Simania  
 [**Camonna Tong**](https://www.nexusmods.com/morrowind/mods/50740) by Caeris  
+[**LDM - Racist Service Refusal**](https://www.nexusmods.com/morrowind/mods/50870) by Lucevar  
 
 ### Dark Brotherhood
 #### Joinable Dark Brotherhood 
