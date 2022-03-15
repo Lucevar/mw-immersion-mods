@@ -63,6 +63,7 @@
 [**FMI - Service Refusal and Contraband**](https://www.nexusmods.com/morrowind/mods/47456) by PoodleSandwich  
 [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
 [**Service Requirements Revised**](https://www.nexusmods.com/morrowind/mods/50715) by Sigourn  
+[**LDM - Racist Service Refusal**](https://www.nexusmods.com/morrowind/mods/50870) by Lucevar  
 
 ## Disease
 [**Quarantined Vvardenfell**](https://www.nexusmods.com/morrowind/mods/47335) by Alice  
