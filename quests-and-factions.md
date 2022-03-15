@@ -700,6 +700,7 @@ See the Towns list and the Locations list for more mods making general additions
 [**Triumph at Firemoth**](https://www.nexusmods.com/morrowind/mods/50806) by Aphiteth  
 [**Searching Addamasartus**](https://www.nexusmods.com/morrowind/mods/50852) by Xeirseus  
 [**Helm of Tohan**](https://www.nexusmods.com/morrowind/mods/50866) by Bethesda  
+[**The Eye of Ariisis Redux**](https://www.nexusmods.com/morrowind/mods/50754) by Operator Jack  
 
 # Province Mods
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Tamriel Rebuilt and Project Tamriel  
