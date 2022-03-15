@@ -130,59 +130,72 @@ For a more restrained aesthetic. Adds appropriate clutter to Gnaar Mok but doesn
 [**Atmospheric Delights**](https://www.nexusmods.com/morrowind/mods/47472) by Lucevar  
 
 ## Vivec
+### Vivec - Exteriors 
 [**Dramatic Vivec**](https://www.nexusmods.com/morrowind/mods/43385) by LondonRook  
 Patch for Holidays Across Tamriel [here](https://www.nexusmods.com/morrowind/mods/44222).  
-[**Passage of Prayers**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn, Sataniel & Remiros  
-[**Palace of Vehk**](https://www.nexusmods.com/morrowind/mods/46800) by Enclavekiller  
-[**Vivec's Chamber**](https://www.nexusmods.com/morrowind/mods/47344) by Dagoth Slayer  
+[**Dramatic Vivec BCOM Patch**](https://www.nexusmods.com/morrowind/mods/50026) by B00ze  
 [**Vivec Expansion**](https://www.nexusmods.com/morrowind/mods/43331/) by Hoghead the Terrible  
-[**Illuminated Palace of Vivec**](https://www.nexusmods.com/morrowind/mods/44585) by vojteek  
-[**Prison Moon Enhanced II**](http://download.fliggerty.com/download--929) by Spirithawke  
-[**Shrines of the Seven Graces**](https://www.nexusmods.com/morrowind/mods/46417?tab=files) by QueenLunara  
-The Shrine of Daring isn't compatible with Holidays Across Tamriel/Dramatic Vivec. I recommend getting the other six and leaving that one out.  
-[**Concept Art Palace (Vivec City)**](https://www.nexusmods.com/morrowind/mods/48136) by NobuRed and NMTeam  
-[**Vivec Temple Exterior Overhaul**](https://www.nexusmods.com/morrowind/mods/48191) by Dmettler  
-Has a version which is compatible with Dramatic Vivec  
 [**Rethinking Vivec**](https://www.nexusmods.com/morrowind/mods/48256) by Atrayonis  
-[**(Slightly Less) Dramatic Vivec - Temple**](https://www.nexusmods.com/morrowind/mods/48261) by Dagoth Slayer  
 [**Concept Art Vivec Ports**](https://www.nexusmods.com/morrowind/mods/48611) by RandomPal & Atrayonis  
-[**Vivec Palace Illuminated - Redux**](https://www.nexusmods.com/morrowind/mods/48681) by Shehriazad  
 [**Glass Domes of Vivec - Performance-friendly Open-ish Cantons**](https://www.nexusmods.com/morrowind/mods/48935) by Sade1212  
 [**Glass Domes of Vivec - Moonrain Edition**](https://www.nexusmods.com/morrowind/mods/48946) by tewlwolow  
 [**Mixed Cantons of Vivec**](https://www.nexusmods.com/morrowind/mods/49037) by RandomPal  
-[**Dramatic Temple Canton**](https://www.nexusmods.com/morrowind/mods/49286) by RandomPal  
 [**Compatible Redesigned Vivec**](https://www.nexusmods.com/morrowind/mods/49336) by GlitterGear  
-[**Higher Ministry of Truth**](https://www.nexusmods.com/morrowind/mods/49415) by RandomPal  
-[**Baar Dau**](https://www.nexusmods.com/morrowind/mods/49456) by RandomPal  
 [**The Striderport in Vivec**](https://www.nexusmods.com/morrowind/mods/49492) by RandomPal  
-[**Pre-release Prison Moon**](https://www.nexusmods.com/morrowind/mods/49627) by Leyawynn  
-[**Dramatic Vivec BCOM Patch**](https://www.nexusmods.com/morrowind/mods/50026) by B00ze  
-[**Screenshot Ministry of Truth**](https://www.nexusmods.com/morrowind/mods/50055) by mateoands  
 [**More Banners for Vivec City (Concept Art)**](https://www.nexusmods.com/morrowind/mods/50052) by mateoands  
 [**Vivec City**](https://www.nexusmods.com/morrowind/mods/50111) by Nwahs and Mushrooms  
 [**Guar Stables of Vivec**](https://www.nexusmods.com/morrowind/mods/50118) by RandomPal  
-[**Baar Dau - Ministry of Truth**](https://www.nexusmods.com/morrowind/mods/50877) by N'wahs and Mushrooms  
 
+### Vivec - Interiors
 [**Canalworks Connected**](https://www.nexusmods.com/morrowind/mods/47354) by iLoveOnFear  
-[**Jobasha's Rare Books Expanded**](https://www.nexusmods.com/morrowind/mods/45153) twgear2  
-[**Vivec Records Lore Friendly**](https://www.nexusmods.com/morrowind/mods/43033) by Ostar  
-[**The Lizard's Head**](https://www.nexusmods.com/morrowind/mods/39748) by DebiDalio  
 [**Nemon's Vivec Interiorator**](http://mw.modhistory.com/download-80-11740) by Nemon  
 [**Vivec Guild of Mages Expanded**](https://www.nexusmods.com/morrowind/mods/44935) by Mordaxis  
-[**The Secret Library**](http://mw.modhistory.com/download-68-6500) by Master Sam  
-[**Arantamo's Room**](https://www.nexusmods.com/morrowind/mods/48249) by Endify  
 [**Vivec Waistworks Expansion**](https://www.nexusmods.com/morrowind/mods/48834) by autumnbramble  
+[**Imperial Altar in Vivec**](https://www.nexusmods.com/morrowind/mods/50273) by Tyermala  
+[**Waterfall Lights Remover**](https://www.nexusmods.com/morrowind/mods/50437) by Necrolesian  
+
+### Vivec - Taverns
 [**Vivec Tea Room**](https://www.nexusmods.com/morrowind/mods/44320)  
-[**Altar of the High Fane**](https://www.nexusmods.com/morrowind/mods/49631) by FyreAlchemage  
 [**Lively Black Shalk Cornerclub**](https://www.nexusmods.com/morrowind/mods/49840) by Endify  
 [**Lively Black Shalk Cornerclub & Mixed Cantons of Vivec Compatibility Patch**](https://www.nexusmods.com/morrowind/mods/50469) by myrix  
+[**The Lizard's Head**](https://www.nexusmods.com/morrowind/mods/39748) by DebiDalio  
+
+### Vivec - Libraries and Bookstores
 [**ReadMe - Library of Vivec Overhaul**](https://www.nexusmods.com/morrowind/mods/49916) by seelof  
 [**Library of Vivec Enhanced**](https://www.nexusmods.com/morrowind/mods/50181) by Duo Dynamico  
 [**Simple Vivec Library Overhaul**](https://www.nexusmods.com/morrowind/mods/50189) by RandomPal  
-[**Imperial Altar in Vivec**](https://www.nexusmods.com/morrowind/mods/50273) by Tyermala  
-[**Waterfall Lights Remover**](https://www.nexusmods.com/morrowind/mods/50437) by Necrolesian  
-[**High Fane Shrines of the Tribunal**](https://www.nexusmods.com/morrowind/mods/50685) by artemgur  
+[**The Secret Library**](http://mw.modhistory.com/download-68-6500) by Master Sam  
+[**Arantamo's Room**](https://www.nexusmods.com/morrowind/mods/48249) by Endify  
+[**Jobasha's Rare Books Expanded**](https://www.nexusmods.com/morrowind/mods/45153) twgear2  
+[**Vivec Records Lore Friendly**](https://www.nexusmods.com/morrowind/mods/43033) by Ostar  
 
+### Vivec - High Fane, Temple, and Vivec's Palace
+[**High Fane Shrines of the Tribunal**](https://www.nexusmods.com/morrowind/mods/50685) by artemgur  
+[**Altar of the High Fane**](https://www.nexusmods.com/morrowind/mods/49631) by FyreAlchemage  
+
+[**Passage of Prayers**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn, Sataniel & Remiros  
+[**(Slightly Less) Dramatic Vivec - Temple**](https://www.nexusmods.com/morrowind/mods/48261) by Dagoth Slayer  
+[**Dramatic Temple Canton**](https://www.nexusmods.com/morrowind/mods/49286) by RandomPal  
+[**Vivec Temple Exterior Overhaul**](https://www.nexusmods.com/morrowind/mods/48191) by Dmettler  
+Has a version which is compatible with Dramatic Vivec  
+[**Shrines of the Seven Graces**](https://www.nexusmods.com/morrowind/mods/46417?tab=files) by QueenLunara  
+The Shrine of Daring isn't compatible with Holidays Across Tamriel/Dramatic Vivec. I recommend getting the other six and leaving that one out.  
+
+[**Concept Art Palace (Vivec City)**](https://www.nexusmods.com/morrowind/mods/48136) by NobuRed and NMTeam  
+[**Illuminated Palace of Vivec**](https://www.nexusmods.com/morrowind/mods/44585) by vojteek  
+[**Palace of Vehk**](https://www.nexusmods.com/morrowind/mods/46800) by Enclavekiller  
+[**Vivec's Chamber**](https://www.nexusmods.com/morrowind/mods/47344) by Dagoth Slayer  
+[**Vivec Palace Illuminated - Redux**](https://www.nexusmods.com/morrowind/mods/48681) by Shehriazad  
+
+### Vivec - Prison Moon Baar Dau
+[**Higher Ministry of Truth**](https://www.nexusmods.com/morrowind/mods/49415) by RandomPal  
+[**Baar Dau**](https://www.nexusmods.com/morrowind/mods/49456) by RandomPal  
+[**Pre-release Prison Moon**](https://www.nexusmods.com/morrowind/mods/49627) by Leyawynn  
+[**Screenshot Ministry of Truth**](https://www.nexusmods.com/morrowind/mods/50055) by mateoands  
+[**Baar Dau - Ministry of Truth**](https://www.nexusmods.com/morrowind/mods/50877) by N'wahs and Mushrooms  
+[**Prison Moon Enhanced II**](http://download.fliggerty.com/download--929) by Spirithawke  
+
+### Vivec - Curio
 [**Crassius Curio's Argonian Maid**](https://www.nexusmods.com/morrowind/mods/49923) by AmazinglyRandi  
 [**Crassius Curio's Weekly Pilgrimage**](https://www.nexusmods.com/morrowind/mods/49927) by AmazinglyRandi  
 [**Crassius Curio's Portraits**](https://www.nexusmods.com/morrowind/mods/49928) by AmazinglyRandi  
