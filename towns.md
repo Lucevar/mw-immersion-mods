@@ -431,11 +431,13 @@ Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014)
 [**Morvayn Manor in Maar Gan**](https://www.nexusmods.com/morrowind/mods/48024) by Alice  
 [**Mystical and Religious Maar Gan**](https://www.nexusmods.com/morrowind/mods/49369) by Mika  
 [**Inscribed Maar Gan Rock**](https://www.nexusmods.com/morrowind/mods/49426) by Leyawynn  
+[**The Magic Rock of Maar Gan**](https://www.nexusmods.com/morrowind/mods/50763) by Vegetto  
 
 # Molag Mar
 [**Fortified Molag Mar**](https://www.nexusmods.com/morrowind/mods/47270) by Team Voluptuous Velks  
 [**Molag Mar X**](https://www.nexusmods.com/morrowind/mods/46273) by Pinsvinnn  
 [**No-Frills Closed Molag Mar**](https://www.nexusmods.com/morrowind/mods/47190) by Atrayonis  
+[**Arvesa - An Armiger's Tale**](https://www.nexusmods.com/morrowind/mods/50306) by Orion  
 
 # New Towns
 [**Hamlets of Vvardenfell - Stoneforest**](https://www.nexusmods.com/morrowind/mods/48396) by Vingamer  
