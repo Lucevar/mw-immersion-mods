@@ -232,6 +232,7 @@ Have you ever thought that Wolverine Hall must have been designed by Sheogorath,
 [**Wolverine Hall Interior Expansion**](https://www.nexusmods.com/morrowind/mods/44965) by Mordaxis  
 [**Dirty Muriel's Expansion**](https://www.nexusmods.com/morrowind/mods/49622) by Endify  
 [**Dirtier Cozier Muriel's Cornerclub**](https://www.nexusmods.com/morrowind/mods/49653) by MachoHamRandySandwich  
+[**Wolverine Hall Overhauled**](https://www.nexusmods.com/morrowind/mods/50808) by Heinrich/Gevalt  
 
 You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/44746), [**More Detailed Places - Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/30150), [**Sadrith Mora Expanded**](https://www.nexusmods.com/morrowind/mods/44113), or [**Epic Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/43057).
 
