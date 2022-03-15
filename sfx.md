@@ -40,6 +40,7 @@ A corprus meat replacer.
 [**Fire and Frost Salts**](https://www.nexusmods.com/morrowind/mods/47784) by hater8  
 [**Crystal Soul Gems**](https://www.nexusmods.com/morrowind/mods/48300) by SVNR and SpaceDevo  
 [**Immersive Telvanni Bug Musk**](https://www.nexusmods.com/morrowind/mods/48327) by RandomPal  
+[**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by Abot  
 
 ## Particles
 [**Magic Diversity**](https://www.nexusmods.com/morrowind/mods/43380) by Arkann  
@@ -81,8 +82,8 @@ A corprus meat replacer.
 [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
 [**Imperial Male Hit Sounds Fixed**](https://www.nexusmods.com/morrowind/mods/49406) by SAJNM  
 [**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
-[**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by Abot  
 
+[**Disgusting Chewing Noises No More**](https://www.nexusmods.com/morrowind/mods/50830) by mainque  
 [**Silent Hits**](https://www.nexusmods.com/morrowind/mods/44556) by Jxrdan  
 [**Sea of Sound**](https://www.nexusmods.com/morrowind/mods/45737) by CptJoker  
 [**Shut the fck up cliff racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
