@@ -20,7 +20,8 @@
 
 ## Cursor
 [**Daedric Cursors**](https://www.nexusmods.com/morrowind/mods/49806) by ConcernedCitizen  
-Changes the cursors to a daedric gauntlet (and daedric crescent when resizing menus)
+Changes the cursors to a daedric gauntlet (and daedric crescent when resizing menus)  
+[**Faithful HD Cursors**](https://www.nexusmods.com/morrowind/mods/50764) by rico098  
 
 ## Load Menu
 [**Petes UI Mods**](https://www.nexusmods.com/morrowind/mods/45859) by Petethegoat  
