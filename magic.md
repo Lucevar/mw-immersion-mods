@@ -11,12 +11,7 @@
 * [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von django   
 
 ## Telvanni
-* [**Uvirith's Legacy**](https://stuporstar.sarahdimento.com/updates/downloads/) by Stuporstar  
-* [**Tel Uvirth LITE**]() by   
-* [**Building Up Uviriths Grave**]() by   
-* [**Building Up Uvirith's Legacy**]() by   
-* [**Rise of House Telvanni**]() by   
-* [**Village of Uvirith Mora**]() by   
+See [**Quests and Factions**](https://github.com/Lucevar/mw-immersion-mods/blob/master/quests-and-factions.md) list.
 
 ## Spells & Magicka
 * [**Customizable MWSE Multi Mark & Harder Recall**](https://www.nexusmods.com/morrowind/mods/47065) by Virnetch  
@@ -49,7 +44,7 @@
 * [**Spell Tomes**](https://www.nexusmods.com/morrowind/mods/47217) by MateWushu  
 * [**Lootable Spell Books**](https://www.nexusmods.com/morrowind/mods/47269?tab=description) by SuperHobbit  
 * [**Mage Lights**](https://www.nexusmods.com/morrowind/mods/46768) by Stripes  
-* [**Scrolls of the Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831)  
+* [**Scrolls of the Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831) by Melchior Dahrk    
 * [**Hidden Treasure**](https://www.nexusmods.com/morrowind/mods/47365) by C3pa  
 * [**Scrollmaker**](https://www.nexusmods.com/morrowind/mods/45065) by Axeljk  
 * [**Dwemer Teleportation Box**](https://www.nexusmods.com/morrowind/mods/48062) by OperatorJack  
@@ -57,9 +52,8 @@
 ## Quests
 * [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126)
 * [**The Astral Pocket**](https://www.nexusmods.com/morrowind/mods/46226) by OperatorJack  
-* [**OAAB The Astral Pocket**](https://www.nexusmods.com/morrowind/mods/49077) by OperatorJack  
-* [**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301) by Gavrilo93  
+* [**OAAB The Astral Pocket**](https://www.nexusmods.com/morrowind/mods/49077) by OperatorJack   
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  
 * [**Galerion's Tools**](https://www.nexusmods.com/morrowind/mods/47901) by OperatorJack  
 * [**Chrysopeia**]() by OperatorJack  
-* [**3E 427 A Space Odyssey**](https://www.nexusmods.com/morrowind/mods/48019) by OperatorJack and Gavrilo93  
+* [**3E 427 A Space Odyssey**](https://www.nexusmods.com/morrowind/mods/48019) by OperatorJack and Alice93  
