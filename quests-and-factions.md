@@ -258,8 +258,8 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 
 ### House Telvanni
 #### Dialogue 
-[**Racist Telvanni Guards**]() 
-[**FMI - Hospitality Papers Expanded**]()
+[**Racist Telvanni Guards**](https://mw.modhistory.com/download-53-10731) by Vagor  
+[**FMI - Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by PoodleSandwich  
 
 #### NPCs and Outfits
 [**Unique Gothren's Cephalopod Helm**](https://www.nexusmods.com/morrowind/mods/46534) by Leyawynn    
