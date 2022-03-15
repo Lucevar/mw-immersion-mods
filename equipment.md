@@ -113,6 +113,7 @@ Duke's Silver Armor:
 [**SM Traveller's Clothing**](https://www.nexusmods.com/morrowind/mods/50728) by ShadowMimicry  
 [**Morag Tong Helmet Diversity**](https://www.nexusmods.com/morrowind/mods/50738) by RuffinVangarr  
 [**Ebony Naginata**](https://www.nexusmods.com/morrowind/mods/50759) by Elucidace  
+[**Akaviri Warblades**](https://www.nexusmods.com/morrowind/mods/50801) by Operator Jack  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
