@@ -4,6 +4,7 @@
 [**Ruby UI Mashup**](https://www.nexusmods.com/morrowind/mods/50512) by BjornTjockPals Sir Bob Innicin jiffyadvent Arukinn  
 [**Skyrim UI Overhaul for Morrowind**](https://www.nexusmods.com/morrowind/mods/43039) by mikeandike  
 [**Seph's Inventory Decorator**](https://www.nexusmods.com/morrowind/mods/50582) by Sephumbra  
+[**Hourglass Menu**](https://www.nexusmods.com/morrowind/mods/50790) by TheWanderer  
 
 ## HUD
 [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
