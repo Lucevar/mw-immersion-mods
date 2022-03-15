@@ -114,6 +114,8 @@ Duke's Silver Armor:
 [**Morag Tong Helmet Diversity**](https://www.nexusmods.com/morrowind/mods/50738) by RuffinVangarr  
 [**Ebony Naginata**](https://www.nexusmods.com/morrowind/mods/50759) by Elucidace  
 [**Akaviri Warblades**](https://www.nexusmods.com/morrowind/mods/50801) by Operator Jack  
+[**Area Effect Arrows**](https://www.nexusmods.com/morrowind/mods/50865) by Bethesda  
+[**Morrowind Throwable Oil Bottles**](https://www.nexusmods.com/morrowind/mods/50853) by Toastyfries114  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
