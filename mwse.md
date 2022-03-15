@@ -8,6 +8,9 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 ## January 25th - March 15th
+[**Balance Your Burdens**](https://www.nexusmods.com/morrowind/mods/50860) by Safebox  
+Adds more drawbacks (and benefits) to encumbrance but affecting fatigue regen, movement speed, and skill experience gain.
+
 [**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856) by Wisp  
 This mod is a rewrite and combination of the Continue mod by Petetehgoat and New Game Confirmation by hardek. It features several togglable QOL improvements to the Main Menu.
 
