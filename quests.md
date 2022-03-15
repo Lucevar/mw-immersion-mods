@@ -220,12 +220,15 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Roleplay Options for Great House Hlaalu**](https://www.nexusmods.com/morrowind/mods/45208) by Caeris and Luj1  
 [**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995) by Alice  
 [**Sexual Harassment Remover**](https://www.nexusmods.com/morrowind/mods/48541) by JaceyS  
+[**The Mischievous Scheme**](https://www.nexusmods.com/morrowind/mods/50654) by Lastutin  
+[**A Really Great House**](https://www.nexusmods.com/morrowind/mods/50683) by Serpentbyte  
+[**Uncle Crassius**](https://www.nexusmods.com/morrowind/mods/50768) by Caleb C  
+
 [**Rethan Estate**](https://www.nexusmods.com/morrowind/mods/47422) by Qirin Domean  
 [**Rethan Redivivus**](https://www.nexusmods.com/morrowind/mods/49776) by Istreddify  
 [**Resplendant Rethan - Jewel of the Odai**](https://www.nexusmods.com/morrowind/mods/47281) by Team Azturnal  
 [**Under Construction**](https://www.nexusmods.com/morrowind/mods/50285) by Necrolesian  
-[**The Mischievous Scheme**](https://www.nexusmods.com/morrowind/mods/50654) by Lastutin  
-[**A Really Great House**](https://www.nexusmods.com/morrowind/mods/50683) by Serpentbyte  
+[**Remove Rethan Manor Loot**](https://www.nexusmods.com/morrowind/mods/50815) by flaratt ljos  
 
 ### House Redoran
 [**Guard Sarethi Manor Add-on - Morag Tong Hit Squad**](https://www.nexusmods.com/morrowind/mods/49343) by Sigourn  
@@ -312,7 +315,9 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Morag Tong Writ Fix**](https://www.nexusmods.com/morrowind/mods/47788) by Lurlock  
 [**Vegtabill's Threads of the Webspinner**](https://www.nexusmods.com/morrowind/mods/43893) by Vegtabill  
 [**Threads of the Webspinner Completed**](https://www.nexusmods.com/morrowind/mods/43905) by Curmudgeon  
-[**Morag Tong Pesticide**](https://www.nexusmods.com/morrowind/mods/50758) by Leyawynn 
+[**Morag Tong Pesticide**](https://www.nexusmods.com/morrowind/mods/50758) by Leyawynn  
+[**MWSE - Morag Tong Helmets**](https://www.nexusmods.com/morrowind/mods/50827) by Stripes  
+[**Morag Tong Helmet Diversity**](https://www.nexusmods.com/morrowind/mods/50738) by RuffinVangarr  
 
 ### Thieves Guild
 [**What Thieves Guild**](https://www.nexusmods.com/morrowind/mods/47728) by Von Djangos  
@@ -372,6 +377,11 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Solstheim Rumor Fix - Fixed**](https://www.nexusmods.com/morrowind/mods/47053) by Alice  
 [**Chieftain of Thirsk and Blodskaal**](https://www.nexusmods.com/morrowind/mods/50309) by Alice  
 [**Preferred Pronouns - Thirsk a History**](https://www.nexusmods.com/morrowind/mods/50413) by HMCascade  
+[**Blessings of the Stones**](https://www.nexusmods.com/morrowind/mods/50797) by HMCascade  
+[**Solstheim - Allmaker's Blessings**](https://www.nexusmods.com/morrowind/mods/50416) by HMCascade  
+[**Hircine's Artifacts**](https://www.nexusmods.com/morrowind/mods/47671) by Leyawynn  
+[**Face Hircine - Improved Hircine Boss Fight**](https://www.nexusmods.com/morrowind/mods/45181) by OhYessi  
+[**Face Hircine - Hircine's Artifacts Patch**](https://www.nexusmods.com/morrowind/mods/50809) by HMCascade  
 
 ## New Quests
 [**Hircine's Quest**](https://www.nexusmods.com/morrowind/mods/47651) by Danae & Alice  
@@ -626,6 +636,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Career Change - A Bard Quest**](https://www.nexusmods.com/morrowind/mods/50684) by ECLong  
 [**The Underground 2 - Repackaged**](https://www.nexusmods.com/morrowind/mods/50697) by Operator Jack & Qarl  
 [**Tim's Extra Quest - Dwemer Ancestry**](https://www.nexusmods.com/morrowind/mods/50719) by Tim Haubert  
+[**Triumph at Firemoth**](https://www.nexusmods.com/morrowind/mods/50806) by Aphiteth  
 
 # Province Mods
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Tamriel Rebuilt and Project Tamriel  
@@ -652,6 +663,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Jiub Onasi Companion for Starwind**](https://www.nexusmods.com/morrowind/mods/50554) by kvatchcount  
 [**Starwind Christmas**](https://www.nexusmods.com/morrowind/mods/50575) by Ignatious  
 [**McJabba's**](https://www.nexusmods.com/morrowind/mods/50587) by Ignatious  
+[**Starwind Player Housing**](https://www.nexusmods.com/morrowind/mods/50825) by quickdrawmcgraw  
 
 ## Others
 [**Duskpoint**](https://www.nexusmods.com/morrowind/mods/45117) by Waspinator1998  
