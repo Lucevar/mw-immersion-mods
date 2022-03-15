@@ -88,6 +88,8 @@ Updates vanilla classes to be more useable, makes NPC classes playable, adds a v
 
 [**Amyrha's Race Rebalance**](https://www.nexusmods.com/morrowind/mods/50668) by Amyrha  
 
+[**Complete Race and Birthsign Overhaul**](https://www.nexusmods.com/morrowind/mods/50829) by obelus  
+
 ## New Races
 [**Amyrha's Race Pack**](https://www.nexusmods.com/morrowind/mods/50696) by Amyrha  
 
