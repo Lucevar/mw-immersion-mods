@@ -8,6 +8,8 @@
 
 ## HUD
 [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
+[**Clocks**](https://www.nexusmods.com/morrowind/mods/50840) by Wisp  
+This mod adds a customizable real-time and/or in-game time clock in the HUD, and the ability to switch between them with a customizable key. This is a rewrite of the MWSE Clock Block by Aleist3r, featuring user-requested functionality and code improvements.  
 [**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455) by JaceyS  
 [**HUD Encumbrance Bar**](https://www.nexusmods.com/morrowind/mods/49608) by Operator Jack  
 
@@ -27,6 +29,8 @@ Changes the cursors to a daedric gauntlet (and daedric crescent when resizing me
 ## Load Menu
 [**Petes UI Mods**](https://www.nexusmods.com/morrowind/mods/45859) by Petethegoat  
 [**Continue**](https://www.nexusmods.com/morrowind/mods/45952) by Petethegoat  
+[**Improved Main Menu**](https://www.nexusmods.com/morrowind/mods/50856) by Wisp  
+This mod is a rewrite and combination of the Continue mod by Petetehgoat and New Game Confirmation by hardek. It features several togglable QOL improvements to the Main Menu.  
 [**De-outlandered main menu & daedric ui textures**](https://www.nexusmods.com/morrowind/mods/46805) by RedFurryDemon  
 
 ## Chargen
