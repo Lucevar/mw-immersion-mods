@@ -827,6 +827,7 @@ See the Towns list and the Locations list for more mods making general additions
 [**Ninullin Villaks Companion**](https://www.nexusmods.com/morrowind/mods/50871) by kvatchcount  
 [**Starwind DFJ**](https://www.nexusmods.com/morrowind/mods/50832) by quickdrawmcgraw  
 [**Starwind Death Stalker**](https://www.nexusmods.com/morrowind/mods/50835) by quickdrawmcgraw  
+[**Starwind - Tatooine Hovel**](https://www.nexusmods.com/morrowind/mods/50879) by tubtubs  
 
 ## Others
 [**Duskpoint**](https://www.nexusmods.com/morrowind/mods/45117) by Waspinator1998  
