@@ -21,6 +21,10 @@
 [**Dual Faction Membership**](https://www.nexusmods.com/morrowind/mods/49885) by Alice  
 [**Gender Neutral Morrowind**](https://www.nexusmods.com/morrowind/mods/50464) by raptorialclaw  
 
+## Native RP
+[**Remove N'Wah**](https://www.nexusmods.com/morrowind/mods/45500) by vladxn  
+[**Outlander Yourself**](https://www.nexusmods.com/morrowind/mods/45674) by rot  
+
 ## Audio
 [**Silent Assassins**](https://www.nexusmods.com/morrowind/mods/44371) by R-Zero  
 [**So. You're the Nerevarine.**](https://www.nexusmods.com/morrowind/mods/46896) by vehkofficial  
