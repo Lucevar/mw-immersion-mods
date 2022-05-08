@@ -115,7 +115,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Sarano Ancestral Tomb** - [**OAAB Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131), [Remiros' Tombs Expanded](https://www.nexusmods.com/morrowind/mods/45616)  
 **Saren Ancestral Tomb**  
 **Sarethi Ancestral Tomb**  
-**Sarys Ancestral Tomb**  
+**Sarys Ancestral Tomb** - [**Tel Dranori Wizard Tower**](https://www.nexusmods.com/morrowind/mods/42763)    
 **Savel Ancestral Tomb** - [**God of Worms**](https://www.nexusmods.com/morrowind/mods/48028), [King of Worms](https://www.nexusmods.com/morrowind/mods/46611)  
 **Senim Ancestral Tomb**  
 **Seran Ancestral Tomb** - [Spidersilk Shield](https://www.nexusmods.com/morrowind/mods/46220)  
@@ -139,7 +139,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Abinabi** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Adanumuran** - [Adanumuran Reclaimed](https://www.nexusmods.com/morrowind/mods/43340), [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
 **Addamasartus** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [The Cave of Woe](https://www.nexusmods.com/morrowind/mods/352), [**Less Disclosed Addamasartus**](https://www.nexusmods.com/morrowind/mods/49271)  
-**Aharunartus** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Aharunartus** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [**Tel Dranori Wizard Tower**](https://www.nexusmods.com/morrowind/mods/42763), [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859)      
 **Aharnabi** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Ahinipalit** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
 **Ainab**  
@@ -190,7 +190,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Palansour**  
 **Panat**  
 **Pinsun** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
-**Piran**  
+**Piran** - [**Bases of the Sixth House**](https://www.nexusmods.com/morrowind/mods/50411)    
 **Pulk**  
 **Punabi** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Punammu** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
@@ -286,7 +286,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Marandus** - [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692), [**Marandus Rebuilt**](https://www.nexusmods.com/morrowind/mods/49522), [**LGNPC Pax Redoran**](http://lgnpc.org/downloads), [**Dunmer Strongholds Expanded**](https://www.nexusmods.com/morrowind/mods/43358)  
 **Rotheran** - [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692), [**Dunmer Strongholds Expanded**](https://www.nexusmods.com/morrowind/mods/43358)  
 **Telasero** - [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692), [**Dunmer Strongholds Expanded**](https://www.nexusmods.com/morrowind/mods/43358), [**The Ministry of Clarity**](https://www.nexusmods.com/morrowind/mods/46093)  
-**Valenvaryon** - [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692), [**Dunmer Strongholds Expanded**](https://www.nexusmods.com/morrowind/mods/43358)  
+**Valenvaryon** - [**Better Dunmer Strongholds**](https://www.nexusmods.com/morrowind/mods/49692), [**Dunmer Strongholds Expanded**](https://www.nexusmods.com/morrowind/mods/43358), [**The Fires of Orc**](https://www.nexusmods.com/morrowind/mods/44982), [**Trouble at Valenvaryon**](https://www.nexusmods.com/morrowind/mods/48543)    
 
 ## <a name="dwemer"></a>Dwemer Ruins
 **Aleft** - [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076), [**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249)  
@@ -294,24 +294,24 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Arkngthunch-Sturdumz** - [**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249)  
 **Bethamez** - [**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249)  
 **Bthanchend**  
-**Bthuand** - [Bthuand Expanded](https://www.nexusmods.com/morrowind/mods/46055)  
-**Bthungthumz** - [The Tragedy of Dahrk Mezalf the Wise**](https://www.nexusmods.com/morrowind/mods/47235)    
-**Dagoth Ur** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544), [**Akulakhan's Best Chamber**](https://www.nexusmods.com/morrowind/mods/49644)    
+**Bthuand** - [**Bthuand Expanded**](https://www.nexusmods.com/morrowind/mods/46055)  
+**Bthungthumz** - [**The Tragedy of Dahrk Mezalf the Wise**](https://www.nexusmods.com/morrowind/mods/47235)    
+**Dagoth Ur** - [**Darknut's GDR**](https://www.nexusmods.com/morrowind/mods/43544), [**Akulakhan's Best Chamber**](https://www.nexusmods.com/morrowind/mods/49644)    
 **Druscashti** - [**Druschasti Overhaul**](https://www.nexusmods.com/morrowind/mods/47900), [**Vampire Clans - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47259)  
-**Endusal** - [Endusal Redone](https://www.nexusmods.com/morrowind/mods/43399)  
+**Endusal** - [**Endusal Redone**](https://www.nexusmods.com/morrowind/mods/43399)  
 **Galom Daeus** - [**Vampire Clans - Clutter Monkey Overhaul**](https://www.nexusmods.com/morrowind/mods/47259)  
 **Mudan**  
 **Mzahnch** - [**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249)     
 **Mzanchend**  
 **Mzuleft** - [**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249)  
 **Nchardahrk**  - [**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249)  
-**Nchardumz** - [Aetherium Forging](https://www.nexusmods.com/morrowind/mods/44436)  
+**Nchardumz** - [**Aetherium Forging**](https://www.nexusmods.com/morrowind/mods/44436)  
 **Nchuleft** -  [**Better Dwemer Interiors**](https://www.nexusmods.com/morrowind/mods/50193), [**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249), [Nchuleft Dwemer Home](http://mw.modhistory.com/download-98-12765)  
 **Nchuleftingth**  
 **Nchurdamz**  
-**Odrosal** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544)  
-**Tureynulal** - [Tureynulal Redone](https://www.nexusmods.com/morrowind/mods/43399)  
-**Vemynal** - [Darknut's GDR](https://www.nexusmods.com/morrowind/mods/43544)  
+**Odrosal** - [**Darknut's GDR**](https://www.nexusmods.com/morrowind/mods/43544)  
+**Tureynulal** - [**Tureynulal Redone**](https://www.nexusmods.com/morrowind/mods/43399)  
+**Vemynal** - [**Darknut's GDR**](https://www.nexusmods.com/morrowind/mods/43544)  
 
 ## <a name="grottos"></a>Grottos
 **Akimaes Grotto** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
@@ -322,7 +322,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Malmus Grotto**  
 **Mudan Grotto**  
 **Mul Grotto** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
-**Nimawia Grotto** - [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076), [Nimawia Pearl Farm](http://mw.modhistory.com/download-87-13459)  
+**Nimawia Grotto** - [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076), [**Nimawia Pearl Farm**](http://mw.modhistory.com/download-87-13459)  
 **Vassamsi Grotto**  
 **Zalkin Grotto** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 
@@ -431,11 +431,11 @@ Adds a unique sound to Nordic barrows, instead of the Dunmer ancestral whispers 
 **Eddard Barrow**  
 **Frosselmane Barrow**  
 **Glenschul's Tomb**  
-**Gyldenhul Barrow** - [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470)  
+**Gyldenhul Barrow** - [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
 **Himmelhost Barrow**  
 **Hrothmund's Barrow** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Jolgeirr Barrow** - [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470)  
-**Kelsedolk Barrow** - [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470)  
+**Jolgeirr Barrow** - [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)    
+**Kelsedolk Barrow** - [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)    
 **Kolbjorn Barrow**  
 **Lukesturm Barrow**  
 **Skogsdrake Barrow**  
@@ -448,18 +448,18 @@ Adds a unique sound to Nordic barrows, instead of the Dunmer ancestral whispers 
 **Benkongerike** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
 **Bjorn** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
 **Caves of Fjalding** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Cave of Hidden Music** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470)   
+**Cave of Hidden Music** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)     
 **Domme** - [From Ash to Frost](https://www.nexusmods.com/morrowind/mods/45254), [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)   
 **Fjell** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
 **Frossel** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
 **Frykte** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)   
-**Gandrung Caverns** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470)  
+**Gandrung Caverns** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)    
 **Gloomy Cave** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
 **Gronn** - [From Ash to Frost](https://www.nexusmods.com/morrowind/mods/45254), [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
 **Halls of Penumbra** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
 **Lair of the Udyrfrykte**  
 **Legge**  
-**Rimhull** - [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470)  
+**Rimhull** - [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)    
 **Sjobal**  
 **Skygge**  
 **Solvjord**  
