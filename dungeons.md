@@ -258,7 +258,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 
 ## Daedric Shrines - Sheogorath
 **Addadshashanammu** - [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
-**Ald Daedroth**  
+**Ald Daedroth** - Julan Ashlander Companion  
 **Almurbalarami**  
 **Assalkushalit**  
 **Bal Fell** - [**Bal Fell Under**](https://www.nexusmods.com/morrowind/mods/31389)  
