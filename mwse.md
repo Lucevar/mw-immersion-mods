@@ -7,6 +7,346 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
+## March 15th - June 3rd 2022 (inc. 20th anniversary modathon)
+[Accurate Thrown Weapon Tooltips](https://www.nexusmods.com/morrowind/mods/51336) by Necrolesian
+Doubles the displayed damage in thrown weapon tooltips, so it will accurately reflect how the game determines their damage.
+
+[Accurate Tooltip Stats](https://www.nexusmods.com/morrowind/mods/51354) by Necrolesian
+Implements more accurate, context-dependent tooltip displays for weapon damage and armor ratings, using MWSE-lua.
+
+[Animal Extinction](https://www.nexusmods.com/morrowind/mods/51137) by Spammer21
+Ever dreamt of killing every cliffracer in the game? Now you can.
+
+[AntiBunny](https://www.nexusmods.com/morrowind/mods/51026) by Archimag
+Realistic jump height. Part of 4NM.
+
+[Attribute Effect Tweaks](https://www.nexusmods.com/morrowind/mods/51161) by Necrolesian
+Tweaks how Restore/Damage Attribute works on the player. Required by certain mods. No meaningful gameplay effect on its own.
+
+[Auto Attack](https://www.nexusmods.com/morrowind/mods/51348) by Merlord
+This mod adds an auto-attack toggle hotkey. MCM for configuring hotkey, attack speed and message display.
+
+[Auto Harvest](https://www.nexusmods.com/morrowind/mods/51159) by KrimsonKhaos
+Auto Harvest will automatically collect ingredients from organic containers, and loose ingredients within range of the player.
+Compatible with Graphic Herbalism and Tamriel Rebuilt.
+
+[Automatic Weapon Readied](https://www.nexusmods.com/morrowind/mods/51243) by Spammer21
+No need to manually ready your weapon anymore!
+
+[Barter Gold Adjuster](https://www.nexusmods.com/morrowind/mods/51432) by Necrolesian
+Allows customizing merchants' barter gold using MWSE-lua.
+
+[BDC-Seyda Neen](https://www.nexusmods.com/morrowind/mods/51133) by EnclaveKiller
+Better Dialogue-Choices is a quest overhaul project focused on implementing rpg elements in dialogue while extending quests by giving the player multiple ways to complete them. This mod overhauls all Seyda Neen side quests.
+
+[Big Head Mode](https://www.nexusmods.com/morrowind/mods/51351) by Safebox
+Gives NPCs and creatures with a "Bip01 Head" node larger heads (and hands).
+
+[Bleeding Injuries](https://www.nexusmods.com/morrowind/mods/51308) by Spammer21
+Wear armor. Seriously. Battles are dangerous. Adds blood decals if you get wounded in combat.
+
+[Boethiah's Bloodhound](https://www.nexusmods.com/morrowind/mods/51136) by Revacholiere
+A small quest to gain an artifact of Boethiah that's as dangerous to the user as the target.
+
+[Cast on Hit Bows Lua](https://www.nexusmods.com/morrowind/mods/51196) by KrimsonKhaos
+Makes any arrow shot from any bow hit with the bows cast on use or cast on strike enchantment.
+
+[CCCP Magicka Regen](https://www.nexusmods.com/morrowind/mods/51143) by Necrolesian
+Implements the magicka regen functionality of Class-Conscious Character Progression (CCCP), without any of that mod's other features.
+
+[Combat Enhanced - MWSE Edition](https://www.nexusmods.com/morrowind/mods/51414) by Spammer21
+MWSE Lua version of Combat Enhanced.
+
+[Compare Tooltips](https://www.nexusmods.com/morrowind/mods/51087) by rfuzzo
+This mod adds compare tooltips for looked-at or equipped items against the equipped item of the same category. The mod has multiple MCM options to configure the comparison style.
+
+[Creatures Silt Striders](https://www.nexusmods.com/morrowind/mods/51431) by Spammer21
+Changes the silt striders in cities by actual creatures, with health points. Attacking these creatures is a crime, and the Caravaneer associated to it will stop offering you services if you do so.
+
+[Critical Lockpicking and Trap Disarming](https://www.nexusmods.com/morrowind/mods/51165) by Spammer21
+Adds critical failure and critical success to the Lockpicking/Trap Disarming mechanism.
+
+[Deja Vu](https://www.nexusmods.com/morrowind/mods/51250) by Safebox
+Adds a timeloop mechanic that carries over stats and spells, but resets items and journal entries. Repeats every 24 hours or on player death.
+
+[Disturbing Dreams](https://www.nexusmods.com/morrowind/mods/51285) by VitruvianGuar
+MWSE lua mod changing the mechanics of Sixth House attacking the player during sleep.
+
+[DRIP - Dynamic Randomised Item Properties](https://www.nexusmods.com/morrowind/mods/51242) by Merlord
+Drip adds Diablo 2 style loot to Morrowind. Unique weapons, armor, clothing and accesories are dynamically generated, with over a hundred unique modifiers and more than a million possible combinations. Chance to apply modifiers configurable in the MCM.
+
+[Dwemer Cycle](https://www.nexusmods.com/morrowind/mods/51410) by Safebox
+The Dwemer Cycle is an eight month labour of love to put the Master Cycle into Morrowind.
+
+[Elemental Projectile Hits](https://www.nexusmods.com/morrowind/mods/51149) by Spammer21
+Adds a little VFX when your elemental enchanted arrow/bolt/throwing weapon hits something.
+
+[Enchant Drain](https://www.nexusmods.com/morrowind/mods/51124) by Spammer21
+Adds a buyable spell called "Enchant Drain", that allows you to use your enchanted staves and amulets as a supplementary mana pool for the duration of the spell.
+
+[Enchantment Services Redone](https://www.nexusmods.com/morrowind/mods/51249) by Virnetch
+Adds NPC services for recharging enchanted items, deciphering magic scrolls and the option to transcribe magic scrolls, both by the player, and through a service. Adds empty scrolls from OAAB to enchanters and booksellers, and disables the passive recharging of enchanted items. Highly customizable through the Mod Config Menu.
+
+[Enslaved](https://www.nexusmods.com/morrowind/mods/51365) by Spammer21
+Playing as an Argonian or a Khajiit? Life is tough for you in Vvardenfell. Racism everywhere. And now, even slave traders abducting you during your sleep!
+
+[External Commands](https://www.nexusmods.com/morrowind/mods/51359) by NullCascade
+Facilitates the reading of json packages from a monitored folder or through a TCP connection to allow the execution of scripts. This allows streamers to have interactive chat commands that modify the game.
+
+[Factional Bounties](https://www.nexusmods.com/morrowind/mods/51406) by wurst24
+Not every faction you wrong should be happy just because you paid your dues to the Imperials. If your crimes against a faction are witnessed by a member of that faction, and they're not fans of the Imperial Legion, they might wanna come collect retribution for themselves as well. Simple interop for mod-added factions included. (MWSE Lua)
+
+[Farhrenheit 451](https://www.nexusmods.com/morrowind/mods/51294) by Spammer21
+Ever dreamt of becoming an arsonist? This mod is for you.
+
+[Fashionwind - MWSE Horns and Antlers](https://www.nexusmods.com/morrowind/mods/51209) by RuffinVangarr
+this mod adds cosmetic horns with an MWSE script that allows them to be worn without hiding your hair or even taking up the helmet slot. (requires onion layers mod)
+
+[Fence It](https://www.nexusmods.com/morrowind/mods/51329) by Spammer21  
+Tired of not being able to sell your diamonds to Nalcarya because of that stupid thieves guild quest? Give them to a pawnbroker and he will make them unrecognizable! For a price of course...
+
+[Heaven and Hell Difficulty](https://www.nexusmods.com/morrowind/mods/51186) by TheDrunkenMudcrab  
+Adds the "Heaven and Hell" difficulty from Devil May Cry, which makes any damage a killing blow.
+
+[High Ground](https://www.nexusmods.com/morrowind/mods/51360) by Stripes   
+The high ground increases chances of landing a hit
+
+[Immersive Bosmer Corpse Disposal](https://www.nexusmods.com/morrowind/mods/51123) by rfuzzo  
+This mod changes the "dispose corpse" button to "eat corpse" if you are playing as a Bosmer and adds some buffs for eating your felled enemies. Includes some logic for use as an Ashfall-addon.
+
+[Immersive Compass](https://www.nexusmods.com/morrowind/mods/51126) by Safebox  
+Adds a physical compass that can be bought (or stolen) from various shops, or found in levelled lists.
+
+[Indoor - Outdoor Camera Switching](https://www.nexusmods.com/morrowind/mods/51183) by Safebox  
+A mod that switches the camera to first person when indoors and third person when outdoors.
+
+[Infectious Sewers](https://www.nexusmods.com/morrowind/mods/51062) by Spammer21  
+Spending too much time in the sewers makes you sick
+
+[Item Browser](https://www.nexusmods.com/morrowind/mods/51366) by Merlord  
+Item Browser allows you to search, browse and preview any item in the game, and add them to your inventory. Powered by the Crafting Framework.
+
+[Leftover Attribute Modifiers Persist](https://www.nexusmods.com/morrowind/mods/51310) by KrimsonKhaos  
+Saves any unused skill ups for the next time you level up. No ESP needed.
+
+[Less Annoying Wigs](https://www.nexusmods.com/morrowind/mods/51391) by Spammer21  
+Wigs no longer take any clothing or armor slots.
+
+[Less Lame Leveled Spawns](https://www.nexusmods.com/morrowind/mods/51059) by NullCascade  
+If you've ever loaded a save game in a dungeon that you've cleared corpses in, you may have noticed them respawn. This fixes this issue, first by preventing the spawn during load, as well as adding a cooldown to leveled creature spawners.
+
+[Level Up Indicator](https://www.nexusmods.com/morrowind/mods/51376) by Spammer21  
+Adds a level up indicator when you're ready to level up.
+
+[Loading Splash Screens](https://www.nexusmods.com/morrowind/mods/51076) by rfuzzo  
+This mod uses MWSE to display splash screens during cell loading instead of freezing the frame as vanilla does.
+
+[Matching Manuscripts](https://www.nexusmods.com/morrowind/mods/51132) by NullCascade  
+Dynamically changes the book menu to make the book cover match the actual book being read.
+
+[Mehrunes' Razor Extended](https://www.nexusmods.com/morrowind/mods/51055) by Revacholiere  
+Adds a possible insta-kill effect to Mehrunes' Razor based on your Luck, as it has in Oblivion and Skyrim.
+
+[Menus Hider on Item Select](https://www.nexusmods.com/morrowind/mods/50974) by Spammer21  
+In OpenMW, when you select an item in your inventory, the Magic, Stats and Map menus automatically hide when your mouse hovers them to not obstruct your view when placing said item into the game world. This MWSE mod allows that functionality to be used with the Vanilla exe.
+
+[More Detailed Companion HealthBars](https://www.nexusmods.com/morrowind/mods/51389) by Spammer21  
+Tweaked version of Mesafoo's Companion HealthBars, showing Magicka, Fatigue as well as currently selected weapon.
+Also, added compatibility with Seph's HUD customizer.
+
+[mtrCultures](https://www.nexusmods.com/morrowind/mods/51282) by MTRHasAlreadyBeenTaken  
+This mod adds character cultures that can be selected after character generation.
+
+[MultiEnchant](https://www.nexusmods.com/morrowind/mods/51022) by Archimag  
+Multi-enchantments will no longer unfairly increase capacity consumption
+
+[MUSE - Morrowind Music Overdose](https://www.nexusmods.com/morrowind/mods/51306) by Furohman  
+Repackage of Jon Babb's Morrowind Music Overdose soundtracks for use with MUSE
+
+[MUSE - The Northerner Diaries in Morrowind](https://www.nexusmods.com/morrowind/mods/51361) by Macbone  
+A MUSE conversion for Morrowind of ak0d's The Northerner Diaries for Skyrim, which adds some tracks from Jeremy Soule's Northerner Diaries into Skyrim and Solstheim regions. Intended for use with Skyrim Home of the Nords.
+
+[MUSE Music Expansion - Ashlander](https://www.nexusmods.com/morrowind/mods/51255) by Scipio  
+Flighty woodwinds, strumming fiddles, thumping wardrums...
+An Ashlander music expansion of original tracks by be created for the Morrowind MUSE mod. Featuring 4 new exploration tracks, 3 new combat tracks, and a special location track that plays in the Cavern of the Incarnate.
+
+[MUSE Music Expansion - Dwemer](https://www.nexusmods.com/morrowind/mods/51169) by Scipio  
+Scraping metal, chugging machinery, steamy vents...
+A Dwemer music expansion of original tracks by be created for the Morrowind MUSE mod. Featuring 5 new exploration tracks and 4 new combat tracks.
+
+[MUSE Music Expansion - Sixth House](https://www.nexusmods.com/morrowind/mods/51082) by Scipio  
+Dark grumblings, dreamy whispers, cavernous percussion...
+A 6th House music expansion of original tracks for the Morrowind MUSE mod, created using modern production techniques. Featuring 5 new exploration tracks, 4 new combat tracks, and 1 boss fight track.
+
+[MUSE Music Expansion - Tomb](https://www.nexusmods.com/morrowind/mods/51407) by Scipio  
+Trembling brass, tense strings, calls from beyond...
+An undead themed music expansion of original tracks by be created for the Morrowind MUSE mod. Featuring 5 new exploration tracks and 4 new combat tracks.
+
+[MWSE Logger](https://www.nexusmods.com/morrowind/mods/51423) by Spammer21  
+Feeling like one of your MWSE mods isn't working as it should but don't want to leave the game to go open the MWSE.log file and find out?
+This mod is for you.
+
+[MWSE Name Randomizer for MWSE NPC Randomizer based on MWSE Character Creation Name Randomizer - MWSE](https://www.nexusmods.com/morrowind/mods/51403) by Spammer21  
+Adds lore friendly names, generated by Aleist3r's Character Creation Name Generator, to the NPCs randomly generated by hater8's MWSE Random NPC.
+
+[MWSE Satchels and Bags](https://www.nexusmods.com/morrowind/mods/51063) by FrummYonda & Safebox  
+Adds wearable satchels, pouches, and fannypacks to the game. MWSE-only.
+
+[Necrocraft](https://www.nexusmods.com/morrowind/mods/51211) by VitruvianGuar  
+Comprehensive modern day implementation of necromancy, using Skill Module, Magicka Expanded and Crafting Framework. Includes game mechanics overhaul, new quests and mysteries to solve, allowing to fully experience being the practicioner of a forbidden art of necromancy.
+
+[Of Eggs and Dwarves](https://www.nexusmods.com/morrowind/mods/51171) by seelof and Greatness7  
+This mod rebuilds and expands the Gnisis Eggmine complex from scratch, which includes the Eggmine, the Lower Eggmine, the Underground Stream, and Bethamez. It also adds a quest, which asks the player to investigate the origins of the tremors that have been plaguing the eggmine ever since the Dwemer ruin was uncovered. Features actual earth quakes!
+
+[OpenHud - MWSE Port](https://www.nexusmods.com/morrowind/mods/51220) by Spammer21  
+Basically OpenHud, but for MWSE. Requires Seph's Hud Customizer.
+
+[Opportune Landing](https://www.nexusmods.com/morrowind/mods/51433) by Spammer21  
+Falling on an NPC or creature will knock them down.
+
+[Pacifist](https://www.nexusmods.com/morrowind/mods/51035) by Archimag  
+Want to get someone else's equipped item? Now you don't have to kill. Be a pacifist - just beat this dude half to death!
+
+[Parkour](https://www.nexusmods.com/morrowind/mods/51038) by Archimag  
+Comfortable climbing and pushing off walls
+
+[Physical Journal](https://www.nexusmods.com/morrowind/mods/51347) by Spammer21  
+Changes the Journal into a physical item in your inventory. So that you can throw it away or sell it if you don't want to be the people's hero anymore.
+
+[Pickpocketers of Vvardenfell](https://www.nexusmods.com/morrowind/mods/51089) by Spammer21  
+Gives a random chance to thieves, rogues and paupers in the game to steal an item from you if you get too close to them.
+
+[PvP](https://www.nexusmods.com/morrowind/mods/51034) by Archimag  
+A combat based on parries and dodges. Enemies fight almost like real players.
+
+[QuickKey Outlander](https://www.nexusmods.com/morrowind/mods/50997) by Spammer21  
+QuickKey Outlander, I haven't much time! Hot Keys are a wonderful thing. They allow for very easy access to healing/teleportation/whatever you need. But they're so tedious to set...
+Not anymore.
+
+[QuickKeys Hotbar](https://www.nexusmods.com/morrowind/mods/51192) by Spammer21  
+Adds a Hotbar to the game with all your hotkeys displayed.
+
+[Rational Names Lite](https://www.nexusmods.com/morrowind/mods/51241) by Necrolesian  
+Adjusts item names for logic, consistency, convenience, sorting, personal preference, and distingushing between items. Plugin and MWSE-lua versions included.
+
+[Relentless Dark Brotherhood](https://www.nexusmods.com/morrowind/mods/51244) by Stripes  
+As the title implies, this mod makes the Dark Brotherhood assassins relentless in their pursuit to murder you.
+
+[Replica Crafting](https://www.nexusmods.com/morrowind/mods/51114) by Revacholiere  
+Craft replicas for any quest item which you would otherwise lose - re-make the dwemer puzzle box for displaying in your home, reforge the golden eggs and make a brand-new Oddfrid White-lip companion, and more. Supports every quest item in the main game + Bloodmoon and Tribunal, with support for other mods coming soon.
+
+[Security Expertise](https://www.nexusmods.com/morrowind/mods/51412) by VitruvianGuar  
+MWSE lua mod which allows to create your own locks and traps via security skill and adds trap panels, triggering by stepping on them.
+
+[Selection Details](https://www.nexusmods.com/morrowind/mods/51095) by NullCascade  
+This mod aims to help mod developers and those working on their install to help diagnose issues. Have you ever wanted to know which texture that rock is using, so you can replace it? What head the NPC has so you can change it? What the heck the value in this script is, so you can debug it? This mod lets you do all that and more, at a glance.
+
+[ShieldsUp](https://www.nexusmods.com/morrowind/mods/51027) by Archimag  
+Active shield block, arrow block
+
+[Signpost Fast Travel](https://www.nexusmods.com/morrowind/mods/51197) by KindiEquiNox  
+Provide fast travel in the form of using signposts.
+
+[Simple Renamer](https://www.nexusmods.com/morrowind/mods/51175) by Revacholiere  
+A simple MWSE mod that lets you rename any object with a name.
+
+[Smarter Strike Sounds](https://www.nexusmods.com/morrowind/mods/51084) by NullCascade  
+This mod improves the logic for selecting an enchantment failure sound. It enables selecting a random effect fail sound, and preventing the same enchantment from playing a sound twice (or more) in a row. As a result, enchantment strike sounds become a lot less spammy, and can provide some variety.
+
+[Spells Reforged - purple Shield](https://www.nexusmods.com/morrowind/mods/50905) by Kurpulio  
+Replaces Shield spell visual effect.
+
+[Summon Creature Followers](https://www.nexusmods.com/morrowind/mods/51246) by KrimsonKhaos  
+Vanilla and TR versions. Tired of the same 17 summon creatures in the game? This adds 90 creature followers that are able to be summoned with a custom menu. Multiple options in a MCM menu
+
+[The Achievement Framework](https://www.nexusmods.com/morrowind/mods/51081) by Safebox  
+Adds an achievement system to the stats screen, along with a corner popup akin to Steam's achievement system.
+
+[The Gray Fox](https://www.nexusmods.com/morrowind/mods/51069) by KrimsonKhaos  
+Adds a fully functional Gray Cowl of Nocturnal to the game, with a quest to discover the identity of The Gray Fox!
+
+[The Iron Fist - A Hand-to-hand Overhaul](https://www.nexusmods.com/morrowind/mods/51071) by Spammer21  
+Wearing Gauntlets during a hand-to-hand fight will cause health damage to your opponents.
+
+[The Maniac's Mansion](https://www.nexusmods.com/morrowind/mods/51374) by Nerevec  
+This is a Player Home high up in the sky above the Dunmer Stronghold Falensarano. It also contains some easter eggs to Retro Gaming on DOS.
+
+[Training Menu and Training Manual](https://www.nexusmods.com/morrowind/mods/51064) by KrimsonKhaos  
+Two versions: Training Menu and Training Manual, both open a menu with configurable settings.
+
+[Training Rebalance](https://www.nexusmods.com/morrowind/mods/51213) by Spammer21  
+Training does not guaranty a skill improvement anymore. When you use the training service, there is a chance (based on your luck, fatigue and the trainer skill) for you to fail the training and to not gain anything at all. Alternatively, there is also a slight chance for you to gain double the amount of experience.
+
+[Vampiric Bloodline Visages](https://www.nexusmods.com/morrowind/mods/51201) by Stripes  
+MWSE required. There are 3 vampire bloodlines in the vanilla game and they all look the same, this mod attempts to give each bloodline a visual distinction
+
+[Vanish From Sight](https://www.nexusmods.com/morrowind/mods/51266) by impv  
+As long as the player is invisible, all hostiles located in the current cell stop combat. Includes configurable fight values for hostiles in MCM. A must-have for any illusionist.
+
+[Weight of the World](https://www.nexusmods.com/morrowind/mods/51195) by Necrolesian  
+Allows customizing how max encumbrance is calculated in various ways, plus a more accurate encumbrance display.
+
+[Smarter Harder Barter](https://www.nexusmods.com/morrowind/mods/50883) by quinnoccent  
+Creates a vanilla+ yet more balanced trading experience, mirroring the base game for mundane trades while reigning in the economy-breaking potential of very expensive items.
+
+[Real Fire Damage - MWSE Edition](https://www.nexusmods.com/morrowind/mods/50927) by Spammer21  
+This mod does exactly the same as AmazingChopin's Real Fire Damage, but using MWSE lua instead of an esp plugin. This makes the mod work for every fire source in the game, even ones added by other mods, like Tamriel Rebuilt for example.
+
+[Skill Capper - MWSE](https://www.nexusmods.com/morrowind/mods/50926) by ddmlink  
+Caps your base skills as an extra challenge. By default, they are capped at 1 but you can change the limit in the MCM.
+
+[Acid Rain](https://www.nexusmods.com/morrowind/mods/50925) by Spammer21  
+The rain in Vvardenfell is now acidic. Find shelter as soon as possible!
+
+[Breakable Unlimited Thieves Tools --- B.U.T.T](https://www.nexusmods.com/morrowind/mods/50924) by KrimsonKhaos  
+Uses MWSE Lua to make all picks and probes Unlimited uses, but still Breakable with a configurable chance.
+Either option can be toggled on or off as you choose.
+
+[Moonmoth Cottage - Cloud Storage Warehouse Compatible](https://www.nexusmods.com/morrowind/mods/50841) by TheWanderer  
+A player home near Moonmoth Fort. No clutter and no mannequins. That has been left for you to add. When the three storey extention was added the previous owners decided to keep the original name.
+
+[Civilised Vvardenfell](https://www.nexusmods.com/morrowind/mods/50896) by Spammer21  
+It is now illegal to draw weapons or to use spells in towns. You can still carry them (Second Amendment and all), but don't you dare use them in front of witnesses!  
+
+[The Spellmaker - An MWSE Mod](https://www.nexusmods.com/morrowind/mods/50942) by Spammer21  
+Have you ever dreamt of being able to create new spells by yourself, instead of relying on NPC's ? Now you can.
+
+[Absorb Effects Rebalanced](https://www.nexusmods.com/morrowind/mods/50941) by Dark_Carl    
+Uses MWSE-Lua to balance absorb effects, for now only changing Absorb Health effect, planning to change also Spell Absorption in the next update.
+
+[MWSE Magicka Regen - Russian Translation](https://www.nexusmods.com/morrowind/mods/50936) by Koul99  
+Перевод мода MWSE Magicka Regen для Morrowind на русский язык. C этим модом магия игрока и NPC будет восстанавливаться со временем.
+
+[Doors Anti Stuck](https://www.nexusmods.com/morrowind/mods/50931) by abot  
+Avoid actors getting stuck while opening doors
+
+[Adjustable Skill Progression](https://www.nexusmods.com/morrowind/mods/50964) by KrimsonKhaos  
+Using MWSE Lua, adds a MCM to fully customize skill experience.
+
+[Erratic Magic](https://www.nexusmods.com/morrowind/mods/50955) by Spammer21  
+If you or an NPC fails to cast a spell, the caster will be randomly teleported somewhere in Vvardenfell.
+
+[Secret Master's Portable House With MWSE Lua](https://www.nexusmods.com/morrowind/mods/50967) by KrimsonKhaos  
+Upgrades the original house mod with Lua functionality for a lot of the scripts.
+
+[Customizable MWSE Multi Mark and Harder Recall - Russian translation](https://www.nexusmods.com/morrowind/mods/50965) by Koul99  
+Переработка заклинаний Пометка и Возврат, позволяющая устанавливать несколько пометок и телепортироваться к ним.
+
+[Teleport Menu and Teleport Tome](https://www.nexusmods.com/morrowind/mods/50993) by KrimsonKhaos  
+Teleport Menu or Teleport Tome each with over 500 locations.
+
+[Magican't](https://www.nexusmods.com/morrowind/mods/50990) by tewlwolow  
+This simple Lua mod empties the magic chance fillbar when you don't have enough magicka to cast the spell.
+
+[Darkening](https://www.nexusmods.com/morrowind/mods/50988) by abot  
+on the fly darkening of any interior cell without per-cell customization/color storage. Note: as cells light changes are cached per Morrowind.exe game session, changes done in the MCM panel are effective only on visiting a not yet visited interior cell or restarting Morrowind.exe
+
+[Bitter Coast Houseboat](https://www.nexusmods.com/morrowind/mods/51032) by Jan Heuser & Danae  
+Adds a cozy houseboat in the Bitter Coast near Aleft with cloud storage and Ashfall compatibility.
+
+[The Crafting Framework](https://www.nexusmods.com/morrowind/mods/51009) by Merlord  
+The Crafting Framework is library that allows modders to quickly and easily implement complex crafting mechanics in Morrowind. Required for mods like Ashfall, Go Fletch, Necrocraft etc.
+
 ## January 25th - March 15th
 [**Balance Your Burdens**](https://www.nexusmods.com/morrowind/mods/50860) by Safebox  
 Adds more drawbacks (and benefits) to encumbrance but affecting fatigue regen, movement speed, and skill experience gain.
