@@ -7,7 +7,10 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
-## March 15th - June 3rd 2022 (inc. 20th anniversary modathon)
+## March 15th - June 4rd 2022 (inc. 20th anniversary modathon)
+[**I'll Level Up Later - MWSE**](https://www.nexusmods.com/morrowind/mods/51441) by Spammer21  
+Ready for level up, but don't want to just yet? Really needing to rest? This mod adds a "Cancel" button to close the Level up menu without leveling up.
+
 [**Accurate Thrown Weapon Tooltips**](https://www.nexusmods.com/morrowind/mods/51336) by Necrolesian  
 Doubles the displayed damage in thrown weapon tooltips, so it will accurately reflect how the game determines their damage.
 
