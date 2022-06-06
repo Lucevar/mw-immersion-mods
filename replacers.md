@@ -57,6 +57,11 @@
 [**Trueflame Reforged**](https://www.nexusmods.com/morrowind/mods/50559) by Lorkhansheart  
 [**Dragon Statue Revisited**](https://www.nexusmods.com/morrowind/mods/50561) by Melchior Dahrk  
 [**Dagoth Ur HD**](https://www.nexusmods.com/morrowind/mods/50660) by Vegetto  
+[**Masque of Clavicus Vile Remodeling**](https://www.nexusmods.com/morrowind/mods/50888) by 7s_Kambei  
+[**Lore Correct Daedric Ruins**](https://www.nexusmods.com/morrowind/mods/50887) by Gale Heaton  
+[**Improved Weapon Mesh Compilation**](https://www.nexusmods.com/morrowind/mods/50886) by 1Mac & co  
+[**Thicker Daedric Claymore**](https://www.nexusmods.com/morrowind/mods/50933) by nastynugget  
+[**Improved Spriggan**](https://www.nexusmods.com/morrowind/mods/50920) by Lamb Shark  
 
 # Mod Replacers
 [**Red sclera eyes for Julan**](https://www.nexusmods.com/morrowind/mods/47277?tab=description) by Leetmorry  
