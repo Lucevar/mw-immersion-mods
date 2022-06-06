@@ -64,6 +64,7 @@
 [**Liar Yes - Idiot No**](https://www.nexusmods.com/morrowind/mods/49908) by Danae and Alice  
 [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran  
 [**The Slaver's Spire**](https://www.nexusmods.com/morrowind/mods/50662) by Markond  
+[**Telvanni Sea Beacons**](https://www.nexusmods.com/morrowind/mods/50957) by Markond  
 
 ## Ascadian Isles
 [**Omani Manor - Hlaalu Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/46147) by Tel Shadow  
@@ -120,6 +121,7 @@
 [**The Grove of Ben'Abi**](https://www.nexusmods.com/morrowind/mods/46137) by Remiros  
 [**Sanctus Shrine**](https://www.nexusmods.com/morrowind/mods/47841) by hater8  
 [**Sheogorad - Groves of the North**](https://www.nexusmods.com/morrowind/mods/48240) by Tapetenklaus  
+[**Spines of Madness**](https://www.nexusmods.com/morrowind/mods/50947) by malbogatra  
 
 ## Solstheim
 [**VSW - Solstheim Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810) by Wollibeebee  
