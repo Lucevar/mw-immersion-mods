@@ -5,6 +5,7 @@
 [**Skyrim UI Overhaul for Morrowind**](https://www.nexusmods.com/morrowind/mods/43039) by mikeandike  
 [**Seph's Inventory Decorator**](https://www.nexusmods.com/morrowind/mods/50582) by Sephumbra  
 [**Hourglass Menu**](https://www.nexusmods.com/morrowind/mods/50790) by TheWanderer  
+[**Menus Hider On Item Select**](https://www.nexusmods.com/morrowind/mods/50974) by Spammer21  
 
 ## HUD
 [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
@@ -112,6 +113,8 @@ No saving in battle!
 [**Nordman's Splash Screens**](https://www.nexusmods.com/morrowind/mods/49577) by Nordman  
 [**Color Vvardenfell Map Manu and Splash Screens**](https://www.nexusmods.com/morrowind/mods/49930) by Aitrus  
 [**Anroha Splash Pack**](https://www.nexusmods.com/morrowind/mods/50058) by Anroha  
+[**8K Blank Parchment Splash Screen**](https://www.nexusmods.com/morrowind/mods/50973) by XeroFoxx  
+[**Wide Screen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/50966) by NZdawghaus  
 
 ## Main Menu Replacers
 [**Animated Main Menu for Morrowind**](https://www.nexusmods.com/morrowind/mods/43341?tab=description) by Mikeandike  
