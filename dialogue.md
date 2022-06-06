@@ -42,6 +42,7 @@
 [**AURA - Service Lines module**](https://www.nexusmods.com/morrowind/mods/48255) by tewlwolow  
 [**Voicelines for Nord Fighters Guild Males**](https://www.nexusmods.com/morrowind/mods/50105) by DiscordZeroTwo  
 [**Same Low Price Fix**](https://www.nexusmods.com/morrowind/mods/49671) by ClockworkAngel  
+[**FMBP - Greet Service**](https://www.nexusmods.com/morrowind/mods/50937) by PoodleSandwich  
 
 ## Greetings
 [**Greetings for No Lore**](https://www.nexusmods.com/morrowind/mods/46063) by Caeris  
@@ -83,6 +84,7 @@
 [**Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by PoodleSandwich, Quorn, and Superquail  
 [**Nastier Camonna Tong**](https://www.nexusmods.com/morrowind/mods/22601) by von Django  
 [**Racism**](https://www.nexusmods.com/morrowind/mods/45674) by rot  
+[**LDM - Racist Service Refusal**](https://www.nexusmods.com/morrowind/mods/50870) by Lucevar  
 
 ## Slaves
 [**Free The Slaves**](https://www.nexusmods.com/morrowind/mods/45191) by Caeris  
