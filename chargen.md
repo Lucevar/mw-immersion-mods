@@ -90,6 +90,8 @@ Updates vanilla classes to be more useable, makes NPC classes playable, adds a v
 
 [**Complete Race and Birthsign Overhaul**](https://www.nexusmods.com/morrowind/mods/50829) by obelus  
 
+[**The Astrologer and the Nightsky**](https://www.nexusmods.com/morrowind/mods/50956) by Sephumbra and Danae  
+
 ## New Races
 [**Amyrha's Race Pack**](https://www.nexusmods.com/morrowind/mods/50696) by Amyrha  
 
