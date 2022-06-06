@@ -58,6 +58,7 @@ Removes level requirements for a number of quests.
 
 ## Main Quest Mods
 ### General
+[**Caius Cosades' Main Questline Skip**](https://www.nexusmods.com/morrowind/mods/50884) by Aphiteth  
 [**Less Generic Nerevarine**](https://www.nexusmods.com/morrowind/mods/23335) by Ostar  
 [**Less Generic Nerevarine Sharn Quest Fix**](https://www.nexusmods.com/morrowind/mods/47149) by Necrolesian  
 [**Julan Ashlander Companion**](https://fallingawkwardly.com/) by Kateri  
@@ -219,6 +220,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Wolverine Hall Interior Expansion**](https://www.nexusmods.com/morrowind/mods/44965) by Mordaxis  
 [**Wolverine Hall overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by mort  
 [**Wolverine Hall Overhauled**](https://www.nexusmods.com/morrowind/mods/50808) by Gevalt/Heinrich  
+[**Sjoring Fix**](https://www.nexusmods.com/morrowind/mods/50971) by Caleb C  
 
 # House Hlaalu
 ### Hlaalu - Vanilla Quests
@@ -459,6 +461,7 @@ See the Towns list and the Locations list for more mods making general additions
 [**Master Index Redux**](https://www.nexusmods.com/morrowind/mods/48977) by Endoran  
 [**Scrolls of the Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831) by Melchior Dahrk  
 [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126) by Melchior Dahrk  
+[**Dagon Fel - Mages Adventures**](https://www.nexusmods.com/morrowind/mods/50885) by Spammer21  
 
 # Morag Tong
 [**Morag Tong - Methas Hlaalu**](https://www.nexusmods.com/morrowind/mods/28252) by Sladle  
@@ -470,6 +473,7 @@ See the Towns list and the Locations list for more mods making general additions
 [**Morag Tong Pesticide**](https://www.nexusmods.com/morrowind/mods/50758) by Leyawynn  
 [**MWSE - Morag Tong Helmets**](https://www.nexusmods.com/morrowind/mods/50827) by Stripes  
 [**Morag Tong Helmet Diversity**](https://www.nexusmods.com/morrowind/mods/50738) by RuffinVangarr  
+[**SM Morag Tong Armor**](https://www.nexusmods.com/morrowind/mods/50953) by ShadowMimicry and Vitruvian Guar  
 
 # Thieves Guild
 [**What Thieves Guild**](https://www.nexusmods.com/morrowind/mods/47728) by Von Djangos  
@@ -796,6 +800,11 @@ See the Towns list and the Locations list for more mods making general additions
 [**Searching Addamasartus**](https://www.nexusmods.com/morrowind/mods/50852) by Xeirseus  
 [**Helm of Tohan**](https://www.nexusmods.com/morrowind/mods/50866) by Bethesda  
 [**The Eye of Ariisis Redux**](https://www.nexusmods.com/morrowind/mods/50754) by Operator Jack  
+[**A Fallout3 Tribute - The Nix-Hound Runt, Houndmeat**](https://www.nexusmods.com/morrowind/mods/50889) by Aphiteth  
+[**Romancing Vivec - Gay Romance Mod**](https://www.nexusmods.com/morrowind/mods/50897) by Nerevec  
+[**Azura's Coast's Anomalous Disturbance - What Lurks Beneath**](https://www.nexusmods.com/morrowind/mods/50934) by Aphiteth  
+[**Exotic Arena**](https://www.nexusmods.com/morrowind/mods/50954) by GrumblingVomit  
+[**A Maze Inn**](https://www.nexusmods.com/morrowind/mods/50833) by The Wanderer  
 
 # Province Mods
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Tamriel Rebuilt and Project Tamriel  
@@ -829,6 +838,14 @@ See the Towns list and the Locations list for more mods making general additions
 [**Starwind DFJ**](https://www.nexusmods.com/morrowind/mods/50832) by quickdrawmcgraw  
 [**Starwind Death Stalker**](https://www.nexusmods.com/morrowind/mods/50835) by quickdrawmcgraw  
 [**Starwind - Tatooine Hovel**](https://www.nexusmods.com/morrowind/mods/50879) by tubtubs  
+[**Starwind - St. Jaba's Day**](https://www.nexusmods.com/morrowind/mods/50882) by quickdrawmegraw1235  
+[**Starwind - Wrestling Sand People**](https://www.nexusmods.com/morrowind/mods/50913) by quickdrawmegraw1235  
+[**Starwind - More Immersive Followers**](https://www.nexusmods.com/morrowind/mods/50893) by quickdrawmegraw1235  
+[**Starwind - Improved Kolto Tanks**](https://www.nexusmods.com/morrowind/mods/50946) by tubtubs  
+[**Starwind - Weightless Blaster Bolts**](https://www.nexusmods.com/morrowind/mods/50950) by BobTheBobBob  
+[**Starwind - Fabulous Guards**](https://www.nexusmods.com/morrowind/mods/50935) by quickdrawmegraw1235  
+[**Auto Ammo Equip for Starwind**](https://www.nexusmods.com/morrowind/mods/50969) by Equinox and tubtubs  
+[**Ignatious the Mad Companion - A Starwind Mod**](https://www.nexusmods.com/morrowind/mods/50960) by kvatchcount  
 
 ## Others
 [**Duskpoint**](https://www.nexusmods.com/morrowind/mods/45117) by Waspinator1998  
