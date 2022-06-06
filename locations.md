@@ -77,6 +77,7 @@
 [**MD's Replacer for Vurt's Shrooms**](https://www.nexusmods.com/morrowind/mods/43528) by Melchior Dahrk  
 [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755) by Melchior Dahrk  
 [**Perfectly Proficient Parasol Particles Performance Patch**](https://www.nexusmods.com/morrowind/mods/48923) by revenorror  
+[**Sunflower in Morrowind - For Ukraine**](https://www.nexusmods.com/morrowind/mods/50851) by Alice  
 
 ## Bitter Coast  
 [**Rainforrest of the Bitter Coast**](http://mw.modhistory.com/download-53-10251) by the viKING  
