@@ -27,3 +27,7 @@ Includes an Argonian companion
 [**Ancestor Companion**](https://www.nexusmods.com/morrowind/mods/50395) by Drac and Toccatta  
 [**Henwen the Pack Piglet**](https://www.nexusmods.com/morrowind/mods/50423) by Tizzo  
 [**Todd Howard Follower**](https://www.nexusmods.com/morrowind/mods/50691) by ConceredCitizen  
+[**A Fallout3 Tribute - The Nix-Hound Runt, Houndmeat**](https://www.nexusmods.com/morrowind/mods/50889) by Aphiteth  
+[**Ignatious the Mad Companion - A Starwind Mod**](https://www.nexusmods.com/morrowind/mods/50960) by kvatchcount  
+
+[**Companion Friendly Lava**](https://www.nexusmods.com/morrowind/mods/50890) by AlandroSul  
