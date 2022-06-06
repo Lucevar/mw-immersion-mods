@@ -477,6 +477,7 @@ See the Towns list and the Locations list for more mods making general additions
 [**Thieves Guild Regained Trust**](https://www.nexusmods.com/morrowind/mods/45211) by ProfArmitage  
 [**The Rat in the Pot**](https://www.nexusmods.com/morrowind/mods/34186) by DebiDalio  
 [**South Wall, Den of Iniquity**](https://www.nexusmods.com/morrowind/mods/49950) by Balasthustrius  
+[**Thieves Guild Mediaries - A Price On Your Head**](https://www.nexusmods.com/morrowind/mods/50858) by Aphiteth  
 [**Thief Quests**](https://www.nexusmods.com/morrowind/mods/507) by ?  
 [**Thieves Guild Mediaries - A  Price on Your Head**](https://www.nexusmods.com/morrowind/mods/50858) by Aphiteth  
 [**Thieves Guild Overhaul**](https://www.nexusmods.com/morrowind/mods/49944) by Alice contains:  
