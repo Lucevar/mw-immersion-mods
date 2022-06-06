@@ -116,6 +116,8 @@ Duke's Silver Armor:
 [**Akaviri Warblades**](https://www.nexusmods.com/morrowind/mods/50801) by Operator Jack  
 [**Area Effect Arrows**](https://www.nexusmods.com/morrowind/mods/50865) by Bethesda  
 [**Morrowind Throwable Oil Bottles**](https://www.nexusmods.com/morrowind/mods/50853) by Toastyfries114  
+[**SM Morag Tong Armor**](https://www.nexusmods.com/morrowind/mods/50953) by ShadowMimicry and Vitruvian Guar  
+[**Firearms in the Third Era**](https://www.nexusmods.com/morrowind/mods/50968) by AllanBorne  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
