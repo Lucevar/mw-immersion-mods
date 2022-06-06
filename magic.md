@@ -25,6 +25,7 @@ Spell casting skills advance based on the amount of Magicka spent, rather than t
 * [**Tiered Magicka**](https://www.nexusmods.com/morrowind/mods/47698) by OperatorJack  
 * [**Useful Starting Spells**](https://www.nexusmods.com/morrowind/mods/40439) by Tizzo  
 * [**Magical Mechanics - Homing Projectiles**](https://www.nexusmods.com/morrowind/mods/47403) by OperatorJack  
+* [**The Spellmaker**](https://www.nexusmods.com/morrowind/mods/50942) by Spammer21  
 
 ### Spell Visuals (general)
 * [**Magic Diversity**](https://www.nexusmods.com/morrowind/mods/43380) by Arkann  
@@ -140,6 +141,8 @@ Allows soultrap to make more intelligent use of available soul gems, including s
 This mod makes in-world soulgems that are filled appear as enchanted items.
 * [**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657) by NullCascade  
 Adds a chance for soul gems to emit a sound from the creature whose soul they contained. Very atmospheric. *Very* creepy.  
+
+* [**Absorb Effects Rebalanced**](https://www.nexusmods.com/morrowind/mods/50941) by Dark_Carl  
 
 ## Objects
 * [**Spell Tomes**](https://www.nexusmods.com/morrowind/mods/47217) by MateWushu  
