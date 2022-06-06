@@ -9,6 +9,8 @@
 [**Dremora Markynaz**](http://mw.modhistory.com/download-53-10978) by Westly  
 [**Khajiit Diversity Revamped**](http://mw.modhistory.com/download-53-11320) by Westly  
 [**Half Races of Tamriel**](http://mw.modhistory.com/download-53-12791) by Westly  
+[**Kobolds**](https://www.nexusmods.com/morrowind/mods/50895) by Fyreblazes  
+[**Uwu catgirl**](https://www.nexusmods.com/morrowind/mods/50938) by Lamb Shark  
 
 ## Faces
 [**Morrowind's Epic Ladies**](https://www.nexusmods.com/morrowind/mods/41589) by Meldiocre  
