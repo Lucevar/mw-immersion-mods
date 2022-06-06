@@ -77,6 +77,7 @@ No saving in battle!
 
 ## Objects
 [**Book Worm**](https://www.nexusmods.com/morrowind/mods/46851) by Merlord  
+[**Menubooks and Scroll Retextured**](https://www.nexusmods.com/morrowind/mods/50983) by Elanderan  
 [**Ownership Indicator**](https://www.nexusmods.com/morrowind/mods/45940) by Petethegoat  
 [**Tooltips Complete**](https://www.nexusmods.com/morrowind/mods/46842) by Anumaril  
 [**Journal Search and Edit**](https://www.nexusmods.com/morrowind/mods/46756) by Svengineer99  
