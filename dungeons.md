@@ -26,7 +26,7 @@ Replaces: [**Remiros' Tombs Expansion**](https://www.nexusmods.com/morrowind/mod
 [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893) by *jsp25* - Abbreviated as **M&C**  
 [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470) by *jsp25* - Abbreviated as **M&CS**, only compatible with Wollibeebee's Tomb of the Snow Prince, not with vanilla. Use LCO's Solstheim changes if you don't use TOTSP.
 [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076) by *Eldermaster28* - Abbreviated as **DD**.  
-[**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249) by *Lougian* - Abbreviated as **LCO**  
+ by *Lougian* - Abbreviated as **LCO**  
 [**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249) by *RubberMan* - Abbreviated as **DRP**  
 
 **If you're aware of any mods that change these locations but aren't listed here, please let me know! I can be contacted as Lucevar at the Morrowind Nexus or on the Morrowind Modding Discord (linked above)**.
@@ -134,56 +134,56 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Verelnim Ancestral Tomb**  
 
 ## <a name="caves"></a>Caves
-**Abanabi** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
-**Abernanit** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
-**Abinabi** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
-**Adanumuran** - [Adanumuran Reclaimed](https://www.nexusmods.com/morrowind/mods/43340), [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
-**Addamasartus** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [The Cave of Woe](https://www.nexusmods.com/morrowind/mods/352), [**Less Disclosed Addamasartus**](https://www.nexusmods.com/morrowind/mods/49271)  
-**Aharunartus** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [**Tel Dranori Wizard Tower**](https://www.nexusmods.com/morrowind/mods/42763), [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859)      
-**Aharnabi** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
-**Ahinipalit** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
+**Abanabi** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Abernanit** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Abinabi** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Adanumuran** - [Adanumuran Reclaimed](https://www.nexusmods.com/morrowind/mods/43340), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
+**Addamasartus** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [The Cave of Woe](https://www.nexusmods.com/morrowind/mods/352), [**Less Disclosed Addamasartus**](https://www.nexusmods.com/morrowind/mods/49271)  
+**Aharunartus** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [**Tel Dranori Wizard Tower**](https://www.nexusmods.com/morrowind/mods/42763), [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859)      
+**Aharnabi** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Ahinipalit**
 **Ainab**  
-**Ainat** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
-**Ansi** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
-**Ashanammu** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [Caldera Mine Expanded](https://www.nexusmods.com/morrowind/mods/45194)  
-**Ashinabi** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Caverns Overhaul - Fixed**](https://www.nexusmods.com/morrowind/mods/48683) by *RandomPal*
-**Ashirbadon** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Ashir-Dan** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)
-**Assarnud** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Assarnud and Mat Overhaul**](https://www.nexusmods.com/morrowind/mods/51080)  
-**Assemanu** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Assu** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Assumanu** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [Gray North - Andavel-Assumanu](https://www.nexusmods.com/morrowind/mods/51326) by *Anumaril21*  
-**Beshara** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Bensamsi** - [Salt Gems of Bensamsi](https://www.nexusmods.com/morrowind/mods/45126), [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Cavern of the Incarnate** - [Cavern of the Incarnate Overhaul](https://www.nexusmods.com/morrowind/mods/42860), [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
+**Ainat** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Ansi** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Ashanammu** - [Caldera Mine Expanded](https://www.nexusmods.com/morrowind/mods/45194)  
+**Ashinabi** - [**Caverns Overhaul - Fixed**](https://www.nexusmods.com/morrowind/mods/48683) by *RandomPal*
+**Ashirbadon**
+**Ashir-Dan** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), 
+**Assarnud** - [**Assarnud and Mat Overhaul**](https://www.nexusmods.com/morrowind/mods/51080)  
+**Assemanu**
+**Assu**
+**Assumanu** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [Gray North - Andavel-Assumanu](https://www.nexusmods.com/morrowind/mods/51326) by *Anumaril21*  
+**Beshara** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893),   
+**Bensamsi** - [Salt Gems of Bensamsi](https://www.nexusmods.com/morrowind/mods/45126),   
+**Cavern of the Incarnate** - [Cavern of the Incarnate Overhaul](https://www.nexusmods.com/morrowind/mods/42860), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
 **Corprusarium**  
-**Dubdilla** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720), [**Caverns Overhaul - Fixed**](https://www.nexusmods.com/morrowind/mods/48683) by *RandomPal*
-**Dun-Ahhe** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Dubdilla** - [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720), [**Caverns Overhaul - Fixed**](https://www.nexusmods.com/morrowind/mods/48683) by *RandomPal*
+**Dun-Ahhe** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Ebonheart, Underground Caves**  
-**Habinbaes** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
+**Habinbaes**
 **Hassour** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
-**Hinnabi** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
-**Ibar-Dad** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
+**Hinnabi** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Ibar-Dad**
 **Ilunibi** - [**New Ilunibi**](https://www.nexusmods.com/morrowind/mods/50393), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
-**Kora-Dur** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Kudanat** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
-**Kumarahaz** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Kunirai** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Maba-Ilu** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Mallapi** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Kora-Dur**
+**Kudanat** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Kumarahaz**
+**Kunirai**
+**Maba-Ilu**
+**Mallapi** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Mamaea** - [Mamaea Awakened](https://www.nexusmods.com/morrowind/mods/46096) by *Team Flamboyant Armigers* - shameless plug, I was on the team that made this one!, M&C. Mamaea Awakened and M&C are compatible with each other.  
-**Mannammu** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Mannammu** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Maran-Adon** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
-**Masseranit** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Mat** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Assarnud and Mat Overhaul**](https://www.nexusmods.com/morrowind/mods/51080)      
-**Milk** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
-**Minabi** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Masseranit**
+**Mat** - [**Assarnud and Mat Overhaul**](https://www.nexusmods.com/morrowind/mods/51080)      
+**Milk** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Minabi** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Missamsi** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Mount Kand, Cavern** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
-**Nallit** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Nammu** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
-**Nissintu** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
-**Nund** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Nallit**
+**Nammu** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Nissintu** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Nund** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Odaishah**  
 **Odibaal** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Odirnamat**  
@@ -216,7 +216,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Tin-Ahhe** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Tukushapal** - [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
 **Ulummusa** - [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
-**Urshilaku** - [**OAAB Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131), [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
+**Urshilaku** - [**OAAB Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131),   
 **Yakanalit**  
 **Yakin**  
 **Yasamsi** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
@@ -433,7 +433,7 @@ Adds a unique sound to Nordic barrows, instead of the Dunmer ancestral whispers 
 **Glenschul's Tomb**  
 **Gyldenhul Barrow** - [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
 **Himmelhost Barrow**  
-**Hrothmund's Barrow** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
+**Hrothmund's Barrow**
 **Jolgeirr Barrow** - [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)    
 **Kelsedolk Barrow** - [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)    
 **Kolbjorn Barrow**  
@@ -444,19 +444,19 @@ Adds a unique sound to Nordic barrows, instead of the Dunmer ancestral whispers 
 **Valbrandr Barrow**  
 
 ## Bloodmoon Caves
-**Aesliip's Lair** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
-**Benkongerike** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Bjorn** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Caves of Fjalding** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Cave of Hidden Music** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)     
-**Domme** - [From Ash to Frost](https://www.nexusmods.com/morrowind/mods/45254), [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)   
-**Fjell** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Frossel** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Frykte** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)   
-**Gandrung Caverns** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)    
-**Gloomy Cave** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Gronn** - [From Ash to Frost](https://www.nexusmods.com/morrowind/mods/45254), [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
-**Halls of Penumbra** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
+**Aesliip's Lair** - [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
+**Benkongerike**
+**Bjorn**
+**Caves of Fjalding**
+**Cave of Hidden Music** - [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)     
+**Domme** - [From Ash to Frost](https://www.nexusmods.com/morrowind/mods/45254),    
+**Fjell**
+**Frossel**
+**Frykte** 
+**Gandrung Caverns** - [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)    
+**Gloomy Cave**
+**Gronn** - [From Ash to Frost](https://www.nexusmods.com/morrowind/mods/45254),   
+**Halls of Penumbra**
 **Lair of the Udyrfrykte**  
 **Legge**  
 **Rimhull** - [**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)    

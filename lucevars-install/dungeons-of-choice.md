@@ -4,12 +4,12 @@ The dungeon mods I use for my personal install
 ## <a name="tombs"></a>Ancestral Tombs
 **Alas Ancestral Tomb** - [**OAAB - Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131)   
 **Alen Ancestral Tomb**  
-**Andalen Ancestral Tomb**  -     
-**Andalor Ancestral Tomb** -   
+**Andalen Ancestral Tomb**   
+**Andalor Ancestral Tomb**
 **Andas Ancestral Tomb**  
 **Andavel Ancestral Tomb**  
 **Andrano Ancestral Tomb** - [**Andrano Tomb Remastered**](https://www.nexusmods.com/morrowind/mods/44672) by *Team Wretched Netch*  
-**Andrethi Ancestral Tomb** -    
+**Andrethi Ancestral Tomb** 
 **Andules Ancestral Tomb**  
 **Aralen Ancestral Tomb**  
 **Aran Ancestral Tomb**  
@@ -79,7 +79,7 @@ The dungeon mods I use for my personal install
 **Sarys Ancestral Tomb**  
 **Savel Ancestral Tomb** -  
 **Senim Ancestral Tomb**  
-**Seran Ancestral Tomb** -   
+**Seran Ancestral Tomb**
 **Serano Ancestral Tomb**  
 **Sethan Ancestral Tomb**  
 **Telvayn Ancestral Tomb**  
@@ -98,21 +98,21 @@ The dungeon mods I use for my personal install
 **Abanabi** - ,   
 **Abernanit** - ,   
 **Abinabi** - ,   
-**Adanumuran** -    
-**Addamasartus** -   
+**Adanumuran** 
+**Addamasartus**
 **Aharunartus** - ,   
 **Aharnabi** - ,   
-**Ahinipalit** -   
+**Ahinipalit**
 **Ainab**  
 **Ainat** - ,   
 **Ansi** - ,   
 **Ashanammu** - [**Caldera Mine Expanded**](https://www.nexusmods.com/morrowind/mods/45194)  
-**Ashinabi** -   
-**Ashirbadon** -   
+**Ashinabi**
+**Ashirbadon**
 **Ashir-Dan** - ,     
-**Assarnud** -   
-**Assemanu** -   
-**Assu** -   
+**Assarnud**
+**Assemanu**
+**Assu**
 **Assumanu** - ,   
 **Beshara** - ,   
 **Bensamsi** - [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126),   
@@ -121,76 +121,76 @@ The dungeon mods I use for my personal install
 **Dubdilla** - ,  
 **Dun-Ahhe** - ,   
 **Ebonheart, Underground Caves**  
-**Habinbaes** -   
-**Hassour** -   
+**Habinbaes**
+**Hassour**
 **Hinnabi** - ,   
-**Ibar-Dad** -   
-**Ilunibi** -   
-**Kora-Dur** -   
+**Ibar-Dad**
+**Ilunibi**
+**Kora-Dur**
 **Kudanat** - ,   
-**Kumarahaz** -   
-**Kunirai** -   
-**Maba-Ilu** -   
+**Kumarahaz**
+**Kunirai**
+**Maba-Ilu**
 **Mallapi** - ,   
 **Mamaea** - [**Mamaea Awakened**](https://www.nexusmods.com/morrowind/mods/46096) by *Team Flamboyant Armigers* - shameless plug, I was on the team that made this one!, M&C. Mamaea Awakened and M&C are compatible with each other.  
 **Mannammu** - ,   
-**Maran-Adon** -   
-**Masseranit** -   
-**Mat** -    
+**Maran-Adon**
+**Masseranit**
+**Mat** 
 **Milk** - ,   
 **Minabi** - ,   
-**Missamsi** -   
-**Mount Kand, Cavern** -   
-**Nallit** -   
+**Missamsi**
+**Mount Kand, Cavern**
+**Nallit**
 **Nammu** - ,   
 **Nissintu** - ,   
 **Nund** - ,   
 **Odaishah**  
-**Odibaal** -   
+**Odibaal**
 **Odirnamat**  
 **Palansour**  
 **Panat**  
-**Pinsun** -   
+**Pinsun**
 **Piran**  
 **Pulk**  
-**Punabi** -   
-**Punammu** -   
+**Punabi**
+**Punammu**
 **Punsabanit**  
-**Rissun** -   
+**Rissun**
 **Salmantu**  
-**Sanabi** -   
+**Sanabi**
 **Sanit**  
 **Sargon**  
 **Saturan**  
-**Sennananit** -   
+**Sennananit**
 **Sha-Adnius**  
 **Shal** - [**Shal Overgrown**](https://www.nexusmods.com/morrowind/mods/47219)   
-**Shallit** -   
+**Shallit**
 **Sharapli**  
-**Shurinbaal** -   
+**Shurinbaal**
 **Shushan**  
 **Shushishi**  
 **Sinsibadon**  
-**Subdun** -   
+**Subdun**
 **Sud**  
 **Surirulk**  
-**Tin-Ahhe** -   
-**Tukushapal** -   
-**Ulummusa** -   
+**Tin-Ahhe**
+**Tukushapal**
+**Ulummusa**
 **Urshilaku** - [**OAAB - Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131)    
 **Yakanalit**  
 **Yakin**  
-**Yasamsi** -   
-**Yesamsi** -   
-**Zainsipilu** -   
-**Zaintirari** -   
+**Yasamsi**
+**Yesamsi**
+**Zainsipilu**
+**Zaintirari**
 **Zanabi**  
-**Zebabi** -   
-**Zenarbael** -   
+**Zebabi**
+**Zenarbael**
 
 ## <a name="daedric"></a>Daedric Shrines - Malacath
 **Ashunartes**  
-**Ashurnibibi** -   
+**Ashurnibibi**
 **Assurdirapal**  
 **Dushariran**  
 **Ibishammus**  
@@ -209,22 +209,22 @@ The dungeon mods I use for my personal install
 **Yasammidan**  
 
 ## Daedric Shrines - Molag Bal
-**Ashalmawia** -   
+**Ashalmawia**
 **Bal Ur**  
 **Esutanamus**  
 **Kushtashpi**  
-**Ramimilk** -   
+**Ramimilk**
 **Tusenend**  
 **Yansirramus** - [**Tel Aruhn Chronicles**](https://www.nexusmods.com/morrowind/mods/49171)    
 
 ## Daedric Shrines - Sheogorath
-**Addadshashanammu** -   
+**Addadshashanammu**
 **Ald Daedroth**  
 **Almurbalarami**  
 **Assalkushalit**  
-**Bal Fell** -   
+**Bal Fell**
 **Ihinipalit**  
-**Maelkashishi** -   
+**Maelkashishi**
 **Onnissiralis**  
 **Zaintiraris**  
 
@@ -257,58 +257,58 @@ The dungeon mods I use for my personal install
 **Bthanchend**  
 **Bthuand** -  
 **Bthungthumz**  
-**Dagoth Ur** -   
-**Druscashti** -   
+**Dagoth Ur**
+**Druscashti**
 **Endusal** - [Endusal Redone](https://www.nexusmods.com/morrowind/mods/43399)  
-**Galom Daeus** -   
+**Galom Daeus**
 **Mudan**  
-**Mzahnch** -   
+**Mzahnch**
 **Mzanchend**  
-**Mzuleft** -   
+**Mzuleft**
 **Nchardahrk**  -  
-**Nchardumz** -   
-**Nchuleft** -   
+**Nchardumz**
+**Nchuleft**
 **Nchuleftingth**  
 **Nchurdamz**  
-**Odrosal** -   
+**Odrosal**
 **Tureynulal** - [Tureynulal Redone](https://www.nexusmods.com/morrowind/mods/43399)  
-**Vemynal** -   
+**Vemynal**
 
 ## <a name="grottos"></a>Grottos
-**Akimaes Grotto** -   
-**Eluba-Addon Grotto** -   
+**Akimaes Grotto**
+**Eluba-Addon Grotto**
 **Ilanipu Grotto**  
 **Koal Cave**  
 **Madas Grotto**  
 **Malmus Grotto**  
 **Mudan Grotto**  
-**Mul Grotto** -   
-**Nimawia Grotto** -   
+**Mul Grotto**
+**Nimawia Grotto**
 **Vassamsi Grotto**  
-**Zalkin Grotto** -   
+**Zalkin Grotto**
 
 ## <a name="mines"></a>Ebony Mines
 **Caldera Mine** - [**Caldera Mine Expanded**](https://www.nexusmods.com/morrowind/mods/45194)  
-**Elith-Pal Mine** -   
-**Mausur Caverns** -   
-**Sudanit Mine** -   
-**Vassir-Didanat** Cave -     
-**Yanemus Mine** -   
+**Elith-Pal Mine**
+**Mausur Caverns**
+**Sudanit Mine**
+**Vassir-Didanat** Cave  
+**Yanemus Mine**
 
 ## Glass Mines
-**Dissapla Mine** -   
-**Dunirai Caverns** -   
-**Halit Mine** -   
-**Massama Cave** -     
-**Yassu Mine** -   
+**Dissapla Mine**
+**Dunirai Caverns**
+**Halit Mine**
+**Massama Cave**  
+**Yassu Mine**
 
 ## Diamond Mines
-**Abaelun Mine** -   
+**Abaelun Mine**
 
 ## Egg Mines  
-**Abaesen-Pulu Egg Mine** -     
-**Abebaal Egg Mine** -   
-**Ahallaraddon Egg Mine** -     
+**Abaesen-Pulu Egg Mine**  
+**Abebaal Egg Mine**
+**Ahallaraddon Egg Mine**  
 **Ahanibi-Malmus Egg Mine**  
 **Akimaes-Ilanipu Egg Mine**  
 **Asha-Ahhe Egg Mine**  
@@ -316,7 +316,7 @@ The dungeon mods I use for my personal install
 **Band Egg Mine**  
 **Eluba-Addon Egg Mine**  
 **Eretammus-Sennammu Egg Mine**  
-**Gnisis Egg Mine** -   
+**Gnisis Egg Mine**
 **Hairat-Vassamsi Egg Mine**  
 **Hawia Egg Mine**  
 **Inanius Egg Mine**  
@@ -356,7 +356,7 @@ The dungeon mods I use for my personal install
 
 ## <a name="tribunal"></a>Tribunal
 **Sewers**  
-**Bazaar Sewers** -   
+**Bazaar Sewers**
 **Palace Sewers**  
 **Residential Sewers**  
 **West Sewers**  
@@ -367,30 +367,30 @@ The dungeon mods I use for my personal install
 **Norenen-Dur**  
 **Gedna Relvel's Tomb**  
 **Abandoned Crypt**  
-**Temple Shrine** -     
-**Abandoned Passageway** -   
+**Temple Shrine**  
+**Abandoned Passageway**
 **Tears of Amun-Shae**  
 **OM - Armory Ruins**  
 **OM - City Gate**  
 **OM - Residential Ruins**  
-**OM - Manor District** -   
-**OM - Moril Manor** -   
-**OM - Temple Catacombs** -   
-**OM - Temple Gardens** -   
-**Clockwork City** -   
+**OM - Manor District**
+**OM - Moril Manor**
+**OM - Temple Catacombs**
+**OM - Temple Gardens**
+**Clockwork City**
 
 ## <a name="bloodmoon"></a>Bloodmoon Barrows
 [**Haunted Barrows**](https://www.nexusmods.com/morrowind/mods/46826) by Melchior Dahrk  
 Adds a unique sound to Nordic barrows, instead of the Dunmer ancestral whispers sound.  
 
-**Bloodskal Barrow** -   
+**Bloodskal Barrow**
 **Connorflenge Barrow**  
 **Eddard Barrow**  
 **Frosselmane Barrow**  
 **Glenschul's Tomb**  
 **Gyldenhul Barrow** -  
 **Himmelhost Barrow**  
-**Hrothmund's Barrow** -   
+**Hrothmund's Barrow**
 **Jolgeirr Barrow** -  
 **Kelsedolk Barrow** -  
 **Kolbjorn Barrow**  
@@ -402,18 +402,18 @@ Adds a unique sound to Nordic barrows, instead of the Dunmer ancestral whispers 
 
 ## Bloodmoon Caves
 **Aesliip's Lair** -  
-**Benkongerike** -   
-**Bjorn** -   
-**Caves of Fjalding** -   
+**Benkongerike**
+**Bjorn**
+**Caves of Fjalding**
 **Cave of Hidden Music** -  
-**Domme** -    
-**Fjell** -   
-**Frossel** -   
-**Frykte** -    
-**Gandrung Caverns** -   
-**Gloomy Cave** -   
-**Gronn** -   
-**Halls of Penumbra** -   
+**Domme** 
+**Fjell**
+**Frossel**
+**Frykte** 
+**Gandrung Caverns**
+**Gloomy Cave**
+**Gronn**
+**Halls of Penumbra**
 **Lair of the Udyrfrykte**  
 **Legge**  
 **Rimhull** -  
