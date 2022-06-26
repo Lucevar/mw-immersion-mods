@@ -109,7 +109,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Salothan Ancestral Tomb**  
 **Salothran Ancestral Tomb** - [**OAAB Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131), [Remiros' Tombs Expanded](https://www.nexusmods.com/morrowind/mods/45616)  
 **Salvel Ancestral Tomb**  
-**Samarys Ancestral Tomb** - [Samarys Ancestral Tomb Expanded](https://www.nexusmods.com/morrowind/mods/45612) by *PikachunoTM* or [Greater Samarys](https://www.nexusmods.com/morrowind/mods/44592) by *Varlothen*  
+**Samarys Ancestral Tomb** - [Samarys Ancestral Tomb Expanded](https://www.nexusmods.com/morrowind/mods/45612) by *PikachunoTM* or [Greater Samarys](https://www.nexusmods.com/morrowind/mods/44592) by *Varlothen*, [BDC-Seyda Neen](https://www.nexusmods.com/morrowind/mods/51133)  
 **Sandas Ancestral Tomb** - [**OAAB Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131), [Remiros' Tombs Expanded](https://www.nexusmods.com/morrowind/mods/45616)  
 **Sandus Ancestral Tomb**  
 **Sarano Ancestral Tomb** - [**OAAB Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131), [Remiros' Tombs Expanded](https://www.nexusmods.com/morrowind/mods/45616)  
