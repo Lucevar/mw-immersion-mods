@@ -32,7 +32,8 @@
 [**Nerevarine's Yurt**](https://www.nexusmods.com/morrowind/mods/50735) by PollutedGaming  
 [**Moonlight Manor**](https://www.nexusmods.com/morrowind/mods/50859) by Nerevec  
 [**Balmora House**](https://www.nexusmods.com/morrowind/mods/50857) by Aratayn  
-
+[**Smuggler's Outset Island**](https://www.nexusmods.com/morrowind/mods/51037) by a deadly donut  
+[**Bitter Coast Houseboat**](https://www.nexusmods.com/morrowind/mods/51032) by Jan Heuser and Danae  
 
 ## Cloud Storage Compatible
 [**Cloud Storage Warehouse - Storage Resource for Packrats**](https://www.nexusmods.com/morrowind/mods/50386) by TheWanderer  
@@ -57,3 +58,4 @@
 [**Cloud Storage Warehouse - Public Shoppe**](https://www.nexusmods.com/morrowind/mods/50863) by TheWanderer  
 [**Drathen Hall - Player Home in Suran**](https://www.nexusmods.com/morrowind/mods/50784) by TheWanderer  
 [**Sifkining Manor - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50836) by TheWanderer  
+[**Bitter Coast Houseboat**](https://www.nexusmods.com/morrowind/mods/51032) by Jan Heuser and Danae  

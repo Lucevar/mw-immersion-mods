@@ -92,6 +92,8 @@ Updates vanilla classes to be more useable, makes NPC classes playable, adds a v
 
 [**The Astrologer and the Nightsky**](https://www.nexusmods.com/morrowind/mods/50956) by Sephumbra and Danae  
 
+[**On the Cusp - A Birthsign Mod**](https://www.nexusmods.com/morrowind/mods/51057) by Juidius Xentao  
+
 ## New Races
 [**Amyrha's Race Pack**](https://www.nexusmods.com/morrowind/mods/50696) by Amyrha  
 
@@ -123,6 +125,9 @@ Starts you off in the mainland city of Firewatch. Requires Tamriel Rebuilt.
 
 [**Alternate Chargen 2**](http://mw.modhistory.com/download-24-12399) by BlueBit  
 Adds 18 new starting options with different role plays / character archetypes in mind.  
+
+[**Gateway to Skyrim**](https://www.nexusmods.com/morrowind/mods/51075) by Agiletek  
+Makes Vorngyd's Stand suitable as an alternate starting location for playing Skyrim (Skyrim: Home of the Nords)  
 
 # Themed Chargen
 [**Royal Chargen**](http://mw.modhistory.com/download--7212) by Princess Stomper  

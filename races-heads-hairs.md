@@ -1,5 +1,6 @@
 ## Bodies
 [**Slof's Better Beasts**](https://www.nexusmods.com/morrowind/mods/46160) by AlienSlof  
+[**Robert's Bodies with Liztail's Khajiit Bodies**](https://www.nexusmods.com/morrowind/mods/51044) by MikotoMononoke  
 
 ## Vanilla Race Changes
 [**Aquatic Argonians**](https://www.nexusmods.com/morrowind/mods/48641) by RogiVagel  
@@ -11,6 +12,7 @@
 [**Half Races of Tamriel**](http://mw.modhistory.com/download-53-12791) by Westly  
 [**Kobolds**](https://www.nexusmods.com/morrowind/mods/50895) by Fyreblazes  
 [**Uwu catgirl**](https://www.nexusmods.com/morrowind/mods/50938) by Lamb Shark  
+[**Water Nymphs v1.3**](https://www.nexusmods.com/morrowind/mods/51040) by Bethaliz  
 
 ## Faces
 [**Morrowind's Epic Ladies**](https://www.nexusmods.com/morrowind/mods/41589) by Meldiocre  

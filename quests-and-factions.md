@@ -33,6 +33,7 @@ Removes level requirements for a number of quests.
 [**Quest Rank Requirements**](https://www.nexusmods.com/morrowind/mods/47994) by Pianobadger  
 [**Communist Nerevarine**](https://www.nexusmods.com/morrowind/mods/46979) by Alice  
 [**Misc Quest Tweaks**](https://www.nexusmods.com/morrowind/mods/43107) by Amenophis  
+[**Choice and Consequence - Fargoth**](https://www.nexusmods.com/morrowind/mods/51072) by Drockman64  
 [**The Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466) by Alice contains:  
 * [**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995)  
 * [**Libertarian Magical Services**](https://www.nexusmods.com/morrowind/mods/46301)  
@@ -149,6 +150,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Apotheosis Reborn**](https://www.nexusmods.com/morrowind/mods/43747) by MrFahrenheit247  
 [**The Reclamation of Hasimminus Mine**](https://www.nexusmods.com/morrowind/mods/46095) by Team Nordic Chefs  
 [**Dagoth's Chosen**](https://www.nexusmods.com/morrowind/mods/31429) by Von Djangos  
+[**Awakened Ash - Ash Vampire Combat Enhancer**](https://www.nexusmods.com/morrowind/mods/50986) by Aphiteth  
 
 ### Post Main Quest Mods
 [**By Azura**](https://www.nexusmods.com/morrowind/mods/50567) by Lamb Shark  
@@ -584,6 +586,7 @@ See the Towns list and the Locations list for more mods making general additions
 [**Caldera Mine Expanded**](https://www.nexusmods.com/morrowind/mods/45194) by Melchior Dahrk, TheDrunkenMudcrab, Greatness7  
 [**The Artnapping of Barenziah**](https://www.nexusmods.com/morrowind/mods/50659) by K1N6R3D  
 [**Ranis Athrys - Let Go and Begin Again**](https://www.nexusmods.com/morrowind/mods/50664) by HMCascade  
+[**Decomposition of a Taxman**](https://www.nexusmods.com/morrowind/mods/51061) by Discontinuous Qualia  
 
 # Totally New Quests
 ## New Factions
@@ -641,6 +644,8 @@ See the Towns list and the Locations list for more mods making general additions
 [**Charm of Molag Bal**](https://www.nexusmods.com/morrowind/mods/47496) by Revya  
 [**The Wabbajack**](https://www.nexusmods.com/morrowind/mods/44653) by Team Wretched Netch  
 [**House Telvanni - The Forgotten Apocrypha Excursion**](https://www.nexusmods.com/morrowind/mods/50661) by Arron Dominion  
+[**Aspect of Azura**](https://www.nexusmods.com/morrowind/mods/51079) by Melchior Dahrk     
+[**The Gray Fox**](https://www.nexusmods.com/morrowind/mods/51069) by KrimsonKhaos  
 
 ## Other New Quests
 [**Facility 343**](https://www.nexusmods.com/morrowind/mods/46468)  
@@ -805,6 +810,11 @@ See the Towns list and the Locations list for more mods making general additions
 [**Azura's Coast's Anomalous Disturbance - What Lurks Beneath**](https://www.nexusmods.com/morrowind/mods/50934) by Aphiteth  
 [**Exotic Arena**](https://www.nexusmods.com/morrowind/mods/50954) by GrumblingVomit  
 [**A Maze Inn**](https://www.nexusmods.com/morrowind/mods/50833) by The Wanderer  
+[**Broadsheets and Notice Boards Redone**](https://www.nexusmods.com/morrowind/mods/50999) by Kalinter  
+[**People of the Earth**](https://www.nexusmods.com/morrowind/mods/51008) by SonofaButt  
+[**Smuggler's Outset Island**](https://www.nexusmods.com/morrowind/mods/51037) by a deadly donut  
+[**A Conjurer's Calling**](https://www.nexusmods.com/morrowind/mods/51070) by Mark  
+[**The Gray Fox**](https://www.nexusmods.com/morrowind/mods/51069) by KrimsonKhaos  
 
 # Province Mods
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Tamriel Rebuilt and Project Tamriel  
@@ -846,6 +856,9 @@ See the Towns list and the Locations list for more mods making general additions
 [**Starwind - Fabulous Guards**](https://www.nexusmods.com/morrowind/mods/50935) by quickdrawmegraw1235  
 [**Auto Ammo Equip for Starwind**](https://www.nexusmods.com/morrowind/mods/50969) by Equinox and tubtubs  
 [**Ignatious the Mad Companion - A Starwind Mod**](https://www.nexusmods.com/morrowind/mods/50960) by kvatchcount  
+[**Starwind- Carlo's expanded droid shop**](https://www.nexusmods.com/morrowind/mods/50985) by Quickdraw Mcgraw  
+[**Starwind- Kagrid playable hair**](https://www.nexusmods.com/morrowind/mods/50994) by quickdraw mcgraw  
+[**Ahtar Companion - A Starwind Mod**](https://www.nexusmods.com/morrowind/mods/51036) by kvatchcount  
 
 ## Others
 [**Duskpoint**](https://www.nexusmods.com/morrowind/mods/45117) by Waspinator1998  

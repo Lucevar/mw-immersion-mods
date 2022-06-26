@@ -253,6 +253,7 @@ Be joined on your adventures by Yashga.
 
 # Pacifist 
 [**Bonk - The Non-Lethal Stealth Takedowns mod for Pacifists**](https://www.nexusmods.com/morrowind/mods/50227) by DuskWulf  
+[**Pacifist**](https://www.nexusmods.com/morrowind/mods/51035) by Archimag  
 
 # Philanthropist 
 [**Donations to the Gods**](http://mw.modhistory.com/download-68-14336) by Slaanesh the Corruptor  
@@ -280,6 +281,8 @@ Rubberman sharpen mod
 * [**Sea Dog Tavern**](https://www.nexusmods.com/morrowind/mods/49978) by Billyfighter  
 * [**Hooms Ahoy**](https://www.nexusmods.com/morrowind/mods/50281) by Hoogwauts  
 * [**Morrowind Fishing**](https://www.nexusmods.com/morrowind/mods/50531) by LegoManIAm94  
+* [**Bitter Coast Houseboat**](https://www.nexusmods.com/morrowind/mods/51032) by Jan Heuser and Danae  
+* [**Smuggler's Outset Island**](https://www.nexusmods.com/morrowind/mods/51037) by a deadly donut  
 
 # Slave
 [**Slave Bracers Revamped**](https://www.nexusmods.com/morrowind/mods/32493) by xception  
@@ -356,6 +359,7 @@ Random vampire attacks
 [**Bucklers Remastered**](https://www.nexusmods.com/morrowind/mods/46388) by Pikachuno  
 [**Welcome to the Arena!**](https://www.nexusmods.com/morrowind/mods/22002) by Kalemestari69  
 [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859) by Lucevar  
+[**The Iron Fist - A Hand-to-hand Overhaul (MWSE)**](https://www.nexusmods.com/morrowind/mods/51071) by Spammer  
 
 # Witchhunter
 * [**The Sanguine Rose**](https://www.nexusmods.com/morrowind/mods/46214)

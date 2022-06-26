@@ -66,6 +66,7 @@
 [**Shrine of Azura**](https://www.nexusmods.com/morrowind/mods/48278) by Endoran  
 [**The Slaver's Spire**](https://www.nexusmods.com/morrowind/mods/50662) by Markond  
 [**Telvanni Sea Beacons**](https://www.nexusmods.com/morrowind/mods/50957) by Markond  
+[**Holamayan Island**](https://www.nexusmods.com/morrowind/mods/50996) by Nwahs and Mushrooms Team  
 
 ## Ascadian Isles
 [**Omani Manor - Hlaalu Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/46147) by Tel Shadow  
@@ -117,6 +118,7 @@
 [**OAAB Golden Reeds**](https://www.nexusmods.com/morrowind/mods/49045?tab=files) by Melchior Dahrk  
 [**Sea Dog Tavern**](https://www.nexusmods.com/morrowind/mods/49978) by Billyfighter  
 [**Dwemer's Vestiges**](https://www.nexusmods.com/morrowind/mods/50455) by Vegetto  
+[**Melchior's Excellent Grazelands Acacia**](https://www.nexusmods.com/morrowind/mods/51058) by Melchior Dahrk  
 
 ## Sheogorad
 [**The Grove of Ben'Abi**](https://www.nexusmods.com/morrowind/mods/46137) by Remiros  

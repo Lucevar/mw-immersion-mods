@@ -79,6 +79,7 @@ There have been a lot of mods for Seyda Neen over the years. A LOT. My recommend
 
 [**Immersive Seyda Neen**](https://www.nexusmods.com/morrowind/mods/44441) by DremoraLord98  
 [**The Grand Pharos**](https://www.nexusmods.com/morrowind/mods/47938) by mdsouthworth  
+[**Seyda Neen**](https://www.nexusmods.com/morrowind/mods/51000) by Nwahs and Mushrooms Team  
 
 or [**Seyda Neen - Gateway to Vvardenfell**](https://www.nexusmods.com/morrowind/mods/48781) by RandomPal, which merges those two mods (and makes some further additions also.)  
 For a more sweeping change, you could also try [**Seyda Neen - Imperial Port**](https://www.nexusmods.com/morrowind/mods/46954) by Aitrus.  
@@ -387,6 +388,8 @@ or
 [**Hlaalu Council Manor Overhaul**](https://www.nexusmods.com/morrowind/mods/50164) by RandomPal  
 [**Odai Riverbed**](https://www.nexusmods.com/morrowind/mods/50515) by multiple  
 [**Balmora Mage Guild - No Fire Hazard**](https://www.nexusmods.com/morrowind/mods/50874) by Loth  
+[**Balmora**](https://www.nexusmods.com/morrowind/mods/51011) by Nwahs and Mushrooms Team  
+
 
 [**Fort Moonmoth Expanded**](https://www.nexusmods.com/morrowind/mods/46963) by Yommumoi  
 [**Moonmoth Legion Fort Overhaul**](https://www.nexusmods.com/morrowind/mods/48835) by RandomPal  

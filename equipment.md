@@ -118,6 +118,8 @@ Duke's Silver Armor:
 [**Morrowind Throwable Oil Bottles**](https://www.nexusmods.com/morrowind/mods/50853) by Toastyfries114  
 [**SM Morag Tong Armor**](https://www.nexusmods.com/morrowind/mods/50953) by ShadowMimicry and Vitruvian Guar  
 [**Firearms in the Third Era**](https://www.nexusmods.com/morrowind/mods/50968) by AllanBorne  
+[**Aspect of Azura**](https://www.nexusmods.com/morrowind/mods/51079) by Melchior Dahrk   
+[**MWSE Satchels and Bags**](https://www.nexusmods.com/morrowind/mods/51063) by FrummYonda Safebox  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
@@ -149,3 +151,4 @@ Duke's Silver Armor:
 [**Sensible Spear Tweaks and Additions**](https://www.nexusmods.com/morrowind/mods/50261) by iris  
 [**Spears Use Strength**](https://www.nexusmods.com/morrowind/mods/50288) by xxxninja666xxx   
 [**Bronze Sickle-sword**](https://www.nexusmods.com/morrowind/mods/50624) by elucidace  
+[**Knight's Lance**](https://www.nexusmods.com/morrowind/mods/51041) by Aediin  
