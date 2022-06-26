@@ -6,6 +6,10 @@
 [**Seph's Inventory Decorator**](https://www.nexusmods.com/morrowind/mods/50582) by Sephumbra  
 [**Hourglass Menu**](https://www.nexusmods.com/morrowind/mods/50790) by TheWanderer  
 [**Menus Hider On Item Select**](https://www.nexusmods.com/morrowind/mods/50974) by Spammer21  
+[**FPM - First Person Messages**](https://www.nexusmods.com/morrowind/mods/51077) by Endify  
+
+## Character Sheet
+[**The Achievement Framework**](https://www.nexusmods.com/morrowind/mods/51081) by Safebox  
 
 ## HUD
 [**Clock Block**](https://www.nexusmods.com/morrowind/mods/46292) by Aleist3r  
@@ -13,6 +17,10 @@
 This mod adds a customizable real-time and/or in-game time clock in the HUD, and the ability to switch between them with a customizable key. This is a rewrite of the MWSE Clock Block by Aleist3r, featuring user-requested functionality and code improvements.  
 [**Map and Compass**](https://www.nexusmods.com/morrowind/mods/48455) by JaceyS  
 [**HUD Encumbrance Bar**](https://www.nexusmods.com/morrowind/mods/49608) by Operator Jack  
+[**Magican't**](https://www.nexusmods.com/morrowind/mods/50990) by tewlwolow  
+
+## Hotkeys
+[**QuickKey Outlander - MWSE**](https://www.nexusmods.com/morrowind/mods/50997) by Spammer  
 
 ## Fonts
 [**Daedricwind**](https://www.nexusmods.com/morrowind/mods/49655) by Necrolesian  
@@ -116,6 +124,8 @@ No saving in battle!
 [**Anroha Splash Pack**](https://www.nexusmods.com/morrowind/mods/50058) by Anroha  
 [**8K Blank Parchment Splash Screen**](https://www.nexusmods.com/morrowind/mods/50973) by XeroFoxx  
 [**Wide Screen Splash Replacer**](https://www.nexusmods.com/morrowind/mods/50966) by NZdawghaus  
+[**Morrowind Splash Screen Backgrounds**](https://www.nexusmods.com/morrowind/mods/50998) by MozartTheory  
+[**MWSE Loading Splash Screens**](https://www.nexusmods.com/morrowind/mods/51076) by rfuzzo  
 
 ## Main Menu Replacers
 [**Animated Main Menu for Morrowind**](https://www.nexusmods.com/morrowind/mods/43341?tab=description) by Mikeandike  

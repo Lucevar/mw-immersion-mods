@@ -17,10 +17,11 @@
 [**Creature VFX Restoration**](https://www.nexusmods.com/morrowind/mods/46194) by rot
 [**Centurion Spider Replacer**](https://www.nexusmods.com/morrowind/mods/47349) by Autoclock  
 [**N'wahs Work**](https://www.nexusmods.com/morrowind/mods/49103?tab=files) by Nwahs and Mushrooms  
-
+[**SM Bonewalker Replacer**](https://www.nexusmods.com/morrowind/mods/51030) by ShadowMimicry  
 
 ## Overhaul
 [**Creatures XI**](https://www.nexusmods.com/morrowind/mods/30563) by Piatelord  
+[**Less Lame Leveled Spawns**](https://www.nexusmods.com/morrowind/mods/51059) by NullCascade  
 
 ## General Rebalance
 [**Beware the Sixth House**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
