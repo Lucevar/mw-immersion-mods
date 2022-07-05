@@ -138,7 +138,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Abernanit** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Abinabi** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Adanumuran** - [Adanumuran Reclaimed](https://www.nexusmods.com/morrowind/mods/43340), [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
-**Addamasartus** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [The Cave of Woe](https://www.nexusmods.com/morrowind/mods/352), [**Less Disclosed Addamasartus**](https://www.nexusmods.com/morrowind/mods/49271)  
+**Addamasartus** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [The Cave of Woe](https://www.nexusmods.com/morrowind/mods/352), [**Less Disclosed Addamasartus**](https://www.nexusmods.com/morrowind/mods/49271), [**Better Caves and Caverns**](https://www.nexusmods.com/morrowind/mods/51218)
 **Aharunartus** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [**Tel Dranori Wizard Tower**](https://www.nexusmods.com/morrowind/mods/42763), [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859)      
 **Aharnabi** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Ahinipalit** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
@@ -317,7 +317,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Akimaes Grotto** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Eluba-Addon Grotto** - [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Ilanipu Grotto**  
-**Koal Cave**  
+**Koal Cave** - [**Better Caves and Caverns**](https://www.nexusmods.com/morrowind/mods/51218)
 **Madas Grotto**  
 **Malmus Grotto**  
 **Mudan Grotto**  
