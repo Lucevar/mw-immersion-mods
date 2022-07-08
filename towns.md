@@ -46,6 +46,8 @@
 [**Immersive Tables**](https://www.nexusmods.com/morrowind/mods/50389) by Corsair  
 [**Telvanni Expansion**](https://www.nexusmods.com/morrowind/mods/50525) by Kragos  
 [**Cantons on the Global Map**](https://www.nexusmods.com/morrowind/mods/50534) by Hemaris  
+[**Cloud Storage for Silt Strider Ports**](https://www.nexusmods.com/morrowind/mods/51145) by The Wanderer  
+[**Cloud Storage for Boat Travel Ports**](https://www.nexusmods.com/morrowind/mods/51146) by The Wanderer  
 
 # Tamriel Rebuilt
 [**Unique Tavern Signs for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/46794) by Rats  
@@ -72,6 +74,8 @@
 
 # Solstheim  
 [**Walled Skaal**](https://www.nexusmods.com/morrowind/mods/49394) by Tel Shadow  
+[**Solstheim - Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810) by TOTSP Team  
+[**Thirsk Expanded for TOTSP**](https://www.nexusmods.com/morrowind/mods/51039) by Littlemage  
 
 # Bitter Coast
 ## Seyda Neen
@@ -129,6 +133,9 @@ For a more restrained aesthetic. Adds appropriate clutter to Gnaar Mok but doesn
 [**Fabulous Suran**](https://www.nexusmods.com/morrowind/mods/49536) by Mika  
 [**Desele's House - Dancers and Delights**](https://www.nexusmods.com/morrowind/mods/50875?tab=posts) by Aphiteth  
 [**Atmospheric Delights**](https://www.nexusmods.com/morrowind/mods/47472) by Lucevar  
+[**Dallara Suran**](https://www.nexusmods.com/morrowind/mods/51228) by Dallara1000  
+[**Suran - Mages Guild**](https://www.nexusmods.com/morrowind/mods/51444) by Utseeva  
+[**Suran sewers**](https://www.nexusmods.com/morrowind/mods/51499) by RandomPal  
 
 ## Vivec
 ### Vivec - Exteriors 
@@ -146,6 +153,10 @@ Patch for Holidays Across Tamriel [here](https://www.nexusmods.com/morrowind/mod
 [**More Banners for Vivec City (Concept Art)**](https://www.nexusmods.com/morrowind/mods/50052) by mateoands  
 [**Vivec City**](https://www.nexusmods.com/morrowind/mods/50111) by Nwahs and Mushrooms  
 [**Guar Stables of Vivec**](https://www.nexusmods.com/morrowind/mods/50118) by RandomPal  
+[**Neon Vivec**](https://www.nexusmods.com/morrowind/mods/51371) by Billyfighter and Jawohlca  
+[**Vivec Silt Strider Port**](https://www.nexusmods.com/morrowind/mods/51392) by The Wanderer  
+[**Vivec Foreign Quarter Bridge**](https://www.nexusmods.com/morrowind/mods/51420) by WulfShaman  
+[**Vivec with trees**](https://www.nexusmods.com/morrowind/mods/51585) by oribba  
 
 ### Vivec - Interiors
 [**Canalworks Connected**](https://www.nexusmods.com/morrowind/mods/47354) by iLoveOnFear  
@@ -154,6 +165,8 @@ Patch for Holidays Across Tamriel [here](https://www.nexusmods.com/morrowind/mod
 [**Vivec Waistworks Expansion**](https://www.nexusmods.com/morrowind/mods/48834) by autumnbramble  
 [**Imperial Altar in Vivec**](https://www.nexusmods.com/morrowind/mods/50273) by Tyermala  
 [**Waterfall Lights Remover**](https://www.nexusmods.com/morrowind/mods/50437) by Necrolesian  
+[**Vivec Mages Guild - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/51105) by The Wanderer  
+[**Vivec Fighters Guild - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/51104) by The Wanderer  
 
 ### Vivec - Taverns
 [**Vivec Tea Room**](https://www.nexusmods.com/morrowind/mods/44320)  
@@ -217,6 +230,7 @@ These affect different parts of Ebonheart and are therefore compatible.
 [**Majestic Ebonheart**](https://www.nexusmods.com/morrowind/mods/48771) by RandomPal  
 [**Ebonheart The Old Castle**](https://www.nexusmods.com/morrowind/mods/49524) by Mika  
 [**ALWP - Ebonheart Revamped**](https://www.nexusmods.com/morrowind/mods/50673) by Citadel  
+[**Imperium - Castle Ebonheart**](https://www.nexusmods.com/morrowind/mods/51120) by Endoran  
 
 ## Rethan Manor
 [**Resplendent Rethan - Jewel of the Odai**](https://www.nexusmods.com/morrowind/mods/47281) by Team Azturnal  
@@ -226,8 +240,9 @@ These affect different parts of Ebonheart and are therefore compatible.
 # Azura's Coast
 ## Tel Branora
 [**RR - Tel Branora Lighthouse**](https://www.nexusmods.com/morrowind/mods/42664) by Resdayn Revival Team  
-[**Sethan's Improvements**](https://www.nexusmods.com/morrowind/mods/48693?tab=description) by OrangeSCi55or  
+[**Sethan's Improvements**](https://www.nexusmods.com/morrowind/mods/48693) by OrangeSCi55or  
 [**Fairy Tel Branora**](https://www.nexusmods.com/morrowind/mods/49435) by Mika  
+[**Tel Branora - Domain of the Mad Mistress**](https://www.nexusmods.com/morrowind/mods/51152) by Kalinter  
 
 ## Sadrith Mora
 [**Sadrith Mora - Seat of Power of House Telvanni**](https://www.nexusmods.com/morrowind/mods/48689) by RandomPal  
@@ -251,6 +266,8 @@ Have you ever thought that Wolverine Hall must have been designed by Sheogorath,
 [**Dirty Muriel's Expansion**](https://www.nexusmods.com/morrowind/mods/49622) by Endify  
 [**Dirtier Cozier Muriel's Cornerclub**](https://www.nexusmods.com/morrowind/mods/49653) by MachoHamRandySandwich  
 [**Wolverine Hall Overhauled**](https://www.nexusmods.com/morrowind/mods/50808) by Heinrich/Gevalt  
+[**Wolverine Hall Mages Guild - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/51102) by The Wanderer  
+[**Wolverine Hall Fighters Guild - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/51103) by The Wanderer  
 
 You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/44746), [**More Detailed Places - Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/30150), [**Sadrith Mora Expanded**](https://www.nexusmods.com/morrowind/mods/44113), or [**Epic Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/43057).
 
@@ -362,6 +379,8 @@ Alternatively, [**Vvardenfell Revisited - Khuul**](https://www.nexusmods.com/mor
 [**Izi's Caldera and The Stonewood Pass Revisited Compatibility Patch**](https://www.nexusmods.com/morrowind/mods/50564) by Boggo  
 [**Elegant Verick Gemain's Shop**](https://www.nexusmods.com/morrowind/mods/49729) by RandomPal  
 [**Caldera**](https://www.nexusmods.com/morrowind/mods/50314) by Nwahs and Mushrooms Team  
+[**Caldera Mages Guild Basement**](https://www.nexusmods.com/morrowind/mods/51204) by Billyfighter  
+[**Caldera Mages' Guild Expansion**](https://www.nexusmods.com/morrowind/mods/51346) by OikeaHetki  
 
 Alternatively, [**Vvardenfell Revisited - Caldera**](https://www.nexusmods.com/morrowind/mods/45182) by EnnetWinterhoof or [**Improved Caldera**](https://www.nexusmods.com/morrowind/mods/45000) by sorcerorsorceror, [**Varo Manor**](https://www.nexusmods.com/morrowind/mods/42924), [**The Doors - Caldera**](https://www.nexusmods.com/morrowind/mods/42511) by Arcimaestro Antares and WH-Reaper. 
 
@@ -389,7 +408,15 @@ or
 [**Odai Riverbed**](https://www.nexusmods.com/morrowind/mods/50515) by multiple  
 [**Balmora Mage Guild - No Fire Hazard**](https://www.nexusmods.com/morrowind/mods/50874) by Loth  
 [**Balmora**](https://www.nexusmods.com/morrowind/mods/51011) by Nwahs and Mushrooms Team  
-
+[**Balmora Mages Guild - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/51093) by The Wanderer  
+[**Balmora Fighters Guild - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/51094) by The Wanderer  
+[**Balmora sewers**](https://www.nexusmods.com/morrowind/mods/51092) by Moldynaiad  
+[**Haunted Mausoleum**](https://www.nexusmods.com/morrowind/mods/51260) by The Wanderer  
+[**MT's Festive Balmora**](https://www.nexusmods.com/morrowind/mods/51302) by MozartTheory  
+[**Balmora Waterworks**](https://www.nexusmods.com/morrowind/mods/51327) by MwGek  
+[**Vertical Balmora - Vori's House**](https://www.nexusmods.com/morrowind/mods/51384) by Dietbob and The Wanderer  
+[**Amazing Balmora Expansion**](https://www.nexusmods.com/morrowind/mods/51387) by Eluwil  
+[**Fabulous Hlaalo Manor**](https://www.nexusmods.com/morrowind/mods/51438) by TheNocturus  
 
 [**Fort Moonmoth Expanded**](https://www.nexusmods.com/morrowind/mods/46963) by Yommumoi  
 [**Moonmoth Legion Fort Overhaul**](https://www.nexusmods.com/morrowind/mods/48835) by RandomPal  
@@ -424,8 +451,13 @@ Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014)
 [**The Doors - Aldruhn**](https://www.nexusmods.com/morrowind/mods/42512) by Arcimaestro Antares and WH-Reaper  
 [**Edwinna's Study**](https://www.nexusmods.com/morrowind/mods/49050) by Whitnedak  
 [**Lights Ald-ruhn**](https://www.nexusmods.com/morrowind/mods/49063) by Ashtaar  
+[**Ald-ruhn Fighters Guild - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/51091) by The Wanderer  
+[**Ald-ruhn Mages Guild - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/51090) by The Wanderer  
+[**The Rat in the Pot Expansion**](https://www.nexusmods.com/morrowind/mods/51287) by Endify  
+[**Ald'Ruhn Manor Banners**](https://www.nexusmods.com/morrowind/mods/51527) by Caleb C  
 
 ## Bal Isra
+[**Indarys Manor Expanded**](https://www.nexusmods.com/morrowind/mods/51333) by GretaForge  
 
 ## Maar Gan
 [**More Detailed Places - Maar Gan**](https://www.nexusmods.com/morrowind/mods/29602) by Ragox  
@@ -435,6 +467,7 @@ Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014)
 [**Mystical and Religious Maar Gan**](https://www.nexusmods.com/morrowind/mods/49369) by Mika  
 [**Inscribed Maar Gan Rock**](https://www.nexusmods.com/morrowind/mods/49426) by Leyawynn  
 [**The Magic Rock of Maar Gan**](https://www.nexusmods.com/morrowind/mods/50763) by Vegetto  
+[**OAAB Huleen's Hut Overhaul**](https://www.nexusmods.com/morrowind/mods/51458) by Lucevar  
 
 # Molag Mar
 [**Fortified Molag Mar**](https://www.nexusmods.com/morrowind/mods/47270) by Team Voluptuous Velks  
@@ -444,6 +477,7 @@ Alternatives, [**Epic Balmora**](https://www.nexusmods.com/morrowind/mods/43014)
 
 # New Towns
 [**Hamlets of Vvardenfell - Stoneforest**](https://www.nexusmods.com/morrowind/mods/48396) by Vingamer  
-
 [**New Arenthia**](https://www.nexusmods.com/morrowind/mods/46830)
 Located near Vivec. Adds a town founded by a Bosmer winemaker and his assorted friends and retainers.
+[**Argonian Island Village**](https://www.nexusmods.com/morrowind/mods/51341) by The Wanderer  
+[**Mournhold Style Canton**](https://www.nexusmods.com/morrowind/mods/51405) by WulfShaman  

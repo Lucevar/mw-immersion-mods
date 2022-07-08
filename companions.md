@@ -28,6 +28,16 @@ Includes an Argonian companion
 [**Henwen the Pack Piglet**](https://www.nexusmods.com/morrowind/mods/50423) by Tizzo  
 [**Todd Howard Follower**](https://www.nexusmods.com/morrowind/mods/50691) by ConceredCitizen  
 [**A Fallout3 Tribute - The Nix-Hound Runt, Houndmeat**](https://www.nexusmods.com/morrowind/mods/50889) by Aphiteth  
-[**Ignatious the Mad Companion - A Starwind Mod**](https://www.nexusmods.com/morrowind/mods/50960) by kvatchcount  
+[**Stripes the Cat**](https://www.nexusmods.com/morrowind/mods/51086) by Stripes  
+[**Visions of the White Guar - A Versatile Companion**](https://www.nexusmods.com/morrowind/mods/51500) by Aphiteth  
+[**Phoon Guy**](https://www.nexusmods.com/morrowind/mods/51549) by me with assets from Webley and anmcbride  
+[**The Strider's Nest - Companions and Quests**](https://www.nexusmods.com/morrowind/mods/51579) by AlandroSul  
 
 [**Companion Friendly Lava**](https://www.nexusmods.com/morrowind/mods/50890) by AlandroSul  
+
+## Starwind 
+[**Ignatious the Mad Companion - A Starwind Mod**](https://www.nexusmods.com/morrowind/mods/50960) by kvatchcount  
+[**Starwind- Carlo's expanded droid shop**](https://www.nexusmods.com/morrowind/mods/50985) by Quickdraw Mcgraw  
+[**Starwind- Kagrid playable hair**](https://www.nexusmods.com/morrowind/mods/50994) by quickdraw mcgraw  
+[**Ahtar Companion - A Starwind Mod**](https://www.nexusmods.com/morrowind/mods/51036) by kvatchcount  
+[**Eseh'vehu Companion - A Starwind Mod**](https://www.nexusmods.com/morrowind/mods/51100) by kvatchcount  

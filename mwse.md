@@ -7,6 +7,43 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
+## June 6th - July 8th
+[**Skill Names for Skill Books**](https://www.nexusmods.com/morrowind/mods/51510) by rooksby  
+Adds skill names to all skill books in the game, but shortens some book titles to fit the 31 character limit. Choose between abbreviated skill names, and complete skill names.
+
+[**Pacifist Way - Good Doctor - MWSE**](https://www.nexusmods.com/morrowind/mods/51503) by Spammer  
+Curing Diseased or Blighted creatures will make them stop attacking you.
+
+[**MWSE NPC RANDOM FACE GENERATOR**](https://www.nexusmods.com/morrowind/mods/51502) by Stripes  
+Randomizes heads and hairs on generic NPCs
+
+[**MWSE NPC RANDOM NAME GENERATOR**](https://www.nexusmods.com/morrowind/mods/51497) by Stripes  
+Aleist3r's name generator adapted to give names to generic NPCs
+
+[**Player Made Magic Rename**](https://www.nexusmods.com/morrowind/mods/51484) by abot  
+CTRL + Click to rename a player made spell or enchanted item from player magic menu. CTRL + Equip on paperdoll to rename a player made constant enchanted item from player inventory menu
+
+[**Disobedient Summons - MWSE**](https://www.nexusmods.com/morrowind/mods/51483) by Spammer  
+Summonned Creatures will be more enclined to take sides with whoever has the highest conjuration skill. Which means that you'll have a chance to steal hostile NPCs summons if your conjuration is high enough, but also that your own summons might turn against you if you send them against the wrong opponent.
+
+[**Robe'n'Hood**](https://www.nexusmods.com/morrowind/mods/51474) by Spammer21-Merlord-JettN77  
+This mod is all about giving NPCs proper headwear in certain weather conditions.  
+
+[**Realistic Archery**](https://www.nexusmods.com/morrowind/mods/51473) by Merlord  
+Arrows and thrown weapons always do damage when they hit a target, but projectiles are less accurate at lower marksman levels, and damage is reduced at close range.
+
+[**Obedient Summons - MWSE**](https://www.nexusmods.com/morrowind/mods/51472) by Spammer  
+Allows you to give basic orders to your summoned creatures. Adds a new spell, called "Soul Release", allowing you to summon a soul trapped in a soulgem. You can now have Vivec or Almalexia as obedient summons! Requires Magicka Expanded.
+
+[**Smart Rings**](https://www.nexusmods.com/morrowind/mods/51471) by abot  
+Rings are given enchanting tiers (1 = No Enchantment, 2 = On Use Enchantment, 3 = Constant Enchantment). When you have the maximum number of rings already equipped and you equip another ring, a lower tier ring will be unequipped if available to avoid the risk of unequipping a higher tier ring
+
+[**Alchemy - Multiple Potions at Once - MWSE**](https://www.nexusmods.com/morrowind/mods/51461) by Spammer  
+Allows you to brew multiple potions at once (OpenMW style). No more need to torture your poor left mouse button to get 20 restore fatigue potions.
+
+[**MWSE Perk Framework**](https://www.nexusmods.com/morrowind/mods/51448) by KirbonatedBeverage  
+A library/code module that adds support for a perk system, a la the fallout games
+
 ## March 15th - June 4rd 2022 (inc. 20th anniversary modathon)
 [**I'll Level Up Later - MWSE**](https://www.nexusmods.com/morrowind/mods/51441) by Spammer21  
 Ready for level up, but don't want to just yet? Really needing to rest? This mod adds a "Cancel" button to close the Level up menu without leveling up.

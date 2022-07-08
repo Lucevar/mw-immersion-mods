@@ -27,5 +27,5 @@ The End of the World - [**Nordic Dagon Fel**](https://www.nexusmods.com/morrowin
 The Flowers of Gold   
 The Lizard's Head - [**TGTD The Lizard's Head**](https://www.nexusmods.com/morrowind/mods/39748)  
 The Pilgrim's Rest  
-The Rat in the Pot - [**TGTD The Rat in the Pot**](https://www.nexusmods.com/morrowind/mods/34186)    
+The Rat in the Pot - [**TGTD The Rat in the Pot**](https://www.nexusmods.com/morrowind/mods/34186), [**The Rat in the Pot Expansion**](https://www.nexusmods.com/morrowind/mods/51287)    
 Varo Tradehouse  

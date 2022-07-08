@@ -27,3 +27,6 @@ List for vanilla style (ie not MacKom's) beast races, using MWSE
 [**Khajiit Diversity Revamped**](https://mw.modhistory.com/download-4-11320) by Westly  
 [**Diverse Khajiit**](https://www.nexusmods.com/morrowind/mods/48832) by Taniquetil  
 [**More Argonian Hair**](https://www.nexusmods.com/morrowind/mods/43133) by ashiraniir  
+
+# Gameplay
+[**Enslaved - MWSE**](https://www.nexusmods.com/morrowind/mods/51365) by Spammer  

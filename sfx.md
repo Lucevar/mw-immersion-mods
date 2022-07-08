@@ -31,6 +31,9 @@
 [**Nords Shut Your Windows**](https://www.nexusmods.com/morrowind/mods/50087) by Vegetto  
 [**Graphic Herbalism**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
 [**Glowbugs**](https://www.nexusmods.com/morrowind/mods/50538) by Melchior Dahrk and Greatness7  
+[**Bleeding Injuries - MWSE**](https://www.nexusmods.com/morrowind/mods/51308) by Spammer  
+[**Darknut's Lighted Dwemer Towers**](https://www.nexusmods.com/morrowind/mods/51358) by Darknut  
+[**Fireflies**](https://www.nexusmods.com/morrowind/mods/51443) by RandomPal  
 
 ## Items
 [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
@@ -41,6 +44,7 @@ A corprus meat replacer.
 [**Crystal Soul Gems**](https://www.nexusmods.com/morrowind/mods/48300) by SVNR and SpaceDevo  
 [**Immersive Telvanni Bug Musk**](https://www.nexusmods.com/morrowind/mods/48327) by RandomPal  
 [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by Abot  
+[**Improved Lights for All Shaders**](https://www.nexusmods.com/morrowind/mods/51463) by Hemaris  
 
 ## Particles
 [**Magic Diversity**](https://www.nexusmods.com/morrowind/mods/43380) by Arkann  
@@ -59,6 +63,7 @@ A corprus meat replacer.
 [**MM - Enhanced Light**](https://www.nexusmods.com/morrowind/mods/47672) by Operator Jack, Kurpulio, Greatness7  
 [**MM - Enhanced Telekinesis**](https://www.nexusmods.com/morrowind/mods/47534) by Operator Jack & Kurpulio  
 [**MM - Enhanced Detection**](https://www.nexusmods.com/morrowind/mods/47480) by Operator Jack, Kurpulio & RedFurryDemon  
+[**Elemental Projectile Hits - MWSE**](https://www.nexusmods.com/morrowind/mods/51149) by Spammer  
 
 ## Animations  
 [**Silt Strider Animation Restored**](https://www.nexusmods.com/morrowind/mods/44150) by R-Zero  
@@ -82,6 +87,7 @@ A corprus meat replacer.
 [**Water Sounds**](https://www.nexusmods.com/morrowind/mods/47794) by abot  
 [**Imperial Male Hit Sounds Fixed**](https://www.nexusmods.com/morrowind/mods/49406) by SAJNM  
 [**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
+[**Smarter Strike Sounds**](https://www.nexusmods.com/morrowind/mods/51084) by NullCascade  
 
 [**Disgusting Chewing Noises No More**](https://www.nexusmods.com/morrowind/mods/50830) by mainque  
 [**Silent Hits**](https://www.nexusmods.com/morrowind/mods/44556) by Jxrdan  

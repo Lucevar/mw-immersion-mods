@@ -9,6 +9,9 @@ See [**Quests and Factions**](https://github.com/Lucevar/mw-immersion-mods/blob/
 * [**Putting Power in Willpower**](https://www.nexusmods.com/morrowind/mods/45742) by R-Zero  
 Willpower is described as affecting your abilities to resist spells, but in vanilla it is bugged and doesn't work. This mod enables it, for PCs and NPCs.  
 
+### Magic Pool
+* [**Skill Based Magicka Increase**](https://www.nexusmods.com/morrowind/mods/51286) by RogiVagel18  
+
 ### Magicka Regen, Spell Cost, and XP
 * [**Mastering Magicka**](https://www.nexusmods.com/morrowind/mods/42269) by dopeyFish  
 * [**Purist Friendly Magicka Regen**](https://www.nexusmods.com/morrowind/mods/45636) by Remiros & Greatness7  
@@ -16,6 +19,7 @@ Willpower is described as affecting your abilities to resist spells, but in vani
 Adds magicka regeneration that scales with both willpower and your current magicka percentage. Mostly full magicka pools will regenerate almost immediately--dip further into your reserves and it will take exponentially longer to naturally replenish.
 * [**Magicka-Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330) by JaceyS  
 Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
+* [**CCCP Magicka Regen**](https://www.nexusmods.com/morrowind/mods/51143) by Necrolesian  
 
 ### Spells
 * [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) by OperatorJack and RedFurryDemon  
@@ -26,9 +30,13 @@ Spell casting skills advance based on the amount of Magicka spent, rather than t
 * [**Useful Starting Spells**](https://www.nexusmods.com/morrowind/mods/40439) by Tizzo  
 * [**Magical Mechanics - Homing Projectiles**](https://www.nexusmods.com/morrowind/mods/47403) by OperatorJack  
 * [**The Spellmaker**](https://www.nexusmods.com/morrowind/mods/50942) by Spammer21  
+* [**Immersive Spell Cost and Starting Spell**](https://www.nexusmods.com/morrowind/mods/51334) by OikeaHetki  
+* [**Player Made Magic Rename**](https://www.nexusmods.com/morrowind/mods/51484) by abot  
+* [**Sensible Starting Spells**](https://www.nexusmods.com/morrowind/mods/51574) by Randolph Carter  
 
 ### Spell Visuals (general)
 * [**Magic Diversity**](https://www.nexusmods.com/morrowind/mods/43380) by Arkann  
+* [**Elemental Projectile Hits - MWSE**](https://www.nexusmods.com/morrowind/mods/51149) by Spammer  
 
 ### Alchemy
 * [**Graphic Herbalism - MWSE and OpenMW Edition**](https://www.nexusmods.com/morrowind/mods/46599) by Stuporstar and Greatness7  
@@ -44,6 +52,15 @@ A simple, pluginless mod that displays the percentage success chance in potion m
 You can now filter ingredients based on their effects.  
 * [**Poison Crafting**](https://www.nexusmods.com/morrowind/mods/45729) by Greatness7  
 Adds a new poison mechanic similar to Oblivion and Skyrim's. NPCs can use poison as well! Also allows you to use apparatus in-world rather than having to pick it up and use it from your inventory, and a new alchemy mode where better apparatus decreases positive effects rather than negative so you can craft your own poisons.  
+* [**Auto Harvest**](https://www.nexusmods.com/morrowind/mods/51159) by Krimson  
+Auto Harvest will automatically collect ingredients from organic containers, and loose ingredients within range of the player.
+Compatible with Graphic Herbalism and Tamriel Rebuilt.  
+* [**Poisoner**](https://www.nexusmods.com/morrowind/mods/51240) by Revacholiere  
+A complement to the many poison mods released - this one more focused on stealthily applying poison to your targets, rather than putting poison on your weapon.
+* [**Tools of the Secret Master**](https://www.nexusmods.com/morrowind/mods/51415) by Necrolesian  
+Adds Secret Master lockpicks, probes, and alchemy apparatus to the game.
+* [**Alchemy - Multiple Potions at Once - MWSE**](https://www.nexusmods.com/morrowind/mods/51461) by Spammer  
+Allows you to brew multiple potions at once (OpenMW style). No more need to torture your poor left mouse button to get 20 restore fatigue potions.
 
 ### Alteration
 * [**The Levitation Act**](https://www.nexusmods.com/morrowind/mods/47345) by OperatorJack and Alice93  
@@ -59,6 +76,10 @@ This mod adds reflection mechanics to the Reflect, Shield, Fire Shield, Shock Sh
 Visual overhaul of Elemental Shield spells, with additional on-hit effects
 * [**Wings of Will**](https://www.nexusmods.com/morrowind/mods/46626) by sataniel  
 In the base game, the levitation speed is based on the Speed attribute. This never made much sense to me. You can levitate faster by being a great runner? Now levitation is based on the Willpower attribute (just as the Alteration skill is) with other calculations remaining the same.
+* [**Sorcerer of Alteration**](https://www.nexusmods.com/morrowind/mods/51224) by kindi  
+Journey through this quest mod to improve your alteration magic.
+* [**Spells Reforged - Shield**](https://www.nexusmods.com/morrowind/mods/50905) by Greatness7 - Kurpulio  
+Replaces Shield spell visual effect.
 
 ### Conjuration
 * [**Atronach Expansion**](https://www.nexusmods.com/morrowind/mods/22189) by Melchior Dahrk  
@@ -75,12 +96,22 @@ Bound weapons' damage and bound armor's AR scales with Conjuration or Willpower.
 Enables on touch, on target, and area effect bound item spells.
 * [**Illegal Summoning**](https://www.nexusmods.com/morrowind/mods/47105) by OperatorJack  
 Using MWSE Lua, this mod makes it so that performing a summoning spell in a town or city is illegal, as it was originally intended to be. Applies to the player, NPCs, and creatures.
+* [**Summon Creature Followers**](https://www.nexusmods.com/morrowind/mods/51246) by Krimson  
+Vanilla and TR versions. Tired of the same 17 summon creatures in the game? This adds 90 creature followers that are able to be summoned with a custom menu. Multiple options in a MCM menu
+* [**Nimrod's Bound Armor Lite**](https://www.nexusmods.com/morrowind/mods/51257) by Nimrod  
+Adds conjurable greaves and pauldrons in the most vanilla-like manner possible. This version does NOT require MWSE and can be used with OpenMW.
+* [**Obedient Summons - MWSE**](https://www.nexusmods.com/morrowind/mods/51472) by Spammer  
+Allows you to give basic orders to your summoned creatures. Adds a new spell, called "Soul Release", allowing you to summon a soul trapped in a soulgem. You can now have Vivec or Almalexia as obedient summons! Requires Magicka Expanded.
+* [**Disobedient Summons - MWSE**](https://www.nexusmods.com/morrowind/mods/51483) by Spammer  
+Summonned Creatures will be more enclined to take sides with whoever has the highest conjuration skill. Which means that you'll have a chance to steal hostile NPCs summons if your conjuration is high enough, but also that your own summons might turn against you if you send them against the wrong opponent.
 
 ### Destruction
 * [**Elemental Magicka II**](https://www.nexusmods.com/morrowind/mods/42106) by NMZMaster  
 Adds many new spells with unique visual effects.  
 * [**Elemental Effects**](https://www.nexusmods.com/morrowind/mods/49799) by Anumaril  
 Applies visual effects to both NPCs and the player when damaged by fire, frost, shock, poison, or sun spell effects.
+* [**Farhrenheit 451 - MWSE**](https://www.nexusmods.com/morrowind/mods/51294) by Spammer  
+Ever dreamt of becoming an arsonist? This mod is for you.
 
 ### Enchant
 * [**Magical Mechanics - Cast-on-Swing Enchantments**](https://www.nexusmods.com/morrowind/mods/47338) by OperatorJack
@@ -107,6 +138,12 @@ Picking up a cursed item will spawn a variety of daedra
 Pluginless *and* assetless no-glow. Use less memory, get some frames back, and be more compatible!
 * [**Controlled Weapon Enchants**](https://www.nexusmods.com/morrowind/mods/50142) by Kurpulio and Axemagister  
 'Cast When Strikes' weapon enchants will only release a charge when wanted, controlled by toggle on/off button.
+* [**Enchant Drain - MWSE**](https://www.nexusmods.com/morrowind/mods/51124) by Spammer  
+Adds a buyable spell called "Enchant Drain", that allows you to use your enchanted staves and amulets as a supplementary mana pool for the duration of the spell.  
+* [**Cast on Hit Bows Lua**](https://www.nexusmods.com/morrowind/mods/51196) by Krimson  
+Makes any arrow/bolt shot from any bow/crossbow hit with the bows cast on use or cast on strike enchantment.
+* [**Enchantment Services Redone - ESR**](https://www.nexusmods.com/morrowind/mods/51249) by Virnetch  
+Adds NPC services for recharging enchanted items, deciphering magic scrolls and the option to transcribe magic scrolls, both by the player, and through a service. Adds empty scrolls from OAAB to enchanters and booksellers, and disables the passive recharging of enchanted items. Highly customizable through the Mod Config Menu.
  
 ### Illusion
 * [**Magical Mechanics - Enhanced Invisibility**](https://www.nexusmods.com/morrowind/mods/47565) by OperatorJack, Kurpulio, Vtastek  
@@ -119,6 +156,8 @@ Makes charm effects incur a bounty after they wear off.
 Not a mod per se, but a framework that is necessary for other MAB0's mods to work
 * [**Mabo's Manipulated**](https://www.nexusmods.com/morrowind/mods/47222) by Meta Barj0  
 This mod makes all mental manipulation effect count as an aggression. Player will be fine if witnessed using one of these effects.
+* [**Vanish From Sight**](https://www.nexusmods.com/morrowind/mods/51266) by inpv  
+As long as the player is invisible, all hostiles located in the current cell stop combat. Includes configurable fight values for hostiles in MCM. A must-have for any illusionist.
 
 ### Mysticism
 * [**Customizable MWSE Multi Mark & Harder Recall**](https://www.nexusmods.com/morrowind/mods/47065) by Virnetch  
@@ -177,6 +216,8 @@ For overhauls of vanilla Dwemer ruins, see the [**Dungeons**](https://github.com
 * [**3E 427 A Space Odyssey**](https://www.nexusmods.com/morrowind/mods/48019) by OperatorJack and Alice93  
 * [**Scrolls of the Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831) by Melchior Dahrk    
 * [**Galerion's Tools**](https://www.nexusmods.com/morrowind/mods/47901) by OperatorJack  
+* [**Astrologian's Guild**](https://www.nexusmods.com/morrowind/mods/51216) by Billyfighter  
 
 ## Necromancy
 * [**dopey Necromancy**](https://www.nexusmods.com/morrowind/mods/43313) by dopeyFish  
+* [**Necrocraft - A Comprehensive Necromancy Gameplay And Quests Mod**](https://www.nexusmods.com/morrowind/mods/51211) by VitruvianGuar  

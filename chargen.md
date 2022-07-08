@@ -24,6 +24,9 @@ This mods adds a bunch of deities for player to choose from in a manner seen in 
 [**MTR Lineage**](https://www.nexusmods.com/morrowind/mods/49996) by MTR  
 This mod adds many character lineages that can be selected after character generation.
 
+[**mtrCultures - Role-Playing Mod allowing to choose your cultural background during character creation**](https://www.nexusmods.com/morrowind/mods/51282) by MTR  
+This mod adds character cultures that can be selected after character generation.
+
 [**The Role They Were to Play**](https://www.nexusmods.com/morrowind/mods/46411) by PoodleSandwich  
 Changes the intro video to be gender-neutral.
 
@@ -94,6 +97,16 @@ Updates vanilla classes to be more useable, makes NPC classes playable, adds a v
 
 [**On the Cusp - A Birthsign Mod**](https://www.nexusmods.com/morrowind/mods/51057) by Juidius Xentao  
 
+[**Races Reimagined**](https://www.nexusmods.com/morrowind/mods/51153) by Trancemaster_1988  
+
+[**Moon and Stars (Eclipses and Aspects)**](https://www.nexusmods.com/morrowind/mods/51173) by Stories of Tamriel Mod Team  
+
+[**Birthsigns without Attribute Bonuses**](https://www.nexusmods.com/morrowind/mods/51298) by oikeahetki  
+
+[**Immersive Races Enhanced**](https://www.nexusmods.com/morrowind/mods/51304) by OikeaHetki  
+
+[**Sensible Starting Spells**](https://www.nexusmods.com/morrowind/mods/51574) by Randolph Carter  
+
 ## New Races
 [**Amyrha's Race Pack**](https://www.nexusmods.com/morrowind/mods/50696) by Amyrha  
 
@@ -128,6 +141,9 @@ Adds 18 new starting options with different role plays / character archetypes in
 
 [**Gateway to Skyrim**](https://www.nexusmods.com/morrowind/mods/51075) by Agiletek  
 Makes Vorngyd's Stand suitable as an alternate starting location for playing Skyrim (Skyrim: Home of the Nords)  
+
+[**Main Quest for Divayth Fyr**](https://www.nexusmods.com/morrowind/mods/51191) by AliceL93 and Caeris and Qwertyquit  
+Do the Main Quest for Divayth Fyr. Includes a Chargen scenario in which you are one of the clones created by him.
 
 # Themed Chargen
 [**Royal Chargen**](http://mw.modhistory.com/download--7212) by Princess Stomper  

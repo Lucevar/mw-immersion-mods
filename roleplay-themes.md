@@ -181,6 +181,8 @@ Farmer mod
 [**Swamp Fever**](https://www.nexusmods.com/morrowind/mods/46640) by Luccar and Rubberman  
 [**Would you like healing?**](https://www.nexusmods.com/morrowind/mods/46973) by Master Jinroku  
 * [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
+[**Pacifist Way - Good Doctor - MWSE**](https://www.nexusmods.com/morrowind/mods/51503) by Spammer  
+Curing Diseased or Blighted creatures will make them stop attacking you.
 
 
 # Hoarder/Collecter
@@ -213,6 +215,7 @@ Adds a number of roleplaying options to the main quest, including alternate path
 * [**Religions Elaborated**](https://www.nexusmods.com/morrowind/mods/47843) by Caeris  
 * [**Legion Field Gear**](https://www.nexusmods.com/morrowind/mods/49621) by Endoran  
 * [**Blessings of the Imperial Cult and Good Daedra**](https://www.nexusmods.com/morrowind/mods/50444) by artemgur  
+* [**Divine Providence**](https://www.nexusmods.com/morrowind/mods/51467) by Apoapse Danae  
 
 # Merchant
 [**Wages and Bonds**](https://www.nexusmods.com/morrowind/mods/46394)  

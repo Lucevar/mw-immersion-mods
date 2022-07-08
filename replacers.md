@@ -2,6 +2,8 @@
 # Base Pack
 [**Intelligent Textures**](https://www.nexusmods.com/morrowind/mods/47469) by Remiros  
 [**FMGS - Unique Items Compilation**](https://www.nexusmods.com/morrowind/mods/46433) by PoodleSandwich  
+[**Textured Vanilla Experiments**](https://www.nexusmods.com/morrowind/mods/51002) by Cyreb  
+[**Morrowind Enhanced Textures**](https://www.nexusmods.com/morrowind/mods/46221) by Project Enhance  
 
 # Specific Replacers
 ## Books
@@ -62,6 +64,16 @@
 [**Improved Weapon Mesh Compilation**](https://www.nexusmods.com/morrowind/mods/50886) by 1Mac & co  
 [**Thicker Daedric Claymore**](https://www.nexusmods.com/morrowind/mods/50933) by nastynugget  
 [**Improved Spriggan**](https://www.nexusmods.com/morrowind/mods/50920) by Lamb Shark  
+[**Imperial Forts Retexture - Atlas Textures**](https://www.nexusmods.com/morrowind/mods/51101) by Mikeandike and K1ngCraft  
+[**Helm of Lord Brinne**](https://www.nexusmods.com/morrowind/mods/51113) by Yeest McFouster  
+[**Animated Staff of Magnus**](https://www.nexusmods.com/morrowind/mods/51402) by PikachunoTM  
+[**Improved Lights for All Shaders**](https://www.nexusmods.com/morrowind/mods/51463) by Hemaris  
+[**Improved Skull Crusher**](https://www.nexusmods.com/morrowind/mods/51496) by LH23  
+[**Second Era Hands**](https://www.nexusmods.com/morrowind/mods/51498) by Prime  
+[**Little-secret-inspired Daedric Ruins**](https://www.nexusmods.com/morrowind/mods/51528) by Mr Swiveller n ezze  
+[**Detailed Daedroth - Another Creature Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/51542) by Pherim  
+[**Dim Glass - Less Irritating Glass Armor and Weapon**](https://www.nexusmods.com/morrowind/mods/51544) by Max Yari aka SinnerSmile  
+[**Improved Weapon Meshes and Weapon Sheathing - Bow Position Edit Patches**](https://www.nexusmods.com/morrowind/mods/51588) by Pherim - Kyim - Greatness7 and Svarttjern  
 
 # Mod Replacers
 [**Red sclera eyes for Julan**](https://www.nexusmods.com/morrowind/mods/47277?tab=description) by Leetmorry  

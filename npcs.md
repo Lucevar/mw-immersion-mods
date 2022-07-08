@@ -19,6 +19,7 @@
 [**Smart Heads**](https://www.nexusmods.com/morrowind/mods/50098) by abot  
 [**Complete Dukes Guard Armor**](https://www.nexusmods.com/morrowind/mods/50481) by RuffinVangarr  
 [**Canine Guards**](https://www.nexusmods.com/morrowind/mods/50483) by undertaker1974  
+[**Imperium - Imperial Armour Expanded**](https://www.nexusmods.com/morrowind/mods/51408) by Endoran  
 
 ## Pubs and Taverns
 [**The Publicans**](https://www.nexusmods.com/morrowind/mods/45410) by Half11  
@@ -48,6 +49,8 @@
 [**Imperial Cult Templar Armour**](https://www.nexusmods.com/morrowind/mods/48233) by FrankG2229  
 [**Concept Art Ordinators**](https://www.nexusmods.com/morrowind/mods/49357) by RandomPal  
 [**Mabrigash Mask Distribution (Complete)**](https://www.nexusmods.com/morrowind/mods/49379) by GrumblingVomit  
+[**Harder to Kill Hard-Heart**](https://www.nexusmods.com/morrowind/mods/51185) by Ogachi  
+[**Robe'n'Hood**](https://www.nexusmods.com/morrowind/mods/51474) by Spammer21-Merlord-JettN77  
 
 ## Situational
 [**Wear A Mask**](https://www.nexusmods.com/morrowind/mods/49240) by Von Djangos  
@@ -64,6 +67,8 @@
 [**Bendu-Olo Templar Armor**](https://www.nexusmods.com/morrowind/mods/49073) by Ashtaar  
 [**Sload and Slavers**](https://www.nexusmods.com/morrowind/mods/49074) by Ashtaar  
 [**Morrowind Working Girls**](https://www.nexusmods.com/morrowind/mods/50338) by DingusTrashCanus  
+[**Repopulated Morrowind**](https://www.nexusmods.com/morrowind/mods/51174) by GrumblingVomit  
+[**Populated Stirk (Province Cyrodiil)**](https://www.nexusmods.com/morrowind/mods/51254) by Sundelius  
 
 ## New Handplaced Enemies
 [**Smugglers and Pirates**](https://www.nexusmods.com/morrowind/mods/44914) by Darusthemodder  
@@ -75,6 +80,8 @@
 [**Friends and Foes**](https://www.nexusmods.com/morrowind/mods/49251) by Danae  
 [**Bandits**](https://www.nexusmods.com/morrowind/mods/50084) by RandomPal  
 [**The Nerfed Hostiles**](https://www.nexusmods.com/morrowind/mods/50287) by PolarDash and TrevorDemented  
+[**MWSE NPC RANDOM NAME GENERATOR**](https://www.nexusmods.com/morrowind/mods/51497) by Stripes  
+[**MWSE NPC RANDOM FACE GENERATOR**](https://www.nexusmods.com/morrowind/mods/51502) by Stripes  
 
 ## Specific NPCs
 [**Peaceful Qorwynn**](https://www.nexusmods.com/morrowind/mods/46759)  
@@ -90,6 +97,9 @@
 [**Emerald Armor (Orvas Dren)**](https://www.nexusmods.com/morrowind/mods/49051) by Anroha  
 [**Saprius Disguised**](https://www.nexusmods.com/morrowind/mods/50377) by Tyermala  
 [**Animated Archmagister**](https://www.nexusmods.com/morrowind/mods/50656) by Vidi Aquam  
+[**Vampiric Bloodline Visages**](https://www.nexusmods.com/morrowind/mods/51201) by Stripes  
+[**Ahnassi REEinvisioned**](https://www.nexusmods.com/morrowind/mods/51203) by Juidius Xentao  
+[**Larienna Macrina Race FIx**](https://www.nexusmods.com/morrowind/mods/51279) by SombreNeri  
 
 ### Sorkvild the Raven
 * [**The Raven**](https://www.nexusmods.com/morrowind/mods/21372) by von Django  

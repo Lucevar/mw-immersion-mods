@@ -34,6 +34,29 @@
 [**Balmora House**](https://www.nexusmods.com/morrowind/mods/50857) by Aratayn  
 [**Smuggler's Outset Island**](https://www.nexusmods.com/morrowind/mods/51037) by a deadly donut  
 [**Bitter Coast Houseboat**](https://www.nexusmods.com/morrowind/mods/51032) by Jan Heuser and Danae  
+[**Seyda Neen Tradehouse Basement**](https://www.nexusmods.com/morrowind/mods/51135) by Tizzo  
+[**Blades hideout player home**](https://www.nexusmods.com/morrowind/mods/51154) by jacobp561  
+[**Slof's Daedric Mansion**](https://www.nexusmods.com/morrowind/mods/51155) by Trylobit and AlienSlof  
+[**St Meris' Rest**](https://www.nexusmods.com/morrowind/mods/51168) by Markond  
+[**Ma'Kaari's Concern Pelagiad Player Home**](https://www.nexusmods.com/morrowind/mods/51178) by Cjs378  
+[**Ald Velothi liveaboard sailboat**](https://www.nexusmods.com/morrowind/mods/51239) by Cole Perry  
+[**Haunted House**](https://www.nexusmods.com/morrowind/mods/51261) by dietbob196045  
+[**Caldera South Estate 1.1**](https://www.nexusmods.com/morrowind/mods/51265) by Jawohlca  
+[**AST Free Quarters in Vivec**](https://www.nexusmods.com/morrowind/mods/51272) by Aisis  
+[**Unique Home**](https://www.nexusmods.com/morrowind/mods/51284) by The Wanderer  
+[**Player Home in Seyda Neen - Cloud Storage Addon**](https://www.nexusmods.com/morrowind/mods/51307) by The Wanderer  
+[**Balmora Buyable House**](https://www.nexusmods.com/morrowind/mods/51317) by JoTa5  
+[**Journey's End - Tamriel Rebuilt Edition**](https://www.nexusmods.com/morrowind/mods/51320) by Lochnarus -- Revised by TheNocturus  
+[**Vertical Balmora - Player Home**](https://www.nexusmods.com/morrowind/mods/51330) by The Wanderer  
+[**Anna-Sera**](https://www.nexusmods.com/morrowind/mods/51343) by Juidius Xentao  
+[**The Maniac's Mansion (OAAB required)**](https://www.nexusmods.com/morrowind/mods/51374) by Nerevec  
+[**Balmora Base of Operations**](https://www.nexusmods.com/morrowind/mods/51378) by Denina  
+[**Cozy Sailen Home (Tamriel Rebuilt)**](https://www.nexusmods.com/morrowind/mods/51404) by Sundelius  
+[**Mirador Castle**](https://www.nexusmods.com/morrowind/mods/51342) by The Wanderer and Dietbob  
+[**Old Ebonheart Alchemist's Tower**](https://www.nexusmods.com/morrowind/mods/51421) by Istreddify  
+[**Rundown Home**](https://www.nexusmods.com/morrowind/mods/51425) by Juidius Xentao  
+[**Fabulous Hlaalo Manor**](https://www.nexusmods.com/morrowind/mods/51438) by TheNocturus  
+[**Balyn Omarel's (player) home - Balmora**](https://www.nexusmods.com/morrowind/mods/51469) by sletten93  
 
 ## Cloud Storage Compatible
 [**Cloud Storage Warehouse - Storage Resource for Packrats**](https://www.nexusmods.com/morrowind/mods/50386) by TheWanderer  
@@ -59,3 +82,19 @@
 [**Drathen Hall - Player Home in Suran**](https://www.nexusmods.com/morrowind/mods/50784) by TheWanderer  
 [**Sifkining Manor - Cloud Storage Compatible**](https://www.nexusmods.com/morrowind/mods/50836) by TheWanderer  
 [**Bitter Coast Houseboat**](https://www.nexusmods.com/morrowind/mods/51032) by Jan Heuser and Danae  
+[**Balmora Mages Guild - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/51093) by The Wanderer  
+[**Balmora Fighters Guild - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/51094) by The Wanderer  
+[**Ald-ruhn Fighters Guild - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/51091) by The Wanderer  
+[**Ald-ruhn Mages Guild - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/51090) by The Wanderer  
+[**The Banshee - Cloud Storage Compatibility Addon**](https://www.nexusmods.com/morrowind/mods/51118) by The Wanderer  
+[**The Banshee - Dockside Clutter addon**](https://www.nexusmods.com/morrowind/mods/51117) by The Wanderer  
+[**The Banshee - Player home - New dock and Boat travel from Gnisis**](https://www.nexusmods.com/morrowind/mods/51088) by The Wanderer  
+[**Wolverine Hall Mages Guild - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/51102) by The Wanderer  
+[**Wolverine Hall Fighters Guild - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/51103) by The Wanderer  
+[**Vivec Mages Guild - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/51105) by The Wanderer  
+[**Vivec Fighters Guild - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/51104) by The Wanderer  
+[**Rundown House**](https://www.nexusmods.com/morrowind/mods/51110) by dietbob196045  
+[**Balmora Player Home - Cloud Storage Compatibility addon**](https://www.nexusmods.com/morrowind/mods/51147) by The Wanderer  
+[**Vivec Goran Manor - Cloud Storage Compatibility addon**](https://www.nexusmods.com/morrowind/mods/51148) by The Wanderer  
+[**Player Home in Seyda Neen - Cloud Storage Addon**](https://www.nexusmods.com/morrowind/mods/51307) by The Wanderer  
+[**Balmora Player Home by jaye - Cloud Storage Addon**](https://www.nexusmods.com/morrowind/mods/51311) by The Wanderer  

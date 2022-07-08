@@ -101,6 +101,7 @@ Adds Divine-specific variations of the Imperial Cult altars.
 [**High Back Chairs**](https://www.nexusmods.com/morrowind/mods/47075) by Dietbob  
 [**Outlander Asset Library**](https://www.patreon.com/posts/outlander-11784257) by LondonRook  
 [**Stripes' Random Resources**](https://www.nexusmods.com/morrowind/mods/47471) by Stripes  
+[**Ingredient Boxes**](https://www.nexusmods.com/morrowind/mods/51233) by The Wanderer  
 
 ## clutter
 [**Functional Dice**](http://download.fliggerty.com/download--1047) by Stuporstar  
@@ -179,6 +180,7 @@ Included here rather than in common because it's a completely new tileset and do
 [**The Old Wizard's Library**](https://www.nexusmods.com/morrowind/mods/47263) by afroamerican  
 [**Outlander Asset Library**](https://www.patreon.com/posts/outlander-11784257) by LondonRook  
 [**VFX Meshbank**](https://www.nexusmods.com/morrowind/mods/49695) by Kurpulio  
+[**Blank Class and Levelup Image**](https://www.nexusmods.com/morrowind/mods/51509) by Hemaris  
 
 # To be investigated
 [**jdoobies taverns**](http://mw.modhistory.com/download-55-15395) by jdooby  

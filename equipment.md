@@ -120,9 +120,30 @@ Duke's Silver Armor:
 [**Firearms in the Third Era**](https://www.nexusmods.com/morrowind/mods/50968) by AllanBorne  
 [**Aspect of Azura**](https://www.nexusmods.com/morrowind/mods/51079) by Melchior Dahrk   
 [**MWSE Satchels and Bags**](https://www.nexusmods.com/morrowind/mods/51063) by FrummYonda Safebox  
+[**Hein's Morag Tong Armors**](https://www.nexusmods.com/morrowind/mods/51144) by Heinrich Ruffin Vangarr and Caeris  
+[**Vanilla Hairs as Wigs**](https://www.nexusmods.com/morrowind/mods/51181) by AlandroSul  
+[**Fashionwind - MWSE Horns and Antlers**](https://www.nexusmods.com/morrowind/mods/51209) by Ruffin Vangarr  
+[**Wigs and Things**](https://www.nexusmods.com/morrowind/mods/51184) by The Wanderer  
+[**GV's Armor Expansion**](https://www.nexusmods.com/morrowind/mods/51222) by GrumblingVomit  
+[**Aradia's Needle - OAAB Grazelands Compatible**](https://www.nexusmods.com/morrowind/mods/50807) by Original by Oni-K - patched by RaveBlack  
+[**DRIP - Dynamic Randomised Item Properties**](https://www.nexusmods.com/morrowind/mods/51242) by Merlord  
+[**Weaponry of Resdayn Rebalanced**](https://www.nexusmods.com/morrowind/mods/51247) by Rosynant  
+[**Arcanum's Goggled Helm**](https://www.nexusmods.com/morrowind/mods/51292) by FrummYonda  
+[**Scissors and Thimbles Complete**](https://www.nexusmods.com/morrowind/mods/51345) by Keazen  
+[**Dwemer Cycle**](https://www.nexusmods.com/morrowind/mods/51410) by Safebox  
+[**Cannon's Loot Redistributor**](https://www.nexusmods.com/morrowind/mods/51411) by ArchcanonCannon  
+[**Security Expertise**](https://www.nexusmods.com/morrowind/mods/51412) by VitruvianGuar  
+[**Tools of the Secret Master**](https://www.nexusmods.com/morrowind/mods/51415) by Necrolesian  
+[**Colovian Fur Hat**](https://www.nexusmods.com/morrowind/mods/51475) by Braix  
+[**awakemon's Exquisite Robe Recolors**](https://www.nexusmods.com/morrowind/mods/51534) by awakemon  
+[**Exquisite Robe Material Restoration and Feature Creep**](https://www.nexusmods.com/morrowind/mods/51520) by Stripes  
+[**Arcimaestro Antares Oil Flask Vials and Traps**](https://www.nexusmods.com/morrowind/mods/51553) by Arcimaestro Antares  
+[**'Foyadas of Blood' Dai-Katana and Urn Helmet**](https://www.nexusmods.com/morrowind/mods/51555) by SerVerlindlinde  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
+[**Waresifier**](https://www.nexusmods.com/morrowind/mods/51390) by Aurel Danae  
+
 [**Vaernis' Armor and Shields**](https://www.nexusmods.com/morrowind/mods/49693) by Danae  
 [**Silaria's Clothes for Wares**](https://www.nexusmods.com/morrowind/mods/49730) by Danae  
 [**Aleanne's Clothes for Wares**](https://www.nexusmods.com/morrowind/mods/49732) by Danae  
@@ -143,6 +164,8 @@ Duke's Silver Armor:
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
 [**Properly Fitted Female Pants**](https://www.nexusmods.com/morrowind/mods/49673) by Discontinuous Qualia  
 [**Remiros' Uniques**](https://www.nexusmods.com/morrowind/mods/49674) by Remiros  
+[**Restyled Helmet Replacer V1.5**](https://www.nexusmods.com/morrowind/mods/51049) by Ruffin Vangarr  
+[**Imperium - Imperial Armour Expanded**](https://www.nexusmods.com/morrowind/mods/51408) by Endoran  
 
 # Weapons 
 [**Daedric Estoc**](https://www.nexusmods.com/morrowind/mods/49620) by insicht  
@@ -152,3 +175,23 @@ Duke's Silver Armor:
 [**Spears Use Strength**](https://www.nexusmods.com/morrowind/mods/50288) by xxxninja666xxx   
 [**Bronze Sickle-sword**](https://www.nexusmods.com/morrowind/mods/50624) by elucidace  
 [**Knight's Lance**](https://www.nexusmods.com/morrowind/mods/51041) by Aediin  
+[**Batarang by Altered Existence - Topher**](https://www.nexusmods.com/morrowind/mods/51099) by Topher Lee  
+[**Polearms RESPECted - Spears Halberds Glaives and More**](https://www.nexusmods.com/morrowind/mods/51125) by Discontinuous Qualia  
+[**Vampire Blade - Poludipsios**](https://www.nexusmods.com/morrowind/mods/51134) by GrumblingVomit  
+[**Marksman's Eye**](https://www.nexusmods.com/morrowind/mods/51141) by johnnyhostile  
+[**Xerxes**](https://www.nexusmods.com/morrowind/mods/51177) 
+[**Martilahivan**](https://www.nexusmods.com/morrowind/mods/51208) by CantinaBoy  
+[**Halberds Chop**](https://www.nexusmods.com/morrowind/mods/51212) by Boggalog  
+[**Zeddy's Void Spear**](https://www.nexusmods.com/morrowind/mods/51221) by FishermanZeddy  
+[**CB's Boomstick Demo**](https://www.nexusmods.com/morrowind/mods/51229) by CantinaBoy  
+[**Knuckles - A weapon for Hand to Hand combat**](https://www.nexusmods.com/morrowind/mods/51258) by The Wanderer  
+[**Naginatas**](https://www.nexusmods.com/morrowind/mods/51259) by HopefulShark  
+[**Jawohl Onehanded Spears and Variety 1.1**](https://www.nexusmods.com/morrowind/mods/51264) by Jawohlca  
+[**Barber Shop**](https://www.nexusmods.com/morrowind/mods/51270) by The Wanderer  
+[**Chitice Dagger and Short Sword**](https://www.nexusmods.com/morrowind/mods/51293) by The Wanderer  
+[**Chitice Long Sword and Claymore**](https://www.nexusmods.com/morrowind/mods/51313) by The Wanderer  
+[**Cold Chit**](https://www.nexusmods.com/morrowind/mods/51325) by dietbob196045  
+[**Clean FZ's Mudcrab War Pick**](https://www.nexusmods.com/morrowind/mods/51340) by FishermanZeddy  
+[**FZ's Plumbata**](https://www.nexusmods.com/morrowind/mods/51454) by FishermanZeddy  
+[**Weapons Expansion Project**](https://www.nexusmods.com/morrowind/mods/51587) by Anroha  
+[**Improved Weapon Meshes and Weapon Sheathing - Bow Position Edit Patches**](https://www.nexusmods.com/morrowind/mods/51588) by Pherim - Kyim - Greatness7 and Svarttjern  
