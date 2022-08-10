@@ -139,6 +139,7 @@ Duke's Silver Armor:
 [**Exquisite Robe Material Restoration and Feature Creep**](https://www.nexusmods.com/morrowind/mods/51520) by Stripes  
 [**Arcimaestro Antares Oil Flask Vials and Traps**](https://www.nexusmods.com/morrowind/mods/51553) by Arcimaestro Antares  
 [**'Foyadas of Blood' Dai-Katana and Urn Helmet**](https://www.nexusmods.com/morrowind/mods/51555) by SerVerlindlinde  
+[**Ancient Headdress**](https://mw.modhistory.com/download-55-6068) by Phijama  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
