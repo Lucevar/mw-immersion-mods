@@ -61,50 +61,41 @@ Updates vanilla classes to be more useable, makes NPC classes playable, adds a v
 100+ classes (vanilla, NPC classes, TR classes, new classes) that get a specific set of items and/or spells and powers as well as MWSE skill buffs. specifically tailored to your class. Loadouts include vanilla, TR, OAAB, and, depending on your modlist, **items from your mods.** Includes custom classes.
 
 # Starting Abilities and Powers
+## Races
 [**Beast Race Abilities Toggleable**](https://www.nexusmods.com/morrowind/mods/44948) by PhDinSorcery  
-
-[**Expanded Birthsigns for Purists**](https://www.nexusmods.com/morrowind/mods/18016) by Cael_Aurion  
-
-[**Useful Starting Spells**](https://www.nexusmods.com/morrowind/mods/40439) by Tizzo  
-
-[**Vampire Character Generation**](https://www.nexusmods.com/morrowind/mods/47268) by SuperHobbit  
-
-[**Class Starting Spells**](https://www.nexusmods.com/morrowind/mods/49010/) by Vitruvian Guar  
-
-[**MTR Balanced Birthsigns**](https://www.nexusmods.com/morrowind/mods/49677) by MTR  
-
+[**MTR Balanced Races**](https://www.nexusmods.com/morrowind/mods/49915) by MTR  
+[**Interesting Races**](https://www.nexusmods.com/morrowind/mods/50192) by lorien  
+[**Powers-Based Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/50384) by bloodskalbarbarian  
+[**Predator Beast Races**](https://www.nexusmods.com/morrowind/mods/48894) by Qwertyquit  
+[**Complete Race and Birthsign Overhaul**](https://www.nexusmods.com/morrowind/mods/50829) by obelus  
+[**Amyrha's Race Rebalance**](https://www.nexusmods.com/morrowind/mods/50668) by Amyrha  
+[**Races Reimagined**](https://www.nexusmods.com/morrowind/mods/51153) by Trancemaster_1988  
+[**Immersive Races Enhanced**](https://www.nexusmods.com/morrowind/mods/51304) by OikeaHetki  
+[**Randolph's Rebalanced Races**](https://www.nexusmods.com/morrowind/mods/51570) by Randolph Carter  
 [**Circumstances**](https://www.nexusmods.com/morrowind/mods/49830) by JaceyS  
 
-[**MTR Balanced Races**](https://www.nexusmods.com/morrowind/mods/49915) by MTR  
-
-[**Interesting Races**](https://www.nexusmods.com/morrowind/mods/50192) by lorien  
-
-[**Written in the Stars**](https://www.nexusmods.com/morrowind/mods/50378) by Danae  
-
+## Birthsigns
+[**Expanded Birthsigns for Purists**](https://www.nexusmods.com/morrowind/mods/18016) by Cael_Aurion  
+[**Useful Starting Spells**](https://www.nexusmods.com/morrowind/mods/40439) by Tizzo  
+[**MTR Balanced Birthsigns**](https://www.nexusmods.com/morrowind/mods/49677) by MTR  
 [**Powers-Based Races and Birthsigns**](https://www.nexusmods.com/morrowind/mods/50384) by bloodskalbarbarian  
-
 [**Birthsign Compendium**](https://www.nexusmods.com/morrowind/mods/50441) by FirefallJumper  
-
-[**Predator Beast Races**](https://www.nexusmods.com/morrowind/mods/48894) by Qwertyquit  
-
+[**Written in the Stars**](https://www.nexusmods.com/morrowind/mods/50378) by Danae  
 [**The Definitive Birthsigns Pack**](https://www.nexusmods.com/morrowind/mods/50610) by Doy and IceNine  
-
-[**Amyrha's Race Rebalance**](https://www.nexusmods.com/morrowind/mods/50668) by Amyrha  
-
 [**Complete Race and Birthsign Overhaul**](https://www.nexusmods.com/morrowind/mods/50829) by obelus  
-
 [**The Astrologer and the Nightsky**](https://www.nexusmods.com/morrowind/mods/50956) by Sephumbra and Danae  
-
 [**On the Cusp - A Birthsign Mod**](https://www.nexusmods.com/morrowind/mods/51057) by Juidius Xentao  
-
-[**Races Reimagined**](https://www.nexusmods.com/morrowind/mods/51153) by Trancemaster_1988  
-
 [**Moon and Stars (Eclipses and Aspects)**](https://www.nexusmods.com/morrowind/mods/51173) by Stories of Tamriel Mod Team  
-
 [**Birthsigns without Attribute Bonuses**](https://www.nexusmods.com/morrowind/mods/51298) by oikeahetki  
+[**Seven Varieties of Shadow -- A Birthsign Mod**](https://www.nexusmods.com/morrowind/mods/51600) by Glittergear and jkulhavy  
+[**Circumstances**](https://www.nexusmods.com/morrowind/mods/49830) by JaceyS  
 
-[**Immersive Races Enhanced**](https://www.nexusmods.com/morrowind/mods/51304) by OikeaHetki  
+## Supernatural Creatures
+[**Vampire Character Generation**](https://www.nexusmods.com/morrowind/mods/47268) by SuperHobbit  
+[**Vampire and Werewolf Character Generation**](https://www.nexusmods.com/morrowind/mods/47268) by SuperHobbit  
 
+## Starting Spells
+[**Class Starting Spells**](https://www.nexusmods.com/morrowind/mods/49010/) by Vitruvian Guar  
 [**Sensible Starting Spells**](https://www.nexusmods.com/morrowind/mods/51574) by Randolph Carter  
 
 ## New Races
@@ -178,3 +169,9 @@ Gives the player the option to start in six different cities.
 
 [**Better Chargen**](https://www.nexusmods.com/morrowind/mods/43995) by helswake  
 Similar to Immersive Chargen but much less drastic. Gets rid of the tutorials, redesigns the census and excise office to be more office like and to prevent theft, and sets the start time to night.  
+
+[**Streamlined Seyda Neen - No Message Boxes**](https://www.nexusmods.com/morrowind/mods/51568) by dillonn907  
+Gets rid of the unnecessary tutorial message boxes in the intro of the game
+
+[**Seyda Neen - Arrive at Night**](https://www.nexusmods.com/morrowind/mods/51567) by dillonn907  
+Start the game at 9pm. When you arrive at Seyda Neen it will already be nighttime.

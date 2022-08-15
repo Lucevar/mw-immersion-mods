@@ -48,6 +48,7 @@
 [**Cantons on the Global Map**](https://www.nexusmods.com/morrowind/mods/50534) by Hemaris  
 [**Cloud Storage for Silt Strider Ports**](https://www.nexusmods.com/morrowind/mods/51145) by The Wanderer  
 [**Cloud Storage for Boat Travel Ports**](https://www.nexusmods.com/morrowind/mods/51146) by The Wanderer  
+[**Markets and Caravans**](https://www.nexusmods.com/morrowind/mods/51704) by baronnolanvonstraya  
 
 # Tamriel Rebuilt
 [**Unique Tavern Signs for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/46794) by Rats  
@@ -92,7 +93,7 @@ For new quests, try [**Tales of Seyda Neen**](http://mw.modhistory.com/download-
 
 For a whole-Bitter Coast overhaul, try [**Resdayn Revival - Bitter Coast**](https://www.nexusmods.com/morrowind/mods/47772) by Zobator  
 
-Other alternatives include but are not limited to [**Seyda Neen Slums**](https://www.nexusmods.com/morrowind/mods/46837?tab=posts), [**More Detailed Places Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46231), [**Seyda Neen Tree Removal**](https://www.nexusmods.com/morrowind/mods/45990) for an expanded and treeless Seyda Neen, [**Lived Towns - Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46703), [**Seyda Neen Houseboat**](https://www.nexusmods.com/morrowind/mods/43364), [**Princess Docks**](http://mw.modhistory.com/download-90-7147), [**More Seyda Neen**](http://mw.modhistory.com/download-4-5133) by -J, [**Seyda Neen Harbour**](https://www.nexusmods.com/morrowind/mods/42433) by Ian Bitters, [**Mireneye's Vistas - Seyda Neen**](http://mw.modhistory.com/download-44-11876), [**Prancing Ash Inn**](https://www.nexusmods.com/morrowind/mods/41220) by ChakaZg, [**The Silver Barrel**](https://www.nexusmods.com/morrowind/mods/42236) and [**Trancemaster's New Seyda Neen**](https://www.nexusmods.com/morrowind/mods/42234), [**Coyote's Expanded Seyda Neen**](https://www.nexusmods.com/morrowind/mods/48388), [**Swampy Seyda Neen**](https://www.nexusmods.com/morrowind/mods/48561), [**Cozy Seyda Neen**](https://www.nexusmods.com/morrowind/mods/49309) by Mika, [**Seyda Neen Compendium**](https://www.nexusmods.com/morrowind/mods/49364) by SpiritTauren, [**Lovely Bitter Coast**](https://www.nexusmods.com/morrowind/mods/49488) by Mika, [**Seyda Neen Expanded**](https://www.nexusmods.com/morrowind/mods/50466) by Tel Shadow, [**Seyda Neen Apex**](https://www.nexusmods.com/morrowind/mods/50982) by Morroholic.  
+Other alternatives include but are not limited to [**Seyda Neen Slums**](https://www.nexusmods.com/morrowind/mods/46837?tab=posts), [**More Detailed Places Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46231), [**Seyda Neen Tree Removal**](https://www.nexusmods.com/morrowind/mods/45990) for an expanded and treeless Seyda Neen, [**Lived Towns - Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46703), [**Seyda Neen Houseboat**](https://www.nexusmods.com/morrowind/mods/43364), [**Princess Docks**](http://mw.modhistory.com/download-90-7147), [**More Seyda Neen**](http://mw.modhistory.com/download-4-5133) by -J, [**Seyda Neen Harbour**](https://www.nexusmods.com/morrowind/mods/42433) by Ian Bitters, [**Mireneye's Vistas - Seyda Neen**](http://mw.modhistory.com/download-44-11876), [**Prancing Ash Inn**](https://www.nexusmods.com/morrowind/mods/41220) by ChakaZg, [**The Silver Barrel**](https://www.nexusmods.com/morrowind/mods/42236) and [**Trancemaster's New Seyda Neen**](https://www.nexusmods.com/morrowind/mods/42234), [**Coyote's Expanded Seyda Neen**](https://www.nexusmods.com/morrowind/mods/48388), [**Swampy Seyda Neen**](https://www.nexusmods.com/morrowind/mods/48561), [**Cozy Seyda Neen**](https://www.nexusmods.com/morrowind/mods/49309) by Mika, [**Seyda Neen Compendium**](https://www.nexusmods.com/morrowind/mods/49364) by SpiritTauren, [**Lovely Bitter Coast**](https://www.nexusmods.com/morrowind/mods/49488) by Mika, [**Seyda Neen Expanded**](https://www.nexusmods.com/morrowind/mods/50466) by Tel Shadow, [**Seyda Neen Apex**](https://www.nexusmods.com/morrowind/mods/50982) by Morroholic, [**Seyda Neen - Final Impact**](https://www.nexusmods.com/morrowind/mods/51633) by Zerraphin.  
 
 ## Hla Oad
 [**The Drop Off**](https://www.nexusmods.com/morrowind/mods/46827) by Darkry115  
@@ -136,6 +137,7 @@ For a more restrained aesthetic. Adds appropriate clutter to Gnaar Mok but doesn
 [**Dallara Suran**](https://www.nexusmods.com/morrowind/mods/51228) by Dallara1000  
 [**Suran - Mages Guild**](https://www.nexusmods.com/morrowind/mods/51444) by Utseeva  
 [**Suran sewers**](https://www.nexusmods.com/morrowind/mods/51499) by RandomPal  
+[**Suran Silt Skiff**](https://www.nexusmods.com/morrowind/mods/51697) by Juidius Xentao  
 
 ## Vivec
 ### Vivec - Exteriors 
@@ -157,6 +159,7 @@ Patch for Holidays Across Tamriel [here](https://www.nexusmods.com/morrowind/mod
 [**Vivec Silt Strider Port**](https://www.nexusmods.com/morrowind/mods/51392) by The Wanderer  
 [**Vivec Foreign Quarter Bridge**](https://www.nexusmods.com/morrowind/mods/51420) by WulfShaman  
 [**Vivec with trees**](https://www.nexusmods.com/morrowind/mods/51585) by oribba  
+[**Less empty cantons of Vivec**](https://www.nexusmods.com/morrowind/mods/51592) by DuoDinamico aka RandomPal and Vegetto  
 
 ### Vivec - Interiors
 [**Canalworks Connected**](https://www.nexusmods.com/morrowind/mods/47354) by iLoveOnFear  
@@ -167,6 +170,7 @@ Patch for Holidays Across Tamriel [here](https://www.nexusmods.com/morrowind/mod
 [**Waterfall Lights Remover**](https://www.nexusmods.com/morrowind/mods/50437) by Necrolesian  
 [**Vivec Mages Guild - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/51105) by The Wanderer  
 [**Vivec Fighters Guild - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/51104) by The Wanderer  
+[**Foreign Quarter Market Square**](https://www.nexusmods.com/morrowind/mods/51700) by MwGek  
 
 ### Vivec - Taverns
 [**Vivec Tea Room**](https://www.nexusmods.com/morrowind/mods/44320)  
@@ -188,6 +192,7 @@ Patch for Holidays Across Tamriel [here](https://www.nexusmods.com/morrowind/mod
 [**Altar of the High Fane**](https://www.nexusmods.com/morrowind/mods/49631) by FyreAlchemage  
 
 [**Passage of Prayers**](https://www.nexusmods.com/morrowind/mods/46786) by Leyawynn, Sataniel & Remiros  
+[**Humble Prayer Hall**](https://www.nexusmods.com/morrowind/mods/51625) by Silentjacket  
 [**(Slightly Less) Dramatic Vivec - Temple**](https://www.nexusmods.com/morrowind/mods/48261) by Dagoth Slayer  
 [**Dramatic Temple Canton**](https://www.nexusmods.com/morrowind/mods/49286) by RandomPal  
 [**Vivec Temple Exterior Overhaul**](https://www.nexusmods.com/morrowind/mods/48191) by Dmettler  
@@ -259,6 +264,7 @@ A mega-merge of most of the popular Sadrith Mora mods, edited for performance an
 [**Telvanni Council House Lounge Room**](https://www.nexusmods.com/morrowind/mods/49285) by RandomPal  
 [**Telvanni Lighthouse in Sadrith Mora**](https://www.nexusmods.com/morrowind/mods/49461) by RandomPal  
 [**Telvanni Council Lounge Alternate**](https://www.nexusmods.com/morrowind/mods/49804) by COricus  
+[**OAAB Market**](https://www.nexusmods.com/morrowind/mods/51687) by Kalinter  
 
 [**Wolverine Hall Overhaul**](https://www.nexusmods.com/morrowind/mods/46672) by Mort  
 Have you ever thought that Wolverine Hall must have been designed by Sheogorath, specifically to frustrate you? So did mort. So he fixed it (and gave the mages some beds while he was at it.)  
@@ -299,6 +305,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 [**Vos X**](https://www.nexusmods.com/morrowind/mods/46959) by Pinsvinn  
 [**Red Vos**](https://www.nexusmods.com/morrowind/mods/44729) by Tyddyner and Melchior Dahrk  
 [**Romantic Vos**](https://www.nexusmods.com/morrowind/mods/49418) by Mika  
+[**More Progressive Vos**](https://www.nexusmods.com/morrowind/mods/51701) by Maligerent  
 
 ## Tel Mora
 [**Of Ash and Blight - Tel Mora**](https://www.nexusmods.com/morrowind/mods/46177) by Melchior Dahrk  
@@ -355,6 +362,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 [**Tales of Ald Velothi**](https://www.nexusmods.com/morrowind/mods/47276) by Team Balmora Bandits  
 [**Properly Cluttered Ald Velothi**](https://www.nexusmods.com/morrowind/mods/48811) by RandomPal - Tales of Ald Velothi's clutter without the quest attached  
 [**Enchanted Ald Velothi**](https://www.nexusmods.com/morrowind/mods/49404) by Mika  
+[**URH - Ald Velothi**](https://www.nexusmods.com/morrowind/mods/51590) by MwGek  
 
 ## Khuul
 [**Khuul Expanded**](https://www.nexusmods.com/morrowind/mods/32643) by caseytucker  
@@ -362,6 +370,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 [**Cool Khuul Docks**](https://www.nexusmods.com/morrowind/mods/47852) by Alice    
 [**Grim Khuul**](https://www.nexusmods.com/morrowind/mods/49404) by Mika  
 [**Thongar's Tradehouse Expanded**](https://www.nexusmods.com/morrowind/mods/49625) by RandomPal  
+[**Tirram Terala's Treasure Trove of Trinkets**](https://www.nexusmods.com/morrowind/mods/51699) by Remiros  
 
 Alternatively, [**Vvardenfell Revisited - Khuul**](https://www.nexusmods.com/morrowind/mods/46614) by EnnetWinterhoof, or [**Milik's Khuul Facelift**](https://www.nexusmods.com/morrowind/mods/19657) by Milik.    
 
@@ -417,6 +426,8 @@ or
 [**Vertical Balmora - Vori's House**](https://www.nexusmods.com/morrowind/mods/51384) by Dietbob and The Wanderer  
 [**Amazing Balmora Expansion**](https://www.nexusmods.com/morrowind/mods/51387) by Eluwil  
 [**Fabulous Hlaalo Manor**](https://www.nexusmods.com/morrowind/mods/51438) by TheNocturus  
+[**Balmora - The City of Contrasts**](https://www.nexusmods.com/morrowind/mods/51571) by VitruvianGuar  
+[**Balmora Gravemarket**](https://www.nexusmods.com/morrowind/mods/51696) by Markond  
 
 [**Fort Moonmoth Expanded**](https://www.nexusmods.com/morrowind/mods/46963) by Yommumoi  
 [**Moonmoth Legion Fort Overhaul**](https://www.nexusmods.com/morrowind/mods/48835) by RandomPal  

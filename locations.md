@@ -19,6 +19,7 @@
 [**Water Flow Markers**](https://www.nexusmods.com/morrowind/mods/50674) by Stripes  
 [**Astrology Shrines**](https://www.nexusmods.com/morrowind/mods/51301) by Billyfighter  
 [**Ashlander Camps - Cloud Storage Addon**](https://www.nexusmods.com/morrowind/mods/51291) by The Wanderer  
+[**Landmarks**](https://www.nexusmods.com/morrowind/mods/51668) by Publicola  
 
 ## Grass
 [**Aesthesia Updated Groundcover for Tamriel Rebuilt**](https://www.nexusmods.com/morrowind/mods/50670) by Citadel  
@@ -36,6 +37,7 @@
 [**Parasol Particles**](https://www.nexusmods.com/morrowind/mods/47755) by Melchior Dahrk  
 [**Perfectly Proficient Parasol Particles Performance Patch**](https://www.nexusmods.com/morrowind/mods/48923) by revenorror  
 [**Sunflower in Morrowind - For Ukraine**](https://www.nexusmods.com/morrowind/mods/50851) by Alice  
+[**The Pearl Divers**](https://www.nexusmods.com/morrowind/mods/51703) by globemallow  
 
 ## Ashlands
 [**RR - Ghostgate Fortress**](https://www.nexusmods.com/morrowind/mods/45822) by the Resdayn Revival Team  
@@ -67,6 +69,7 @@
 [**Nchurdamz Falls**](https://www.nexusmods.com/morrowind/mods/51109) by GrumblingVomit  
 [**Bal Molhe'ath Temple**](https://www.nexusmods.com/morrowind/mods/51428) by kappabird  
 [**RR Marble Azura Fix**](https://www.nexusmods.com/morrowind/mods/51576) by Morrowind Community and Resdayn Revival Team - Katya Karrel  
+[**Smuggler's Market**](https://www.nexusmods.com/morrowind/mods/51698) by Billyfighter  
 
 ## Bitter Coast  
 [**Rainforrest of the Bitter Coast**](http://mw.modhistory.com/download-53-10251) by the viKING  
@@ -92,6 +95,7 @@
 [**Sea Dog Tavern**](https://www.nexusmods.com/morrowind/mods/49978) by Billyfighter  
 [**Dwemer's Vestiges**](https://www.nexusmods.com/morrowind/mods/50455) by Vegetto  
 [**Melchior's Excellent Grazelands Acacia**](https://www.nexusmods.com/morrowind/mods/51058) by Melchior Dahrk  
+[**Thickle-Lo Grove**](https://www.nexusmods.com/morrowind/mods/51689) by Katya Karrel  
 
 ## Molag Amur
 [**Shrine of Mount Assarnibi**](https://www.nexusmods.com/morrowind/mods/46858) by istreddify  

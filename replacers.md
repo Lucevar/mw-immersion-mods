@@ -74,6 +74,7 @@
 [**Detailed Daedroth - Another Creature Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/51542) by Pherim  
 [**Dim Glass - Less Irritating Glass Armor and Weapon**](https://www.nexusmods.com/morrowind/mods/51544) by Max Yari aka SinnerSmile  
 [**Improved Weapon Meshes and Weapon Sheathing - Bow Position Edit Patches**](https://www.nexusmods.com/morrowind/mods/51588) by Pherim - Kyim - Greatness7 and Svarttjern  
+[**Vivec's Ash Mask**](https://www.nexusmods.com/morrowind/mods/51711) by Ortiee  
 
 # Mod Replacers
 [**Red sclera eyes for Julan**](https://www.nexusmods.com/morrowind/mods/47277?tab=description) by Leetmorry  

@@ -140,6 +140,15 @@ Duke's Silver Armor:
 [**Arcimaestro Antares Oil Flask Vials and Traps**](https://www.nexusmods.com/morrowind/mods/51553) by Arcimaestro Antares  
 [**'Foyadas of Blood' Dai-Katana and Urn Helmet**](https://www.nexusmods.com/morrowind/mods/51555) by SerVerlindlinde  
 [**Ancient Headdress**](https://mw.modhistory.com/download-55-6068) by Phijama  
+[**Dragon priest masks**](https://www.nexusmods.com/morrowind/mods/51638) by Midgetalien  
+[**Dragon Priest Helms**](https://www.nexusmods.com/morrowind/mods/51644) by dietbob196045  
+[**Morokei Mask**](https://www.nexusmods.com/morrowind/mods/51646) by Midgetalien  
+[**Fashionwind - MWSE Masks and Facewraps**](https://www.nexusmods.com/morrowind/mods/51610) by Ruffin Vangarr  
+[**Danaes DRIP Depot**](https://www.nexusmods.com/morrowind/mods/51645) by Danae  
+[**Arctic Steel**](https://www.nexusmods.com/morrowind/mods/51647) by Midgetalien  
+[**Sacred Necromancer Armor**](https://www.nexusmods.com/morrowind/mods/51651) by Ruffin Vangarr  
+[**SM Dress Gown Set**](https://www.nexusmods.com/morrowind/mods/51666) by ShadowMimicry  
+[**Morag Tong Armor Revisited**](https://www.nexusmods.com/morrowind/mods/51728) by NazoX9 Rosynant  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
@@ -160,6 +169,7 @@ Duke's Silver Armor:
 [**Wares for NPCs**](https://www.nexusmods.com/morrowind/mods/49997) by Danae  
 [**Amulets by Xiamara for Wares - Vanity Edition**](https://www.nexusmods.com/morrowind/mods/50015) by qwertyquit  
 [**Panoplies -- Helluva Ways to Suit Up**](https://www.nexusmods.com/morrowind/mods/50430) by Danae  
+[**The Warehouse - Wares-aware mod collection**](https://www.nexusmods.com/morrowind/mods/51657) by Danae  
 
 # Replacers
 [**Oblivion Inpired Dark Brotherhood Armor**](http://mw.modhistory.com/download-37-11319) by Westly  
@@ -167,6 +177,7 @@ Duke's Silver Armor:
 [**Remiros' Uniques**](https://www.nexusmods.com/morrowind/mods/49674) by Remiros  
 [**Restyled Helmet Replacer V1.5**](https://www.nexusmods.com/morrowind/mods/51049) by Ruffin Vangarr  
 [**Imperium - Imperial Armour Expanded**](https://www.nexusmods.com/morrowind/mods/51408) by Endoran  
+[**Snow Prince Enhanced**](https://www.nexusmods.com/morrowind/mods/51639) by Midgetalien  
 
 # Weapons 
 [**Daedric Estoc**](https://www.nexusmods.com/morrowind/mods/49620) by insicht  
@@ -196,3 +207,9 @@ Duke's Silver Armor:
 [**FZ's Plumbata**](https://www.nexusmods.com/morrowind/mods/51454) by FishermanZeddy  
 [**Weapons Expansion Project**](https://www.nexusmods.com/morrowind/mods/51587) by Anroha  
 [**Improved Weapon Meshes and Weapon Sheathing - Bow Position Edit Patches**](https://www.nexusmods.com/morrowind/mods/51588) by Pherim - Kyim - Greatness7 and Svarttjern  
+[**Monument to a Forgotten Hero**](https://www.nexusmods.com/morrowind/mods/51609) by aitrus  
+[**The Death Blow of Abernanit**](https://www.nexusmods.com/morrowind/mods/51660) by Stories of Tamriel Mod Team  
+[**Simple Silver Swords**](https://www.nexusmods.com/morrowind/mods/51664) by Vidi_Aquam  
+[**(AshFall) Axe Additions**](https://www.nexusmods.com/morrowind/mods/51716) by MwGek  
+[**Wings of the Queen of Bats**](https://www.nexusmods.com/morrowind/mods/51727) by LH23  
+[**Serendipitous Spears**](https://www.nexusmods.com/morrowind/mods/51730) by RupertTCalinbob  

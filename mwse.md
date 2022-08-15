@@ -7,6 +7,57 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
+## July 8th - August 15th
+[**MUSE The Morrow Winds Of Resdanya - A Morrowind Inspired Music Album Implementation**](https://www.nexusmods.com/morrowind/mods/51734) by Kvetching Mananaut  
+An implementation of my album on morrowind. Requires MUSE 2 by Rytelier.
+
+A collection of 37 songs located in their appropriate cells, but free to be customized at will.  
+
+[**(AshFall) Axe Additions**](https://www.nexusmods.com/morrowind/mods/51716) by MwGek  
+Adds 4 one-handed axes to the game (to use as woodcutting axe for the mod AshFall).  
+
+[**Lost Heir Delayer**](https://www.nexusmods.com/morrowind/mods/51710) by Merlord but also Knots by technicality  
+Use MWSE Lua to disable Blades Quest: Prophecy of the Lost Heir until you can actually play it  
+
+[**Reading Is Good**](https://www.nexusmods.com/morrowind/mods/51705) by Publicola and Spammer  
+Makes skill books give you a permanent buff to the speed at which you level the skill, instead of giving you a point straight up. Now you can read skill books as soon as you find them without feeling like you're missing out.  
+
+[**Key Broker - MWSE**](https://www.nexusmods.com/morrowind/mods/51686) by Spammer  
+Adds an NPC that will buy all your useless keys. If you manage to sell him all keys in-game, he will become a master trainer in security and start selling you secretmaster lockpicks and probes.  
+
+[**Tea Merchants - an addon for Ashfall**](https://www.nexusmods.com/morrowind/mods/51656) by JosephMcKean  
+Adds Tea Merchants to the game. Requires Ashfall.
+
+[**Invisible Spell Effect Library**](https://www.nexusmods.com/morrowind/mods/51650) by Tofystedeth  
+Tired of cluttering your spell list with unused copies of spells just in case you want to use their effects later in spellmaking or enchanting? Invisible Spell Effect Library keeps track of each unique effect you've learned, permanently, and puts them in the spellmaking and enchanting menus even if you don't have them in your spell list.  
+
+[**Danaes DRIP Depot**](https://www.nexusmods.com/morrowind/mods/51645) by Danae  
+Adds DRIP integration to 40 mods  
+
+[**Fashionwind - MWSE Masks and Facewraps**](https://www.nexusmods.com/morrowind/mods/51610) by Ruffin Vangarr  
+This mod adds various lore friendly Ashmasks, Menpos and face wraps with an MWSE script that allows them to be worn without hiding your hair or even taking up the helmet slot. (requires onion layers mod)
+
+[**Friendly Intervention**](https://www.nexusmods.com/morrowind/mods/51630) by Kleidium  
+A MWSE mod that allows any companion to teleport with the player when using Recall/Intervention spells for free or with restrictions/cost for more immersion. Mechanics configurable in the MCM.
+
+[**AntiTodding**](https://www.nexusmods.com/morrowind/mods/51626) by Archimag  
+You will receive error messages in your MWSE lua mods while playing. Report 'em to mod authors!
+
+[**walk fatigue**](https://www.nexusmods.com/morrowind/mods/51622) by Stripes  
+MWSE mod drains stamina 1 point/sec when walking  
+
+[**Magicka of the Third Era - MWSE-lua Magic Overhaul**](https://www.nexusmods.com/morrowind/mods/51636) by Vengyre  
+MWSE-lua magic overhaul. Features reworked spell chances, reworked spell costs, unique effect formulas, advanced multi-effect spell formula, effect synergies, spell rebalance, unique spells, reworked experience gain, Magicka Expanded integration. Many features are customizable.  
+
+[**Hot Lava**](https://www.nexusmods.com/morrowind/mods/51637) by abot  
+Lava and similar scripted damage sources should use fire damage instead. More realistic and also a fire atronach will no longer die walking in lava.  
+
+[**Costly Capering**](https://www.nexusmods.com/morrowind/mods/51640) by CodeRing  
+No more spam jumping! When you run out of fatigue, continuing to jump will cause you to fall over.
+
+[**Tiered Spell Casting**](https://www.nexusmods.com/morrowind/mods/51604) by Sphagne  
+Categorizes spells in tiers from cantrips to grand master level, depending on their magicka cost. Higher level spells would give more experience, and even failing a spell cvould give you a bit of experience. Depending on your mastery and spell's tier, spells might cost less, but also might be penalized if you're not ready for them.
+
 ## June 6th - July 8th
 [**Skill Names for Skill Books**](https://www.nexusmods.com/morrowind/mods/51510) by rooksby  
 Adds skill names to all skill books in the game, but shortens some book titles to fit the 31 character limit. Choose between abbreviated skill names, and complete skill names.

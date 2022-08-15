@@ -51,6 +51,7 @@
 [**Mabrigash Mask Distribution (Complete)**](https://www.nexusmods.com/morrowind/mods/49379) by GrumblingVomit  
 [**Harder to Kill Hard-Heart**](https://www.nexusmods.com/morrowind/mods/51185) by Ogachi  
 [**Robe'n'Hood**](https://www.nexusmods.com/morrowind/mods/51474) by Spammer21-Merlord-JettN77  
+[**Morag Tong Armor Revisited**](https://www.nexusmods.com/morrowind/mods/51728) by NazoX9 Rosynant  
 
 ## Situational
 [**Wear A Mask**](https://www.nexusmods.com/morrowind/mods/49240) by Von Djangos  
@@ -82,6 +83,7 @@
 [**The Nerfed Hostiles**](https://www.nexusmods.com/morrowind/mods/50287) by PolarDash and TrevorDemented  
 [**MWSE NPC RANDOM NAME GENERATOR**](https://www.nexusmods.com/morrowind/mods/51497) by Stripes  
 [**MWSE NPC RANDOM FACE GENERATOR**](https://www.nexusmods.com/morrowind/mods/51502) by Stripes  
+[**Tea Merchants - an addon for Ashfall**](https://www.nexusmods.com/morrowind/mods/51656) by JosephMcKean  
 
 ## Specific NPCs
 [**Peaceful Qorwynn**](https://www.nexusmods.com/morrowind/mods/46759)  

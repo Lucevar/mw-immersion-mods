@@ -42,6 +42,7 @@ Removes level requirements for a number of quests.
 [**Choice and Consequence - Rogues of Pelagiad**](https://www.nexusmods.com/morrowind/mods/51182) by Drockman64  
 [**Choice and Consequence - Shady Orcs of Caldera**](https://www.nexusmods.com/morrowind/mods/51445) by Drockman64  
 [**Choice and Consequence - Other Friend in Deed**](https://www.nexusmods.com/morrowind/mods/51541) by Drockman64  
+[**Choice and Consequence - Foryn Gilnith**](https://www.nexusmods.com/morrowind/mods/51733) by Drockman64  
 [**Hero or Villain**](https://www.nexusmods.com/morrowind/mods/51151) by AliceL93  
 [**The Vanilla Quest Tweaks RP Choices Consequences Super Mega Package - Ultimate Edition**](https://www.nexusmods.com/morrowind/mods/47466) by Alice contains:  
 * [**Morrowind - Immanuel Kant Edition**](https://www.nexusmods.com/morrowind/mods/45995)  
@@ -122,6 +123,9 @@ Removes level requirements for a number of quests.
 [**Bases of the Sixth House - Piran**](https://www.nexusmods.com/morrowind/mods/50411) by Wyrmalla  
 [**Sixth House Cultists**](https://www.nexusmods.com/morrowind/mods/51277) by dietbob196045  
 [**Sixth House Pirates**](https://www.nexusmods.com/morrowind/mods/51219) by AliceL93  
+[**Sixth House Informant - The Monastery of Ishdad Ab**](https://www.nexusmods.com/morrowind/mods/51602) by sch2266  
+[**The Death Blow of Abernanit**](https://www.nexusmods.com/morrowind/mods/51660) by Stories of Tamriel Mod Team  
+[**Fadathram Ancestral Tomb**](https://www.nexusmods.com/morrowind/mods/51729) by sch2266  
 
 Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/articles/blight.md) for further blight/disease mods that add to the menace.  
 Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/master/creatures.md) for more Sixth House related replacers.  
@@ -164,6 +168,8 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**The Reclamation of Hasimminus Mine**](https://www.nexusmods.com/morrowind/mods/46095) by Team Nordic Chefs  
 [**Dagoth's Chosen**](https://www.nexusmods.com/morrowind/mods/31429) by Von Djangos  
 [**Awakened Ash - Ash Vampire Combat Enhancer**](https://www.nexusmods.com/morrowind/mods/50986) by Aphiteth  
+[**Corprusmeat Akulakhan**](https://www.nexusmods.com/morrowind/mods/51627) by axelgustavlevi123  
+[**Randomize Kagrenac's Tools**](https://www.nexusmods.com/morrowind/mods/47267) by SuperHobbit  
 
 ### Post Main Quest Mods
 [**By Azura**](https://www.nexusmods.com/morrowind/mods/50567) by Lamb Shark  
@@ -171,6 +177,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**After the Blight**](https://www.nexusmods.com/morrowind/mods/46099) by Team Purist Pariahs  
 [**The Rise of the Tribe Unmourned**](https://www.nexusmods.com/morrowind/mods/45165) by Caeris  
 [**Blades Quest: Prophecy of the Lost Heir**](http://lovkullen.net/Emma/blade.htm) by Emma  
+[**Lost Heir Delayer**](https://www.nexusmods.com/morrowind/mods/51710) by Merlord but also Knots by technicality  
 [**Exterminate All Brutes**](https://www.nexusmods.com/morrowind/mods/49322) by Alice  
 [**Epilogue - Sail to Akavir**](https://www.nexusmods.com/morrowind/mods/49811) by Alice  
 [**Invasion of Stormwatch**](https://www.nexusmods.com/morrowind/mods/49174) by Team Ancient Androids  
@@ -179,6 +186,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 ## Vanilla Factions
 [**More Logical Faction Requirements**](https://www.nexusmods.com/morrowind/mods/51225) by 6thclub  
 [**Feminized Ranks**](https://www.nexusmods.com/morrowind/mods/51238) by Evergloam  
+[**More rewarding Morrowind factions**](https://www.nexusmods.com/morrowind/mods/44795) by Oblivionaddicted  
 
 # Ashlanders
 [**The Mystery of the Ghost Snake**](https://www.nexusmods.com/morrowind/mods/49358) by Alice  
@@ -207,6 +215,7 @@ Check out [**this list**](https://github.com/Lucevar/mw-immersion-mods/blob/mast
 [**Errands for Orvas**](http://simania.nl/mw/mwmods.htm) by Simania  
 [**Camonna Tong**](https://www.nexusmods.com/morrowind/mods/50740) by Caeris  
 [**LDM - Racist Service Refusal**](https://www.nexusmods.com/morrowind/mods/50870) by Lucevar  
+[**Camonna Tong Boat Service**](https://www.nexusmods.com/morrowind/mods/51655) by HMCascade  
 
 # Dark Brotherhood
 [**Relentless Dark Brotherhood**](https://www.nexusmods.com/morrowind/mods/51244) by Stripes  
@@ -481,7 +490,8 @@ See the Towns list and the Locations list for more mods making general additions
 [**Ajira Deflowered**](https://www.nexusmods.com/morrowind/mods/47585) by Alice  
 
 #### Mages Guild - Vanilla Quest Edits
-[**Ajira's Alchemy Reports Randomized**](https://www.nexusmods.com/morrowind/mods/47550) by Danae and Merlord  
+[**(MWSE) Ajira's Alchemy Reports Randomized**](https://www.nexusmods.com/morrowind/mods/47550) by Danae and Merlord  
+[**Randomised Ajira's Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/51735) by JosephMcKean  
 [**Ajira's Alchemy Reports**](https://www.nexusmods.com/morrowind/mods/34180) by DebiDalio  
 [**Pacifist Options - Where They Make Sense**](https://www.nexusmods.com/morrowind/mods/47961) by Alice  
 [**Shal Overgrown**](https://www.nexusmods.com/morrowind/mods/47219) by Team Dandy Daedra  
@@ -491,6 +501,7 @@ See the Towns list and the Locations list for more mods making general additions
 [**Magical Missions**](https://www.nexusmods.com/morrowind/mods/38773) by von Django  
 [**God of Worms**](https://www.nexusmods.com/morrowind/mods/48028) by Caeris  
 [**Master Index Redux**](https://www.nexusmods.com/morrowind/mods/48977) by Endoran  
+[**Master Propylon Index Improved**](https://www.nexusmods.com/morrowind/mods/51593?tab=description) by cerbralone  
 [**Scrolls of the Nine Barriers**](https://www.nexusmods.com/morrowind/mods/45831) by Melchior Dahrk  
 [**Salt Gems of Bensamsi**](https://www.nexusmods.com/morrowind/mods/45126) by Melchior Dahrk  
 [**Dagon Fel - Mages Adventures**](https://www.nexusmods.com/morrowind/mods/50885) by Spammer21  
@@ -509,6 +520,7 @@ See the Towns list and the Locations list for more mods making general additions
 [**Morag Tong Secret Identity**](https://www.nexusmods.com/morrowind/mods/51128) by VitruvianGuar  
 [**Morag Tong Whodunit**](https://www.nexusmods.com/morrowind/mods/51303) by crdgdr  
 [**Balyn Omarel's (player) home - Balmora**](https://www.nexusmods.com/morrowind/mods/51469) by sletten93  
+[**Morag Tong Armor Revisited**](https://www.nexusmods.com/morrowind/mods/51728) by NazoX9 Rosynant  
 
 # Thieves Guild
 [**What Thieves Guild**](https://www.nexusmods.com/morrowind/mods/47728) by Von Djangos  
@@ -539,11 +551,13 @@ See the Towns list and the Locations list for more mods making general additions
 [**The Muck Shovel of Vivec**](https://mw.modhistory.com/download-68-2963) by dongle  
 [**Aldruhn Temple Expansion**](http://mw.modhistory.com/download-80-14377) by Xeth-Ban  
 [**Test of Faith**](https://www.nexusmods.com/morrowind/mods/51170) by kindi  
+[**Leap of Faith**](https://www.nexusmods.com/morrowind/mods/51702) by Lucevar  
 
 # Twin Lamps
 [**Twin Lamps and Slavehunters -- Cleaned and Edited**](https://www.nexusmods.com/morrowind/mods/47420) by Nevena and l1lartur0  
 [**Brother Juniper's Twin Lamps**](https://mw.modhistory.com/download-53-7283) by Brother Juniper  
 [**OAAB Brother Junipers Twin Lamps**](https://www.nexusmods.com/morrowind/mods/51424) by Brother Juniper with updates by Lucevar  
+[**Slave Log And Twin Lamps Reports**](https://www.nexusmods.com/morrowind/mods/51642) by Ortiee  
 
 # Vampire Clans
 [**Quests for CLans and Vampire Legends (QCVL)**](https://www.nexusmods.com/morrowind/mods/49486) by SpiritTauren  
@@ -896,6 +910,16 @@ See the Towns list and the Locations list for more mods making general additions
 [**Dras the Dunmer Legionnaire**](https://www.nexusmods.com/morrowind/mods/51446) by QwertyQuit - ErwintheGerman  
 [**A Different Way to Go about Sheep Sounds - The Story of Shaggy the Goat**](https://www.nexusmods.com/morrowind/mods/51501) by Nerevec  
 [**The Strider's Nest - Companions and Quests**](https://www.nexusmods.com/morrowind/mods/51579) by AlandroSul  
+[**Monument to a Forgotten Hero**](https://www.nexusmods.com/morrowind/mods/51609) by aitrus  
+[**Sa'Virr the traveling bladesmith**](https://www.nexusmods.com/morrowind/mods/51684) by OperatorJack  
+[**Where Merchants Flea**](https://www.nexusmods.com/morrowind/mods/51691) by Melchior Dahrk  
+[**Find Jiub**](https://www.nexusmods.com/morrowind/mods/51692) by Stripes  
+[**Rescue Mission**](https://www.nexusmods.com/morrowind/mods/51693) by ProfArmitage  
+[**QMS-The Repulsive Paramour**](https://www.nexusmods.com/morrowind/mods/51694) by Enclavekiller  
+[**Smuggler's Market**](https://www.nexusmods.com/morrowind/mods/51698) by Billyfighter  
+[**Leap of Faith**](https://www.nexusmods.com/morrowind/mods/51702) by Lucevar  
+[**The Pearl Divers**](https://www.nexusmods.com/morrowind/mods/51703) by globemallow  
+[**Fadathram Ancestral Tomb**](https://www.nexusmods.com/morrowind/mods/51729) by sch2266  
 
 # Province Mods
 [**Tamriel Data**](https://www.nexusmods.com/morrowind/mods/44537) by Tamriel Rebuilt and Project Tamriel  
@@ -915,33 +939,7 @@ See the Towns list and the Locations list for more mods making general additions
 
 # Quest Mods Not Set In Tamriel
 ## Starwind
-[**Starwind**](https://www.nexusmods.com/morrowind/mods/48909) by Ignatious  
-[**Starwind - A Vision of the Dark Knight**](https://www.nexusmods.com/morrowind/mods/49966) by Alice  
-[**Starwind Endor**](https://www.nexusmods.com/morrowind/mods/50356) by Billyfighter  
-[**Starwind Enhanced**](https://www.nexusmods.com/morrowind/mods/50484) by Billyfighter  
-[**Jiub Onasi Companion for Starwind**](https://www.nexusmods.com/morrowind/mods/50554) by kvatchcount  
-[**Starwind Christmas**](https://www.nexusmods.com/morrowind/mods/50575) by Ignatious  
-[**McJabba's**](https://www.nexusmods.com/morrowind/mods/50587) by Ignatious  
-[**Starwind Player Housing**](https://www.nexusmods.com/morrowind/mods/50825) by quickdrawmcgraw  
-[**Starwind - Gungan Joinable Faction**](https://www.nexusmods.com/morrowind/mods/50861) by quickdrawmcgraw  
-[**Starwind Cow Race**](https://www.nexusmods.com/morrowind/mods/50869) by quickdrawmcgraw  
-[**Ninullin Villaks Companion**](https://www.nexusmods.com/morrowind/mods/50871) by kvatchcount  
-[**Starwind DFJ**](https://www.nexusmods.com/morrowind/mods/50832) by quickdrawmcgraw  
-[**Starwind Death Stalker**](https://www.nexusmods.com/morrowind/mods/50835) by quickdrawmcgraw  
-[**Starwind - Tatooine Hovel**](https://www.nexusmods.com/morrowind/mods/50879) by tubtubs  
-[**Starwind - St. Jaba's Day**](https://www.nexusmods.com/morrowind/mods/50882) by quickdrawmegraw1235  
-[**Starwind - Wrestling Sand People**](https://www.nexusmods.com/morrowind/mods/50913) by quickdrawmegraw1235  
-[**Starwind - More Immersive Followers**](https://www.nexusmods.com/morrowind/mods/50893) by quickdrawmegraw1235  
-[**Starwind - Improved Kolto Tanks**](https://www.nexusmods.com/morrowind/mods/50946) by tubtubs  
-[**Starwind - Weightless Blaster Bolts**](https://www.nexusmods.com/morrowind/mods/50950) by BobTheBobBob  
-[**Starwind - Fabulous Guards**](https://www.nexusmods.com/morrowind/mods/50935) by quickdrawmegraw1235  
-[**Auto Ammo Equip for Starwind**](https://www.nexusmods.com/morrowind/mods/50969) by Equinox and tubtubs  
-[**Ignatious the Mad Companion - A Starwind Mod**](https://www.nexusmods.com/morrowind/mods/50960) by kvatchcount  
-[**Starwind- Carlo's expanded droid shop**](https://www.nexusmods.com/morrowind/mods/50985) by Quickdraw Mcgraw  
-[**Starwind- Kagrid playable hair**](https://www.nexusmods.com/morrowind/mods/50994) by quickdraw mcgraw  
-[**Ahtar Companion - A Starwind Mod**](https://www.nexusmods.com/morrowind/mods/51036) by kvatchcount  
-[**Eseh'vehu Companion - A Starwind Mod**](https://www.nexusmods.com/morrowind/mods/51100) by kvatchcount  
-[**Starwind Alternate Theme**](https://www.nexusmods.com/morrowind/mods/51573) by Doctor Ripper  
+See Starwind list
 
 ## Others
 [**Duskpoint**](https://www.nexusmods.com/morrowind/mods/45117) by Waspinator1998  

@@ -21,6 +21,7 @@
 [**Flame Atronach replacer - for nicer burn effect**](https://www.nexusmods.com/morrowind/mods/51297) by Kurpulio  
 [**Creatures Silt Striders - MWSE**](https://www.nexusmods.com/morrowind/mods/51431) by Spammer  
 [**Detailed Daedroth - Another Creature Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/51542) by Pherim  
+[**Amazing Atronachs - Creature Mesh Replacer**](https://www.nexusmods.com/morrowind/mods/51617) by Pherim  
 
 ## Overhaul
 [**Creatures XI**](https://www.nexusmods.com/morrowind/mods/30563) by Piatelord  

@@ -32,6 +32,8 @@ Includes an Argonian companion
 [**Visions of the White Guar - A Versatile Companion**](https://www.nexusmods.com/morrowind/mods/51500) by Aphiteth  
 [**Phoon Guy**](https://www.nexusmods.com/morrowind/mods/51549) by me with assets from Webley and anmcbride  
 [**The Strider's Nest - Companions and Quests**](https://www.nexusmods.com/morrowind/mods/51579) by AlandroSul  
+[**OAAB Winged Twilight**](https://www.nexusmods.com/morrowind/mods/51643) by Katya Karrel - Tizzo  
+[**Find Jiub**](https://www.nexusmods.com/morrowind/mods/51692) by Stripes  
 
 [**Companion Friendly Lava**](https://www.nexusmods.com/morrowind/mods/50890) by AlandroSul  
 

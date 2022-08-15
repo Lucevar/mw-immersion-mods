@@ -48,6 +48,8 @@
 [**DB Female Heads**](https://www.nexusmods.com/morrowind/mods/51206) by dietbob196045  
 [**Vampiric Bloodline Visages**](https://www.nexusmods.com/morrowind/mods/51201) by Stripes  
 [**Westly's Faces Refurbished**](https://www.nexusmods.com/morrowind/mods/51214) by Merch_Lis  
+[**Gigachad**](https://www.nexusmods.com/morrowind/mods/51665) by ConceredCitizien  
 
 ## Hair
 [**Corean Hair in Morrowind**](http://mw.modhistory.com/download-53-12792) by Westly  
+[**Vanilla Hairstyles Expanded - Breton**](https://www.nexusmods.com/morrowind/mods/51680) by CryoLadd  

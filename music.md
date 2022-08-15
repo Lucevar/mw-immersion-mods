@@ -14,3 +14,4 @@ Download the mp3s from the optional files section and put them in Music/Explore 
 [**MMM (Main Menu Metal)**](https://www.nexusmods.com/morrowind/mods/51453) by cactuscat1  
 [**My soundtrack for Morrowind**](https://www.nexusmods.com/morrowind/mods/51460) by Music of the Mist  
 [**Starwind Alternate Theme**](https://www.nexusmods.com/morrowind/mods/51573) by Doctor Ripper  
+[**MUSE The Morrow Winds Of Resdanya - A Morrowind Inspired Music Album Implementation**](https://www.nexusmods.com/morrowind/mods/51734) by Kvetching Mananaut  

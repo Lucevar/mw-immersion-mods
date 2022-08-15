@@ -20,6 +20,7 @@ Adds magicka regeneration that scales with both willpower and your current magic
 * [**Magicka-Based Skill Progression**](https://www.nexusmods.com/morrowind/mods/48330) by JaceyS  
 Spell casting skills advance based on the amount of Magicka spent, rather than the number of spell casts.
 * [**CCCP Magicka Regen**](https://www.nexusmods.com/morrowind/mods/51143) by Necrolesian  
+* [**Magicka Costs Adjustments**](https://www.nexusmods.com/morrowind/mods/51723) by biltjan  
 
 ### Spells
 * [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) by OperatorJack and RedFurryDemon  
@@ -33,6 +34,13 @@ Spell casting skills advance based on the amount of Magicka spent, rather than t
 * [**Immersive Spell Cost and Starting Spell**](https://www.nexusmods.com/morrowind/mods/51334) by OikeaHetki  
 * [**Player Made Magic Rename**](https://www.nexusmods.com/morrowind/mods/51484) by abot  
 * [**Sensible Starting Spells**](https://www.nexusmods.com/morrowind/mods/51574) by Randolph Carter  
+* [**Lootable Spellbooks**](https://www.nexusmods.com/morrowind/mods/47269) by SuperHobbit  
+
+### Overhauls
+* [**Tiered Spell Casting**](https://www.nexusmods.com/morrowind/mods/51604) by Sphagne  
+* [**Magicka of the Third Era - MWSE-lua Magic Overhaul**](https://www.nexusmods.com/morrowind/mods/51636) by Vengyre  
+* [**Invisible Spell Effect Library**](https://www.nexusmods.com/morrowind/mods/51650) by Tofystedeth  
+Tired of cluttering your spell list with unused copies of spells just in case you want to use their effects later in spellmaking or enchanting? Invisible Spell Effect Library keeps track of each unique effect you've learned, permanently, and puts them in the spellmaking and enchanting menus even if you don't have them in your spell list.  
 
 ### Spell Visuals (general)
 * [**Magic Diversity**](https://www.nexusmods.com/morrowind/mods/43380) by Arkann  
@@ -180,6 +188,8 @@ Allows soultrap to make more intelligent use of available soul gems, including s
 This mod makes in-world soulgems that are filled appear as enchanted items.
 * [**Sounds of Souls**](https://www.nexusmods.com/morrowind/mods/45657) by NullCascade  
 Adds a chance for soul gems to emit a sound from the creature whose soul they contained. Very atmospheric. *Very* creepy.  
+* [**Friendly Intervention**](https://www.nexusmods.com/morrowind/mods/51630) by Kleidium  
+A MWSE mod that allows any companion to teleport with the player when using Recall/Intervention spells for free or with restrictions/cost for more immersion. Mechanics configurable in the MCM.
 
 * [**Absorb Effects Rebalanced**](https://www.nexusmods.com/morrowind/mods/50941) by Dark_Carl  
 

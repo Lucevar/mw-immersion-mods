@@ -57,6 +57,8 @@
 [**Rundown Home**](https://www.nexusmods.com/morrowind/mods/51425) by Juidius Xentao  
 [**Fabulous Hlaalo Manor**](https://www.nexusmods.com/morrowind/mods/51438) by TheNocturus  
 [**Balyn Omarel's (player) home - Balmora**](https://www.nexusmods.com/morrowind/mods/51469) by sletten93  
+[**Odai River Hideout**](https://www.nexusmods.com/morrowind/mods/51612) by Maligerent  
+[**Fireside Islet - A TES3MP Player Home**](https://www.nexusmods.com/morrowind/mods/51708) by Demolisher BPB  
 
 ## Cloud Storage Compatible
 [**Cloud Storage Warehouse - Storage Resource for Packrats**](https://www.nexusmods.com/morrowind/mods/50386) by TheWanderer  
