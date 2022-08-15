@@ -8,6 +8,9 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 ## July 8th - August 15th
+[**Permanent Calm Pacifist Option Apologize Befriend Bandit and Beasts Calm Down**](https://www.nexusmods.com/morrowind/mods/51737) by biltjan  
+Want to play as a Pacifist? Apologize to a merchant that you've accidentally attacked? Maybe make a bandit friend? If so, this is the mod for you. You can now permanently calm NPCs!  
+
 [**MUSE The Morrow Winds Of Resdanya - A Morrowind Inspired Music Album Implementation**](https://www.nexusmods.com/morrowind/mods/51734) by Kvetching Mananaut  
 An implementation of my album on morrowind. Requires MUSE 2 by Rytelier.
 
