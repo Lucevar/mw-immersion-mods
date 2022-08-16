@@ -103,6 +103,9 @@
 [**Functional Slave Markets**](https://www.nexusmods.com/morrowind/mods/49583) by RandomPal  
 [**More Slaves Freeable**](https://www.nexusmods.com/morrowind/mods/50310) by LNICKS  
 [**Nevena's Twin Lamps and Slave Hunters**](https://www.nexusmods.com/morrowind/mods/47420) by Nevena & 1lartur0  
+[**Unlock All Slaves**](https://www.nexusmods.com/morrowind/mods/51742) by Ortiee  
+[**Brother Juniper's Twin Lamps**](https://www.nexusmods.com/morrowind/mods/50745) by Brother Juniper  
+[**OAAB Brother Junipers Twin Lamps**](https://www.nexusmods.com/morrowind/mods/51424) by Brother Juniper with updates by Lucevar  
 
 ## Donations
 [**Donations to the Gods**](http://mw.modhistory.com/download-68-14336) by Slaanesh the Corruptor  

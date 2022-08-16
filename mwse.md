@@ -8,6 +8,9 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
 ## July 8th - August 16th
+[**Coins renamed**](https://www.nexusmods.com/morrowind/mods/48464) by Endify  
+Renames gold to Septims, and dwemer coins to dwemer dumacs
+
 [**Musical Lore (Soundtrack Mod By Nir Shor)**](https://www.nexusmods.com/morrowind/mods/51738) by Nir Shor  
 This mod Adds Lore friendly professionally produced music tracks to your Morrowind experience using MUSE 2. (Implemented by Knots)
 
