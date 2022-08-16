@@ -2,6 +2,7 @@
 
 ## Camera
 [**Indoor - Outdoor Camera Switching**](https://www.nexusmods.com/morrowind/mods/51183) by Corsair83 - Safebox  
+[**Smart Camera**](https://www.nexusmods.com/morrowind/mods/51740) by Gamba69  
 
 ## Menus
 [**Ruby UI Mashup**](https://www.nexusmods.com/morrowind/mods/50512) by BjornTjockPals Sir Bob Innicin jiffyadvent Arukinn  

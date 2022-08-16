@@ -166,6 +166,8 @@ Not a mod per se, but a framework that is necessary for other MAB0's mods to wor
 This mod makes all mental manipulation effect count as an aggression. Player will be fine if witnessed using one of these effects.
 * [**Vanish From Sight**](https://www.nexusmods.com/morrowind/mods/51266) by inpv  
 As long as the player is invisible, all hostiles located in the current cell stop combat. Includes configurable fight values for hostiles in MCM. A must-have for any illusionist.
+* [**Permanent Calm Pacifist Option Apologize Befriend Bandit and Beasts Calm Down**](https://www.nexusmods.com/morrowind/mods/51737) by biltjan  
+Want to play as a Pacifist? Apologize to a merchant that you've accidentally attacked? Maybe make a bandit friend? If so, this is the mod for you. You can now permanently calm NPCs 
 
 ### Mysticism
 * [**Customizable MWSE Multi Mark & Harder Recall**](https://www.nexusmods.com/morrowind/mods/47065) by Virnetch  

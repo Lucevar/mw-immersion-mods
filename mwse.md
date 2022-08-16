@@ -7,7 +7,19 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
-## July 8th - August 15th
+## July 8th - August 16th
+[**Musical Lore (Soundtrack Mod By Nir Shor)**](https://www.nexusmods.com/morrowind/mods/51738) by Nir Shor  
+This mod Adds Lore friendly professionally produced music tracks to your Morrowind experience using MUSE 2. (Implemented by Knots)
+
+[**Permanent Calm Pacifist Option Apologize Befriend Bandit and Beasts Calm Down**](https://www.nexusmods.com/morrowind/mods/51737) by biltjan  
+Want to play as a Pacifist? Apologize to a merchant that you've accidentally attacked? Maybe make a bandit friend? If so, this is the mod for you. You can now permanently calm NPCs 
+
+[**Armor Training**](https://www.nexusmods.com/morrowind/mods/51741) by Vengyre  
+Get accustomed to armor by moving around with it. Slowly level armor while moving at low skill. Highly configurable. Requires MWSE.  
+
+[**Smart Camera**](https://www.nexusmods.com/morrowind/mods/51740) by Gamba69  
+Automatic MWSE switch between first and third person view with full customization  
+
 [**MUSE The Morrow Winds Of Resdanya - A Morrowind Inspired Music Album Implementation**](https://www.nexusmods.com/morrowind/mods/51734) by Kvetching Mananaut  
 An implementation of my album on morrowind. Requires MUSE 2 by Rytelier.
 
