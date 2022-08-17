@@ -72,6 +72,7 @@ Removes level requirements for a number of quests.
 [**Caius Cosades' Main Questline Skip**](https://www.nexusmods.com/morrowind/mods/50884) by Aphiteth  
 [**Less Generic Nerevarine**](https://www.nexusmods.com/morrowind/mods/23335) by Ostar  
 [**Less Generic Nerevarine Sharn Quest Fix**](https://www.nexusmods.com/morrowind/mods/47149) by Necrolesian  
+[**Arvesa - An Armigers Tale**](https://www.nexusmods.com/morrowind/mods/50306) by Orion  
 [**Julan Ashlander Companion**](https://fallingawkwardly.com/) by Kateri  
 [**The Ministry of Clarity**](https://www.nexusmods.com/morrowind/mods/46093) by Team Sexy Sloads  
 [**Main Quest for Divayth Fyr**](https://www.nexusmods.com/morrowind/mods/51191) by AliceL93 and Caeris and Qwertyquit  
