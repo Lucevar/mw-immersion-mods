@@ -60,6 +60,8 @@
 [**Odai River Hideout**](https://www.nexusmods.com/morrowind/mods/51612) by Maligerent  
 [**Fireside Islet - A TES3MP Player Home**](https://www.nexusmods.com/morrowind/mods/51708) by Demolisher BPB  
 [**Balmora Empty House**](https://www.nexusmods.com/morrowind/mods/51739) by FelsenSethandus  
+[**Vodunius Nuccius Gives You His House**](https://www.nexusmods.com/morrowind/mods/51748) by Felsen Sethandus  
+[**Ebonheart House**](https://www.nexusmods.com/morrowind/mods/51786) by alexstep23  
 
 ## Cloud Storage Compatible
 [**Cloud Storage Warehouse - Storage Resource for Packrats**](https://www.nexusmods.com/morrowind/mods/50386) by TheWanderer  

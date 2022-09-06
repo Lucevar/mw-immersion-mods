@@ -52,6 +52,8 @@
 [**Harder to Kill Hard-Heart**](https://www.nexusmods.com/morrowind/mods/51185) by Ogachi  
 [**Robe'n'Hood**](https://www.nexusmods.com/morrowind/mods/51474) by Spammer21-Merlord-JettN77  
 [**Morag Tong Armor Revisited**](https://www.nexusmods.com/morrowind/mods/51728) by NazoX9 Rosynant  
+[**Move Out Of The Way Sugar-Lips**](https://www.nexusmods.com/morrowind/mods/51751) by FelsenSethandus  
+[**Better Heads Jiub Fixed**](https://www.nexusmods.com/morrowind/mods/51766) by MrPrivateEye  
 
 ## Situational
 [**Wear A Mask**](https://www.nexusmods.com/morrowind/mods/49240) by Von Djangos  

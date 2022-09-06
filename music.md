@@ -16,3 +16,5 @@ Download the mp3s from the optional files section and put them in Music/Explore 
 [**Starwind Alternate Theme**](https://www.nexusmods.com/morrowind/mods/51573) by Doctor Ripper  
 [**MUSE The Morrow Winds Of Resdanya - A Morrowind Inspired Music Album Implementation**](https://www.nexusmods.com/morrowind/mods/51734) by Kvetching Mananaut  
 [**Musical Lore (Soundtrack Mod By Nir Shor)**](https://www.nexusmods.com/morrowind/mods/51738) by Nir Shor  
+[**Tamrielic MUSEings**](https://www.nexusmods.com/morrowind/mods/51774) by Knots and GreenPactEthos  
+[**CaptainCreepy Music Pack for MUSE 2**](https://www.nexusmods.com/morrowind/mods/51769) by CaptainCreepy and Knots  

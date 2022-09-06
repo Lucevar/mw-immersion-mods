@@ -77,6 +77,7 @@
 [**Walled Skaal**](https://www.nexusmods.com/morrowind/mods/49394) by Tel Shadow  
 [**Solstheim - Tomb of the Snow Prince**](https://www.nexusmods.com/morrowind/mods/46810) by TOTSP Team  
 [**Thirsk Expanded for TOTSP**](https://www.nexusmods.com/morrowind/mods/51039) by Littlemage  
+[**Fort Frostmoth Renovated**](https://www.nexusmods.com/morrowind/mods/51801) by Sawyer Morgan  
 
 # Bitter Coast
 ## Seyda Neen
@@ -94,6 +95,7 @@ For new quests, try [**Tales of Seyda Neen**](http://mw.modhistory.com/download-
 For a whole-Bitter Coast overhaul, try [**Resdayn Revival - Bitter Coast**](https://www.nexusmods.com/morrowind/mods/47772) by Zobator  
 
 Other alternatives include but are not limited to [**Seyda Neen Slums**](https://www.nexusmods.com/morrowind/mods/46837?tab=posts), [**More Detailed Places Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46231), [**Seyda Neen Tree Removal**](https://www.nexusmods.com/morrowind/mods/45990) for an expanded and treeless Seyda Neen, [**Lived Towns - Seyda Neen**](https://www.nexusmods.com/morrowind/mods/46703), [**Seyda Neen Houseboat**](https://www.nexusmods.com/morrowind/mods/43364), [**Princess Docks**](http://mw.modhistory.com/download-90-7147), [**More Seyda Neen**](http://mw.modhistory.com/download-4-5133) by -J, [**Seyda Neen Harbour**](https://www.nexusmods.com/morrowind/mods/42433) by Ian Bitters, [**Mireneye's Vistas - Seyda Neen**](http://mw.modhistory.com/download-44-11876), [**Prancing Ash Inn**](https://www.nexusmods.com/morrowind/mods/41220) by ChakaZg, [**The Silver Barrel**](https://www.nexusmods.com/morrowind/mods/42236) and [**Trancemaster's New Seyda Neen**](https://www.nexusmods.com/morrowind/mods/42234), [**Coyote's Expanded Seyda Neen**](https://www.nexusmods.com/morrowind/mods/48388), [**Swampy Seyda Neen**](https://www.nexusmods.com/morrowind/mods/48561), [**Cozy Seyda Neen**](https://www.nexusmods.com/morrowind/mods/49309) by Mika, [**Seyda Neen Compendium**](https://www.nexusmods.com/morrowind/mods/49364) by SpiritTauren, [**Lovely Bitter Coast**](https://www.nexusmods.com/morrowind/mods/49488) by Mika, [**Seyda Neen Expanded**](https://www.nexusmods.com/morrowind/mods/50466) by Tel Shadow, [**Seyda Neen Apex**](https://www.nexusmods.com/morrowind/mods/50982) by Morroholic, [**Seyda Neen - Final Impact**](https://www.nexusmods.com/morrowind/mods/51633) by Zerraphin.  
+[**Give Teleri Helvi A Home**](https://www.nexusmods.com/morrowind/mods/51753) by FelsenSethandus  
 
 ## Hla Oad
 [**The Drop Off**](https://www.nexusmods.com/morrowind/mods/46827) by Darkry115  
@@ -160,6 +162,7 @@ Patch for Holidays Across Tamriel [here](https://www.nexusmods.com/morrowind/mod
 [**Vivec Foreign Quarter Bridge**](https://www.nexusmods.com/morrowind/mods/51420) by WulfShaman  
 [**Vivec with trees**](https://www.nexusmods.com/morrowind/mods/51585) by oribba  
 [**Less empty cantons of Vivec**](https://www.nexusmods.com/morrowind/mods/51592) by DuoDinamico aka RandomPal and Vegetto  
+[**Vivec - God the City**](https://www.nexusmods.com/morrowind/mods/51777) by Tapetenklaus  
 
 ### Vivec - Interiors
 [**Canalworks Connected**](https://www.nexusmods.com/morrowind/mods/47354) by iLoveOnFear  
@@ -171,6 +174,7 @@ Patch for Holidays Across Tamriel [here](https://www.nexusmods.com/morrowind/mod
 [**Vivec Mages Guild - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/51105) by The Wanderer  
 [**Vivec Fighters Guild - Cloud Storage Upgrade Addon**](https://www.nexusmods.com/morrowind/mods/51104) by The Wanderer  
 [**Foreign Quarter Market Square**](https://www.nexusmods.com/morrowind/mods/51700) by MwGek  
+[**Vivec - God the City**](https://www.nexusmods.com/morrowind/mods/51777) by Tapetenklaus  
 
 ### Vivec - Taverns
 [**Vivec Tea Room**](https://www.nexusmods.com/morrowind/mods/44320)  
@@ -236,6 +240,7 @@ These affect different parts of Ebonheart and are therefore compatible.
 [**Ebonheart The Old Castle**](https://www.nexusmods.com/morrowind/mods/49524) by Mika  
 [**ALWP - Ebonheart Revamped**](https://www.nexusmods.com/morrowind/mods/50673) by Citadel  
 [**Imperium - Castle Ebonheart**](https://www.nexusmods.com/morrowind/mods/51120) by Endoran  
+[**Accessible Ebonheart Imperial Chapel**](https://www.nexusmods.com/morrowind/mods/51762) by Denina  
 
 ## Rethan Manor
 [**Resplendent Rethan - Jewel of the Odai**](https://www.nexusmods.com/morrowind/mods/47281) by Team Azturnal  
@@ -371,6 +376,7 @@ You may also wish to consider [**VB's Sadrith Mora**](https://www.nexusmods.com/
 [**Grim Khuul**](https://www.nexusmods.com/morrowind/mods/49404) by Mika  
 [**Thongar's Tradehouse Expanded**](https://www.nexusmods.com/morrowind/mods/49625) by RandomPal  
 [**Tirram Terala's Treasure Trove of Trinkets**](https://www.nexusmods.com/morrowind/mods/51699) by Remiros  
+[**URH - Khuul**](https://www.nexusmods.com/morrowind/mods/51761) by MwGek  
 
 Alternatively, [**Vvardenfell Revisited - Khuul**](https://www.nexusmods.com/morrowind/mods/46614) by EnnetWinterhoof, or [**Milik's Khuul Facelift**](https://www.nexusmods.com/morrowind/mods/19657) by Milik.    
 

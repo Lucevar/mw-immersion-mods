@@ -95,6 +95,7 @@
 [**Nastier Camonna Tong**](https://www.nexusmods.com/morrowind/mods/22601) by von Django  
 [**Racism**](https://www.nexusmods.com/morrowind/mods/45674) by rot  
 [**LDM - Racist Service Refusal**](https://www.nexusmods.com/morrowind/mods/50870) by Lucevar  
+[**Ultra Violent Camonna Tong**](https://www.nexusmods.com/morrowind/mods/51744) by QwertyQuit - ErwintheGerman  
 
 ## Slaves
 [**Free The Slaves**](https://www.nexusmods.com/morrowind/mods/45191) by Caeris  

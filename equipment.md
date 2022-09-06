@@ -149,6 +149,9 @@ Duke's Silver Armor:
 [**Sacred Necromancer Armor**](https://www.nexusmods.com/morrowind/mods/51651) by Ruffin Vangarr  
 [**SM Dress Gown Set**](https://www.nexusmods.com/morrowind/mods/51666) by ShadowMimicry  
 [**Morag Tong Armor Revisited**](https://www.nexusmods.com/morrowind/mods/51728) by NazoX9 Rosynant  
+[**Necromancer Robes**](https://www.nexusmods.com/morrowind/mods/51775) by Ruffin Vangarr  
+[**Full Glass Armour Plus Glass Helm Compilation**](https://www.nexusmods.com/morrowind/mods/51767) by Kyim  
+[**Illuminiel Museum**](https://www.nexusmods.com/morrowind/mods/51778) by Illuminiel  
 
 # Wares
 [**Wares**](https://www.nexusmods.com/morrowind/mods/49205) by Danae
@@ -213,3 +216,5 @@ Duke's Silver Armor:
 [**(AshFall) Axe Additions**](https://www.nexusmods.com/morrowind/mods/51716) by MwGek  
 [**Wings of the Queen of Bats**](https://www.nexusmods.com/morrowind/mods/51727) by LH23  
 [**Serendipitous Spears**](https://www.nexusmods.com/morrowind/mods/51730) by RupertTCalinbob  
+[**Exquisite Iron**](https://www.nexusmods.com/morrowind/mods/51783) by RupertTCalinbob  
+[**Henry's Polearm Overhaul**](https://www.nexusmods.com/morrowind/mods/51764) by LH23  

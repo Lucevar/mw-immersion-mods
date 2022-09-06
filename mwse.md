@@ -7,7 +7,28 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
-## July 8th - August 16th
+## July 8th - Sept 6th
+[**Open the Door**](https://www.nexusmods.com/morrowind/mods/51799) by C3pa  
+This mod opens the door you are looking at if within the activation distance. This saves you time and your spacebar. When a locked or trapped door is encountered a message written in the first person is shown to better communicate what your character might be thinking when trying to open a locked door.  
+
+[**Packrat Skill**](https://www.nexusmods.com/morrowind/mods/51796) by MrGool  
+A new skill that lets you carry more stuff.
+
+[**Effects Timers - MWSE**](https://www.nexusmods.com/morrowind/mods/51787) by Spammer  
+Picture this: You are in a middle of a fight, swinging a bound longsword, when suddenly it vanishes right from your hand. The cast time is up, and because you had no idea how much time you had left, you're now defenseless against your opponnents. Frustrating, isn't it? This mod intends to give you a visual idea of how much time you still have.  
+
+[**CaptainCreepy Music Pack for MUSE 2**](https://www.nexusmods.com/morrowind/mods/51769) by CaptainCreepy and Knots  
+Adds music from the popular music expansion mods for TESV:Skyrim by CaptainCreepy AKA OrganicView using the MUSE 2 music system.  
+
+[**Tamrielic MUSEings**](https://www.nexusmods.com/morrowind/mods/51774) by Knots and GreenPactEthos  
+MUSE configs for Tamriel Rebuilt and Project Tamriel mods. Hear your existing MUSE playlists in TR and Skyrim, with options for discerning users.  
+
+[**Companion Leveler**](https://www.nexusmods.com/morrowind/mods/51760) by Kleidium  
+This MWSE mod allows both NPC and Creature companions to level up with the player based on their Class/Creature Type (Class Mode) or specific player selected build settings (Build Mode). In Class Mode, you also have the choice of changing the Class/Creature Type your companions level as. Companions are also able to learn spells and abilities.  
+
+[**Magicka Awakening 1 Illusion**](https://www.nexusmods.com/morrowind/mods/51746) by biltjan  
+Improves Illusion effects as you level up in Illusion. Permanently calm/fear/rally/frenzy enemies, "steal" visions with blind, light reduce enemies willpower, charm makes buying things cheaper, sound applied after silence, chameleon applied after invisibility, drain speed applied after paralyze.  
+
 [**Coins renamed**](https://www.nexusmods.com/morrowind/mods/48464) by Endify  
 Renames gold to Septims, and dwemer coins to dwemer dumacs
 

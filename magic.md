@@ -112,6 +112,8 @@ Adds conjurable greaves and pauldrons in the most vanilla-like manner possible. 
 Allows you to give basic orders to your summoned creatures. Adds a new spell, called "Soul Release", allowing you to summon a soul trapped in a soulgem. You can now have Vivec or Almalexia as obedient summons! Requires Magicka Expanded.
 * [**Disobedient Summons - MWSE**](https://www.nexusmods.com/morrowind/mods/51483) by Spammer  
 Summonned Creatures will be more enclined to take sides with whoever has the highest conjuration skill. Which means that you'll have a chance to steal hostile NPCs summons if your conjuration is high enough, but also that your own summons might turn against you if you send them against the wrong opponent.
+* [**Effects Timers - MWSE**](https://www.nexusmods.com/morrowind/mods/51787) by Spammer  
+Picture this: You are in a middle of a fight, swinging a bound longsword, when suddenly it vanishes right from your hand. The cast time is up, and because you had no idea how much time you had left, you're now defenseless against your opponnents. Frustrating, isn't it? This mod intends to give you a visual idea of how much time you still have.  
 
 ### Destruction
 * [**Elemental Magicka II**](https://www.nexusmods.com/morrowind/mods/42106) by NMZMaster  
@@ -168,6 +170,8 @@ This mod makes all mental manipulation effect count as an aggression. Player wil
 As long as the player is invisible, all hostiles located in the current cell stop combat. Includes configurable fight values for hostiles in MCM. A must-have for any illusionist.
 * [**Permanent Calm Pacifist Option Apologize Befriend Bandit and Beasts Calm Down**](https://www.nexusmods.com/morrowind/mods/51737) by biltjan  
 Want to play as a Pacifist? Apologize to a merchant that you've accidentally attacked? Maybe make a bandit friend? If so, this is the mod for you. You can now permanently calm NPCs 
+* [**Magicka Awakening 1 Illusion**](https://www.nexusmods.com/morrowind/mods/51746) by biltjan  
+Improves Illusion effects as you level up in Illusion. Permanently calm/fear/rally/frenzy enemies, "steal" visions with blind, light reduce enemies willpower, charm makes buying things cheaper, sound applied after silence, chameleon applied after invisibility, drain speed applied after paralyze. Includes Permanent Calm Pacifist Option, don't run them together. Light changes are incompatible with MM - Enhanced Light.  
 
 ### Mysticism
 * [**Customizable MWSE Multi Mark & Harder Recall**](https://www.nexusmods.com/morrowind/mods/47065) by Virnetch  

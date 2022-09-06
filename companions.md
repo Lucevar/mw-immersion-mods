@@ -34,6 +34,9 @@ Includes an Argonian companion
 [**The Strider's Nest - Companions and Quests**](https://www.nexusmods.com/morrowind/mods/51579) by AlandroSul  
 [**OAAB Winged Twilight**](https://www.nexusmods.com/morrowind/mods/51643) by Katya Karrel - Tizzo  
 [**Find Jiub**](https://www.nexusmods.com/morrowind/mods/51692) by Stripes  
+[**Companion Leveler**](https://www.nexusmods.com/morrowind/mods/51760) by Kleidium  
+[**Awesome Scrib Follower**](https://www.nexusmods.com/morrowind/mods/51732) by dillonn907  
+[**Invader Knights 1.0**](https://www.nexusmods.com/morrowind/mods/51794) by warriornord1993  
 
 [**Companion Friendly Lava**](https://www.nexusmods.com/morrowind/mods/50890) by AlandroSul  
 

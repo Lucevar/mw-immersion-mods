@@ -95,6 +95,7 @@ A corprus meat replacer.
 [**Shut the fck up cliff racers**](https://www.nexusmods.com/morrowind/mods/46588) by Merlord  
 [**Nifty Inventory and Player-Related Sounds**](https://www.nexusmods.com/morrowind/mods/48372) by HazyBass  
 [**XBOX Menu Sound**](https://www.nexusmods.com/morrowind/mods/48426) by CiceroTR  
+[**Quieter Spell Sound Effects (For vanilla or AURA)**](https://www.nexusmods.com/morrowind/mods/51790) by ICantMakeUpATeamName  
 
 # Sound Overhauls
 [**Better Sounds**](https://www.nexusmods.com/morrowind/mods/9967?) by JEKA and TJ  

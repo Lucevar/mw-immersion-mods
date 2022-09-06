@@ -9,6 +9,7 @@
 [**Outlander Asset Library**](https://www.patreon.com/posts/outlander-11784257) by LondonRook  
 [**Nif Resources**](https://www.nexusmods.com/morrowind/mods/43064) by YarYulme  
 [**OAAB Data**](https://www.nexusmods.com/morrowind/mods/49042) by OAAB Team  
+[**Dr_Data**](https://www.nexusmods.com/morrowind/mods/51776) by Tapetenklaus  
 
 ## Terrain
 [**Wolli's Mountain Resources**](https://www.nexusmods.com/morrowind/mods/46483) by Wollibeebee  

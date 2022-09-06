@@ -74,3 +74,4 @@
 [**Foster**](https://www.nexusmods.com/morrowind/mods/51337) by dietbob196045  
 [**Ice Scrib**](https://www.nexusmods.com/morrowind/mods/51338) by dietbob196045  
 [**Fireflies**](https://www.nexusmods.com/morrowind/mods/51443) by RandomPal  
+[**Bantam Guar**](https://www.nexusmods.com/morrowind/mods/51749) by CemKey  
