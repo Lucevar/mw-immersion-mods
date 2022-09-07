@@ -7,7 +7,10 @@ This isn't a list of recommendations - it attempts to catelogue MWSE and MGE mod
 
 If a mod requires both MGE and MWSE I usually categorise it under MWSE.
 
-## July 8th - Sept 6th
+## July 8th - Sept 7th
+[**Actual Illegal Resting - MWSE**](https://www.nexusmods.com/morrowind/mods/51804) by Spammer  
+Makes Resting in towns and forts actually illegal instead of just impossible. Spammer always found it frustrating that because "resting is illegal here", he wasn't allowed to do it. Stealing and murdering are illegal too and he does it all the time. This is what this mod does, give you the choice.  
+
 [**Open the Door**](https://www.nexusmods.com/morrowind/mods/51799) by C3pa  
 This mod opens the door you are looking at if within the activation distance. This saves you time and your spacebar. When a locked or trapped door is encountered a message written in the first person is shown to better communicate what your character might be thinking when trying to open a locked door.  
 
