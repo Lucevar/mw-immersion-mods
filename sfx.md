@@ -34,6 +34,7 @@
 [**Bleeding Injuries - MWSE**](https://www.nexusmods.com/morrowind/mods/51308) by Spammer  
 [**Darknut's Lighted Dwemer Towers**](https://www.nexusmods.com/morrowind/mods/51358) by Darknut  
 [**Fireflies**](https://www.nexusmods.com/morrowind/mods/51443) by RandomPal  
+[**Turn Normal Grass and Kelp into Groundcover**](https://www.nexusmods.com/morrowind/mods/52010) by Hemaris  
 
 ## Items
 [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
