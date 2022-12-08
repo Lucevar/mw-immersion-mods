@@ -111,6 +111,8 @@ All Books each have their own unique customized design & are color-coded by subj
 The Vanilla Book "ABC's for Barbarians" is now FULLY illustrated A-Z.  
 * [**Yellow border b-gone. Imperial Banner and Flag retexture**](https://www.nexusmods.com/morrowind/mods/47685) by Leetmorry  
 Those "toxic waste yellow" borders always bothered me, so I made a simple retexture. This is an upscaled vanilla texture, taken from Intelligent Textures pack, includes imperial flag and imperial banner. Apart from removing the yellow border, I fixed some artifacts caused by upscaling.  
+* [**By Azura**](https://www.nexusmods.com/morrowind/mods/50567) by Lamb Shark  
+An overhaul to the appearance and animations of Azura, Prince of Moonshadow.  
 
 ## Lighting & Weather
 * [**Weather Adjuster**](https://www.nexusmods.com/morrowind/mods/46816) by Hrnchamd  
@@ -528,6 +530,8 @@ makes Big Head's hut more immersive, by adding more forks for our obsessed fork-
 Holamayan Monastery replacer, based on Bethesda Softworks original concept-art  
 * [**RR Mod Series - Melchiors Mudcrab Merchant**](https://www.nexusmods.com/morrowind/mods/42685) by Melchior Dahrk and Resdayn Revival Team  
 This mod is a model and texture replacer for the Mudcrab Merchant, making him stand out against the other mudcrabs in a classy way.  
+* [**Immersive Drulene Falen's Hut**](https://www.nexusmods.com/morrowind/mods/49623) by RandomPal  
+Cooler exterior for Drulene Falen's hut.  
 
 ## Towns
 * [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075) by Melchior Dahrk  
@@ -609,6 +613,17 @@ Detailing Hla Oad.
 Overhauls the Sadrith Mora Market with assets from OAAB Data and Tamriel Rebuilt. Made for the Summer Modjam 2022.  
 * [**Foreign Quarter Market Square**](https://www.nexusmods.com/morrowind/mods/51700) by MwGek  
 Overhauls the pit area in the Lower Waistworks of the Foreign Quarter in Vivec to a cozy flea market with custom, OAAB and vanilla assets.  
+* [**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603) by RandomPal  
+Subtle changes to make the nordic village of Dagon Fel...nordic  
+* [**The Striderport in Vivec**](https://www.nexusmods.com/morrowind/mods/49492) by RandomPal and Vegetto aka Duo Dinamico  
+Overhaul of the Striderport in Vivec  
+* [**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373) by RandomPal  
+Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport markers for Almvisi Intervention to Vos, Suran, Maar Gan and Ghostgate.  
+* [**Immersive Mournhold**](https://www.nexusmods.com/morrowind/mods/49353) by Various  
+Mournhold Overhaul  
+* [**The Ashlanders**](https://www.nexusmods.com/morrowind/mods/49221) by Duo Dinamico  
+Overhaul of the Ashlander Camps  
+- Note: get the grass patches too  
 
 ## Skills
 * [**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057) by Merlord  
