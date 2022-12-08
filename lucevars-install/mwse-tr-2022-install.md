@@ -456,6 +456,12 @@ Overhauls the Andavel Ancestral Tomb and nearby Assumanu caverns, expanding on e
 A remake of tombs and velothi towers.  
 * [**Maren's Misfit Mabrigash**](https://www.nexusmods.com/morrowind/mods/48709) by MysticElodie  
 Explore a revamped Maren Ancestral Tomb in search of a mysterious Ashlander outcast. Part of the Summer Modjam 2020.  
+* [**Fixed Falensarano**](https://www.nexusmods.com/morrowind/mods/48683?tab=files) by RandomPal   
+A fixed version of Falensarano - The Ruined Stronghold
+* [**Better Dwemer Interiors**](https://www.nexusmods.com/morrowind/mods/50193) by Silentjacket  
+Overhauls Dwemer ruins so that they are more memorable, more fun to explore, and ultimately more rewarding without being unbalanced or overcluttered.  
+- Note: Currently covers Arkgnthand and Nchuleft  
+- Note: Get ALL FOUR files, all the patches are necessary  
 
 ## Locations
 * [**More believable bandit camps - an addon for Ashfall**](https://www.nexusmods.com/morrowind/mods/50066) by RandomPal  
@@ -615,8 +621,6 @@ Overhauls the Sadrith Mora Market with assets from OAAB Data and Tamriel Rebuilt
 Overhauls the pit area in the Lower Waistworks of the Foreign Quarter in Vivec to a cozy flea market with custom, OAAB and vanilla assets.  
 * [**Nordic Dagon Fel**](https://www.nexusmods.com/morrowind/mods/49603) by RandomPal  
 Subtle changes to make the nordic village of Dagon Fel...nordic  
-* [**The Striderport in Vivec**](https://www.nexusmods.com/morrowind/mods/49492) by RandomPal and Vegetto aka Duo Dinamico  
-Overhaul of the Striderport in Vivec  
 * [**Improved Temple Experience**](https://www.nexusmods.com/morrowind/mods/49373) by RandomPal  
 Adds shrines to the temples in Vos, Suran, Maar Gan and Molag Mar. Adds teleport markers for Almvisi Intervention to Vos, Suran, Maar Gan and Ghostgate.  
 * [**Immersive Mournhold**](https://www.nexusmods.com/morrowind/mods/49353) by Various  
@@ -624,6 +628,8 @@ Mournhold Overhaul
 * [**The Ashlanders**](https://www.nexusmods.com/morrowind/mods/49221) by Duo Dinamico  
 Overhaul of the Ashlander Camps  
 - Note: get the grass patches too  
+* [**Vivec City**](https://www.nexusmods.com/morrowind/mods/50111?tab=description) by Nwahs and Mushrooms Team  
+Detailed Vivec city.  
 
 ## Skills
 * [**Ashfall - A Camping Survival and Needs Mod**](https://www.nexusmods.com/morrowind/mods/49057) by Merlord  
@@ -725,6 +731,14 @@ This mod allows you to role play as a vampire hunter, finally. Quests, new chara
 This mod lets you to join an Orcish clan, and do quests for them. Part of the May Modathon Month.  
 * [**Firemoth Reclaimed**](https://www.nexusmods.com/morrowind/mods/51939) by Team Ceaseless Centurions  
 This mod overhauls Fort Firemoth with new questline, enemies, atmosphere, and redone locations. Part of Morrowind Modding Madness 2022.  
+* [**Imperial Employment Agency**](https://www.nexusmods.com/morrowind/mods/43528?tab=files) by Melchior Dahrk  
+Adds a series of quests to Vivec's foreign quarter
+* [**Andrano Ancestral Tomb Remastered**](https://www.nexusmods.com/morrowind/mods/44672) by Greatness7 MattTheBagel VvardenfellTribes  
+An overhaul for the second main quest and its associated dungeon.  
+* [**The Weary Vampire**](https://www.nexusmods.com/morrowind/mods/49774) by OperatorJack  
+This mod overhauls Drethan Ancestral Tomb, transforming it into a much larger location that can be used as a player home after completing the quest, "The Weary Vampire."  
+* [**Vaermina's Quest - Dreams of the Escaped**](https://www.nexusmods.com/morrowind/mods/49172) by The Tenacious Templars  
+Journey through ancient legendary dreams and events to try and piece together a mystery on behalf of the Prince of Dreams and Nightmares, Vaermina.  
 
 ## Patches
 * [**Balmora Gravemarket - Striders Nest Patch**](https://drive.google.com/file/d/1-hckiyRGPBzsGhXtpZVpEN28Ml9lyXNL/view?usp=share_link) by Lucevar
