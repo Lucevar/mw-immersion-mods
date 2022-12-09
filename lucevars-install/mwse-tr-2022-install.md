@@ -286,6 +286,24 @@ Speak to Claguis Clanler In Balmora, he's got all the Cloaks you could need. 24 
 Visit Khuul to find the new market of Tirram Terala, an eccentric peddler with wares to sell and stories to tell. Browse his selection of exotic goods from all over Tamriel and beyond. He might even have a few heirlooms he picked up during his adventuring days.  
 * [**Westly's FCOT**](https://drive.google.com/file/d/1jRmRNtWCG95tbscmYTP4-ohIdaYgpOGw/view?usp=share_link) by Westly  
 Adds lots of lore friendly new clothes
+* [**Concept Art Dunmer Helmets**](https://www.nexusmods.com/morrowind/mods/52043/) by Ruffin Vangarr  
+Adds several new Dunmer Helmets into the game based on designs by michael kirkbride  
+* [**Necromancer Robes**](https://www.nexusmods.com/morrowind/mods/51775) by Ruffin Vangarr  
+Adds new Necromancer Attire to the game for aspirants and masters of the dark arts alike.  
+* [**Sacred Necromancer Armor**](https://www.nexusmods.com/morrowind/mods/51651) by Ruffin Vangarr  
+Adds Sacred Necromancer armor to the game, used by the ordained ancestral mages of the Tribunal Temple.  
+* [**Fashionwind - MWSE Masks and Facewraps**](https://www.nexusmods.com/morrowind/mods/51610) by Ruffin Vangarr  
+This mod adds various lore friendly Ashmasks, Menpos and face wraps with an MWSE script that allows them to be worn without hiding your hair or even taking up the helmet slot. (requires onion layers mod)  
+* [**Fashionwind - MWSE Glasses and Goggles V2**](https://www.nexusmods.com/morrowind/mods/50448) by Ruffinvangarr and Safebox  
+this mod adds glasses and goggles with an MWSE script that allows them to be worn without hiding your hair or even taking up the helmet slot. (requires onion layers mod)  
+* [**Northern Redoran Armor**](https://www.nexusmods.com/morrowind/mods/50649) by Ruffinvangarr  
+adds a cozy new armor into the game  
+* [**Redoran Exile Armor**](https://www.nexusmods.com/morrowind/mods/49509) by Ruffinvangarr  
+A new armor set made for mod jam 2021  
+* [**Hein's Morag Tong Armors**](https://www.nexusmods.com/morrowind/mods/51144) by Heinrich Ruffin Vangarr and Caeris  
+This mod adds Heinrich's excellent morag tong armors (featured in morag tong polished) as a stand alone to the game, with some minor tweaks and improvements.  
+* [**Morag Tong Helmet Diversity**](https://www.nexusmods.com/morrowind/mods/50738) by Ruffinvangarr  
+Adds new morag tong helmets, buy them from Rogdul in the morag tong base in vivec  
 
 ## Creatures
 * [**Beware the Sixth House (Sixth House Overhaul)**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
@@ -333,6 +351,8 @@ Let the face fit the crimeEdits over 150 hostile bandits to use unsavoury faces 
 The proper dress for Barenziah that reflects her personality. Heavily inspired by her outfit from Legends & Dagerfall.  
 * [**Khajiit Outfit Diversity**](https://www.nexusmods.com/morrowind/mods/47224?tab=files) by Lucevar  
 Gives some of the vanilla khajiit more interesting outfits (eg slaves are given rags from Dreamers Expansion). Requires assets from OAAB, TD, Dreamer Expansion, and FCOT.
+* [**MWSE - Morag Tong Helmets**](https://www.nexusmods.com/morrowind/mods/50827) by Stripes  
+MWSE mod that gives all members of the Morag Tong a random helmet if they aren't already wearing one.  
 
 ## New NPCS, Dialogue & Speech
 * [**Friends and Foes**](https://www.nexusmods.com/morrowind/mods/49251) by Danae  
