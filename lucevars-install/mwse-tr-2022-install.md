@@ -105,10 +105,6 @@ Highly detailed textures for Bitter Coast trees and flora, part of the Bitter Co
 * [**Silt Strider**](https://www.nexusmods.com/morrowind/mods/48664) by Nwahs and Mushrooms Team  
 Replacer Silt Strider. Versions with vanilla and new textures are available.  
 - Note: I use the vanilla texture version
-* [**All Books Color-Coded and Designed**](https://www.nexusmods.com/morrowind/mods/50536) by Xero Foxx  
-All Books each have their own unique customized design & are color-coded by subject.  
-* [**Illustrated ABC's for Barbarians**](https://www.nexusmods.com/morrowind/mods/49310) by Xero Foxx  
-The Vanilla Book "ABC's for Barbarians" is now FULLY illustrated A-Z.  
 * [**Yellow border b-gone. Imperial Banner and Flag retexture**](https://www.nexusmods.com/morrowind/mods/47685) by Leetmorry  
 Those "toxic waste yellow" borders always bothered me, so I made a simple retexture. This is an upscaled vanilla texture, taken from Intelligent Textures pack, includes imperial flag and imperial banner. Apart from removing the yellow border, I fixed some artifacts caused by upscaling.  
 * [**By Azura**](https://www.nexusmods.com/morrowind/mods/50567) by Lamb Shark  
@@ -155,8 +151,6 @@ This mod makes in-world soulgems that are filled appear as enchanted items.
 Now works with OpenMWMWSE Graphic Herbalism harnesses the power of lua and mesh switchnodes, allowing this mod to be run without an esp or standard scripts. This dramatically optimizes performance compared to older graphic herbalism mods. It also comes with an mod configuration menu to allow you to change settings.  
 * [**Dwemer Lightning Rods**](https://www.nexusmods.com/morrowind/mods/50236) by Melchior Dahrk  
 With this mod, if you visit a dwemer ruin during a thunderstorm, you'll be greeted by blinding flashes as lightning strikes the steamstack lightning rods from the vanilla game. But be careful not to get too close lest you be shocked 
-* [**Matching Manuscripts**](https://www.nexusmods.com/morrowind/mods/51132) by NullCascade  
-Dynamically changes the book menu to make the book cover match the actual book being read.  
 * [**Unto Dust**](https://www.nexusmods.com/morrowind/mods/48435) by Melchior Dahrk and Greatness7  
 This mod adds floating dust to areas where dead are entombed similar to what is seen in Skyrim barrows. Inspired by an unused texture, these particles will appear in multiple tomb-like cell-types in the game or mods thanks to the included MWSE code. This has been extensively optimized such that minimal to no performance loss is expected.  
 * [**Keg Drip**](https://www.nexusmods.com/morrowind/mods/47903) by Melchior Dahrk and Greatness7  
@@ -229,8 +223,6 @@ UI overhaul allowing generate random name for you character upon character creat
 Lets you randomise your race, appearance, class, and birthsign.  
 * [**FMI - The Role They Were to Play**](https://www.nexusmods.com/morrowind/mods/46411) by PoodleSandwich  
 Changes the intro cinematic from "he" to "they", to refer to the player character  
-* [**Merlord's Starting Equipment**](https://www.nexusmods.com/morrowind/mods/47283) by Merlord and Danae  
-Adds starting equipment, based on the items seen in the images in the class selection screen for vanilla classes, or on major/minor skills for custom classes. Compatible with Chargen Revamped - Expanded Lands (CREL). Uses MWSE/Lua.  
 * [**Expanded Birthsigns for Purists**](https://www.nexusmods.com/morrowind/mods/18016) by Cael_Aurion  
 This has been on PES for a year now, I figured it was about time to put it up on TES Nexus. Expanded Birthsigns for Purists rebalances and expands the original birthsigns while retaining lore-purity, based on the in-game text 'The Firmament', and the birthsigns available in Oblivion, doubling the number of birthsigns from thirteen to twenty-six. 
 * [**Predator Beast Races - Argonians and Khajiit Overhaul**](https://www.nexusmods.com/morrowind/mods/48894) by QwertyQuit - C3pa  
@@ -247,10 +239,24 @@ Throwing weapons, arrows, and the Sound spell now distract NPCs and allow you to
 Adds a custom real-time menu to pickpocketing and restores a formerly-useless mechanic.  
 * [**Stealth Improved**](https://www.nexusmods.com/morrowind/mods/49614) by mort  
 Rebuilds stealth mechanics from the ground up, and makes sneaking a viable playstyle  
+
+## Books
 * [**Useful Maps and Guides**](https://www.nexusmods.com/morrowind/mods/51278) by Lucevar  
 Makes the "Guide to..." scrolls more useful by scripting them to reveal the cities on your world map.  
 * [**Reading Is Good**](https://www.nexusmods.com/morrowind/mods/51705) by Publicola and Spammer  
 In this mod, skill books no longer give a free skill point. Instead, they permanently increase the XP you gain when training that skill. This means that players will profit from skill books over the entire game, and will benefit the most from reading skill books as early as possible.   
+* [**MWSE 2.1 Journal Search and Edit**](https://www.nexusmods.com/morrowind/mods/46756) by svengineer99  
+Adds journal search, edit, insert pages and book art capabilities.  
+* [**Take Notes**](https://www.nexusmods.com/morrowind/mods/43839) by qqqbbb  
+Write your own notes  
+* [**Writer of the Third Era**](https://www.nexusmods.com/morrowind/mods/52034) by Dillonn241  
+Allows your character to write books and make money publishing them.  
+* [**All Books Color-Coded and Designed**](https://www.nexusmods.com/morrowind/mods/50536) by Xero Foxx  
+All Books each have their own unique customized design & are color-coded by subject.  
+* [**Illustrated ABC's for Barbarians**](https://www.nexusmods.com/morrowind/mods/49310) by Xero Foxx  
+The Vanilla Book "ABC's for Barbarians" is now FULLY illustrated A-Z.  
+* [**Matching Manuscripts**](https://www.nexusmods.com/morrowind/mods/51132) by NullCascade  
+Dynamically changes the book menu to make the book cover match the actual book being read.  
 
 ## Loot & Gear
 * [**Onion - Layered Accessories**](https://www.nexusmods.com/morrowind/mods/50352) by Safebox - requested by RuffinVangarr
@@ -657,8 +663,6 @@ Survival mod with hunger, thirst, tiredness, cooking, camping, crafting and temp
 - Tree Felling Animations
 * [**Bardic Inspiration**](https://www.nexusmods.com/morrowind/mods/45441) by Merlord  
 Learn songs from other bards. Book performances with innkeepers. 38 songs to learn. New 'Performance' skill. Dynamic replacement of vanilla lutes with equippable versions.  **]
-* [**Writer of the Third Era**](https://www.nexusmods.com/morrowind/mods/52034) by Dillonn241  
-Allows your character to write books and make money publishing them.  
 * [**Go Fletch**](https://www.nexusmods.com/morrowind/mods/46752) by Merlord and Remiros  
 Go Fletch adds a brand new Fletching skill to the game, utilising the latest skill and crafting frameworks in MWSE to fully integrate it into the vanilla UI.  
 * [**Mantle of Ascension - A Climbing Mod**](https://www.nexusmods.com/morrowind/mods/49870) by vtastek  
