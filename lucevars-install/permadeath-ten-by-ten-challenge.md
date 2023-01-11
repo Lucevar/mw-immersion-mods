@@ -43,3 +43,4 @@ Required by NOD.
 * [**OAAB Huleen's Hut Overhaul**](https://www.nexusmods.com/morrowind/mods/51458)  
 * [**Leap of Faith**](https://www.nexusmods.com/morrowind/mods/51702)  
 * [**LDM - Choices and Consequences**](https://github.com/Lucevar/ldm)  
+* [**Balmora Slums Addon**]() 
