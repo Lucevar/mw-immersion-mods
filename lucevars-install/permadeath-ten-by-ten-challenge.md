@@ -1,4 +1,4 @@
-Challenge where I start with only ten mods installed, and play permadeath. Every time I die I'm allowed to install five more mods.
+Challenge where I start with only ten mods installed, and play permadeath. Every time I die I'm allowed to install five more mods. After 100 mods, that goes down to 2.
 
 Mods I've made are "free" for the purposes of this challenge. Mods they depend on aren't. MGEXE, MWSE, XE Sky Variations, Merged Objects, and MCP also considered free.
 
