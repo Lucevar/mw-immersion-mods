@@ -1,0 +1,1 @@
+Challenge where I start with only ten mods installed, and play permadeath. Every time I die I'm allowed to install ten more mods, until I hit 100, when I'm only allowed to install five each time I die. 
