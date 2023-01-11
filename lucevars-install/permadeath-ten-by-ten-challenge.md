@@ -44,3 +44,11 @@ Required by NOD.
 * [**Leap of Faith**](https://www.nexusmods.com/morrowind/mods/51702)  
 * [**LDM - Choices and Consequences**](https://github.com/Lucevar/ldm)  
 * [**Balmora Slums Addon**]() 
+
+# Character 1 - Rylen, the Redguard Scout
+
+### Mods I notice myself missing
+Graphic Herbalism (because the MOP patch broke)
+Weapon Sheathing (because the MOP patch broke)
+Let There Be Darkness (ugly darklight in the Census and Excise Office)
+Random Chargen
