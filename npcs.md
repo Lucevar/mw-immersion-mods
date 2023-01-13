@@ -54,6 +54,7 @@
 [**Morag Tong Armor Revisited**](https://www.nexusmods.com/morrowind/mods/51728) by NazoX9 Rosynant  
 [**Move Out Of The Way Sugar-Lips**](https://www.nexusmods.com/morrowind/mods/51751) by FelsenSethandus  
 [**Better Heads Jiub Fixed**](https://www.nexusmods.com/morrowind/mods/51766) by MrPrivateEye  
+[**Interesting Outfits - Cultists**](https://www.nexusmods.com/morrowind/mods/51922?tab=description) by TipsyTekPriest
 
 ## Situational
 [**Wear A Mask**](https://www.nexusmods.com/morrowind/mods/49240) by Von Djangos  
