@@ -135,10 +135,10 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 
 ## <a name="caves"></a>Caves
 **Abanabi** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
-**Abernanit** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
+**Abernanit** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [**Vennin's Abernanit Overhaul**](https://www.nexusmods.com/morrowind/mods/52457)
 **Abinabi** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Adanumuran** - [Adanumuran Reclaimed](https://www.nexusmods.com/morrowind/mods/43340), [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076)  
-**Addamasartus** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [**The Cave of Woe**](https://www.nexusmods.com/morrowind/mods/352), [**Less Disclosed Addamasartus**](https://www.nexusmods.com/morrowind/mods/49271), [**Better Caves and Caverns**](https://www.nexusmods.com/morrowind/mods/51218)    
+**Addamasartus** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [**The Cave of Woe**](https://www.nexusmods.com/morrowind/mods/352), [**Less Disclosed Addamasartus**](https://www.nexusmods.com/morrowind/mods/49271), [**Better Caves and Caverns**](https://www.nexusmods.com/morrowind/mods/51218), [Vennin's Addamasartus Overhaul](https://www.nexusmods.com/morrowind/mods/52420)
 **Aharunartus** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893), [**Tel Dranori Wizard Tower**](https://www.nexusmods.com/morrowind/mods/42763), [**Balmora Guilds Expanded**](https://www.nexusmods.com/morrowind/mods/46859)      
 **Aharnabi** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249), [**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893)  
 **Ahinipalit** - [**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249)  
