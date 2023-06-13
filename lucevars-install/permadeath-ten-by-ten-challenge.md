@@ -98,6 +98,8 @@ The authors of Graht Morrowind, Grahtwood Roost, and Leeches all recommend using
 
 I *really* want to add Mantle of Ascension, Joy of Painting, Store Chimes, and Midnight Oil here, but it's more important to get a cohesive Bitter Coast experience starting to come together I think.
 
+And if all that cheating wasn't enough, I also added [**The Sanguine Rose**](https://www.nexusmods.com/morrowind/mods/46214) because I offered to do some testing. :angel: 
+
 ## Round 3 candidates
 * Mistify
 * Hla Oad
