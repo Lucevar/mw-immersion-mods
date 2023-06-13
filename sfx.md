@@ -35,6 +35,8 @@
 [**Darknut's Lighted Dwemer Towers**](https://www.nexusmods.com/morrowind/mods/51358) by Darknut  
 [**Fireflies**](https://www.nexusmods.com/morrowind/mods/51443) by RandomPal  
 [**Turn Normal Grass and Kelp into Groundcover**](https://www.nexusmods.com/morrowind/mods/52010) by Hemaris  
+[**Hide Grass**](https://www.nexusmods.com/morrowind/mods/52764) by abot  
+[**Swayland**](https://www.nexusmods.com/morrowind/mods/48854?tab=description) by wazabear  
 
 ## Items
 [**Well Lit Lanterns**](https://www.nexusmods.com/morrowind/mods/45801) by Gruntella  
