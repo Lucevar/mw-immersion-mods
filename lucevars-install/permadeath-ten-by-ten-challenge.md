@@ -105,3 +105,5 @@ And if all that cheating wasn't enough, I also added [**The Sanguine Rose**](htt
 * Hla Oad
 * Hla Odai
 * BC textures
+* Pet scrib
+* Fireplaces
