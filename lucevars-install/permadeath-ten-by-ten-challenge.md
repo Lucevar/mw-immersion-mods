@@ -107,3 +107,15 @@ And if all that cheating wasn't enough, I also added [**The Sanguine Rose**](htt
 * BC textures
 * Pet scrib
 * Fireplaces
+* Ashen Divide
+* Glowbugs
+* Glowing Mushrooms
+* Denina Erengard Mines
+* Entry chimes
+* Mudcrab varieties
+
+* Updates to Shipyards (ints, typos, quest-smoothing)
+* Updates to leeches (typos, latest rumors)
+* Quests for SNDLS (Carsen cg quests, missionary - rebuke outrage, daughter break away/flirt with Carsen, establish a new cult outpost, coast guard investigation of smuggler at Halfmast, help Pariel)
+* Move BJTL shack out of way of Hla Odai
+* Updates to AFFresh (typos)
