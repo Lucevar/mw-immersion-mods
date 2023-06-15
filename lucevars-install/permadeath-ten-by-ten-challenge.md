@@ -122,3 +122,5 @@ And if all that cheating wasn't enough, I also added [**The Sanguine Rose**](htt
 * Quests for SNDLS (Carsen cg quests, missionary - rebuke outrage, daughter break away/flirt with Carsen, establish a new cult outpost, coast guard investigation of smuggler at Halfmast, help Pariel)
 * Move BJTL shack out of way of Hla Odai
 * Updates to AFFresh (typos)
+* Grahtwood Roost/Rainforest conflict
+* Graht Trees/Rainforest conflict
