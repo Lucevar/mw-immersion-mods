@@ -100,6 +100,8 @@ I *really* want to add Mantle of Ascension, Joy of Painting, Store Chimes, and M
 
 And if all that cheating wasn't enough, I also added [**The Sanguine Rose**](https://www.nexusmods.com/morrowind/mods/46214) because I offered to do some testing. :angel: That also means [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111?tab=files) because it's a dependency of Sanguine Rose.  
 
+Mid-game additions: Selection Details and Clocks, because I really needed the utility for testing/keeping track of time.
+
 ## Round 3 candidates
 * Mistify
 * Hla Oad
