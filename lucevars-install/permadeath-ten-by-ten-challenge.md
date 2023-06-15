@@ -113,6 +113,9 @@ And if all that cheating wasn't enough, I also added [**The Sanguine Rose**](htt
 * Denina Erengard Mines
 * Entry chimes
 * Mudcrab varieties
+* tomb banners
+* shipwrecks
+* justice for khartag
 
 * Updates to Shipyards (ints, typos, quest-smoothing)
 * Updates to leeches (typos, latest rumors)
