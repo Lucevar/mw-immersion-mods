@@ -39,7 +39,7 @@ Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with
 
 ## <a name="tombs"></a>Ancestral Tombs
 [**Know Thy Ancestors**](https://www.nexusmods.com/morrowind/mods/49678) by XeroFoxx  
-Adds banners outside all the ancestral tombs. Includes a version for tombs in TR.  
+Adds banners outside all the ancestral tombs. Includes a version for tombs in TR. Also includes a patch for [**Addamasartus and Samarys Swapped**](https://www.nexusmods.com/morrowind/mods/48844) 
 
 **Alas Ancestral Tomb** - [**OAAB Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131), [**Nyarlathotep**](https://www.nexusmods.com/morrowind/mods/44284), [**Remiros' Tombs Expanded**](https://www.nexusmods.com/morrowind/mods/45616)   
 **Alen Ancestral Tomb**  
@@ -109,7 +109,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Salothan Ancestral Tomb**  
 **Salothran Ancestral Tomb** - [**OAAB Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131), [**Remiros' Tombs Expanded**](https://www.nexusmods.com/morrowind/mods/45616)  
 **Salvel Ancestral Tomb**  
-**Samarys Ancestral Tomb** - [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612), [**Greater Samarys**](https://www.nexusmods.com/morrowind/mods/44592), [**BDC-Seyda Neen**](https://www.nexusmods.com/morrowind/mods/51133), [**Swapping Addamasartus and Samarys**](https://www.nexusmods.com/morrowind/mods/48844), [**Yashga Orc Companion**](https://www.nexusmods.com/morrowind/mods/45734), [**Morrowind Comes Alive**](https://www.nexusmods.com/morrowind/mods/6006)    
+**Samarys Ancestral Tomb** - [**Samarys Ancestral Tomb Expanded**](https://www.nexusmods.com/morrowind/mods/45612), [**OAAB Greater Samarys**](https://www.nexusmods.com/morrowind/mods/52781), [**Greater Samarys**](https://www.nexusmods.com/morrowind/mods/44592), [**BDC-Seyda Neen**](https://www.nexusmods.com/morrowind/mods/51133), [**Swapping Addamasartus and Samarys**](https://www.nexusmods.com/morrowind/mods/48844), [**Yashga Orc Companion**](https://www.nexusmods.com/morrowind/mods/45734), [**Morrowind Comes Alive**](https://www.nexusmods.com/morrowind/mods/6006)    
 **Sandas Ancestral Tomb** - [**OAAB Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131), [**Remiros' Tombs Expanded**](https://www.nexusmods.com/morrowind/mods/45616)  
 **Sandus Ancestral Tomb**  
 **Sarano Ancestral Tomb** - [**OAAB Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131), [**Remiros' Tombs Expanded**](https://www.nexusmods.com/morrowind/mods/45616)  
@@ -394,10 +394,14 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Vas**  
 
 ## <a name="shipwrecks"></a>Shipwrecks
-[**Uncharted Artifacts**](https://www.nexusmods.com/morrowind/mods/49281) by XeroFoxx  
-[**Abandoned Shipwreck**] - [**Of Pillows and Peril**](https://www.nexusmods.com/morrowind/mods/49491) 
-[**Get Wrecked - Shipwreck Overhaul**](https://www.nexusmods.com/morrowind/mods/51237) by Cerebulon  
-[**OAAB Shipwrecks**](https://www.nexusmods.com/morrowind/mods/51364) by Corsair83  
+### All Shipwrecks:
+* [**Uncharted Artifacts**](https://www.nexusmods.com/morrowind/mods/49281) by XeroFoxx  
+* [**Get Wrecked - Shipwreck Overhaul**](https://www.nexusmods.com/morrowind/mods/51237) by Cerebulon  
+* [**OAAB Shipwrecks**](https://www.nexusmods.com/morrowind/mods/51364) by Corsair83  
+
+* **Abandoned Shipwreck** - [**Of Pillows and Peril**](https://www.nexusmods.com/morrowind/mods/49491)
+* **Neglected Shipwreck** -  [**Shipyards of Vvardenfell**](https://www.nexusmods.com/morrowind/mods/51928)
+* **Unknown Shipwreck** - [**Shipyards of Vvardenfell**](https://www.nexusmods.com/morrowind/mods/51928)
 
 ## <a name="tribunal"></a>Tribunal
 **Sewers**  
