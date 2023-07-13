@@ -18,20 +18,10 @@ Title: Dungeons
 - [New Dungeons](#new)
 - [Towns](#towns)
 
-This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribunal and Bloodmoon, at the bottom) separated by category. Next to the name of the cave is a list of mods that change it. Some mods change a lot of different caves; in that case I've generally just abbreviated the name rather than linking it every time. These include:  
+This is a list of (hopefully) all the caves and dungeons in Morrowind (+ Tribunal and Bloodmoon, at the bottom) separated by category. Next to the name of the cave is a list of mods that change it. 
 
-[**OAAB Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131) by *Remiros*  
-Replaces: [**Remiros' Tombs Expansion**](https://www.nexusmods.com/morrowind/mods/45616) by *Remiros* - Abbreviated as **RTE**  
-[**Mines & Caverns**](https://www.nexusmods.com/morrowind/mods/44893) by *jsp25* - Abbreviated as **M&C**  
-[**Mines & Caverns - Solstheim**](https://www.nexusmods.com/morrowind/mods/45470) by *jsp25* - Abbreviated as **M&CS**, only compatible with Wollibeebee's Tomb of the Snow Prince, not with vanilla. Use LCO's Solstheim changes if you don't use TOTSP.
-[**Detailed Dungeons**](https://www.nexusmods.com/morrowind/mods/45076) by *Eldermaster28* - Abbreviated as **DD**.  
-[**Cavern Overhaul**](https://www.nexusmods.com/morrowind/mods/42249) by *Lougian* - Abbreviated as **LCO**  
-[**Dwemer Rebirth Project**](https://www.nexusmods.com/morrowind/mods/45249) by *RubberMan* - Abbreviated as **DRP**  
 
 **If you're aware of any mods that change these locations but aren't listed here, please let me know! I can be contacted as Lucevar at the Morrowind Nexus or on the Morrowind Modding Discord (linked above)**.
-
-## TL;DR my recommendations
-Details coming soon - but M&C and LCO conflict. I'd recommend using **M&C** with the DD patch (available on the M&C page) since I think the changes M&C makes are generally higher quality, with fewer compatibility issues. Then use **RTE** and **DRP** on top.
 
 ## <a name="replacers"></a>General Replacers
 **[Lougian's Caverns Bumpmapped](https://www.nexusmods.com/morrowind/mods/42412)** - This texture replacer makes such an incredible difference to the cave experience just on it's own. Requires MCP's Bumpmapping option to be enabled, otherwise you get odd texture results. It's a texture replacer so it's compatible with pretty much all the other mods on this list.  
