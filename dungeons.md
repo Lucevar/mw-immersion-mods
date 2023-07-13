@@ -350,7 +350,7 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Inanius Egg Mine**  
 **Madas-Zebba Egg Mine**  
 **Maelu Egg Mine**  
-**Maesa-Shammus Egg Mine**  
+**Maesa-Shammus Egg Mine** - [**Skeeve Den Cult of Namira**](https://www.nexusmods.com/morrowind/mods/52953)    
 **Matus-Akin Egg Mine**  
 **Missir-Dadalit Egg Mine**  
 **Mudan-Mul Egg Mine** - [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075)  
