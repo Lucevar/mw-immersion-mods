@@ -368,19 +368,19 @@ Adds banners outside all the ancestral tombs. Includes a version for tombs in TR
 **Zalkin-Sul Egg Mine**  
 
 ## <a name="velothi"></a>Velothi Towers
-**Ald Redaynia**  - [**Grey North - Ruined Redaynia**](https://www.nexusmods.com/morrowind/mods/49862)   
-**Ashmelech** - [**Ashmelech Reborn**](https://www.nexusmods.com/morrowind/mods/45648), [Vampire Clans - Clutter Monkey Overhaul](https://www.nexusmods.com/morrowind/mods/47259)    
-**Arvs-Drelen**  
-**Hanud**  
-**Mababi**  
-**Mawia**  - [**OAAB Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131), [Mawia Overhaul](https://www.nexusmods.com/morrowind/mods/46884)  
-**Odirniran** - [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075)  
-**Sanni**  
-**Shara**  
-**Shishara**  
-**Shishi**  
-**Sulipund**  
-**Vas**  
+**Ald Redaynia**  - [**Grey North - Ruined Redaynia**](https://www.nexusmods.com/morrowind/mods/49862), [**Redaynia Restored**](https://www.nexusmods.com/morrowind/mods/47646), [**Ald Redaynia Mod N. 147**](https://www.nexusmods.com/morrowind/mods/50727), [**Redaynia Village**](https://www.nexusmods.com/morrowind/mods/17935), [**Velothi Towers Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/48257)     
+**Ashmelech** - [**Ashmelech Reborn**](https://www.nexusmods.com/morrowind/mods/45648), [Vampire Clans - Clutter Monkey Overhaul](https://www.nexusmods.com/morrowind/mods/47259), [**Velothi Towers Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/48257)      
+**Arvs-Drelen** - [**Velothi Towers Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/48257)    
+**Hanud** - [**Velothi Towers Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/48257)    
+**Mababi** - [**Velothi Towers Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/48257)    
+**Mawia**  - [**OAAB Tombs and Towers**](https://www.nexusmods.com/morrowind/mods/49131), [**Mawia Overhaul**](https://www.nexusmods.com/morrowind/mods/46884), [**Velothi Towers Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/48257)    
+**Odirniran** - [**OAAB Grazelands**](https://www.nexusmods.com/morrowind/mods/49075), [**Velothi Towers Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/48257)    
+**Sanni** - [**Velothi Towers Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/48257)    
+**Shara** - [**Velothi Towers Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/48257)    
+**Shishara** - [**Velothi Towers Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/48257)    
+**Shishi** - [**Velothi Towers Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/48257)    
+**Sulipund** - [**Velothi Towers Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/48257)    
+**Vas** - [**Velothi Towers Expanded Overhaul**](https://www.nexusmods.com/morrowind/mods/48257)  
 
 ## <a name="shipwrecks"></a>Shipwrecks
 ### All Shipwrecks:
