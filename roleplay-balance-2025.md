@@ -34,6 +34,7 @@ You are stranded on an island called Masartus. Your objective is to craft a raft
 Arrive as a passenger instead of a prisoner. Includes shipwrecked in Sheogorad option.
 
 ## Economy
+### Philosophy
 * Life in Morrowind, especially for beginner adventurers, is harsh, and expensive, and it should be a struggle to save money. 
 * You should be able to eke out a living doing basic tasks, maybe crafting, maybe entertaining the patrons as a bard, until your adventuring skills get to a point where risks pay off.
 * But after paying for food, and rent, and maybe that pesky skooma addiction, there shouldn't be much left over for luxuries like training or fast travel.
@@ -44,16 +45,17 @@ Arrive as a passenger instead of a prisoner. Includes shipwrecked in Sheogorad o
 
 In short, the aim is to make things difficult enough to acquire that, when you do, it's a big moment, and a real power-up.
 
-* [**Wares Ultimate**](https://www.nexusmods.com/morrowind/mods/52013) by Danae
+### Mod Recs
+* [**Wares Ultimate**](https://www.nexusmods.com/morrowind/mods/52013) by Danae  
 Keeps shopping interesting by completely overhauling leveled lists and allowing for a huge number of modded items to be added to them in a way that makes sense and is lore friendly. Danae has also provided a large number of addons for various mods.
-* [**DRIP**](https://www.nexusmods.com/morrowind/mods/51242) by Merlord
+* [**DRIP**](https://www.nexusmods.com/morrowind/mods/51242) by Merlord  
 Keeps shopping interesting by adding a chance for some unenchanted items in stores and containers to randomly be converted to enchanted ones, Diablo-style.  
 **Recommendation**: turn the percentage chance much lower in the MCM. 1-2% is a good level imo. Otherwise they're too common and start to overshadow quest rewards.
 * [**Better Balanced Booze**](https://www.nexusmods.com/morrowind/mods/45844) by mort  
 Makes booze less OP. **Recommendation**: use the hardcore version, which keeps the vanilla negative effects, but reduces the positive ones.
-* [**ItemList**](https://www.nexusmods.com/morrowind/mods/47224) by VenomByte
+* [**ItemList**](https://www.nexusmods.com/morrowind/mods/47224) by VenomByte  
 Ups the level at which the best items appear, so smugglers caves don't suddenly become treasure troves... or at least not so quickly.
-* [**GameStat**](https://www.nexusmods.com/morrowind/mods/47224) by VenomByte
+* [**GameStat**](https://www.nexusmods.com/morrowind/mods/47224) by VenomByte  
 Tweaks several GMSTs to make services more expensive and self-repairs less effective.
 
 ## Gold & Pricing
@@ -69,7 +71,7 @@ Adds weight to gold. Makes the various banking and companion mods much more mean
 
 
 ### Banking Options
-* [**Project Tamriel / Tamriel Rebuilt's Briricca Bank**](https://www.nexusmods.com/morrowind/mods/44537)
+* [**Project Tamriel / Tamriel Rebuilt's Briricca Bank**](https://www.nexusmods.com/morrowind/mods/44537)  
 PTR adds a bank, with branches in various locations. Requires the player to have a certain level of local reputation before you can open an account. 
 * [**Imperial Bank**](https://www.nexusmods.com/morrowind/mods/54889) by Vaelta  
 Adds bank branches throughout Vvardenfell and PTR. Also adds quests! 
@@ -85,11 +87,11 @@ Dropped items and corpses are automatically positioned and oriented to align wit
 Ensures that your followers get warped to you if they get too far away. Compatible with any follower from any mod, without any special script attached to that NPC.
 * [**Diligent Defenders**](https://www.nexusmods.com/morrowind/mods/45717) by NullCascade  
 This module makes it so that when the player or the player's companions are attacked, any companions will launch into action in defense.
-* [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458) by Merlord 
+* [**Right Click Menu Exit**](https://www.nexusmods.com/morrowind/mods/48458) by Merlord  
 This mod provides one simple feature: any menu can be exited by right clicking. This includes dialog and barter menus, any service menus, as well as the main menu, save/load menu etc. 
 * [**Auto Attack**](https://www.nexusmods.com/morrowind/mods/51348) by Merlord  
 Won't be necessary for many -- but if you have wrist problems like I do, and find combat a bit of a slog, this is a life-saving mod.
-* [**Gameplay Tweaks**](https://www.nexusmods.com/morrowind/mods/53159) by abot 
+* [**Gameplay Tweaks**](https://www.nexusmods.com/morrowind/mods/53159) by abot  
 Collection of tweaks to various things. Disable any you don't need.  
 * [**Small QoL Improvements - MWSE**](https://www.nexusmods.com/morrowind/mods/53905) by Spammer  
 Assorted QoL tweaks, inc. a map hotkey, equipping scrolls readying the spell instead of making you read it, NPCs will turn to face you when you speak to them, reducing the amount of combat taunts, quest giver dialogue gets written to journal.
@@ -113,16 +115,16 @@ Skills framework required for many mods below.
 The Crafting Framework is library that allows modders to quickly and easily implement complex crafting mechanics in Morrowind.
 * [**Ashfall**](https://www.nexusmods.com/morrowind/mods/49057) by Merlord    
 THE survival mod. Survival mod with hunger, thirst, tiredness, cooking, camping, crafting and temperature mechanics, and new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack.
-[**Tea Merchants**](https://www.nexusmods.com/morrowind/mods/51656) by Juidius   
+* [**Tea Merchants**](https://www.nexusmods.com/morrowind/mods/51656) by Juidius   
 Adds merchants around Vvardenfell who'll sell you a nice hot cup of tea. Requires Ashfall.  
-[**Interop for Tea Mod**](https://www.nexusmods.com/morrowind/mods/50789) by Aldurion    
+* [**Interop for Tea Mod**](https://www.nexusmods.com/morrowind/mods/50789) by Aldurion    
 This is an interop file to make the food, tea and coffee ingredients added by Stuporstar's Tea Mod work through Ashfall's framework. Requires Stuporstar's Tea Mod - either the [**original**](https://www.nexusmods.com/morrowind/mods/54144) or [**RandomPal's version**](https://www.nexusmods.com/morrowind/mods/54507) which moves the shop to Old Ebonheart.
 **Recommendation**: I use RandomPal's. The customer base for exotic teas must be higher in OE than on an isolated peninsula outside a castle.
-[**Luxury Camping**](https://www.nexusmods.com/morrowind/mods/54767) by Lucevar   
+* [**Luxury Camping**](https://www.nexusmods.com/morrowind/mods/54767) by Lucevar   
 Adds some new bedrolls, straw beds, and tents for you to craft via Ashfall. Meshes by the amazing DimNussens.
-[**Wooden Animals**](https://www.nexusmods.com/morrowind/mods/53503) by Stele    
+* [**Wooden Animals**](https://www.nexusmods.com/morrowind/mods/53503) by Stele    
 Carved wooden animal figurines. Guar, Scrib and Kagouti. Craftable by player using Ashfall.
-[**Ashfall bushcrafting for realistic Repair**](https://www.nexusmods.com/morrowind/mods/55893) by codering  
+* [**Ashfall bushcrafting for realistic Repair**](https://www.nexusmods.com/morrowind/mods/55893) by codering  
 Adds a Stone Anvil and Stone Prongs to Ashfall's bushcrafting menu that allows you to repair your equipment with Realistic Repair. Both recipes unlock at Armorer 25 (Apprentice).
 [**Corkcrafting**](https://www.nexusmods.com/morrowind/mods/54538) by Juidius  
 Optional download in Moruhn Corkbulb Manor. Allows you to craft things out of corkbulb.
@@ -181,7 +183,7 @@ Adds a playable version of the board game The Royal Game of Ur to Vvardenfell, w
 ## Racism
 * [**Enslaved - MWSE**](https://www.nexusmods.com/morrowind/mods/51365?tab=description) by Spammer   
  If you're playing as an Argonian or a Khajiit, adds a small (configurable) chance to get abducted during your sleep by slave traders. 
-* [**LDM - Racist Service Refusal**](https://www.nexusmods.com/morrowind/mods/50870) by Lucevar
+* [**LDM - Racist Service Refusal**](https://www.nexusmods.com/morrowind/mods/50870) by Lucevar  
 Camonna Tong NPCs will now refuse to provide services to Argonians and Khajiit unless at a very high disposition.
 * [**Nastier Camonna Tong**](https://www.nexusmods.com/morrowind/mods/22601?tab=description) by von Djangos  
 Adds more offensive greetings to members of the Camonna Tong. Responses range from surly and difficult to outright racist slurs if your character is Khajiit or Argonian. Fixes some Balmora dialogue bugs in relation to the Camonna Tong. 
@@ -204,6 +206,7 @@ Your friends will let you sleep in their bed.
 * [**Loading Doors Lock Tune**](https://www.nexusmods.com/morrowind/mods/46094) by abot  
 Synchronises both sides of a door (great for use with pursuit mods), and also plays a door-closing sound when going through doors. 
 * [**Passing Time While Reading**](https://www.nexusmods.com/morrowind/mods/48059/) by abot  
+Time now passes while you're reading books.  
 * [**Speed Boost**](https://www.nexusmods.com/morrowind/mods/47896) by OperatorJack  
 With the rest of this mod list installed, you're going to be broke and having to walk a lot of places instead of fast travelling. That's going to be truly painful if you have to crawl around at the vanilla speeds. This mod speeds you up (at a rate configurable in game) -- but it also speeds up NPCs and creatures, so you don't get an unfair advantage.  
 **Recommendation**: try setting it to 125% and adjust from there.
@@ -217,7 +220,7 @@ Makes speechcraft progression much more meaningful.
 If your intelligence is too low, either naturally or due to magic, you can't read. 
 * [**Who is that?**](https://www.nexusmods.com/morrowind/mods/56073) by codering  
 The changes from this mod list make the world brutally dangerous. Use this mod to help decide if an enemy is someone you can face or if you should run for the hills. 
-* [**Daily Training**](https://www.nexusmods.com/morrowind/mods/51845) by Kleidium 
+* [**Daily Training**](https://www.nexusmods.com/morrowind/mods/51845) by Kleidium  
 Immersive way to trian -- while waiting. Particularly useful given how expensive training is now.  
 * [**Time Consumer**](https://www.nexusmods.com/morrowind/mods/51396) by Kleidium  
 Lots of actions now take time. Goes great with Passing Time While Reading and Ashfall.
@@ -248,7 +251,8 @@ Shooting from stealth increases the chance to hit.
 Lower first-person sneak, but without a plugin, and adjustable on the fly, via MCM.
 
 ## Magic
-* [**Magicka Expanded**]() by OperatorJack  
+* [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) by OperatorJack  
+A lua-based framework for creating new, fully functional magic effects. Currently adds 110 new magic effects and spellbooks.
 * [**Disarm Trap Spell**](https://www.nexusmods.com/morrowind/mods/55055) by Syanide  
 Adds the equivalent of Open, but for dealing with traps. Requires Magicka Expanded.
 * [**MM Invisibility Enhanced**]() by   
@@ -293,7 +297,7 @@ Makes basic restore potions more widely available.
 **Recommendation:** Get the MWSE Poison Crafting patch as well.
 * [**Magnitude of a Cure**](https://www.nexusmods.com/morrowind/mods/52419) by VitruvianGuar  
 Blight diseases are meant to be really dangerous, but even unskilled alchemists can easily make a potion that will cure all of them. This mod makes cure potions work on percentage chances similar to Dispel effects, meaning you now have to be warier of diseases.
-* [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036) by VitruvianGuar
+* [**Alchemical Knowledge**](https://www.nexusmods.com/morrowind/mods/49036) by VitruvianGuar  
 Improves the alchemy UI. 
 * [**Controlled Consumption**](https://www.nexusmods.com/morrowind/mods/45624) by NullCascade  
 Prevents you from stacking loads of potions on top of each other by limiting how often you can drink them. Prevents you from cheesing every fight by carrying around 50 exclusive potions of restore health and drinking them all at once. Tactics required now!  
@@ -304,7 +308,8 @@ Adds 50+ generic greetings for no-lored NPCs, to prevent seeing the same three g
 * [**Real Disposition**](https://www.nexusmods.com/morrowind/mods/51427) by PhoenixRime  
 In vanilla, default disposition levels are actually fairly high, and you have to actively piss NPCs off to be refused services or hear any of Morrowind's large selection of low-disposition dialogue. This mod offers a few options for reducing base disposition so that Personality and Speechcraft and items enhancing those are more valuable. Having to bribe people into liking you is a good money sink. And sometimes, you'll have to go fend for yourself in the wilderness if you can't convince them to serve you. Great for certain character archetypes!  
 I recommend the **base** preset, especially if you're also using rot's Racism.
-* [**Django's Dialogue**]() by von Djangos  
+* [**Django's Dialogue**](https://www.nexusmods.com/morrowind/mods/47253) by von Djangos  
+Hundreds of new lines of text dialogue for all NPCs, which helps to remedy the repetition and dialogue fatigue that came with the original game. The 1.4 update is mostly around greetings - new greetings by class, new greetings about your outfit and reputation, and fully filtered dialogue for weather and time of day
 * [**What Thieves Guild**](https://www.nexusmods.com/morrowind/mods/47728) by von Djangos  
 Adds realistic individual cover 'backgrounds' for thieves in the South Wall, The Rat in the Pot and Dirty Muriel's.
 * [**What Thieves Guild - TR**](https://www.nexusmods.com/morrowind/mods/55410) by snackerfork  
@@ -333,7 +338,7 @@ Ever feel like you don't have any direction on what to do with your character be
 ## Audio Dialogue
 * [**SWIT**](https://www.nexusmods.com/morrowind/mods/54390) by Kildozery  
 Adds tons of creative new insults. Goes great with all the disposition-lowering mods on this list. Now you really feel like outlander scum.
-* [**SERA**](https://www.nexusmods.com/morrowind/mods/54396) by Kildozery
+* [**SERA**](https://www.nexusmods.com/morrowind/mods/54396) by Kildozery  
 But sometimes you can make friends! And they'll say even more nice things to you with this mod.
 * [**FMI Not All Dunmer**](https://www.nexusmods.com/morrowind/mods/47569) by PoodleSandwich  
 Not all Dunmer are slavers. Not all Argonians are slaves. Idle dialogue filtering has been improved to reflect this.
@@ -369,7 +374,7 @@ NPCs who comment on your poor taste in clothing will now like you less each time
 Leeches now infest the waters and muck ponds of the Bitter Coast! You'll now think twice before wading through swamp gunk. Also comes with a fun detective quest.  
 * [**Infectious Sewers**](https://www.nexusmods.com/morrowind/mods/51062) by Spammer  
 Ever thought it was weird how you can wander around sewers with no health issues? Now spending too much time in the sewers makes you sick.
-* [**LW Regional Weather Tweaks**](https://www.nexusmods.com/morrowind/mods/47224) by Lucevar 
+* [**LW Regional Weather Tweaks**](https://www.nexusmods.com/morrowind/mods/47224) by Lucevar  
 Makes weather a bit moodier - more rain, more thunder, more fog.
 * [**Heat Haze**](https://www.nexusmods.com/morrowind/mods/48973) by vtastek and tewlwolow  
 Adds a heat haze shader with region and weather conditions. Hot things like lava really *look* hot now!
@@ -399,6 +404,7 @@ Not a hazard as such, unless you count having too much fun as hazardous. Catch a
 * NPCs should refuse to serve you if doing so would put them in danger somehow.
 * NPCs should react to disposition, your faction alignments, and current game state. Each playthrough should feel distinct depending on your build and choices, and visiting the settlements of enemy factions should feel more hostile.
 
+### Mod Recs
 * [**Hospitality Papers Expanded**](https://www.nexusmods.com/morrowind/mods/46107) by PoodleSandwich  
 Makes Sadrith Mora feel very xenophobic. Now you really do need those Hospitality Papers to get any services in SM. Comes with custom voice acting by Jeff Baker!
 * [**No Beds for the Diseased**](https://www.nexusmods.com/morrowind/mods/49232) by Sigourn  
@@ -411,7 +417,7 @@ Most doors will automatically lock at night. Depending on how much the inhabitan
 Corprus is an incurable disease, and everyone is terrified of it. But you'd never know that in vanilla, where travel NPCs are happy to have you sit next to them on the silt strider for a few hours. With this mod, they react more appropriately, and refuse to take you. Your journey to Tel Fyr will feel more like the struggle it should be -- a lonely and isolated trek to the Corprusarium from which no-one ever re-emerges healthy. 
 * [**Clear Your Name**](https://www.nexusmods.com/morrowind/mods/43786) by Lucevar  
 In vanilla Morrowind, you have two options for clearing a bounty: turning yourself in to the guards or joining the Thieves Guild and paying them to make the problem go away. This mod adds more options, all RP friendly, to allow more character archetypes to access this service. The new options are balanced by either being difficult to access (locked behind high faction rank) or more expensive and inconvenient than taking the Thieves Guild option.
-* [**LDM - Racist Service Refusal**](https://www.nexusmods.com/morrowind/mods/50870) by Lucevar
+* [**LDM - Racist Service Refusal**](https://www.nexusmods.com/morrowind/mods/50870) by Lucevar  
 The Camonna Tong are a bunch of racist thugs who are... apparently completely happy to provide services to Argonians and Khajiit, regardless of disposition? Not any more! Now NPCs belonging to the Camonna Tong faction will refuse to provide services to Argonian (Race = 1) or Khajiit (Race = 6) player characters, unless you get them to a disposition of at least 90.
 * [**Nerevarine Service Refusal**](https://www.nexusmods.com/morrowind/mods/49528) by Rumeely  
 Temple-aligned factions will refuse service at a certain point of the main quest.
@@ -421,14 +427,16 @@ Sometimes you can catch a break! Redoran players sleep for free at the Flowers o
 Restricts Dronos Llervu's (the smith at Ghostgate) services to high-ranking members of House Redoran and the Tribunal Temple. He's busy outfitting the folks protecting Morrowind from Dagoth Ur, why would he bother with random John Cyrodiil, the Fighter's Guild newest associate?
 
 ## Factions
+### Philosophy
 * The game should react to your faction choices.
 
+### Mod Recs
 * [**More Exclusive Factions**](https://www.nexusmods.com/morrowind/mods/49618) by Lucevar and Alice  
 Some factions will now refuse you membership if you have already joined other factions that they disapprove of. Others will make snarky comments or have you jump through some extra hoops if you're a member of a faction they dislike. NPCs will acknowledge choices you've already made, but only a few combinations are truly forbidden.
 * [**Service Requirements Revised**](https://www.nexusmods.com/morrowind/mods/50715) by Lucas  
 Factions are now much stricter about who they'll offer services to.
 LuceNote: Make Telvanni a bit looser (eg SM merchants), maybe also lowest levels of HR. 
-* [**Thieves Guild Magical Trickery**]() by Lucevar
+* [**Thieves Guild Magical Trickery**]() by Lucevar  
 Adds Illusion and Alteration to the list of faction skills for the Thieves Guild.
 
 ## Guards
@@ -455,12 +463,12 @@ A large companion mod with 30+ brand new NPC companions, 40+ vanilla/TR npcs as 
 If you've ever loaded a save game in a dungeon that you've cleared corpses in, you may have noticed them respawn. This fixes this issue, first by preventing the spawn during load, as well as adding a cooldown to leveled creature spawners.
 * [**Beware the sixth house**](https://www.nexusmods.com/morrowind/mods/46036) by mort  
 * [**Tribunal Rebalance**](https://www.nexusmods.com/morrowind/mods/45713) by mort  
-* [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort 
+* [**Bloodmoon Rebalance**](https://www.nexusmods.com/morrowind/mods/45714) by mort  
 Suite of three mods that rebalances creatures to something sane. Random wildlife on Solstheim are no longer god-killers. The Sixth House is now terrifyingly strong, proper end-game content. 
-* [**Vanilla Friendly creatures and undeads expansion**](https://www.nexusmods.com/morrowind/mods/48818) by RandomPal
+* [**Vanilla Friendly creatures and undeads expansion**](https://www.nexusmods.com/morrowind/mods/48818) by RandomPal  
 Compilation of vanilla-friendly creature mods, rebalanced and edited to work well together. Balanced to Mort's Rebalance suite.
 **Recommendation**: Replace core with Kalinter's version below. Install 02 Daedric Creatures Use Bound Equipment. Ignore the other optional folders.
-* [**Creatures_RP_Purist - Kalinter's Edit**](https://www.nexusmods.com/morrowind/mods/53398) by Kalinter
+* [**Creatures_RP_Purist - Kalinter's Edit**](https://www.nexusmods.com/morrowind/mods/53398) by Kalinter  
 All the features from RP's mod, but adds more creatures from TD into Vvardenfell leveled lists, and reduces the cliff racer spawn rates for sanity's sake.  
-* [**Tougher and More Unique Vanilla Monsters**](https://www.nexusmods.com/morrowind/mods/52062) by DreadnaughtVCN  
+* [**Tougher and More Unique Vanilla Monsters**](https://www.nexusmods.com/morrowind/mods/52062) by DreadnaughtVCN   
 Significant buffs for a number of enemies that were underwhelming in vanilla.
