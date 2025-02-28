@@ -437,7 +437,7 @@ Some factions will now refuse you membership if you have already joined other fa
 Factions are now much stricter about who they'll offer services to.
 LuceNote: Make Telvanni a bit looser (eg SM merchants), maybe also lowest levels of HR. 
 * [**Thieves Guild Magical Trickery**]() by Lucevar  
-Adds Illusion and Alteration to the list of faction skills for the Thieves Guild.
+Adds Illusion, Alteration, Speechcraft and Mercantile to the list of faction skills for the Thieves Guild. Removes weapon and armour skills. Also adds a chance for scrolls of Ondusi's Unhinging and Ekash's Locksplitter to be sold by TG savant service npcs (the same ones who clear bounties.)
 
 ## Guards
 * [**Sheathe Your Weapon - MWSE**](https://www.nexusmods.com/morrowind/mods/53528) by von Djangos  
