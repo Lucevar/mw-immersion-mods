@@ -107,8 +107,6 @@ Now you can see your level of encumbrance alongside health/magicka/stamina etc.
 Now you can see how much enchantment charge your weapon has left. Particularly important with Enchantment Services Redone installed, since by default weapons no longer recharge, or with VenomByte's GameStat, which makes them recharge much slower.
 
 ## Gameplay Additions
-* [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) by OperatorJack  
-A lua-based framework for creating new, fully functional magic effects. Currently adds 110 new magic effects, spell books, etc.
 * [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034) by Merlord  
 Skills framework required for many mods below.
 * [**Crafting Framework**](https://www.nexusmods.com/morrowind/mods/51009) by Merlord  
@@ -157,7 +155,7 @@ Adds the anti-Imperial graffiti from Imperials Go Home to the Chalk menus.
 ## Map
 * [**Player Marker Begone**](https://www.nexusmods.com/morrowind/mods/55675) by Zigi  
 Replaces the player marker on the global map with a blank dds, reducing the unrealistic amount of information thats available to you. Now you'll have to navigate other ways. Even if you're very familiar with Morrowind, you're likely to get lost again!  
-* [**Off the Map**]() by Petethegoat  
+* [**Off the Map**](https://github.com/Petethegoat/off-the-map) by Petethegoat  
 Local map is disabled. The global map no longer centres on the player. The global map will now no longer colour in as you explore. Continues the good work of Player Marker Begone by removing extra sources of information the player doesn't have an in-universe reason to have. As a bonus, you'll no longer feel the need to explore every. single. square. of the map just to fill it in, even when you're no longer having fun exploring that area. Or is that just a me thing?
 * [**Immersive Compass**](https://www.nexusmods.com/morrowind/mods/51126) by Safebox  
 Allows you to choose how much information the compass marker on your minimap will give, and also adds an in-game compass to buy and carry. There's an animation that plays that will show you which direction you're currently facing. 
@@ -207,6 +205,8 @@ Your friends will let you sleep in their bed.
 Synchronises both sides of a door (great for use with pursuit mods), and also plays a door-closing sound when going through doors. 
 * [**Passing Time While Reading**](https://www.nexusmods.com/morrowind/mods/48059/) by abot  
 Time now passes while you're reading books.  
+* [**Reading Is Good**](https://www.nexusmods.com/morrowind/mods/51705) by Publicola and Spammer  
+Skill books now add stacking, permanent bonuses to xp gain rather than directly giving you a skill point -- meaning you no longer have to avoid reading books so you can read them at a more "optimal" time. 
 * [**Speed Boost**](https://www.nexusmods.com/morrowind/mods/47896) by OperatorJack  
 With the rest of this mod list installed, you're going to be broke and having to walk a lot of places instead of fast travelling. That's going to be truly painful if you have to crawl around at the vanilla speeds. This mod speeds you up (at a rate configurable in game) -- but it also speeds up NPCs and creatures, so you don't get an unfair advantage.  
 **Recommendation**: try setting it to 125% and adjust from there.
@@ -253,9 +253,11 @@ Lower first-person sneak, but without a plugin, and adjustable on the fly, via M
 ## Magic
 * [**Magicka Expanded**](https://www.nexusmods.com/morrowind/mods/47111) by OperatorJack  
 A lua-based framework for creating new, fully functional magic effects. Currently adds 110 new magic effects and spellbooks.
-* [**Disarm Trap Spell**](https://www.nexusmods.com/morrowind/mods/55055) by Syanide  
+<!-- * [**Disarm Trap Spell**](https://www.nexusmods.com/morrowind/mods/55055) by Syanide  
 Adds the equivalent of Open, but for dealing with traps. Requires Magicka Expanded.
-* [**MM Invisibility Enhanced**]() by   
+Commented out because bugged -->
+* [**MM Invisibility Enhanced**](https://www.nexusmods.com/morrowind/mods/47565) by Vtastek, OperatorJack & Karpulio   
+Using invisibility now changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you. Also, under the effect of invisibility, Daedra and undead creatures will seem... different.
 * [**Customizable MWSE Multi Mark and Harder Recall**](https://www.nexusmods.com/morrowind/mods/47065) by Virnetch  
 An overhaul of the mark and recall system to allow:
 - Multiple mark locations, even from other mods. Teleport companions to your location. Limit number of marks by mysticism.
