@@ -107,6 +107,8 @@ Now you can see your level of encumbrance alongside health/magicka/stamina etc.
 Now you can see how much enchantment charge your weapon has left. Particularly important with Enchantment Services Redone installed, since by default weapons no longer recharge, or with VenomByte's GameStat, which makes them recharge much slower.
 
 ## Gameplay Additions
+* [**herbert lib**](https://www.nexusmods.com/morrowind/mods/53803) by herbert  
+Required by a few mods on this list. Does nothing by itself.  
 * [**Skills Module**](https://www.nexusmods.com/morrowind/mods/46034) by Merlord  
 Skills framework required for many mods below.
 * [**Crafting Framework**](https://www.nexusmods.com/morrowind/mods/51009) by Merlord  
@@ -413,7 +415,7 @@ Makes Sadrith Mora feel very xenophobic. Now you really do need those Hospitalit
 Prevents the player from renting beds if diseased, be it common, blight, or corprus disease. 
 * [**Closed for the Night**](https://www.nexusmods.com/morrowind/mods/56054) by vaelta  
 Travel NPCs (except guild guides) won't operate at night or in certain bad weathers. Traders mostly won't serve you at night. 
-* [**Door Locks**]() by abot  
+* [**Door Locks**](https://www.nexusmods.com/morrowind/mods/54754) by abot  
 Most doors will automatically lock at night. Depending on how much the inhabitants like you, faction affiliations, etc, they might open up if you knock. 
 * [**Corprus Service Refusal**](https://www.nexusmods.com/morrowind/mods/55816) by Sweezly  
 Corprus is an incurable disease, and everyone is terrified of it. But you'd never know that in vanilla, where travel NPCs are happy to have you sit next to them on the silt strider for a few hours. With this mod, they react more appropriately, and refuse to take you. Your journey to Tel Fyr will feel more like the struggle it should be -- a lonely and isolated trek to the Corprusarium from which no-one ever re-emerges healthy. 
@@ -446,6 +448,8 @@ Adds Illusion, Alteration, Speechcraft and Mercantile to the list of faction ski
 Guards will tell you to sheathe your weapon if you have it out. If you ignore their second warning, they'll attack.
 
 ## NPCs
+* [**Onion - Layered Accesories**](https://www.nexusmods.com/morrowind/mods/50352) by Safebox  
+Adds additional armour slots for accessories. Required by NOD.
 * [**NOD - NPC Outfit Diversity**](https://www.nexusmods.com/morrowind/mods/52091) by Lucevar  
 850 NPCs get unique and character/faction/race/class etc appropriate outfit upgrades.  
 * [**Interesting Outfits - Kinsmer**](https://www.nexusmods.com/morrowind/mods/52167) by tipsytekpriest  
